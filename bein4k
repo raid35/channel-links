@@ -1,4 +1,14 @@
-# روابط القنوات
-- [رابط قناة 1](https://link-to-channel1)
-- [رابط قناة 2](https://link-to-channel2)
-- [رابط قناة 3](https://link-to-channel3)
+#EXTINF:-1 tvg-id=beinsports1premiumar.qa tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/67338.ts
+#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/196157.ts
+#EXTINF:-1 tvg-id=beinsports2premiumar.qa tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/67339.ts
+#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/196158.ts
+#EXTINF:-1 tvg-id=beinsports3premiumar.qa tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/67340.ts
+#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/196159.ts
+#EXTINF:-1 tvg-id=beinseries1.qa tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
+http://live.lynxiptv.xyz/live/303807603986/XvK72LQrHG/67341.ts
