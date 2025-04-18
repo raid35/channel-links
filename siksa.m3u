@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg ",  NOVALER
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/novlaer.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",  lynx
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png ",  falcon
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://d2j6dbq0eux0bg.cloudfront.net/images/65137016/2833936653.jpg ",  MYHD
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="8 K" tvg-logo="https://img.freepik.com/premium-photo/8k-letters-white-background_101266-4152.jpg?semt=ais_hybrid&w=740 ",  8 K
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/canalweb.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/960px-Ssc_sports.png?20220112185845 ",  Ssc
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/SSC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="STC" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w240-h480"Algeria - ",  STC
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/STC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ad-sport" tvg-logo="https://www.aflam4you.org/uploads/thumbs/2001-1.jpg ",  ad-sport
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
+
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="DOC",  وثائقي
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/DOC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria -  ",  FOREVER
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
