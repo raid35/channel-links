@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/STC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ad-sport" tvg-logo="https://www.aflam4you.org/uploads/thumbs/2001-1.jpg ",  ad-sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://images.seeklogo.com/logo-png/34/2/osn-logo-png_seeklogo-348146.png ",  OSN
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480 ",  OSN
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="DOC",  وثائقي
