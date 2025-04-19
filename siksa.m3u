@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://d2j6dbq0eux0bg.cloudfront.net/images/65137016/2833936653.jpg ",  MYHD
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="8 K" tvg-logo="https://img.freepik.com/premium-photo/8k-letters-white-background_101266-4152.jpg?semt=ais_hybrid&w=740 ",  8 K
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/canalweb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png ",  FRANCE
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/france.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/960px-Ssc_sports.png?20220112185845 ",  Ssc
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SSC.m3u
@@ -27,6 +27,9 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/STC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ad-sport" tvg-logo="https://www.aflam4you.org/uploads/thumbs/2001-1.jpg ",  ad-sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://images.seeklogo.com/logo-png/34/2/osn-logo-png_seeklogo-348146.png ",  OSN
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="DOC",  وثائقي
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/DOC.m3u
