@@ -1,0 +1,42 @@
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", AD SPORTS PREMIUM 1
+https://flowcastapp.com/themexplayer/adp1/
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", AD SPORTS PREMIUM 1
+https://hamada-tv.com/AD1.html
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png", AD SPORTS PREMIUM 2
+https://hamada-tv.com/AD2.html
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", AD SPORTS PREMIUM 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b 
+https://fastly-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png", AD SPORTS PREMIUM 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-1.png", AD SPORTS 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2810c600349a0cd3a920c7d99bbe00b1:3911049bf0e342e70e0fba2cba6aa628
+https://fastly-live.cdn.intigral-ott.net/AD1/AD1.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-2.jpg", AD SPORTS 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=7295fc09a7633fd460808f1ed854a8b6:5b4c9115617286036232fbb0d583a651
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://1.bp.blogspot.com/-vh8Qvc4Zm9c/XZTKstHn4-I/AAAAAAAACg8/Tf-r6UNOI9kBnE4nVaPlUzPOm3CBtj81QCLcBGAsYHQ/s1600/11.png", DUBAI SPORTS 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=507e961ed13ca34c449ba45d6070b06e:c79fa598a6b4ccd40d4b264e16de6134
+https://fastly-live.cdn.intigral-ott.net/DBSH/DBSH.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png", DUBAI SPORTS 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=b56ae1a253e92a7efe223858f1b909a5:6f3a9f6cf736fc3cd1727b4b626c943a
+https://fastly-live.cdn.intigral-ott.net/DBS2/DBS2.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab
+https://fastly-live.cdn.intigral-ott.net/BST/BST.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
+#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
