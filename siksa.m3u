@@ -36,3 +36,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png ",  FOREVER
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png ",  BEIN
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
