@@ -1,41 +1,38 @@
-#EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i0.wp.com/albiladn.net/wp-content/uploads/2024/03/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-8-%D8%A7%D8%A8%D8%B1%D9%8A%D9%84-2023-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9.jpeg?resize=644%2C366&ssl=1 ",  مباريات اليوم
-https://kouatmai.blogspot.com/2024/11/1_26.html
-
-#EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",  TOD
+#EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg ",  NOVALER
+#EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/novlaer.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",  lynx
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png ",  falcon
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://d2j6dbq0eux0bg.cloudfront.net/images/65137016/2833936653.jpg ",  MYHD
+#EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png ",  FRANCE
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/france.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/960px-Ssc_sports.png?20220112185845 ",  Ssc
+#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://i.postimg.cc/ZRRmNbVW/ssc.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="STC" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w240-h480"Algeria - ",  STC
+#EXTINF:-1 tvg-id="" tvg-name="STC" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w240-h480"Algeria - ",
 https://raw.githubusercontent.com/raid35/channel-links/main/STC.M3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ad-sport" tvg-logo="https://www.aflam4you.org/uploads/thumbs/2001-1.jpg ",  AD SPORT
+#EXTINF:-1 tvg-id="" tvg-name="ad-sport" tvg-logo="https://i.postimg.cc/4NnKGZGN/ad.png ", 
 https://raw.githubusercontent.com/raid35/channel-links/main/AD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480 ",  OSN
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480 ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="DOC",  وثائقي
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="DOC", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png ",  FOREVER
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png ",  BEIN
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
