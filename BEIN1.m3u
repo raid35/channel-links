@@ -7,111 +7,21 @@ https://tigan.live/ALWAN3/manifest.mpd
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 4
 https://tigan.live/ALWAN4/manifest.mpd
 
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/52CXTCtL/1.png" group-logo="",DAZN 1 HD
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/MG0vKJVG/2.png",DAZN 2 HD
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png",SPORTDIGITAL FUSSBALL
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/yNHwVffR/FAST.png",DAZN FAST
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/vZssBHTD/RISE.png",DAZN RISE
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/7LdQ21rw/boxing.png",Boxing TV
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-509/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/bYQFZ2Cf/bill.png",Billiard TV
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/kXs1cPPj/motorvision.png",Motorvision TV
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd
- 
-#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/T3PkNNRT/Padel-Time.png",PadelTime Tv
-#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-513/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 TNT Sport 🇬🇧#", TNT Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 TNT Sport 🇬🇧#", TNT Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 TNT Sport 🇬🇧#", TNT Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 TNT Sport 🇬🇧#", TNT Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 TNT Sport 🇬🇧#", TNT Sports 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
-#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 3
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"}
 
 
-#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 4
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5d52eb6eef80433fac60fc99255ddc0b":"95f3325b3d828312cdc510f30a280af8","9384d63d83194230b62bd5ab088626ce":"4f2783df34a16f13ba2a074f0062cf29"}
 
 
-#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 5
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
