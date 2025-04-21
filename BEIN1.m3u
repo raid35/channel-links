@@ -6,17 +6,121 @@ https://tigan.live/ALWAN2/manifest.mpd
 https://tigan.live/ALWAN3/manifest.mpd
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 4
 https://tigan.live/ALWAN4/manifest.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1
+#EXTINF:-1 group-title="Eleven Sport Poland" group-logo="",Eleven Sports 4K 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
+
+ 
+#EXTINF:-1 group-title="Eleven Sport Poland" group-logo="",Eleven Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTVLCOPT:http-user-agent=Roku/DVP-5.0
+#KODIPROP:inputstream.adaptive.license_key={"9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40","cf513b83f32d4234a7b4982ae9ca3161":"68293d1b7143588339baeaedbe3939d9","014e7cf40d9e490a812964f4aa72449e":"01b8caafb230eb2a07cc965d54ef4441"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+ 
+#EXTINF:-1 group-title="Eleven Sport Poland",Eleven Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8331b6fdb5d14cdb82ff4895b997704c":"2efbc6cd610345be9401fafd818c4dc4","4e1df327c661472f96319dd7e98bf5bd":"36263f85c3c25a131f47cee90924e1f3","147736fc9f244d0ca8bc3f2169acec8e":"3d1c1f5044392378b5c05f29899920a1","71be6f968ab54a8bb847b58bbc7c628e":"3dd907fffdbffd7ec01b4025ad97ec6a"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
+ 
+#EXTINF:-1 group-title="Eleven Sport Poland",Eleven Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"55b19ea29fdd4c96825531f96a504df1":"a6ec613e0eadfb923ff816e4c8c68a4a","696c7203cea54375a2433c8be361f6ed":"39e60bf9f0154884f5039d8e6cc47601","1de6210c1b064b928c5bb003da7023e5":"d1eb59b178c89539d7caf1022968107e","ce125d7af48a45799d671941125ed55e":"973599517f31f3b4327fa975f549ed2b"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
+
+#EXTINF:-1 group-title="Eleven Sport Poland",Eleven Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bc811aaa10a4c3198aa3b6679198382":"609b0c987d1657f1adc7aa53ae733200","a662726cb8804451961d356d65ba8450":"47f362b448bd8f63d2402d428d352aed","f6818e7c25964791896250a119420d85":"9f67cb00a75a9e0a068918256a227806","2c7dea2fa563424789ea200675e56817":"5bf4b84797df5a8ac149c5bb69d639c4"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
+
+#EXTINF:-1 group-title="Eleven Sport Poland",Polsat Sport Premium 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+
+#EXTINF:-1 group-title="Eleven Sport Poland",Polsat Sport Premium 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Max Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f272075012158d6930be1345c2a68b2":"043eb2cceaadcfc567fa3ce75b5d9d55","b8192ddc493e5cfeb17c69cbace7235b":"826f30ed40c99d1cab0cd853f1a8e1f6","62a80b73cd3d569fbce3b3dc595f51f0":"0abdd3c170334b7d944b74075f2bfb95"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport1/default/index.mpd
+
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Max Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f69d13ce8e3856cea259774d1276da53":"0c4a9a3ba6680419b9e495f8e6ad5f8a","7b6c599f4fa854929f0f82b2fb845fba":"d03ff127350ba439c122aed8fcc7b69d","627e28eeacd35eb2832fc6da12c47488":"2a3f47f7b90ee19cd1ce566f52ecbd2a"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport2/default/index.mpd
+
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTVLCOPT:http-user-agent=Roku/DVP-5.0
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/18LnFNg/a3.png", ARENA SPORT 3
+#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329":"3defe59c38079ccad25a436200ad3bd7","b2f22f5d7ca35910a73fbabc524954de":"d87d08fbe6505ad7099b8c258f396d15","d256b403efcc5c3db701fc696885e102":"d46e4215e279b224e9d2a772db9c74a1"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTVLCOPT:http-user-agent=Roku/DVP-5.0
+#KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0":"a58317ffddf318f1540f31f67d95b5fb","25c3df3202005cc98c47700295be59ca":"073f5a39d84dd14a9debd1a72bb1f055","ccebefcba0a3546ba34d3fc587651708":"18f2b2027ce26867c23dcd7f57faa245"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764":"bf1178841770fdba74f8629f0f06d2c0","68cd661dbc8352fda000c532840f6340":"0255fb620f4f707ea7ba090058718306","89d1dc54692e5b4fb5995fc0953bf5bf":"31b8953ab60b90fefc93d9bd1b806fbc"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e473ec5d96f45a9f9a22eb665b5b1ea9":"ace54ce15b69d249b00395c9e6b85b90","34a709bbeac052f293c778c0770829fd":"2b801fde1ad4839d4080d6ec6b0ec4ce","18d3fba08f3152c38f14151219fa9792":"78b0c5b961351e482be81287466ecb08"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f":"a25d21e333dad3d131f126b7b57730be","bfd8ff04a3625fcea8335c9575401697":"769d61a2d6fd7030a5088df2e70c2654","5a86e42c58cf5d008546861c0f0fb22a":"67b1172a05bcb38a91a304d7098ce7f5"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+
+
+#EXTINF:-1 group-title="MAX & ARENA SPORT",Arena Sport 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe":"0000816079a5ec4f093e3274bda26f2a","a2ff372a21b35653a88592abfec3f9a7":"d5bc25088d1fda12849aad90716de750","7ecfd12eb26258c381afadac16ac8fc9":"b4f351533d633abf76cda47fe75d579b"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 
