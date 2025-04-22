@@ -1,30 +1,8 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
-https://tigan.live/ALWAN1/manifest.mpd
+https://bestgoal.xyz/moviball/tod/tod.php?c=ALWAN1.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 2
-https://tigan.live/ALWAN2/manifest.mpd
+https://bestgoal.xyz/moviball/tod/tod.php?c=ALWAN2.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 3
-https://tigan.live/ALWAN3/manifest.mpd
+https://bestgoal.xyz/moviball/tod/tod.php?c=ALWAN3.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 4
-https://tigan.live/ALWAN4/manifest.mpd
-
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"}
-
-
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5d52eb6eef80433fac60fc99255ddc0b":"95f3325b3d828312cdc510f30a280af8","9384d63d83194230b62bd5ab088626ce":"4f2783df34a16f13ba2a074f0062cf29"}
-
-
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0c3cb52919674bc7a1b4f047a04241dc":"9efdecc6df1b8be1dea3e301a10d8ed4","30572373426048ed9ac8ca578d05dbdf":"142dd0c2e94c4a8be512c51e0d95f962"}
-
-
+https://bestgoal.xyz/moviball/tod/tod.php?c=ALWAN4.m3u8
