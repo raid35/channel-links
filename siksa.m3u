@@ -36,3 +36,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png", 
+https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
