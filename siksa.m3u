@@ -1,7 +1,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
+https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/novlaer.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",
@@ -30,9 +33,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="DOC", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
-https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
