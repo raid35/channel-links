@@ -57,11 +57,11 @@ http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154158.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID RAMADAN FHD" tvg-logo="https://shahid.mbc.net/mediaObject/b37711b4-62a5-4b4d-ba48-79f6a824d9cd?height=auto&width=60&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID RAMADAN FHD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222175.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID AFLAM
-https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES HD" tvg-logo="https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID ACTION 
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES THRILLER" tvg-logo="https://shahid.mbc.net/mediaObject/40a83fb3-2eb3-4d13-83dd-f39a3060d20e?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID MOVIES THRILLER
-https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 1
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154166.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 2
