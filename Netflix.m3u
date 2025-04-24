@@ -44,27 +44,31 @@ http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/66736.m3u8
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/62549.m3u8
 #EXTINF:-1 tvg-id=mbcvarietyen.ae tvg-name="AR: MBC VARIETY HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-variety-plus-sa.svg" group-title="MBC & ROTANA",AR: MBC VARIETY HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/2789.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="" group-title="MBC & ROTANA",AR: SHAHID EVENT ACTION
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222182.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION HD" tvg-logo="" group-title="MBC & ROTANA",AR: SHAHID  EVENT ACTION HD
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION HD" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID  ACTION 
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222183.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION FHD" tvg-logo="" group-title="MBC & ROTANA",AR: SHAHID  EVENT ACTION FHD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222184.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID RAMADAN" tvg-logo="https://shahid.mbc.net/mediaObject/b37711b4-62a5-4b4d-ba48-79f6a824d9cd?height=auto&width=60&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID RAMADAN
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222173.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID RAMADAN HD" tvg-logo="https://shahid.mbc.net/mediaObject/b37711b4-62a5-4b4d-ba48-79f6a824d9cd?height=auto&width=60&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID RAMADAN HD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222174.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION HD" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID ACTION 1
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154155.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION FHD" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID ACTION 2
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154156.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION HD" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID ACTION 3
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154157.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID  EVENT ACTION FHD" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID ACTION 4
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154158.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID RAMADAN FHD" tvg-logo="https://shahid.mbc.net/mediaObject/b37711b4-62a5-4b4d-ba48-79f6a824d9cd?height=auto&width=60&croppingPoint=&version=1&type=webp" group-title="MBC & ROTANA",AR: SHAHID RAMADAN FHD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222175.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221828.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES ACTION
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221830.m3u8
-#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES ACTION HD" tvg-logo="https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES ACTION HD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221831.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES HD" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221829.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES THRILLER" tvg-logo="https://shahid.mbc.net/mediaObject/40a83fb3-2eb3-4d13-83dd-f39a3060d20e?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES THRILLER
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221832.m3u8
 #EXTINF:-1 tvg-id= tvg-name="AR: SHAHID MOVIES THRILLER HD" tvg-logo="https://shahid.mbc.net/mediaObject/40a83fb3-2eb3-4d13-83dd-f39a3060d20e?height=auto&width=60&croppingPoint=&version=1&type=png" group-title="MBC & ROTANA",AR: SHAHID MOVIES THRILLER HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/221833.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 1
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154166.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 2
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154167.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 3
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154168.m3u8
+#EXTINF:-1 tvg-id= tvg-name="AR: SHAHID EVENT ACTION" tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=72&width=auto&croppingPoint=mc&type=webp" group-title="MBC & ROTANA",AR: SHAHID EVENT 4
+http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/154169.m3u8
