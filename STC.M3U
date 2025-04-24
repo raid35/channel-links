@@ -1,21 +1,14 @@
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/30.png" group-title="ARABIC SPORTS",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC DRAMA
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
-https://hamada-tv.com/mbcplus.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
-https://fastly-live.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
+https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC MASR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
 https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/37.png" group-title="ARABIC SPORTS",MBC MASR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
-https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/480.png" group-title="ARABIC SPORTS",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/33.png" group-title="ARABIC SPORTS",MBC 4
