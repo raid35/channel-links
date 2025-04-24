@@ -39,3 +39,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="https://w7.pngwing.com/pngs/39/640/png-transparent-film-cinema-illustration-popcorn-and-film-food-baking-movie-projector-thumbnail.png", 
+https://raw.githubusercontent.com/raid35/channel-links/main/FILM.m3u
