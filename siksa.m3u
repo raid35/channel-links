@@ -43,5 +43,5 @@ https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: FILM" tvg-logo="https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png" group-title="FILM",
 https://raw.githubusercontent.com/raid35/channel-links/main/FILM.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg" group-title="sporttv",
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/512px-Logo_SportTV.svg.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/sporttv.m3u
