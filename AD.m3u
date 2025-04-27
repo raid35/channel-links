@@ -23,4 +23,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_s
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
 https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#EXTVLCOPT:http-drm-license=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 
