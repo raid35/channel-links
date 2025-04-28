@@ -48,3 +48,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://img.uhdpaper.com/wallpaper/cherry-blossom-mountains-river-nature-scenery-673@0@j-thumb.jpg",
 https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
+
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="",
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/testing.m3u
