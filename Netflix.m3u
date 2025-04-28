@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: doc  " tvg-logo="https://play-lh.googleusercontent.com/pOgehaakq6-33hcYz9LwdaX9Ay3G11XU3Cc4QOLZR6uoaa7wgYC4FxLCSyZaB_Cq2l4=w240-h480-rw" group-title="AR OSN PREMIUM", 
+https://jmp2.uk/sam-FR1200001N2.m3u8
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: nature" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fd1b769e1-14f9-4531-91ac-35f0c9cb4f39%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Davif&w=1440&q=75" group-title="AR OSN PREMIUM", 
+https://jmp2.uk/sam-FRBB4900002D4.m3u8
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fd1b769e1-14f9-4531-91ac-35f0c9cb4f39%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Davif&w=1440&q=75" group-title="AR OSN PREMIUM", 
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCWOWmono.png" group-title="AR OSN PREMIUM", 
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICmono.png" group-title="FR CULTURE",
+https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCDmono.png" group-title="FR CULTURE",
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FATAFEAT" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCstorymono.png" group-title="AR OSN PREMIUM",
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICmono.png" group-title="AR OSN PREMIUM", 
+https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMYSTERESmono.png" group-title="AR OSN PREMIUM", 
+https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Netflix: Action HD" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png" group-title="NETFLIX",Netflix: Action HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/62547.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Netflix: Action 2 HD" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png" group-title="NETFLIX",Netflix: Action 2 HD
