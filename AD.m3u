@@ -24,6 +24,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_s
 https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#KODIPROP:inputstream.adaptive.license_key=djg5bA0OjIb+3fK1fobPjXNn91A7d0gdSeD34zljmi+2IkNZXwty01tpxYT1p5q9
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
 
