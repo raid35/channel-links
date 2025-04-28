@@ -1,0 +1,126 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
+
+
+#EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.1" tvg-name="FR | beIN SPORTS 2" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" ,BEIN SPORTS 2 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.2" tvg-name="FR | beIN SPORTS 3" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,BEIN SPORTS 3 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.3" tvg-name="FR | beIN SPORTS MAX 4" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" ,BEIN SPORTS MAX 4 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.4" tvg-name="FR | beIN SPORTS MAX 5" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" ,BEIN SPORTS MAX 5 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.5" tvg-name="FR | beIN SPORTS MAX 6" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png" ,BEIN SPORTS MAX 6 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.6" tvg-name="FR | beIN SPORTS MAX 7" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-7.png" ,BEIN SPORTS MAX 7 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.7" tvg-name="FR | beIN SPORTS MAX 8" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" ,BEIN SPORTS MAX 8 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.8" tvg-name="FR | beIN SPORTS MAX 9" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-9.png" ,BEIN SPORTS MAX 9 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+#EXTINF:-1 tvg-chno="72.9" tvg-name="FR | beIN SPORTS MAX 10" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-10.png" ,BEIN SPORTS MAX 10 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+
+
+
+
+#EXTINF:-1 tvg-chno="86.1" tvg-id="Arena.Sport.1.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",Arena Sport 1 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0": "7099325123bae7810db508727bb0bc7d", "c43c83acda60593d8e3607efd5010d7d": "526f4a760ef52ab85056fbc10ea27584", "712090aae2065c21951b170bc3002330": "a97774e4175b80205c3cf104e9574208"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.2" tvg-id="Arena.Sport.2.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.3" tvg-id="Arena.Sport.3.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0": "a58317ffddf318f1540f31f67d95b5fb", "25c3df3202005cc98c47700295be59ca": "073f5a39d84dd14a9debd1a72bb1f055", "ccebefcba0a3546ba34d3fc587651708": "18f2b2027ce26867c23dcd7f57faa245"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.4" tvg-id="Arena.Sport.4.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764": "bf1178841770fdba74f8629f0f06d2c0", "68cd661dbc8352fda000c532840f6340": "0255fb620f4f707ea7ba090058718306", "89d1dc54692e5b4fb5995fc0953bf5bf": "31b8953ab60b90fefc93d9bd1b806fbc"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.5" tvg-id="Arena.Sport.5.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd": "2b801fde1ad4839d4080d6ec6b0ec4ce", "e473ec5d96f45a9f9a22eb665b5b1ea9": "ace54ce15b69d249b00395c9e6b85b90", "18d3fba08f3152c38f14151219fa9792": "78b0c5b961351e482be81287466ecb08"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.6" tvg-id="Arena.Sport.6.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f": "a25d21e333dad3d131f126b7b57730be", "bfd8ff04a3625fcea8335c9575401697": "769d61a2d6fd7030a5088df2e70c2654", "5a86e42c58cf5d008546861c0f0fb22a": "67b1172a05bcb38a91a304d7098ce7f5"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.7" tvg-id="Arena.Sport.7.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport 7 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5998265ef8fc5748822fef96229831aa": "9110b6be31b4bbdce67374bae3395269", "5d4b5005dbd355559b3c7fe4dae1fb05": "10e65a5b74158216190e654cdf05b584", "5244c72f4f5d5e1a8778fc93906c9cb3": "4c14a6a924ef7fb32534dd590d99d499"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.8" tvg-id="Arena.Sport.8.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport 8 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174": "51f8fd5eef736dccaea9235b621731e7", "b9e9546bc9ba52d1a75fba9222efa7f5": "2cec65c6b79be6c2d4481c6e0ef79bfc", "ca202ac1353a5c6b9960bdbb82f88efc": "7ef86abd9a62042858370852836c50b4"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.9" tvg-id="Arena.Sport.9.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
+
+#EXTINF:-1 tvg-chno="86.10" tvg-id="ArenaSport10.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-10.png",Arena Sport 10 Croatia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="USANETWORK" tvg-logo="" group-title="PREMIER Y LA LIGA", 3SAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
