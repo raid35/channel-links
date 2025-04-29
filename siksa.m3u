@@ -5,10 +5,10 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/TOD.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg ",
-http://148.251.133.153:8181/get.php?username=N9eSp8k95MieWyC&password=9sr8aO4rJUZ&type=m3u_plus
+http://148.251.133.153:8181/get.php?username=N9eSp8k95MieWyC&password=9sr8aO4rJUZ&type=m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
+http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&type=m3u_plus&output=hls&lang=en&view_category=yes
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
@@ -50,4 +50,4 @@ https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="",
-http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&type=m3u_plus&output=hls&lang=en&view_category=yes
+http://tv.iptv-chal.net:2052/get.php?username=PTFUN31&password=2611202XCD&type=m3u_plus&output=hls&lang=en&view_category=yes
