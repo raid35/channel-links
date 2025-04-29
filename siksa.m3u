@@ -50,4 +50,4 @@ https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="",
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/testing.m3u
+http://148.251.133.153:8181/get.php?username=N9eSp8k95MieWyC&password=9sr8aO4rJUZ&type=m3u_plus&output=ts
