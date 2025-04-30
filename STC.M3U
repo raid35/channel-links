@@ -85,7 +85,7 @@ https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
 https://fastly-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ARABIC SPORTS",ROTANA CINEMA MASR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc
-https://fastly-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
+https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402537.webp" group-title="ARABIC SPORTS",ROTANA CINEMA MASR
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
