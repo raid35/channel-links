@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3854&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3853&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3851&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3850&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 5
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3849&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 6
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3848&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 7
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=3847&extension=ts&play_token=R698bZSA5m
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 8
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=10361&extension=ts&play_token=VoMdwR8oUB
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=10362&extension=ts&play_token=EZKoV1UeSJ
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
 https://news-11.com/moviball/tod/tod.php?c=ALWAN1.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 2
