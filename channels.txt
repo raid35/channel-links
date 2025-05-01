@@ -1,0 +1,1 @@
+https://fastly-live.cdn.integral-ott.net/DSC/DSC.isml/manifest.mpd|drm-info=clearkey|1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
