@@ -51,3 +51,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://i.postimg.cc/ZRRmNbVW/ssc.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SSC.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
+https://raw.githubusercontent.com/Ae1818/futb/main/todo.m3u
