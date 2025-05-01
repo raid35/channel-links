@@ -54,3 +54,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/dazn.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="LIGAS EUROPEAS",
 https://raw.githubusercontent.com/raid35/channel-links/main/tnt.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://images.seeklogo.com/logo-png/31/1/ziggo-logo-png_seeklogo-312158.png?v=1955335035916244744", 
+https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
