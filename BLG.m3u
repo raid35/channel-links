@@ -5,6 +5,6 @@ https://raid35.github.io/docs/ClubRTL.html
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/RTL_Plug_Logo_2023.svg/512px-RTL_Plug_Logo_2023.svg.png" ,
 https://raid35.github.io/docs/RTLPlug.html
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" ,
-https://fastly-live.cdn.integral-ott.net/DSC/DSC.isml/manifest.mpd|drm-info=clearkey|1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" ,
 https://raid35.github.io/docs/ASIA2.html
