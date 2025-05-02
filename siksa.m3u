@@ -11,7 +11,10 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
+https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/48/png-transparent-map-of-the-arab-world-thumbnail.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
@@ -51,9 +54,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DAZN_LOGO.png/120px-DAZN_LOGO.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/dazn.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="LIGAS EUROPEAS",
-https://raw.githubusercontent.com/raid35/channel-links/main/tnt.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://images.seeklogo.com/logo-png/31/1/ziggo-logo-png_seeklogo-312158.png?v=1955335035916244744", 
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
