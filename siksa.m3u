@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
+http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&type=m3u_plus&output=hls&lang=en&view_category=yes
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
