@@ -4,3 +4,5 @@ https://raid35.github.io/docs/myhd.html
 https://raid35.github.io/docs/myhd-vod.html
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png" ,
 https://raid35.github.io/docs/myhd-serie.html
+#EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",
+https://raid35.github.io/docs/tod-AFC.html
