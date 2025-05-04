@@ -57,3 +57,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/bein4k
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://images.seeklogo.com/logo-png/31/1/ziggo-logo-png_seeklogo-312158.png?v=1955335035916244744", 
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
+
+#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/channels.json
