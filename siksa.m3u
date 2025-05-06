@@ -16,6 +16,9 @@ http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&ty
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/48/png-transparent-map-of-the-arab-world-thumbnail.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
 
