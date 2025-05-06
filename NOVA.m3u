@@ -2,8 +2,6 @@
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
 http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/118.png" group-title="BEIN HEVC & FHD",
-https://siksa24.blogspot.com/2024/12/blog-post.html
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/5079.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3404.png" group-title="Sports",AR | BEIN SPORTS 1 HD
