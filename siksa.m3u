@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://img.icons8.com/?size=80&id=104905&format=png",
-https://siksa24.blogspot.com/2024/12/blog-post.html
-
 #EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/TOD.m3u
 
@@ -48,9 +45,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
-
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: FILM" tvg-logo="https://cdn.pixabay.com/photo/2016/02/04/13/40/the-earth-1179205_640.png",
-https://m3u.fr/freetv.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/501/766/non_2x/belgium-flag-circle-3d-png.png",
 https://raid35.github.io/docs/NOVALER.html
