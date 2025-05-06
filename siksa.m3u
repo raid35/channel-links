@@ -43,8 +43,8 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: FILM" tvg-logo="https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png" group-title="FILM",
-https://raw.githubusercontent.com/raid35/channel-links/main/FILM.m3u
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: FILM" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein8k.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/501/766/non_2x/belgium-flag-circle-3d-png.png",
 https://raid35.github.io/docs/NOVALER.html
