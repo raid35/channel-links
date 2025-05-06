@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/30.png" group-title="ARABIC SPORTS",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/94600.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC DRAMA
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
@@ -20,53 +20,29 @@ https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/31.png" group-title="ARABIC SPORTS",MBC 2
 https://hamada-tv.com/mbc2.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/38.png" group-title="ARABIC SPORTS",MBC MAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
-https://fastly-live.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/179021.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/35.png" group-title="ARABIC SPORTS",MBC BOLLYWOOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c
-https://fastly-live.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/179026.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/23.png" group-title="ARABIC SPORTS",CBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74206a6415616eaa383754ac4a7e4e0c:4efdc868ec53656d4f3ec8e09b814402
-https://fastly-live.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/30273.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/23.png" group-title="ARABIC SPORTS",CBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74206a6415616eaa383754ac4a7e4e0c:4efdc868ec53656d4f3ec8e09b814402
-https://fastly-live.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/2495.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/22.png" group-title="ARABIC SPORTS",CBC DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
-https://fastly-live.cdn.intigral-ott.net/CBD/CBD.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/196283.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/22.png" group-title="ARABIC SPORTS",CBC SOFRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10 
-https://fastly-live.cdn.intigral-ott.net/CBS/CBS.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/162573.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf
-https://fastly-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133371.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf
-https://fastly-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/375.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/668.png" group-title="ARABIC SPORTS",ROTANA CINEMA +
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615
-https://fastly-live.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/392461.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/1668.png" group-title="ARABIC SPORTS",ROTANA COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7
-https://fastly-live.cdn.intigral-ott.net/ROTF/ROTF.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/368621.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/42.png" group-title="ARABIC SPORTS",ROTANA DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19 
-https://fastly-live.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/368622.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/42.png" group-title="ARABIC SPORTS",ROTANA KHALAJA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
-https://fastly-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd
+http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133375.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402508.webp" group-title="ARABIC SPORTS",ROTANA KHALAJA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
