@@ -1,19 +1,19 @@
 #EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png ",
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN " tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
+#EXTINF:-1 tvg-id="" tvg-name="bein" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg ",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://lynxshop.net/logo1.png ",
+#EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://lynxshop.net/logo1.png ",
 http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&type=m3u_plus&output=hls&lang=en&view_category=yes
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+#EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://wanda-techs.com/wp-content/uploads/2021/09/netflix-logo-circle-png-5.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/501/766/non_2x/belgium-flag-circle-3d-png.png",
+#EXTINF:-1 tvg-id="BLG" tvg-name="AR: sporttv" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/501/766/non_2x/belgium-flag-circle-3d-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://img.uhdpaper.com/wallpaper/cherry-blossom-mountains-river-nature-scenery-673@0@j-thumb.jpg",
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: sporttv" tvg-logo="https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/bein4k
 
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://images.seeklogo.com/logo-png/31/1/ziggo-logo-png_seeklogo-312158.png?v=1955335035916244744", 
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport.svg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
