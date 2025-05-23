@@ -8,3 +8,11 @@ https://envivo1.com/cobo.html?id=ziggo3
 https://envivo1.com/cobo.html?id=ziggo5
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport6" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport6.svg", ziggosport6
 https://envivo1.com/cobo.html?id=ziggo6
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport.svg", ziggosport
+https://la12hd.com/vivo/canal.php?stream=espn1_nl
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport2.svg", ziggosport2
+https://la12hd.com/vivo/canal.php?stream=espn2_nl
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport3.svg", ziggosport3
+https://la12hd.com/vivo/canal.php?stream=espn3_nl
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport4" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport3.svg", ziggosport4
+https://la12hd.com/vivo/canal.php?stream=espn3_nl
