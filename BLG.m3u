@@ -20,8 +20,8 @@ https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Rai3.png" group-title="Français ",FR | rai3
 https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 tvg-id="" tvg-name="FR | rai4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/512px-Rai_4_-_Logo_2016.svg.png
-https://xpola.yoo7.com/h13-page/?id=YUhSMGNEb3ZMMlpoYVhZMUxtSnBlam80TUM5c2FYWmxMMDFQVTFSQlJrRXZUVTlUVkVGR1FTOHlOekU0T1RjdWJUTjFPQT09
+#EXTINF:-1 tvg-id="" tvg-name="FR | rai4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/512px-Rai_4_-_Logo_2016.svg.png",FR | rai4
+https://v3.sportsonline.si/channels/hd/hd2.php
 #EXTINF:-1 tvg-id="DAZAN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/960px-Tv-channel-%E2%94%82-dazn-2.png?20221217130913" group-title="ARABIC SPORTS",DAZN 2
 https://v3.sportsonline.si/channels/hd/hd2.php
 #EXTINF:-1 tvg-id="DAZAN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/960px-Tv-channel-%E2%94%82-dazn-2.png?20221217130913" group-title="ARABIC SPORTS",DAZN 2
