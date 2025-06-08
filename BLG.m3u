@@ -7,7 +7,7 @@ https://cerulean-dango-9346c8.netlify.app/
 #EXTINF:-1 group-title="rts1" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rts-1-logo-png_seeklogo-498049.png" , rts1
 https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 group-title="rts2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png?20230830203438" , rts2
-https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
