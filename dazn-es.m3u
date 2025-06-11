@@ -1,19 +1,19 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3372.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=130016&extension=ts&play_token=9zdLMq4dMZ
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="" group-title="Sports",ES | M+ LA LIGÁ HD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3431.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129999&extension=ts&play_token=HwfiHjsR2S
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://148.251.133.153:8181/logo/chn/3354.png" group-title="Sports",ES | DAZN LaLiga
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3354.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129991&extension=ts&play_token=kAhx9V4ny9
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://148.251.133.153:8181/logo/chn/3350.png" group-title="Sports",ES | DAZN 1
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3350.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129981&extension=ts&play_token=izaBoZTJSM
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="http://148.251.133.153:8181/logo/chn/3351.png" group-title="Sports",ES | DAZN 2
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3351.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129984&extension=ts&play_token=3VLYRJGohn
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="http://148.251.133.153:8181/logo/chn/3352.png" group-title="Sports",ES | DAZN 3
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3352.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129986&extension=ts&play_token=6rfbhWi0jR
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4" tvg-logo="http://148.251.133.153:8181/logo/chn/3722.png" group-title="Sports",ES | DAZN 4
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3722.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=129988&extension=ts&play_token=Pt6i1g3vr6
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1" tvg-logo="http://148.251.133.153:8181/logo/chn/3462.png" group-title="Sports",ES | DAZN F1
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA HYPERMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/3369.png" group-title="Sports",ES | M+ LALIGA HYPERMOTION
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3369.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=130008&extension=ts&play_token=cAY6CKbKDG
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA TV BAR" tvg-logo="http://148.251.133.153:8181/logo/chn/3370.png" group-title="Sports",ES | M+ LALIGA TV BAR
 http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3370.ts
