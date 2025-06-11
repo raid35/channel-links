@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262481.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262480.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36703&extension=ts&play_token=FaXdQH5aUs
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262482.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262483.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36705&extension=ts&play_token=cAjwp9XSMa
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262485.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262486.ts
+http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36796&extension=ts&play_token=C6574S99RH
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://148.251.133.153:8181/logo/chn/2386.png" group-title="Français ",FR | CANAL+
-http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/148474.ts
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=1914&extension=ts&play_token=ZkVw5SEZlY
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/247.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
