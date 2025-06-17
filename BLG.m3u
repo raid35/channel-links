@@ -14,6 +14,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@Live2",L'Equipe Live2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@Live1",L'Equipe Live1
+https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="TiVi5Monde.fr",TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/512px-Rai_1_HD_Logo.svg.png?20211130161946" group-title="Français ",FR | rai1
 https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rai_2_HD_-_Logo_2016.svg/512px-Rai_2_HD_-_Logo_2016.svg.png" group-title="Français ",FR | rai2
