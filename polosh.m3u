@@ -8,3 +8,21 @@ http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=41766&extens
 http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=41767&extension=ts&play_token=JQ2CqJdv3X
 #EXTINF:-1 tvg-id="Eleven Sports 4 HD.pl" tvg-logo="https://iili.io/2lsmg7R.png" group-title="POLISH SPORTS",Canal Sport 1 
 http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=41767&extension=ts&play_token=JQ2CqJdv3X
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2508.png" CANAL+ SPORT 2
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=21922&extension=ts&play_token=kT29S5T3Je
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2509.png" CANAL+ SPORT 3
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=63648&extension=ts&play_token=omQWmEetPh
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" CANAL+ SPORT 4
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=63649&extension=ts&play_token=RBLm8GJ1us
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD.pl" tvg-logo="https://logotyp.us/file/polsat-sport-premium-1.svg" group-title="POLISH SPORTS",polsat-sport-premium-1 
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=63651&extension=ts&play_token=GIJv743Q1z
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2 tvg-logo="https://logotyp.us/file/polsat-sport-premium-2.svg" polsat-sport-premium-2
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=63652&extension=ts&play_token=GfLoeBpKxR
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="https://logotyp.us/file/polsat-sport-premium-3.svg" polsat-sport-premium-3
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=202377&extension=ts&play_token=jLR8quo9G1
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="https://logotyp.us/file/polsat-sport-premium-4.svg" polsat-sport-premium-4
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=202378&extension=ts&play_token=rmJGavYkBA
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="https://logotyp.us/file/polsat-sport-premium-5.svg" polsat-sport-premium-5
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=202379&extension=ts&play_token=peZK3kYFWn
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="https://logotyp.us/file/polsat-sport-premium-6.svg" polsat-sport-premium-6
+http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BD:BC:CB&stream=202380&extension=ts&play_token=2SQJQXv8S2
