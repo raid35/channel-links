@@ -1,15 +1,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262481.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36703&extension=ts&play_token=FaXdQH5aUs
+http://s.rocketdns.info:8080/live/19995634/79960700/607902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262482.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36705&extension=ts&play_token=cAjwp9XSMa
+http://s.rocketdns.info:8080/live/19995634/79960700/607903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262485.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36796&extension=ts&play_token=C6574S99RH
+http://s.rocketdns.info:8080/live/19995634/79960700/607904.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://148.251.133.153:8181/logo/chn/2386.png" group-title="Français ",FR | CANAL+
 http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=1914&extension=ts&play_token=ZkVw5SEZlY
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
@@ -64,31 +58,20 @@ http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2396.ts
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262331.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262337.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262421.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/5067.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2361.png" group-title="Français ",FR | FRANCE 2
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2361.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599609.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262426.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2362.png" group-title="Français ",FR | FRANCE 3
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2362.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599601.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262431.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2679.png" group-title="Français ",FR | FRANCE 4
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2679.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6565.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262435.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599605.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262478.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | M6" tvg-logo="http://148.251.133.153:8181/logo/chn/2364.png" group-title="Français ",FR | M6
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262440.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/262439.ts
+http://s.rocketdns.info:8080/live/19995634/79960700/599611.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
 http://44321.online:2086/live/172555148248/6740ab8668b6d/262451.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
