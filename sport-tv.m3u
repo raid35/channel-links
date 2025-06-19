@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 1
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4117.png" group-title="Portugal",PT | SPORT TV 1
 http://s.rocketdns.info:8080/live/19995634/79960700/848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4118.png" group-title="Portugal",PT | SPORT TV 2
 http://s.rocketdns.info:8080/live/19995634/79960700/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4119.png" group-title="Portugal",PT | SPORT TV 3
 http://s.rocketdns.info:8080/live/19995634/79960700/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4120.png" group-title="Portugal",PT | SPORT TV 4
 http://s.rocketdns.info:8080/live/19995634/79960700/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 5
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4121.png" group-title="Portugal",PT | SPORT TV 5
 http://s.rocketdns.info:8080/live/19995634/79960700/841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | Sport TV 6
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=2916&extension=ts&play_token=DHb1IZoXmh
