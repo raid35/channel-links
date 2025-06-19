@@ -21,13 +21,15 @@ http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/250.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36665&extension=ts&play_token=GcXdiQLnFM
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2507.png" group-title="Sports",AF | CANAL+ SPORT 1
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2507.ts
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=355923&extension=ts&play_token=L4lbzvT6YQ
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2508.png" group-title="Sports",AF | CANAL+ SPORT 2
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2508.ts
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=355924&extension=ts&play_token=OnDYZ8y0Xi
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2509.png" group-title="Sports",AF | CANAL+ SPORT 3
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2509.ts
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=355925&extension=ts&play_token=JKUkVSV3vK
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 4
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2510.ts
+http:http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=355926&extension=ts&play_token=Z3GO5zEZRR
+#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 5
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=355927&extension=ts&play_token=H2eVeIsVLg
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2406.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1" tvg-logo="http://148.251.133.153:8181/logo/chn/6526.png" group-title="Français ",FR | DAZN 1
