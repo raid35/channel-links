@@ -1,26 +1,26 @@
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 1
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=126173&extension=ts&play_token=kdpnyxnggb
+http://s.rocketdns.info:8080/live/19995634/79960700/848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 2
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=45&extension=ts&play_token=Fz5U3NjDGX
+http://s.rocketdns.info:8080/live/19995634/79960700/846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 3
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=48&extension=ts&play_token=icCdKNq3ge
+http://s.rocketdns.info:8080/live/19995634/79960700/845.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 4
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=51&extension=ts&play_token=vnwmOBULsK
+http://s.rocketdns.info:8080/live/19995634/79960700/843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV 5
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=54&extension=ts&play_token=AjSsJJLWJo
+http://s.rocketdns.info:8080/live/19995634/79960700/841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | Sport TV 6
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=2916&extension=ts&play_token=DHb1IZoXmh
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV NBA
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=57&extension=ts&play_token=u4m1cdvBLX
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70" group-title="Portugal",PT | DAZN 1
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=59&extension=ts&play_token=nhzgP5fxco
+http://s.rocketdns.info:8080/live/19995634/79960700/926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Portugal",PT | DAZN 2
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=63&extension=ts&play_token=t43yOXwzUX
+http://s.rocketdns.info:8080/live/19995634/79960700/924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70" group-title="Portugal",PT | DAZN 3
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=66&extension=ts&play_token=o2zPob2nS1
+http://s.rocketdns.info:8080/live/19995634/79960700/922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000" group-title="Portugal",PT | DAZN 4
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=68&extension=ts&play_token=itMvuNX4G5
+http://s.rocketdns.info:8080/live/19995634/79960700/921m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 5" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000&quality=70" group-title="Portugal",PT | DAZN 5
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=70&extension=ts&play_token=Y3oSzCicEg
+http://s.rocketdns.info:8080/live/19995634/79960700/916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 6" tvg-logo="" group-title="Portugal",PT | DAZN 6
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=72&extension=ts&play_token=ITeoogodKh
