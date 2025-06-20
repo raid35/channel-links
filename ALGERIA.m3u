@@ -2,8 +2,8 @@
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/657.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/2006.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/658.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",TV2 ALGÉRIE
+http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/2013.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
@@ -14,6 +14,8 @@ http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/986.ts
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2010.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2011.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",AL24 NEWS
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/659.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
