@@ -1,15 +1,3 @@
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859098&extension=ts&play_token=4TbLzOTkho
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 2 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859097&extension=ts&play_token=hrpFblhfw5
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 3 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859096&extension=ts&play_token=UYpPNatKIz
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 4 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859095&extension=ts&play_token=WlBOE4XUfB
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 5 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859094&extension=ts&play_token=d7aaESrAqI
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 6 4k
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1859093&extension=ts&play_token=TCBVUSeeyC
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 1
 http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2557.ts
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" ,ALWAN 2
@@ -25,10 +13,10 @@ http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2562.ts
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 1
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=458542&extension=ts&play_token=YVUp1cFTHc
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 2
-https://news-11.com/moviball/tod/tod.php?c=ftv2.m3u8
+http://star4k.me:80/play/live.php?mac=00:1A:79:c0:3d:13&stream=458541&extension=ts&play_token=Qc30UyX2Tr
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 3
-http://familyplus.me:8080/live/20285228790919/91856754698151/417818.ts
+http://star4k.me:80/play/live.php?mac=00:1A:79:c0:3d:13&stream=458540&extension=ts&play_token=b8kuLvYp8w
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 4
-http://familyplus.me:8080/live/20285228790919/91856754698151/417819.ts
+http://star4k.me:80/play/live.php?mac=00:1A:79:c0:3d:13&stream=458539&extension=ts&play_token=hmrOovtYnh
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 5
-http://familyplus.me:8080/live/20285228790919/91856754698151/417820.ts
+http://star4k.me:80/play/live.php?mac=00:1A:79:c0:3d:13&stream=458538&extension=ts&play_token=G2aXme2aQq
