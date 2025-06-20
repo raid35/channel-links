@@ -1,16 +1,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
 http://s.rocketdns.info:8080/live/19995634/79960700/848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4118.png" group-title="Portugal",PT | SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://lo1.in/por/sptvv2.png" group-title="Portugal",PT | SPORT TV 2
 http://s.rocketdns.info:8080/live/19995634/79960700/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4119.png" group-title="Portugal",PT | SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="https://lo1.in/por/sptvv3.png" group-title="Portugal",PT | SPORT TV 3
 http://s.rocketdns.info:8080/live/19995634/79960700/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4120.png" group-title="Portugal",PT | SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="https://lo1.in/por/sptvv4.png" group-title="Portugal",PT | SPORT TV 4
 http://s.rocketdns.info:8080/live/19995634/79960700/843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="https://lo1.in/por/spotv5.png" group-title="Portugal",PT | SPORT TV 5
 http://s.rocketdns.info:8080/live/19995634/79960700/841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://lo1.in/por/spotv6.png" group-title="Portugal",PT | Sport TV 6
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=2916&extension=ts&play_token=DHb1IZoXmh
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Portugal",PT | SPORT TV NBA
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA" tvg-logo="https://lo1.in/por/fuelhd.png" group-title="Portugal",PT | SPORT TV NBA
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:AE:B9:2E&stream=57&extension=ts&play_token=u4m1cdvBLX
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70" group-title="Portugal",PT | DAZN 1
 https://channels.toysntrends.co.uk/live/Fr1day/2dk3exeq/843689.ts
