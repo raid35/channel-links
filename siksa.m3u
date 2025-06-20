@@ -22,6 +22,9 @@ http://live.lynxiptv.xyz:80/get.php?username=122841940227&password=Df3vwa0F7K&ty
 #EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://th.bing.com/th/id/OIP.LP6ZrG0vG8x93PZM8kfw8AHaHY?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
 
