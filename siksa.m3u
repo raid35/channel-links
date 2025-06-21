@@ -28,12 +28,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 #EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://th.bing.com/th/id/OIP.LP6ZrG0vG8x93PZM8kfw8AHaHY?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/48/png-transparent-map-of-the-arab-world-thumbnail.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
@@ -54,6 +48,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/STC.M3U
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-1024x1024.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
