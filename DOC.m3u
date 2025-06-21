@@ -19,18 +19,14 @@ https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="AR: Bein BBC Earth HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="BEIN ENT",AR: Bein BBC Earth 
 http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/67433.m3u8
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: HG TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/150px-HGTV_logo.svg.png" group-title="AR OSN PREMIUM",AR: HG TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
-https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="AR OSN PREMIUM",AR:  DISCOVERY 
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=14549&extension=ts&play_token=uNhxaz6AC2
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg", DISCOVERY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
 https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s" group-title="AR OSN PREMIUM",AR:  DISCOVERY FAMILY 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
-https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
-#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="AR OSN PREMIUM",AR: DISCOVERY ID 
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s", DISCOVERY FAMILY 
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=137498&extension=ts&play_token=KWtyl3VcFE
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", DISCOVERY ID 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188 
 https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
@@ -47,9 +43,7 @@ https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
 https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Travel_Channel_logo-aqua.png/120px-Travel_Channel_logo-aqua.png" group-title="AR OSN PREMIUM",AR: Travel 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
-https://fastly-live.cdn.intigral-ott.net/TRA/TRA.isml/manifest.mpd
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=14550&extension=ts&play_token=h4vZjO0BgM
 #EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/animal_planet.png" group-title="AR OSN PREMIUM",AR: ANIMAL PALANT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
