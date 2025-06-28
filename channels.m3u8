@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" ,
 https://raid35.github.io/docs/match_today.html
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
-https://dcb-fl-live.dtcdn.dazn.com/13ggbduabbmqz1peeahgmpddiw/tv25f/stream.mpd?channel=1660&outlet=dazn-mena&plang=ar
+https://dca-co-live-gcr.gcdn.co/1jtq97docdrrs1qoetkqsc45lt/web/stream.m3u8?channel=1660&outlet=dazn-mena&plang=ar&dazn
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
 https://dca-co-live-gcr.gcdn.co/1jtq97docdrrs1qoetkqsc45lt/web/stream.m3u8?channel=1660&outlet=dazn-mena&plang=ar&dazn
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
