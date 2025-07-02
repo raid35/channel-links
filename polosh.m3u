@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 4 4K" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1 4k.png" group-title="Poland",PL | Eleven Sports 4 4K
-http://199.115.193.39:8008/live/AlexxCostin/cN9rx9Z3wK/470274.ts
+http://amstrtest.xyz:8080/play/live.php?mac=00:1A:79:13:58:0B&stream=225922&extension=ts&play_token=QJebCECarV
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Poland",PL | Eleven Sports 1 HD
 http://199.115.193.39:8008/live/AlexxCostin/cN9rx9Z3wK/470274.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
