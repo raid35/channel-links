@@ -4,10 +4,10 @@ https://raid35.github.io/docs/match_today.html
 https://sizdekemoina.sbs/automatically/1
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 🇸🇦
 https://sizdahomae2.sbs/automatically/1
-#EXTINF:-1, TNT DAZN 🇬🇧
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/480.png" group-title="ARABIC SPORTS",MBC MASR 2
 https://hamada-tv.com/dazn.html
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+https://shahid.mbc.net/mediaObject/327c29c8-a19b-4ccb-9429-5e8b65338f46?height=auto&width=288&croppingPoint=&version=1&type=webp
+https://alwazir.ct.ws/Alwazir/new/MBC_ACTIONS1.php
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
 https://dca-co-live-gcr.gcdn.co/1pci04y0mcags1nmvscdjgbccs/web/stream.mpd?channel=1660&outlet=dazn-mena&plang=en
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
