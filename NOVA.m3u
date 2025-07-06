@@ -4,6 +4,10 @@ http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=107005&extension=
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=107006&extension=ts&play_token=wKrtPJGWkU
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=107007&extension=ts&play_token=SGRLvu1GBk
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
+http://nodns1.top:8080/live/241679168858018074/1731690145431920/8338.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
+http://nodns1.top:8080/live/241679168858018074/1731690145431920/8340.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://nodns1.top:8080/live/7151733675985630/9234244d8777/8000.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
@@ -17,7 +21,7 @@ http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=394814&extension=
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=394814&extension=ts&play_token=JO28eDHawA
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2507.png" group-title="Sports",AF | CANAL+ SPORT 1
-http://yvzcqftf.megahdtv.xyz:900/live/RCK6ECTK/5NS5UAG6/400216431.ts
+http://nodns1.top:8080/live/241679168858018074/1731690145431920/52231.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2508.png" group-title="Sports",AF | CANAL+ SPORT 2
 http://yvzcqftf.megahdtv.xyz:900/live/RCK6ECTK/5NS5UAG6/400216430.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2509.png" group-title="Sports",AF | CANAL+ SPORT 3
@@ -45,9 +49,9 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipeli
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1" tvg-logo="http://148.251.133.153:8181/logo/chn/6526.png" group-title="Français ",FR | DAZN 1
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36715&extension=ts&play_token=mIVtoM9XuB
+http://nodns1.top:8080/live/241679168858018074/1731690145431920/57561.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5123.png" group-title="Français ",FR | DAZN 1 FHD
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=143408&extension=ts&play_token=vHk397AkOo
+http://nodns1.top:8080/live/241679168858018074/1731690145431920/57559.ts
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
@@ -230,7 +234,4 @@ http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/63429.ts
 http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/63430.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 10" tvg-logo="http://148.251.133.153:8181/logo/chn/2467.png" group-title="Français ",FR | BEIN SPORTS MAX 10
 http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/63431.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2474.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2475.ts
+
