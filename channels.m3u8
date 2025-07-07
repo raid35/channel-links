@@ -5,7 +5,7 @@ https://sizdekemoina.sbs/automatically/1
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 🇸🇦
 http://main.myppir.fr:8080/9252600261941/pUZDTZ841s/80221?play_token=BxQkyuYxA6
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/480.png" group-title="ARABIC SPORTS",MBC MASR 2
-https://alwazir.ct.ws/Alwazir/new/MBC_MASR_2S2.php
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://shahid.mbc.net/mediaObject/327c29c8-a19b-4ccb-9429-5e8b65338f46?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="ARABIC SPORTS",MBC Action
 https://alwazir.ct.ws/Alwazir/new/MBC_ACTIONS1.php
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
