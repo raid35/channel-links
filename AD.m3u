@@ -10,10 +10,12 @@ http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1969.ts
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/238.ts
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-2.jpg", AD SPORTS 2
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/239.ts
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://1.bp.blogspot.com/-vh8Qvc4Zm9c/XZTKstHn4-I/AAAAAAAACg8/Tf-r6UNOI9kBnE4nVaPlUzPOm3CBtj81QCLcBGAsYHQ/s1600/11.png", DUBAI SPORTS 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8?stime=20250416221743&etime=20250424044423&token=00eceb27af47e58e0515a
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png", DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8?stime=20250416222007&etime=20250424044647&token=0cc6f6937a376e980520a
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w783855516_b1307000.m3u8
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
