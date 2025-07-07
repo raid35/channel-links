@@ -28,6 +28,8 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=137498&extens
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188 
 https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="FR CULTURE",FR: NAT GEO HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=15065&extension=ts&play_token=T51bIbB6SK
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/nat_geo_wild_us.png" group-title="FR CULTURE",FR: NAT GEO WILD HD
