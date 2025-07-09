@@ -5,11 +5,11 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=22601&extensi
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="EU | NO",NO| viasat-ultra-hd
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=22599&extension=ts
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://lo1.in/ger/daznbbb.png" group-title="EU | GERMANY HD",DE| DAZN 1 BAR HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=78462&extension=ts&play_token=tDIacxeMyU
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=28&extension=ts&play_token=9HmGCDhkpr
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE| DAZN 2 BAR HD" tvg-logo="https://lo1.in/ger/dz2br.png" group-title="EU | GERMANY HD",DE| DAZN 2 BAR HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=44865&extension=ts&play_token=skI6fcDE47
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=212&extension=ts&play_token=fOwaRJsRUz
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=267908&extension=ts&play_token=2eBQ25cKdT
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=5214&extension=ts&play_token=qV8KWokzeL
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="https://lo1.in/ger/SKY SPORT MIX.png" group-title="EU | GERMANY HD",DE| SKY SPORT MIX HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=268064&extension=ts&play_token=F88unxxGXQ
 #EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="EU | GERMANY HD",DE| SKY SPORT PREMIER LEAGUE HD
