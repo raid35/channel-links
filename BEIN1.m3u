@@ -80,3 +80,11 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=10362&extensi
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=114044&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=1269951&extension=ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_1_HD [TR]" tvg-logo="" group-title="Turkish",BeIN_SPORTS_1_HD [TR]
+http://usnshdhs637.dnzmxtv1912.xyz:8080/live/Mihdi3547/85849aser5/191152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_2_HD [TR]" tvg-logo="" group-title="Turkish",BeIN_SPORTS_2_HD [TR]
+http://usnshdhs637.dnzmxtv1912.xyz:8080/live/Mihdi3547/85849aser5/195811.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_3_HD [TR]" tvg-logo="" group-title="Turkish",BeIN_SPORTS_3_HD [TR]
+http://usnshdhs637.dnzmxtv1912.xyz:8080/live/Mihdi3547/85849aser5/195812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_4_HD [TR]" tvg-logo="" group-title="Turkish",BeIN_SPORTS_4_HD [TR]
+http://usnshdhs637.dnzmxtv1912.xyz:8080/live/Mihdi3547/85849aser5/195813.ts
