@@ -36,8 +36,7 @@ http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293308.ts
 http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293309.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 5
 http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293310.ts
-#EXTINF:-1 ,INFOSPORT 🇫🇷
-http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="Français ",FR | Infosport
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR |L'Equipe Live1
