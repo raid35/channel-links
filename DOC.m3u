@@ -40,5 +40,70 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=73783&extensi
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=2557&extension=ts&play_token=trXtM8GiQf
 #EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/animal_planet.png" group-title="AR OSN PREMIUM",AR: ANIMAL PALANT 
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=77012&extension=ts&play_token=IEBPiOK0ak
-#EXTINF:-1 tvg-id="ALSHARQ DISCOVERY" tvg-name="AR: ALSHARQ DISCOVERY  " tvg-logo="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FAsharq_Discovery_01_df7e757371.svg&w=640&q=75" group-title="AR OSN PREMIUM",AR: ALSHARQ DISCOVERY 
-https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltWVhOMGJIa3RiR2wyWlM1alpHNHVhVzUwYVdkeVlXd3RiM1IwTG01bGRDOUlSMVJXTDBoSFZGWXVhWE50YkM5dFlXNXBabVZ6ZEM1dGNHUjhaSEp0TFdsdVptODlkMmxrWlhacGJtVjhPVFk1TWpBeU1tWTJNRGxrT0dJNFptRXlOVEkxTURRNFlXRmxaREkyWXpNNk5ESm1OREV6TjJJd1lUQm1NMlZsT1dVMU1tRmxaR1JpT0dFNU5UUTBaVEU9
+#EXTINF:-1 tvg-name="FR: CHASSE PECHE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6329.jpg?31714" group-title="FR| DOCUMENTAIRE HD/4K",FR: CHASSE PECHE 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106927.m3u8
+#EXTINF:-1 tvg-name="#### DOCUMENTAIRE HD/4K ####" group-title="FR| DOCUMENTAIRE HD/4K",#### DOCUMENTAIRE HD/4K ####
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/398860.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6357.png?4113" group-title="FR| DOCUMENTAIRE HD/4K",FR: ANIMAUX 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106923.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6357.png?26739" group-title="FR| DOCUMENTAIRE HD/4K",FR: ANIMAUX HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207207.m3u8
+#EXTINF:-1 tvg-name="FR: DISCOVERY CHANNEL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1419.jpg?68897" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY CHANNEL 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106941.m3u8
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR: DISCOVERY INVESTIGATION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/6307.png?30534" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY INVESTIGATION 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106942.m3u8
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6307.png?90964" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY INVESTIGATION HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207200.m3u8
+#EXTINF:-1 tvg-name="FR: DISCOVERY SCIENCE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6698.jpg?55912" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY SCIENCE 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106943.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/620.jpg?51374" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY SCIENCE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207199.m3u8
+#EXTINF:-1 tvg-name="FR: DISCOVERY TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1419.jpg?9152" group-title="FR| DOCUMENTAIRE HD/4K",FR: DISCOVERY TV HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207197.m3u8
+#EXTINF:-1 tvg-name="FR: HISTOIRE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6289.png?49444" group-title="FR| DOCUMENTAIRE HD/4K",FR: HISTOIRE 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/107019.m3u8
+#EXTINF:-1 tvg-name="FR: HISTOIRE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6289.png?82362" group-title="FR| DOCUMENTAIRE HD/4K",FR: HISTOIRE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207204.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: NAT GEO 4K" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/1428.jpg?92494" group-title="FR| DOCUMENTAIRE HD/4K",FR: NAT GEO 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106959.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR: NAT GEO WILD 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/735.jpg?81565" group-title="FR| DOCUMENTAIRE HD/4K",FR: NAT GEO WILD 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106958.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/735.jpg?81565" group-title="FR| DOCUMENTAIRE HD/4K",FR: NAT GEO WILD HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207196.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: NATIONAL GEO HD" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/1428.jpg?92494" group-title="FR| DOCUMENTAIRE HD/4K",FR: NATIONAL GEO HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207195.m3u8
+#EXTINF:-1 tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10007.jpg?83165" group-title="FR| DOCUMENTAIRE HD/4K",FR: SCIENCE ET VIE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220844.m3u8
+#EXTINF:-1 tvg-name="FR: SCIENCES & VIE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1882.jpg?71611" group-title="FR| DOCUMENTAIRE HD/4K",FR: SCIENCES & VIE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207206.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6230.jpg?47507" group-title="FR| DOCUMENTAIRE HD/4K",FR: TOUTE L'HISTOIRE 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106928.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6230.jpg?38896" group-title="FR| DOCUMENTAIRE HD/4K",FR: TOUTE L'HISTOIRE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207205.m3u8
+#EXTINF:-1 tvg-name="FR: USHUAIA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6222.jpg?30728" group-title="FR| DOCUMENTAIRE HD/4K",FR: USHUAIA 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106982.m3u8
+#EXTINF:-1 tvg-name="FR: USHUAIA TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6222.jpg?4068" group-title="FR| DOCUMENTAIRE HD/4K",FR: USHUAIA TV HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207203.m3u8
+#EXTINF:-1 tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6329.jpg?78688" group-title="FR| DOCUMENTAIRE HD/4K",FR: CHASSE ET PECHE HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220843.m3u8
+#EXTINF:-1 tvg-name="FR: CRIME DISTRICT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6313.jpg?28624" group-title="FR| DOCUMENTAIRE HD/4K",FR: CRIME DISTRICT 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/107016.m3u8
+#EXTINF:-1 tvg-name="FR: CRIME DISTRICT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6313.jpg?14676" group-title="FR| DOCUMENTAIRE HD/4K",FR: CRIME DISTRICT HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/207254.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6128.jpg?35929" group-title="FR| DOCUMENTAIRE HD/4K",FR: RMC DECOUVERTE 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/165076.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC Decouverte HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6128.jpg?76115" group-title="FR| DOCUMENTAIRE HD/4K",FR: RMC Decouverte HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220845.m3u8
+#EXTINF:-1 tvg-name="FR: MUSEUM 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3058.png?44862" group-title="FR| DOCUMENTAIRE HD/4K",FR: MUSEUM 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220868.m3u8
+#EXTINF:-1 tvg-name="FR: MUSEUM HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3058.png?44862" group-title="FR| DOCUMENTAIRE HD/4K",FR: MUSEUM HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220869.m3u8
+#EXTINF:-1 tvg-name="FR: RMC STORY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6118.png?62949" group-title="FR| DOCUMENTAIRE HD/4K",FR: RMC STORY 4K
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/165078.m3u8
+#EXTINF:-1 tvg-name="FR: RMC STORY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6118.png?63605" group-title="FR| DOCUMENTAIRE HD/4K",FR: RMC STORY HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220867.m3u8
+#EXTINF:-1 tvg-name="FR: SEASON HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12267.jpg?39346" group-title="FR| DOCUMENTAIRE HD/4K",FR: SEASON HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220842.m3u8
+#EXTINF:-1 tvg-name="FR: PLANET PLUS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4749.jpg?11454" group-title="FR| DOCUMENTAIRE HD/4K",FR: PLANET PLUS HD
+http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/220847.m3u8
+
