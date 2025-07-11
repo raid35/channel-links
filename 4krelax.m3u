@@ -10,3 +10,5 @@ http://731710181764.cdn-eag.com:80/play/live.php?mac=00:1A:79:b9:d7:a0&stream=11
 http://731710181764.cdn-eag.com:80/play/live.php?mac=00:1A:79:b9:d7:a0&stream=1101852&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="4krelax" tvg-logo="https://4krelax.com/channels/4krelax/logo.png", 4krelax  
 http://731710181764.cdn-eag.com:80/play/live.php?mac=00:1A:79:b9:d7:a0&stream=1101851&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="4krelax" tvg-logo="https://4krelax.com/channels/4krelax/logo.png", 4krelax  
+https://moviball.kesug.com/?i=1
