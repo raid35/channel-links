@@ -8,7 +8,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=22599&extensi
 http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=28&extension=ts&play_token=9HmGCDhkpr
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE| DAZN 2 BAR HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="EU | GERMANY HD",DE| DAZN 2 BAR HD
 http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=212&extension=ts&play_token=fOwaRJsRUz
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
 http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=5214&extension=ts&play_token=qV8KWokzeL
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="https://lo1.in/ger/SKY SPORT MIX.png" group-title="EU | GERMANY HD",DE| SKY SPORT MIX HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=268064&extension=ts&play_token=F88unxxGXQ
