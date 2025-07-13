@@ -14,10 +14,10 @@ http://731710181764.cdn-eag.com/play/live.php?mac=00:1A:79:b9:d7:a0&stream=25066
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=32835&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=203436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ HDR UHD
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/620965.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://nodns1.top:8080/live/7151733675985630/9234244d8777/8000.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106909&extension=ts&play_token=6Eef6BqmV9
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=256123&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
@@ -27,15 +27,15 @@ http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=394814&extension=
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Automoto_color.png" group-title="Français ",FR | CANAL+ SPORT
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=10173&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2507.png" group-title="Sports",AF | CANAL+ SPORT 1
-http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293306.ts
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2508.png" group-title="Sports",AF | CANAL+ SPORT 2
-http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293307.ts
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268842.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2509.png" group-title="Sports",AF | CANAL+ SPORT 3
-http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293308.ts
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268843.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 4
-http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293309.ts
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 5
-http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/293310.ts
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="Français ",FR | Infosport
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
@@ -65,6 +65,8 @@ http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106908&extension=
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106914&extension=ts&play_token=qFzkZAOn6v
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36664&extension=ts&play_token=XH1qlpwJ8i
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621007.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1640380&extension=ts&play_token=Rh4gRCEhEj
 #EXTINF:-1 channel-id="samsung-FR370000288" tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250307T151927SQUARE.png" group-title="CinÃ©ma" tvg-chno="4007",Box Office Action
@@ -85,6 +87,8 @@ http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106917&extension=
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106916&extension=ts&play_token=WAP3W89PUS
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://148.251.133.153:8181/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
 https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621011.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
@@ -93,6 +97,8 @@ http://s.rocketdns.info:8080/live/19995634/79960700/599609.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621005.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
 http://mystb.live/live/Joshi2024/4562358745/236046.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
@@ -101,6 +107,8 @@ http://mystb.live/live/Joshi2024/4562358745/236045.ts
 http://mystb.live/live/Joshi2024/4562358745/236044.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
 http://mystb.live/live/Joshi2024/4562358745/236043.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621010.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
