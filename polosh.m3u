@@ -1,25 +1,25 @@
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 4 4K" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1 4k.png" group-title="Poland",PL | Eleven Sports 4 4K
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=12332&extension=ts&play_token=XL43tSqmU8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Poland",PL | Eleven Sports 1 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=12332&extension=ts&play_token=XL43tSqmU8
+http://145.239.19.144:18088/271/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=264894&extension=ts&play_token=5uUPIMcTJh
+http://145.239.19.144:18088/270/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Poland",PL | Eleven Sports 3 HD
-http://nodns1.top:8080/live/241679168858018074/1731690145431920/10154.ts
+http://145.239.19.144:18088/269/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | ELEVEN SPORTS 4 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 4.png" group-title="Poland",PL | ELEVEN SPORTS 4 HD
-http://nodns1.top:8080/live/241679168858018074/1731690145431920/23837.ts
+http://145.239.19.144:18088/272/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4165.png" group-title="Poland",PL | Canal+ Sport 1 FHD
-http://nodns1.top:8080/live/241679168858018074/1731690145431920/10129.ts
+http://145.239.19.144:18088/297/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4166.png" group-title="Poland",PL | Canal+ Sport 2 FHD
-http://nodns1.top:8080/live/241679168858018074/1731690145431920/23826.ts
+http://145.239.19.144:18088/298/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4167.png" group-title="Poland",PL | Canal+ Sport 3 FHD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=80474&extension=ts
+http://145.239.19.144:18088/340/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4168.png" group-title="Poland",PL | Canal+ Sport 4 FHD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=80475&extension=ts
+http://145.239.19.144:18088/341/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4174.png" group-title="Poland",PL | Polsat Sport Premium 1 FHD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=54164&extension=ts
+http://145.239.19.144:18088/190/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4175.png" group-title="Poland",PL | Polsat Sport Premium 2 FHD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=54165&extension=ts
+http://145.239.19.144:18088/191/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4176.png" group-title="Poland",PL | Polsat Sport Premium PPV 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=54166&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4177.png" group-title="Poland",PL | Polsat Sport Premium PPV 4
