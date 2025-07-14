@@ -26,13 +26,26 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/23.png" group-title="ARABIC SPORTS",CBC
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/30273.ts
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/23.png" group-title="ARABIC SPORTS",CBC
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/2495.ts
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/22.png" group-title="ARABIC SPORTS",CBC DRAMA
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/196283.ts
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/22.png" group-title="ARABIC SPORTS",CBC SOFRA
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg@SD" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="General",Al Kahera Wal Nas
+https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="General",Al Masriyah
+https://fl1002.bozztv.com/ga-almasriya/index.m3u8
+#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.imgur.com/ieckdoE.png" group-title="Series",Al-Nahar
+https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.imgur.com/ieckdoE.png" group-title="Series",Al-Nahar Drama
+https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
+#EXTINF:-1 tvg-id="AlhayatDrama.eg@SD" tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="Series",Alhayat Drama
+https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="General",Alhayat TV
+https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DMCDrama.eg@SD" tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Series",DMC Drama (720p)
+https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama
+https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/162573.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
 http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133371.ts
@@ -51,9 +64,7 @@ http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133375.ts
 #KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
 https://fastly-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/44.png" group-title="ARABIC SPORTS",ROTANA CLASSIC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2
-https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ARABIC SPORTS",ROTANA AFLAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929 
