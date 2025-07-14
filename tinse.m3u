@@ -1,8 +1,12 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",NESSMA
-https://fl1002.bozztv.com/ga-nessmatv/index.m3u8
+#EXTINF:-1 tvg-id="NessmaElJadida.tn@SD" tvg-logo="https://i.imgur.com/66CJtdz.png" group-title="General",Nessma El Jadida
+https://fl1002.bozztv.com/ga-nessmatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 1
 https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 2
 https://fl1002.bozztv.com/ga-elwatania2/index.m3u8
+#EXTINF:-1 tvg-id="TunisnaTV.tn@SD" tvg-logo="https://i.imgur.com/EePmh2R.png" group-title="General",Tunisna TV
+https://live20.bozztv.com/gin-36bay3/ga-tunisna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CarthagePlus.tn@SD" tvg-logo="https://i.imgur.com/5BsDW4B.png" group-title="Entertainment",Carthage+
+https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
