@@ -64,6 +64,12 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153541&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153542&extension=ts&play_token=v2Xb7WdHry
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153543&extension=ts&play_token=h1D16AytaY
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="General",Watar TV (720p) [Not 24/7]
+http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Algérie",ALGERIA
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=984547&extension=ts&play_token=vLUBV9MREt
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
