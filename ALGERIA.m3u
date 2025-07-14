@@ -48,6 +48,8 @@ http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2332.ts
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2002.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2421.ts
+#EXTINF:-1 tvg-id="4KidsTV.dz@SD" tvg-logo="https://i.imgur.com/507piHp.png" group-title="Kids",4Kids TV
+http://149.100.19.147:8000/play/a02t
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="General",Fajer TV 2
