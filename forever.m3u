@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
