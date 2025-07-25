@@ -1,5 +1,4 @@
-{
-  "Documentaries": [
+  [
     {
       "name": "MBC Althkafea HD",
       "url": "https://uselector.cdn.intigral-ott.net/MBT/MBT.isml/manifest.mpd",
@@ -300,4 +299,3 @@
       "key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4"
     }
   ]
-}
