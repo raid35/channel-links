@@ -1,1004 +1,303 @@
-28581
-[[1,[{
-  "targetChange": {
-    "targetChangeType": "ADD",
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[2,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/0TpmbYQzPT548wVKweAP",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://live-hz-7.livepush.io/live/em79akQbx8sO3xlk/chunks.m3u8?nimblesessionid=11240214&session_id=4885607127232019"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-05-05T13:37:54.054Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-05T12:06:03.180Z"
-        },
-        "drmKey": {
-          "stringValue": "bfefc7feec543c11bbaadb221835a1e0:eca64d1d134a641f76376167c5bd5c3e"
-        },
-        "order": {
-          "integerValue": "1"
-        },
-        "name": {
-          "stringValue": "beIN 4K"
-        }
-      },
-      "createTime": "2025-04-05T12:06:03.218621Z",
-      "updateTime": "2025-05-05T13:37:54.068691Z"
+{
+  "Documentaries": [
+    {
+      "name": "MBC Althkafea HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBT/MBT.isml/manifest.mpd",
+      "key": null
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[3,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/NoHC2mpTXyO68SXhvgxh",
-      "fields": {
-        "order": {
-          "integerValue": "2"
-        },
-        "drmKey": {
-          "stringValue": "f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 1"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-08-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T09:12:54.010Z"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-08T16:50:13.195Z"
-        }
-      },
-      "createTime": "2025-04-04T09:12:54.051100Z",
-      "updateTime": "2025-07-08T16:50:13.241520Z"
+    
+    {
+      "name": "National Geographic",
+      "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0f94dbfbf9e6e45c9567a7b50eb612c}"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[4,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/XxlB5Komf76yvQAJ8d5l",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 2"
-        },
-        "drmKey": {
-          "stringValue": "462b64d0595b3838b4d68eb0e6c59448:b4d30d1bfe81d4cffc52790bb6c5d979"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:03:11.871Z"
-        },
-        "order": {
-          "integerValue": "3"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-09-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T09:13:34.859Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png"
-        }
-      },
-      "createTime": "2025-04-04T09:13:34.895161Z",
-      "updateTime": "2025-07-11T11:03:11.923197Z"
+
+    {
+      "name": "mbc action",
+      "url": "https://live-event-1.akamaized.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cc668b04c6f99b3afb2188a5fd6a7f97}"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[5,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/aXCAgGpTS6S99nN38wC4",
-      "fields": {
-        "drmKey": {
-          "stringValue": "cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:27:05.298Z"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-10-dt"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 3"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:03:39.369Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png"
-        },
-        "order": {
-          "integerValue": "4"
-        }
-      },
-      "createTime": "2025-04-04T10:27:05.347305Z",
-      "updateTime": "2025-07-11T11:03:39.411588Z"
+    
+    {
+      "name": "National Geographic WILD",
+      "url": "https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd",
+      "key": "276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[6,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/vo3tGilFTQTypjhq0KcS",
-      "fields": {
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:28:18.008Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 4"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:03:58.333Z"
-        },
-        "order": {
-          "integerValue": "5"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "drmKey": {
-          "stringValue": "468db5e499dd3b1c9a3c5c9969e2aea8:1a5e0247aaefad74c5912064b64859e2"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-11-dt"
-        }
-      },
-      "createTime": "2025-04-04T10:28:18.059864Z",
-      "updateTime": "2025-07-11T11:03:58.372846Z"
+    {
+      "name": "National Geographic Abu Dhabi",
+      "url": "https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd",
+      "key": "b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[7,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/ETnPSYEiPHjZCky4nNts",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "order": {
-          "integerValue": "6"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:04:17.239Z"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-12-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:29:24.431Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 5"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png"
-        },
-        "drmKey": {
-          "stringValue": "4358b2e38e973281b6f6970e95cd13de:6c687cf562a83f6f611731b4646ff584"
-        }
-      },
-      "createTime": "2025-04-04T10:29:24.474574Z",
-      "updateTime": "2025-07-11T11:04:17.295950Z"
+    {
+      "name": "Animal Planet",
+      "url": "https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd",
+      "key": "807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[8,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/UHBxtYOUUomhkRhn6kqf",
-      "fields": {
-        "name": {
-          "stringValue": "beIN SPORTS 6"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:02:17.764Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png"
-        },
-        "order": {
-          "integerValue": "7"
-        },
-        "drmKey": {
-          "stringValue": "44570b198707332caab56924d253ee25:d95efbc6594ef573a269b912e33b7f72"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-13-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:30:13.628Z"
-        }
-      },
-      "createTime": "2025-04-04T10:30:13.663498Z",
-      "updateTime": "2025-07-11T11:02:17.815913Z"
+    {
+      "name": "Discovery HD",
+      "url": "https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd",
+      "key": "1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[9,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/hmYiZx9oeWYjYbHUb8Q7",
-      "fields": {
-        "drmKey": {
-          "stringValue": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:30:57.613Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-10T13:58:00.392Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 7"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-14-dt"
-        },
-        "order": {
-          "integerValue": "8"
-        }
-      },
-      "createTime": "2025-04-04T10:30:57.646487Z",
-      "updateTime": "2025-07-10T13:58:00.428386Z"
+    {
+      "name": "Discovery Family HD",
+      "url": "https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd",
+      "key": "bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[10,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/PpGPTV4nTuATxqAA3ZAW",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "drmKey": {
-          "stringValue": "fa58e7eb3a4d36949c71ac3ef6e869d8:b799b788cf13c7bbba95426c94879f30"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 8"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:32:18.860Z"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-11T11:02:52.373Z"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-16-dt"
-        },
-        "order": {
-          "integerValue": "9"
-        }
-      },
-      "createTime": "2025-04-04T10:32:18.905346Z",
-      "updateTime": "2025-07-11T11:02:52.434070Z"
+    {
+      "name": "Investigation Discovery (ID)",
+      "url": "https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd",
+      "key": "2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[11,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/MeyQ7Hnbr0WuVT7KGBbJ",
-      "fields": {
-        "order": {
-          "integerValue": "10"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png"
-        },
-        "drmKey": {
-          "stringValue": "98eedea3e547368886168bb7f8d2e903:305670ff7b7495b093e761a5e550697d"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:33:23.480Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS 9"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-16-dt"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:56:07.365Z"
-        }
-      },
-      "createTime": "2025-04-04T10:33:23.518176Z",
-      "updateTime": "2025-06-11T20:56:07.406421Z"
+    {
+      "name": "Alsharq Alawthaekeya",
+      "url": "https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd",
+      "key": "be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3"
     },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[12,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/sXSiVIWYfVCeqncjnos2",
-      "fields": {
-        "streamUrl": {
-          "stringValue": "https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-38-dt/DASH/playlist.mpd"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-04-29T15:17:58.815Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS HD"
-        },
-        "order": {
-          "integerValue": "11"
-        },
-        "drmKey": {
-          "stringValue": "dece176768f639bcbaf97ebca9c74164:dd5f1f0bfe87b23eb94160af51671670"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:34:31.216Z"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png"
-        }
-      },
-      "createTime": "2025-04-04T10:34:31.257231Z",
-      "updateTime": "2025-04-29T15:17:58.851781Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[13,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/1zx0w41XCVzsbLgeFiKM",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:37:49.674Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS News"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-04-29T15:23:40.453Z"
-        },
-        "streamUrl": {
-          "stringValue": "https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-39-dt/DASH/playlist.mpd"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png"
-        },
-        "drmKey": {
-          "stringValue": "7faafe485db7395b9583222a3a6e789d:163906ba32dd3d611aad5789cbd00858"
-        },
-        "order": {
-          "integerValue": "12"
-        }
-      },
-      "createTime": "2025-04-04T10:37:49.724914Z",
-      "updateTime": "2025-04-29T15:23:40.496823Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[14,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/mZl1B42pyA28Edd5o4IU",
-      "fields": {
-        "order": {
-          "integerValue": "13"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-04T10:38:41.849Z"
-        },
-        "drmKey": {
-          "stringValue": "f64f7ec678853863bc60dc74d9834f14:4dceab60a7c4288484ea856f8c41f56b"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS NBA"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/NBA_DIGITAL_Mono.png"
-        },
-        "streamUrl": {
-          "stringValue": "https://bestgoal.xyz/moviball/index.php?channel=spo-hd-40"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-04-12T10:55:43.817Z"
-        }
-      },
-      "createTime": "2025-04-04T10:38:41.911062Z",
-      "updateTime": "2025-04-12T10:55:43.851541Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[15,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/tXJSHbW3wrIl2A2x7vWc",
-      "fields": {
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png"
-        },
-        "order": {
-          "integerValue": "14"
-        },
-        "drmKey": {
-          "stringValue": "6cc4dd3a5497310ba2e34ceeacd1c19b:e9c5d24ea414d0a2a7100fc1fc36a387"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-05T10:55:19.381Z"
-        },
-        "name": {
-          "stringValue": "beIN XTRA 1"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:56:19.230Z"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-17-dt"
-        }
-      },
-      "createTime": "2025-04-05T10:55:19.426604Z",
-      "updateTime": "2025-06-11T20:56:19.268349Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[16,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/pCk7urI7da1Q9oOWqWWM",
-      "fields": {
-        "name": {
-          "stringValue": "beIN XTRA 2"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-05T10:56:06.330Z"
-        },
-        "drmKey": {
-          "stringValue": "c800955c66bc3690af22486d2d5bce75:014ff13e55476109eeff11aaf5270f6a"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-18-dt"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:56:31.002Z"
-        },
-        "order": {
-          "integerValue": "15"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png"
-        }
-      },
-      "createTime": "2025-04-05T10:56:06.382281Z",
-      "updateTime": "2025-06-11T20:56:31.039584Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[17,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/I7WZ0JR0FQLHedY5Ehx6",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-05T10:57:17.811Z"
-        },
-        "order": {
-          "integerValue": "16"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png"
-        },
-        "name": {
-          "stringValue": "beIN XTRA 3"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-19-dt"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:56:42.732Z"
-        },
-        "drmKey": {
-          "stringValue": "70321d024ed533a38ab945a35411a765:ff7728dcdbe4bd28951d12f5cda9c4c6"
-        }
-      },
-      "createTime": "2025-04-05T10:57:17.847970Z",
-      "updateTime": "2025-06-11T20:56:42.795855Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[18,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/5Hge6Be5n4av1sZfblWy",
-      "fields": {
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-74-dt"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:56:56.523Z"
-        },
-        "order": {
-          "integerValue": "17"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-10T18:33:56.020Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "name": {
-          "stringValue": "beIN XTRA 4"
-        },
-        "drmKey": {
-          "stringValue": "78b56a88039036578006b72f8f24c5c2:a850e689377ca62a44c6b0cebf48606e"
-        }
-      },
-      "createTime": "2025-04-10T18:33:56.079656Z",
-      "updateTime": "2025-06-11T20:56:56.564434Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[19,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/KV7qVGimqRod6GcuQRpo",
-      "fields": {
-        "drmKey": {
-          "stringValue": "39f66081623d3208a466f85691d1b9ca:bfd245121f16618eb3a44ff4d3b349b1"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-72-dt"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "name": {
-          "stringValue": "beIN XTRA 5"
-        },
-        "order": {
-          "integerValue": "18"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:57:07.358Z"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-10T18:35:51.439Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_05_bein.com_.png"
-        }
-      },
-      "createTime": "2025-04-10T18:35:51.476288Z",
-      "updateTime": "2025-06-11T20:57:07.391694Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[20,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/HyyQ5dGz3l6HjCY9nfZR",
-      "fields": {
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "order": {
-          "integerValue": "19"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS EN 1"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-12T10:53:09.061Z"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-20-dt"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T21:03:36.873Z"
-        },
-        "drmKey": {
-          "stringValue": "f61b492872c33856940d6c756d146ac3:a1fb23a73fca88f85f475202d44bb53e"
-        }
-      },
-      "createTime": "2025-04-12T10:53:09.098932Z",
-      "updateTime": "2025-06-11T21:03:36.916050Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[21,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/9wuTPYyIT90pyiXOKnFF",
-      "fields": {
-        "name": {
-          "stringValue": "beIN SPORTS EN 2"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-12T10:55:06.712Z"
-        },
-        "order": {
-          "integerValue": "20"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-07-08T17:00:34.059Z"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "drmKey": {
-          "stringValue": "b825c808bc7c3f7f95116c7d2159b35f:0eea8f8b80ea21bf169fc3d91bec1702"
-        },
-        "streamUrl": {
-          "stringValue": "https://moviball.kesug.com/tod.php?id=svc-spo-hd-21-dt"
-        }
-      },
-      "createTime": "2025-04-12T10:55:06.750624Z",
-      "updateTime": "2025-07-08T17:00:34.093496Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[22,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/6ihosHbrmMEm98vXYCTm",
-      "fields": {
-        "order": {
-          "integerValue": "21"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-12T15:18:41.092Z"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:58:15.465Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS FR 1"
-        },
-        "drmKey": {
-          "stringValue": "ed86547983bb3c26ad35071448db2cbe:b7f5dadfe1f5435742b82bdea80e8801"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-22-dt"
-        }
-      },
-      "createTime": "2025-04-12T15:18:41.131261Z",
-      "updateTime": "2025-06-11T20:58:15.506398Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[23,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/5kgVYqIWYv8Zk93xUXWK",
-      "fields": {
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-23-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-12T15:14:05.954Z"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T21:05:23.042Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS FR 2"
-        },
-        "order": {
-          "integerValue": "22"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png"
-        },
-        "drmKey": {
-          "stringValue": "68cf3663f95639ac9333eec94f38bc75:481b60942c617ee40d27b73b747a95d1"
-        }
-      },
-      "createTime": "2025-04-12T15:14:06.005540Z",
-      "updateTime": "2025-06-11T21:05:23.080141Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[24,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/rQnlZl7QAhmaDu5QEjTL",
-      "fields": {
-        "logo": {
-          "stringValue": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png"
-        },
-        "order": {
-          "integerValue": "23"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-30-dt/DASH/playlist.mpd"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-04-29T15:50:03.387Z"
-        },
-        "drmKey": {
-          "stringValue": "f6540dc09a283bb189b5806166eb3a12:93c04494177f6952ae4c7507d3b75bfa"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-15T17:36:50.472Z"
-        },
-        "name": {
-          "stringValue": "beIN SPORTS AFC"
-        }
-      },
-      "createTime": "2025-04-15T17:36:50.513786Z",
-      "updateTime": "2025-04-29T15:50:03.430143Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[25,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/YCHFhfPzJSaBWg7syYrB",
-      "fields": {
-        "order": {
-          "integerValue": "26"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "logo": {
-          "stringValue": "https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9UTWtFa2k4bGkx/NGtvTDdlb2h5Tlcx/OUhzR3FNZUNYeE9l/Zl9fRVktV1VXMXJt/bUtXWWZLZk1HRWMz/Y1lwOEktVEdicz13/MjQwLWg0ODAtcnc"
-        },
-        "name": {
-          "stringValue": "TOD 3"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-03-dt"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-17T18:12:21.367Z"
-        },
-        "drmKey": {
-          "stringValue": "4058180d8e7732d3bc08784cde8f71ef:ce6db665cce84d24770d96913e323a98"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:57:22.101Z"
-        }
-      },
-      "createTime": "2025-04-17T18:12:21.435864Z",
-      "updateTime": "2025-06-11T20:57:22.144600Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[26,[{
-  "documentChange": {
-    "document": {
-      "name": "projects/moviball-af56f/databases/(default)/documents/channels/ZiVrZtxpeByM94YF9elg",
-      "fields": {
-        "order": {
-          "integerValue": "29"
-        },
-        "groupId": {
-          "stringValue": "ijNU0nmwT3iHphrWWIyU"
-        },
-        "streamUrl": {
-          "stringValue": "https://tod.moviball.online/tod.php?id=svc-spo-hd-05-dt"
-        },
-        "updatedAt": {
-          "timestampValue": "2025-06-11T20:57:35.106Z"
-        },
-        "logo": {
-          "stringValue": "https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9UTWtFa2k4bGkx/NGtvTDdlb2h5Tlcx/OUhzR3FNZUNYeE9l/Zl9fRVktV1VXMXJt/bUtXWWZLZk1HRWMz/Y1lwOEktVEdicz13/MjQwLWg0ODAtcnc"
-        },
-        "drmKey": {
-          "stringValue": "e244b992a3703e0185a9ed9c9ef9299d:5070395a1bc14c1f2db41085320c4b6e"
-        },
-        "name": {
-          "stringValue": "TOD 5"
-        },
-        "createdAt": {
-          "timestampValue": "2025-04-19T16:44:11.671Z"
-        }
-      },
-      "createTime": "2025-04-19T16:44:11.700875Z",
-      "updateTime": "2025-06-11T20:57:35.148455Z"
-    },
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[27,[{
-  "targetChange": {
-    "targetChangeType": "CURRENT",
-    "targetIds": [
-      8
-    ],
-    "resumeToken": "CgkIy67xhre1jgM=",
-    "readTime": "2025-07-11T18:25:55.943243Z"
-  }
-}
-]],[28,[{
-  "targetChange": {
-    "resumeToken": "CgkIy67xhre1jgM=",
-    "readTime": "2025-07-11T18:25:55.943243Z"
-  }
-}
-]],[29,[{
-  "filter": {
-    "targetId": 8,
-    "count": 25,
-    "unchangedNames": {
-      "bits": {
-        "bitmap": "p9sU4p3tGxVFfU8NhqI9kBbA17TjJJlZngYfz3BnugXTIPJzknsh7Qk53OCtUa3/klUtZD1MCSHTKwpFKjnT4zOD9EiT50XiAA==",
-        "padding": 7
-      },
-      "hashCount": 16
+    {
+      "name": "Alsharq Discovery",
+      "url": "https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd",
+      "key": "2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb"
     }
-  }
+  ],
+  "Entertainment": [
+    {
+      "name": "KSA 1",
+      "url": "https://uselector.cdn.intigral-ott.net/KSA1/KSA1.isml/manifest.mpd",
+      "key": "74206a6415616eaa383754ac4a7e4e0c:4efdc868ec53656d4f3ec8e09b814402"
+    },
+    {
+      "name": "SBC",
+      "url": "https://uselector.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd",
+      "key": "dbeadd802d38db99384d36b08344d303:f67885a1e6a52f11eb133dc422144434"
+    },
+    {
+      "name": "MBC 1 HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd",
+      "key": "bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a"
+    },
+    {
+      "name": "STC TV Drama",
+      "url": "https://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd",
+      "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
+    },
+    {
+      "name": "STC TV Family",
+      "url": "https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd",
+      "key": "5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4"
+    },
+    {
+      "name": "STC TV Anime",
+      "url": "https://uselector.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd",
+      "key": "f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe"
+    },
+    {
+      "name": "Bedaya HD",
+      "url": "https://uselector.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd",
+      "key": "5538be626e317ebae98df64d42bd3c16:348d5dc475576d0089d44682822cef2c"
+    },
+    {
+      "name": "Rotana Khalejia HD",
+      "url": "https://uselector.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd",
+      "key": "ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50"
+    },
+    {
+      "name": "Rotana + HD",
+      "url": "https://uselector.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd",
+      "key": "a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615"
+    },
+    {
+      "name": "MBC Drama + HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd",
+      "key": "d047b20a11fff140d4691ad839f997da:522f1af7009bc125fe0e40e143532052"
+    },
+    {
+      "name": "MBC Masr HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd",
+      "key": "8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9"
+    },
+    {
+      "name": "MBC Masr 2 HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd",
+      "key": "4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97"
+    },
+    {
+      "name": "MBC Drama HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd",
+      "key": "91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3"
+    },
+    {
+      "name": "Dubai",
+      "url": "https://uselector.cdn.intigral-ott.net/DBT/DBT.isml/manifest.mpd",
+      "key": "cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e"
+    },
+    {
+      "name": "Abu Dhabi TV",
+      "url": "https://uselector.cdn.intigral-ott.net/ADO/ADO.isml/manifest.mpd",
+      "key": "5b997b6eda03520a572ab527499859ca:0a35a1a66db970a5b7e4bb6d469737cd"
+    },
+    {
+      "name": "Al Emarat TV",
+      "url": "https://uselector.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd",
+      "key": "93e6d7023b51dee949dfca57bcadf8e4:634c0e0f8412e165f94b79fefbd47371"
+    },
+    {
+      "name": "Al Bahrain",
+      "url": "https://uselector.cdn.intigral-ott.net/BHT/BHT.isml/manifest.mpd",
+      "key": "430da64eea5e02531aece95173c2f4e0:0df6402f77dc8df58975671af77dc9e2"
+    },
+    {
+      "name": "Al Kuwait",
+      "url": "https://uselector.cdn.intigral-ott.net/KWT/KWT.isml/manifest.mpd",
+      "key": "236613eccd8a9a648630daab80f8bd6e:f1d1c2e231e622cd8125d39f251df0b6"
+    },
+    {
+      "name": "Rotana Drama HD",
+      "url": "https://uselector.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd",
+      "key": "9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19"
+    },
+    {
+      "name": "MBC 4 HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd",
+      "key": "c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47"
+    },
+    {
+      "name": "MBC GAMING HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd",
+      "key": "5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1"
+    },
+    {
+      "name": "MBC Varifty + HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd",
+      "key": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c"
+    },
+    {
+      "name": "STAR World",
+      "url": "https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd",
+      "key": "19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce"
+    },
+    {
+      "name": "food network",
+      "url": "https://uselector.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd",
+      "key": "781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923"
+    },
+    {
+      "name": "STAR Life",
+      "url": "https://uselector.cdn.intigral-ott.net/FXL/FXL.isml/manifest.mpd",
+      "key": "6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd"
+    },
+    {
+      "name": "MBC Bollywood",
+      "url": "https://uselector.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd",
+      "key": "ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c"
+    },
+    {
+      "name": "Zekrayat",
+      "url": "https://uselector.cdn.intigral-ott.net/ZKT/ZKT.isml/manifest.mpd",
+      "key": "f824aaf0377e1f7c85752333892db821:87050d42b010dd0ee503af7a02ade95b"
+    },
+    {
+      "name": "Sama Dubai",
+      "url": "https://uselector.cdn.intigral-ott.net/DBSM/DBSM.isml/manifest.mpd",
+      "key": "38f201523e9e04edccfda8ceff5dae8c:86fda252f9f2990c5de7f4d8af26b99e"
+    },
+    {
+      "name": "Al Mamlaka",
+      "url": "https://uselector.cdn.intigral-ott.net/MAM/MAM.isml/manifest.mpd",
+      "key": "f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43"
+    }
+  ],
+"Islamic": [
+    {
+      "name": "Alquran Alkarim",
+      "url": "https://uselector.cdn.intigral-ott.net/KSQ/KSQ.isml/manifest.mpd",
+      "key": "a477def67bb504fb3acf9350e3074501:1ae6a15786914df32103ae155f26ac73"
+    },
+    {
+      "name": "Alsuna Alnabawia",
+      "url": "https://uselector.cdn.intigral-ott.net/KSU/KSU.isml/manifest.mpd",
+      "key": "4b468eb6cfd65b8c96ea07f9c866d3f8:14858555f26296bf66d6eb27c75b9639"
+    },
+    {
+      "name": "Alresala Eatedal",
+      "url": "https://uselector.cdn.intigral-ott.net/ARH/ARH.isml/manifest.mpd",
+      "key": "cfa79dd00db0005b77e18515e3adbdd7:9556d6db1074b82ade91f66f43a6c05b"
+    },
+    {
+      "name": "Eqra Qawy Eamank",
+      "url": "https://uselector.cdn.intigral-ott.net/IQR/IQR.isml/manifest.mpd",
+      "key": "ccf98430187295319c820656cdddd32b:74b41384a387b7350d253bb159f9c9e2"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Disney Channel",
+      "url": "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd",
+      "key": "72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195"
+    },
+    {
+      "name": "Disney JR",
+      "url": "https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd",
+      "key": "f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0"
+    },
+    {
+      "name": "Cartoon Network HD",
+      "url": "https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd",
+      "key": "8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c"
+    },
+    {
+      "name": "Cartoon Network Arabia",
+      "url": "https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd",
+      "key": "ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313"
+    },
+    {
+      "name": "Cartoonito",
+      "url": "https://uselector.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd",
+      "key": "2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe"
+    },
+    {
+      "name": "Rotana Kids",
+      "url": "https://uselector.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd",
+      "key": "2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d"
+    },
+    {
+      "name": "MBC 3 HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd",
+      "key": "ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372"
+    },
+    {
+      "name": "Majid Kids TV",
+      "url": "https://uselector.cdn.intigral-ott.net/MAJ/MAJ.isml/manifest.mpd",
+      "key": "64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b"
+    },
+    {
+      "name": "SpaceToon",
+      "url": "https://uselector.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd",
+      "key": "2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045"
+    }
+  ],
+  "Movies": [
+    {
+      "name": "STC TV Cinema",
+      "url": "https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd",
+      "key": "27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613"
+    },
+    {
+      "name": "MBC 2 HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd",
+      "key": "baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685"
+    },
+    {
+      "name": "MBC MAX HD",
+      "url": "https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd",
+      "key": "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212"
+    },
+    {
+      "name": "STAR Action",
+      "url": "https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd",
+      "key": "230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2"
+    },
+    {
+      "name": "STAR Movies",
+      "url": "https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd",
+      "key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4"
+    }
+  ]
 }
-]],[30,[{
-  "targetChange": {
-    "resumeToken": "CgkI3Zz0hre1jgM=",
-    "readTime": "2025-07-11T18:25:55.990109Z"
-  }
-}
-]],[31,[{
-  "targetChange": {
-    "targetChangeType": "REMOVE",
-    "targetIds": [
-      8
-    ]
-  }
-}
-]],[32,["noop"]],[33,["noop"]]]150
-[[34,{"__sm__":{"status":[[{"error":{"code":499,"message":"Disconnecting idle stream. Timed out waiting for new targets.","status":"CANCELLED"}}]]}}]]
