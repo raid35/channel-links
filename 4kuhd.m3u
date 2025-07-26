@@ -1,7 +1,19 @@
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/706541.m3u8
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+http://cf.cdn-fast1.me/live/ahmedxrefai/3tgfzymw87/983525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN UHD
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=326256&extension=ts&play_token=HCy49VwM76
 #EXTINF:-1 tvg-id="" tvg-name="PT | digisport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png" group-title="Portugal",RO | DIGI SPORT 1
 http://line.iptv-4k.cc/live/AD1137/498545/1459835.m3u8
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima4K
+http://line.iptv-4k.cc/live/AD1137/498545/1459836.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
+http://line.iptv-4k.cc/live/AD1137/498545/1444603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
 http://line.iptv-4k.cc/live/AD1137/498545/1459839.m3u8
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
+http://line.iptv-4k.cc/live/AD1137/498545/1631453.m3u8
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/r0pE4NJ.png" group-title="2025 FIFA Club World Cup",US | truTV
 http://origi-jw-13.milong33.store:80/157005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="2025 FIFA Club World Cup", Supersport PL
@@ -10,8 +22,6 @@ https://7pal.short.gy/spersppl
 http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
 https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
-https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Sports | 4K UHD",Now Sports 1 4k
 https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",Hub Premier 2 UHD
@@ -22,8 +32,6 @@ https://7pal.short.gy/VSportUHD
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
 http://line.iptv-4k.cc/live/AD1137/498545/1444603.m3u8
-#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima4K
-http://line.iptv-4k.cc/live/AD1137/498545/1459836.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
 http://line.iptv-4k.cc/live/AD1137/498545/1444579.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | 4K UHD",Ziggo Sport UHD
@@ -32,8 +40,6 @@ https://7pal.short.gy/ZiggoSport
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
-http://line.iptv-4k.cc/live/AD1137/498545/1631453.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN UHD
 https://7pal.short.gy/nesnuhd
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Sports | EPL", Hub Premier1 FHD
