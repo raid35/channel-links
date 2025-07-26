@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="" tvg-name="PT | digisport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png" group-title="Portugal",RO | DIGI SPORT 1
+http://line.iptv-4k.cc/live/AD1137/498545/1459835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
+http://line.iptv-4k.cc/live/AD1137/498545/1459839.m3u8
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/r0pE4NJ.png" group-title="2025 FIFA Club World Cup",US | truTV
 http://origi-jw-13.milong33.store:80/157005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="2025 FIFA Club World Cup", Supersport PL
