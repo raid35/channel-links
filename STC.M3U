@@ -10,6 +10,8 @@ https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694a
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/37.png" group-title="ARABIC SPORTS",MBC MASR
 https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/mbgaming.jpg" group-title="ARABIC SPORTS",MBC ACTION
+https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/index_3.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/480.png" group-title="ARABIC SPORTS",MBC MASR 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/33.png" group-title="ARABIC SPORTS",MBC 4
@@ -49,9 +51,9 @@ https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133371.ts
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/375.ts
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/rotana-drama.jpg" group-title="ARABIC SPORTS",ROTANA drama
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/668.png" group-title="ARABIC SPORTS",ROTANA CINEMA +
 http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/392461.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/1668.png" group-title="ARABIC SPORTS",ROTANA COMEDY
@@ -65,11 +67,9 @@ http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/133375.ts
 #KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
 https://fastly-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/44.png" group-title="ARABIC SPORTS",ROTANA CLASSIC
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ARABIC SPORTS",ROTANA AFLAM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929 
-https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp" group-title="ARABIC SPORTS",ROTANA CINEMA US
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae 
