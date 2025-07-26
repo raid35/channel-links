@@ -72,20 +72,6 @@ http://44321.online:2086/live/172555148248/6740ab8668b6d/254356.ts
 http://44321.online:2086/live/172555148248/6740ab8668b6d/254357.ts
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" group-title="Arabes",PS | Al Fajer 5
 http://44321.online:2086/live/172555148248/6740ab8668b6d/254358.ts
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TURKEY",BeIN Sports 1 HD
-https://tinyurl.com/Komestas-eincehn/601/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_170_122" group-title="TURKEY",BeIN Sports 2 HD
-https://tinyurl.com/Komestas-eincehn/602/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="TURKEY",BeIN Sports 3 HD
-https://tinyurl.com/Komestas-eincehn/603/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="TURKEY",BeIN Sports 4 HD
-https://tinyurl.com/Komestas-eincehn/604/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="TURKEY",BeIN Sports 5 HD
-https://tinyurl.com/Komestas-eincehn/605/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="TURKEY",BeIN Sports Max 1 HD
-https://tinyurl.com/Komestas-eincehn/801/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="TURKEY",BeIN Sports Max 2 HD
-https://tinyurl.com/Komestas-eincehn/802/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.alkass.net/images/new-1.png",Alkass 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8  
 #EXTINF:-1 tvg-logo="https://www.alkass.net/images/new-2.png",Alkass 2
