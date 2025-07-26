@@ -30,6 +30,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg@SD" tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/ontv.jpg" group-title="General",ONTV
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg@SD" tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/onedrm.jpg" group-title="General",ONTV
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlKaheraWalNas.eg@SD" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="General",Al Kahera Wal Nas
 https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="General",Al Masriyah
