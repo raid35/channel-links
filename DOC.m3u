@@ -21,7 +21,9 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=14552&extensi
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: HG TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/150px-HGTV_logo.svg.png" group-title="AR OSN PREMIUM",AR: HG TV 
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=8258&extension=ts&play_token=7KW6d0B7kR
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg", DISCOVERY 
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=60922&extension=ts&play_token=zFlY84T7WD
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=60922&extension=ts
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/asharqdiscovery.jpg", asharqdiscovery 
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s", DISCOVERY FAMILY 
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=137498&extension=ts&play_token=KWtyl3VcFE
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", DISCOVERY ID 
