@@ -61,6 +61,9 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nilesat.png/960px-Nilesat.png?20250324144134",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/custom.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://images.seeklogo.com/logo-png/31/1/flag-map-of-turkey-logo-png_seeklogo-311633.png ",
+https://raw.githubusercontent.com/raid35/channel-links/main/TURKEY.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
 
