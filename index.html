@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZIGGO Sports 1 - مباشر</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.10.0/shaka-player.ui.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.10.0/controls.min.css" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            background: #000;
+            color: #ffffff;
+            overflow: hidden;
+            height: 100vh;
+        }
+
+        /* Video Player Container */
+        .video-player {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: #000;
+            z-index: 1000;
+        }
+
+        .video-container {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+
+        #dash-video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Watermark - More Transparent */
+        .watermark {
+            position: absolute;
+            top: 30px;
+            left: 30px;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+            z-index: 2000;
+            pointer-events: none;
+            font-family: 'Cairo', sans-serif;
+            opacity: 0.4;
+        }
+
+        /* Control Bar - Without Close Button */
+        .control-bar {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px 40px;
+            border-radius: 50px;
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            backdrop-filter: blur(10px);
+            z-index: 2000;
+        }
+
+        .control-bar.show {
+            opacity: 1;
+        }
+
+        .control-btn {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.8rem;
+            cursor: pointer;
+            padding: 12px;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .control-btn:hover,
+        .control-btn.focused {
+            background: rgba(255, 255, 255, 0.2);
+            transform: scale(1.2);
+        }
+
+        /* Audio/Subtitle Menu - Smaller and Slide Up Animation */
+        .audio-subtitle-menu {
+            position: absolute;
+            bottom: 120px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: rgba(0, 0, 0, 0.9);
+            border-radius: 12px;
+            padding: 15px;
+            min-width: 250px;
+            max-width: 280px;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            backdrop-filter: blur(15px);
+            z-index: 2500;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+        }
+
+        .audio-subtitle-menu.show {
+            opacity: 1;
+            visibility: visible;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .menu-section {
+            margin-bottom: 15px;
+        }
+
+        .menu-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .menu-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #ff6b35;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .menu-item {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            margin: 3px 0;
+            border-radius: 20px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .menu-item:hover,
+        .menu-item.focused {
+            background: rgba(255, 107, 53, 0.8);
+            transform: scale(1.03);
+        }
+
+        .menu-item.active {
+            background: rgba(0, 255, 136, 0.8);
+            font-weight: 600;
+        }
+
+        /* Loading Animation */
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 3000;
+            text-align: center;
+        }
+
+        .spinner {
+            width: 100px;
+            height: 100px;
+            border: 6px solid rgba(255, 107, 53, 0.3);
+            border-top: 6px solid #ff6b35;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 30px;
+        }
+
+        .loading-text {
+            color: #ffffff;
+            font-size: 2rem;
+            font-weight: 600;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+        }
+
+        .loading-channel {
+            color: #ff6b35;
+            font-size: 1.5rem;
+            margin-top: 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Error Message */
+        .error-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(255, 0, 0, 0.9);
+            color: white;
+            padding: 30px 40px;
+            border-radius: 20px;
+            text-align: center;
+            z-index: 3000;
+            display: none;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 10px 30px rgba(255, 0, 0, 0.3);
+        }
+
+        .error-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+
+        .error-text {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+        }
+
+        .retry-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .retry-btn:hover,
+        .retry-btn.focused {
+            background: rgba(255, 255, 255, 0.3);
+            transform: scale(1.1);
+        }
+
+        /* Volume Indicator */
+        .volume-indicator {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px 40px;
+            border-radius: 15px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 2000;
+            backdrop-filter: blur(10px);
+        }
+
+        .volume-indicator.show {
+            opacity: 1;
+        }
+
+        .volume-text {
+            color: #ffffff;
+            font-size: 1.8rem;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .watermark {
+                top: 20px;
+                left: 20px;
+                font-size: 2rem;
+                opacity: 0.3;
+            }
+
+            .control-bar {
+                bottom: 20px;
+                padding: 15px 25px;
+                gap: 20px;
+            }
+
+            .control-btn {
+                font-size: 1.5rem;
+                padding: 10px;
+            }
+
+            .audio-subtitle-menu {
+                min-width: 220px;
+                max-width: 250px;
+                bottom: 100px;
+                padding: 12px;
+            }
+
+            .menu-title {
+                font-size: 1rem;
+            }
+
+            .menu-item {
+                font-size: 0.9rem;
+                padding: 7px 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Video Player -->
+    <div class="video-player" id="videoPlayer">
+        <!-- Watermark - More Transparent -->
+        <div class="watermark">SIKSA</div>
+
+        <!-- Loading Animation -->
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <div class="loading-text">جاري تحميل القناة</div>
+            <div class="loading-channel">STC Cinema</div>
+        </div>
+
+        <!-- Error Message -->
+        <div class="error-message" id="errorMessage">
+            <div class="error-title">خطأ في التحميل</div>
+            <div class="error-text">لا يمكن تشغيل القناة حالياً</div>
+            <button class="retry-btn" id="retryBtn">إعادة المحاولة</button>
+        </div>
+
+        <!-- Video Container -->
+        <div class="video-container" id="videoContainer">
+            <!-- Video will be inserted here -->
+        </div>
+
+        <!-- Audio/Subtitle Menu - Smaller with Slide Up Animation -->
+        <div class="audio-subtitle-menu" id="audioSubtitleMenu">
+            <div class="menu-section" id="audioSection">
+                <div class="menu-title">مسارات الصوت</div>
+                <div id="audioTracks">
+                    <!-- Audio tracks will be populated here -->
+                </div>
+            </div>
+            <div class="menu-section" id="subtitleSection">
+                <div class="menu-title">الترجمة</div>
+                <div id="subtitleTracks">
+                    <!-- Subtitle tracks will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Volume Indicator -->
+        <div class="volume-indicator" id="volumeIndicator">
+            <div class="volume-text" id="volumeText">الصوت: 100%</div>
+        </div>
+
+        <!-- Control Bar - Only Audio and Subtitle Controls -->
+        <div class="control-bar" id="controlBar">
+            <button class="control-btn" id="audioBtn" title="مسارات الصوت">
+                <i class="fas fa-volume-up"></i>
+            </button>
+            <button class="control-btn" id="subtitleBtn" title="الترجمة">
+                <i class="fas fa-closed-captioning"></i>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Channel Data
+        const channel = {
+            name: "ZIGGO SPORTS 1 HD",
+            logo: "https://www.ziggosport.nl/images/logos/logo-ziggosport.svg",
+            url: "https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd",
+            key: "27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613",
+            type: "mpd"
+        };
+
+        // Global Variables
+        let currentPlayer = null;
+        let controlsTimeout = null;
+        let volumeTimeout = null;
+        let focusedControlIndex = 0;
+        let isMenuOpen = false;
+        let menuFocusIndex = 0;
+        let audioTracks = [];
+        let subtitleTracks = [];
+
+        // Initialize App
+        document.addEventListener('DOMContentLoaded', function() {
+            setupEventListeners();
+            setupRemoteControl();
+            
+            // Auto start playing
+            setTimeout(() => {
+                playChannel();
+            }, 1000);
+        });
+
+        // Play Channel
+        function playChannel() {
+            const loading = document.getElementById('loading');
+            const errorMessage = document.getElementById('errorMessage');
+            const videoContainer = document.getElementById('videoContainer');
+            
+            loading.style.display = 'block';
+            errorMessage.style.display = 'none';
+            focusedControlIndex = 0;
+            
+            // Clear previous player
+            if (currentPlayer) {
+                try {
+                    if (currentPlayer.destroy) {
+                        currentPlayer.destroy();
+                    }
+                } catch (e) {
+                    console.log('Error destroying player:', e);
+                }
+                currentPlayer = null;
+            }
+            
+            videoContainer.innerHTML = '';
+            playDashStream();
+        }
+
+        // Play DASH Stream
+        function playDashStream() {
+            const videoContainer = document.getElementById('videoContainer');
+            const loading = document.getElementById('loading');
+            const errorMessage = document.getElementById('errorMessage');
+            
+            const video = document.createElement('video');
+            video.id = 'dash-video';
+            video.style.width = '100%';
+            video.style.height = '100%';
+            video.style.objectFit = 'cover';
+            video.autoplay = true;
+            video.muted = false;
+            video.controls = false;
+            videoContainer.appendChild(video);
+
+            if (shaka && shaka.Player.isBrowserSupported()) {
+                const player = new shaka.Player(video);
+                currentPlayer = player;
+
+                // Configure DRM
+                if (channel.key) {
+                    const [keyId, key] = channel.key.split(':');
+                    player.configure({
+                        drm: {
+                            clearKeys: {
+                                [keyId]: key
+                            }
+                        }
+                    });
+                }
+
+                // Configure player settings
+                player.configure({
+                    streaming: {
+                        bufferingGoal: 30,
+                        rebufferingGoal: 10,
+                        bufferBehind: 30,
+                        retryParameters: {
+                            timeout: 30000,
+                            maxAttempts: 3,
+                            baseDelay: 1000,
+                            backoffFactor: 2,
+                            fuzzFactor: 0.5
+                        }
+                    },
+                    abr: {
+                        enabled: true,
+                        useNetworkInformation: true
+                    }
+                });
+
+                // Load the stream
+                player.load(channel.url).then(() => {
+                    loading.style.display = 'none';
+                    showControls();
+                    loadAudioAndSubtitleTracks();
+                    
+                    // Auto enter fullscreen
+                    setTimeout(() => {
+                        enterFullscreen();
+                    }, 1000);
+                    
+                }).catch((error) => {
+                    console.error('Error loading DASH stream:', error);
+                    loading.style.display = 'none';
+                    showError();
+                });
+
+                // Handle player events
+                player.addEventListener('error', (event) => {
+                    console.error('Player error:', event.detail);
+                    loading.style.display = 'none';
+                    showError();
+                });
+
+                // Handle video events
+                video.addEventListener('loadstart', () => {
+                    console.log('Video loading started');
+                });
+
+                video.addEventListener('canplay', () => {
+                    console.log('Video can start playing');
+                    loading.style.display = 'none';
+                });
+
+                video.addEventListener('playing', () => {
+                    console.log('Video is playing');
+                    showControls();
+                });
+
+                video.addEventListener('error', () => {
+                    console.error('Video element error');
+                    loading.style.display = 'none';
+                    showError();
+                });
+
+            } else {
+                loading.style.display = 'none';
+                showError('المتصفح لا يدعم تشغيل هذا النوع من الفيديو');
+            }
+        }
+
+        // Load Audio and Subtitle Tracks
+        function loadAudioAndSubtitleTracks() {
+            if (!currentPlayer) return;
+
+            try {
+                // Get audio tracks
+                audioTracks = currentPlayer.getVariantTracks().map(track => ({
+                    id: track.id,
+                    language: track.language || 'غير محدد',
+                    label: track.label || `صوت ${track.language || 'افتراضي'}`,
+                    active: track.active
+                }));
+
+                // Get subtitle tracks
+                subtitleTracks = currentPlayer.getTextTracks().map(track => ({
+                    id: track.id,
+                    language: track.language || 'غير محدد',
+                    label: track.label || `ترجمة ${track.language || 'افتراضي'}`,
+                    active: track.active
+                }));
+
+                // Add "no subtitles" option
+                subtitleTracks.unshift({
+                    id: -1,
+                    language: 'none',
+                    label: 'بدون ترجمة',
+                    active: !subtitleTracks.some(track => track.active)
+                });
+
+                populateAudioSubtitleMenu();
+            } catch (error) {
+                console.error('Error loading tracks:', error);
+            }
+        }
+
+        // Populate Audio/Subtitle Menu
+        function populateAudioSubtitleMenu() {
+            const audioTracksContainer = document.getElementById('audioTracks');
+            const subtitleTracksContainer = document.getElementById('subtitleTracks');
+
+            // Clear existing content
+            audioTracksContainer.innerHTML = '';
+            subtitleTracksContainer.innerHTML = '';
+
+            // Populate audio tracks
+            audioTracks.forEach((track, index) => {
+                const button = document.createElement('button');
+                button.className = `menu-item ${track.active ? 'active' : ''}`;
+                button.textContent = track.label;
+                button.onclick = () => selectAudioTrack(track.id);
+                audioTracksContainer.appendChild(button);
+            });
+
+            // Populate subtitle tracks
+            subtitleTracks.forEach((track, index) => {
+                const button = document.createElement('button');
+                button.className = `menu-item ${track.active ? 'active' : ''}`;
+                button.textContent = track.label;
+                button.onclick = () => selectSubtitleTrack(track.id);
+                subtitleTracksContainer.appendChild(button);
+            });
+        }
+
+        // Select Audio Track
+        function selectAudioTrack(trackId) {
+            if (!currentPlayer) return;
+
+            try {
+                const variants = currentPlayer.getVariantTracks();
+                const selectedVariant = variants.find(v => v.id === trackId);
+                if (selectedVariant) {
+                    currentPlayer.selectVariantTrack(selectedVariant, true);
+                    loadAudioAndSubtitleTracks(); // Refresh the menu
+                }
+            } catch (error) {
+                console.error('Error selecting audio track:', error);
+            }
+        }
+
+        // Select Subtitle Track
+        function selectSubtitleTrack(trackId) {
+            if (!currentPlayer) return;
+
+            try {
+                if (trackId === -1) {
+                    // Disable subtitles
+                    currentPlayer.setTextTrackVisibility(false);
+                } else {
+                    const textTracks = currentPlayer.getTextTracks();
+                    const selectedTrack = textTracks.find(t => t.id === trackId);
+                    if (selectedTrack) {
+                        currentPlayer.selectTextTrack(selectedTrack);
+                        currentPlayer.setTextTrackVisibility(true);
+                    }
+                }
+                loadAudioAndSubtitleTracks(); // Refresh the menu
+            } catch (error) {
+                console.error('Error selecting subtitle track:', error);
+            }
+        }
+
+        // Show Error
+        function showError(message = 'لا يمكن تشغيل القناة حالياً') {
+            const errorMessage = document.getElementById('errorMessage');
+            errorMessage.querySelector('.error-text').textContent = message;
+            errorMessage.style.display = 'block';
+        }
+
+        // Show Controls
+        function showControls() {
+            const controlBar = document.getElementById('controlBar');
+            controlBar.classList.add('show');
+            updateControlFocus();
+            
+            if (controlsTimeout) {
+                clearTimeout(controlsTimeout);
+            }
+            
+            controlsTimeout = setTimeout(() => {
+                if (!isMenuOpen) {
+                    controlBar.classList.remove('show');
+                    clearControlFocus();
+                }
+            }, 4000);
+        }
+
+        // Show Audio/Subtitle Menu with Slide Up Animation
+        function showAudioSubtitleMenu() {
+            const menu = document.getElementById('audioSubtitleMenu');
+            menu.classList.add('show');
+            isMenuOpen = true;
+            menuFocusIndex = 0;
+            updateMenuFocus();
+        }
+
+        // Hide Audio/Subtitle Menu
+        function hideAudioSubtitleMenu() {
+            const menu = document.getElementById('audioSubtitleMenu');
+            menu.classList.remove('show');
+            isMenuOpen = false;
+            clearMenuFocus();
+        }
+
+        // Update Control Focus
+        function updateControlFocus() {
+            const controls = document.querySelectorAll('.control-btn');
+            controls.forEach((btn, index) => {
+                if (index === focusedControlIndex) {
+                    btn.classList.add('focused');
+                } else {
+                    btn.classList.remove('focused');
+                }
+            });
+        }
+
+        // Clear Control Focus
+        function clearControlFocus() {
+            document.querySelectorAll('.control-btn').forEach(btn => {
+                btn.classList.remove('focused');
+            });
+        }
+
+        // Update Menu Focus
+        function updateMenuFocus() {
+            const menuItems = document.querySelectorAll('.menu-item');
+            menuItems.forEach((item, index) => {
+                if (index === menuFocusIndex) {
+                    item.classList.add('focused');
+                } else {
+                    item.classList.remove('focused');
+                }
+            });
+        }
+
+        // Clear Menu Focus
+        function clearMenuFocus() {
+            document.querySelectorAll('.menu-item').forEach(item => {
+                item.classList.remove('focused');
+            });
+        }
+
+        // Show Volume Indicator
+        function showVolumeIndicator(volume) {
+            const volumeIndicator = document.getElementById('volumeIndicator');
+            const volumeText = document.getElementById('volumeText');
+            
+            volumeText.textContent = `الصوت: ${Math.round(volume * 100)}%`;
+            volumeIndicator.classList.add('show');
+            
+            if (volumeTimeout) {
+                clearTimeout(volumeTimeout);
+            }
+            
+            volumeTimeout = setTimeout(() => {
+                volumeIndicator.classList.remove('show');
+            }, 2000);
+        }
+
+        // Enter Fullscreen
+        function enterFullscreen() {
+            const videoPlayer = document.getElementById('videoPlayer');
+            if (videoPlayer.requestFullscreen) {
+                videoPlayer.requestFullscreen();
+            } else if (videoPlayer.webkitRequestFullscreen) {
+                videoPlayer.webkitRequestFullscreen();
+            } else if (videoPlayer.msRequestFullscreen) {
+                videoPlayer.msRequestFullscreen();
+            }
+        }
+
+        // Setup Event Listeners
+        function setupEventListeners() {
+            // Control buttons
+            document.getElementById('audioBtn').addEventListener('click', showAudioSubtitleMenu);
+            document.getElementById('subtitleBtn').addEventListener('click', showAudioSubtitleMenu);
+            
+            // Retry Button
+            document.getElementById('retryBtn').addEventListener('click', playChannel);
+            
+            // Mouse movement
+            document.addEventListener('mousemove', showControls);
+        }
+
+        // Remote Control Setup
+        function setupRemoteControl() {
+            document.addEventListener('keydown', (e) => {
+                e.preventDefault();
+                handleRemoteKeys(e.key);
+            });
+        }
+
+        // Handle Remote Keys
+        function handleRemoteKeys(key) {
+            const video = document.getElementById('dash-video');
+            
+            if (isMenuOpen) {
+                handleMenuKeys(key);
+                return;
+            }
+            
+            switch (key) {
+                case 'Backspace':
+                case 'Escape':
+                    // Exit fullscreen instead of closing app
+                    if (document.fullscreenElement) {
+                        document.exitFullscreen();
+                    }
+                    break;
+                    
+                case ' ':
+                case 'Enter':
+                    const controlBar = document.getElementById('controlBar');
+                    if (controlBar.classList.contains('show')) {
+                        // Execute focused control
+                        const controls = document.querySelectorAll('.control-btn');
+                        if (controls[focusedControlIndex]) {
+                            controls[focusedControlIndex].click();
+                        }
+                    } else {
+                        showControls();
+                    }
+                    break;
+                    
+                case 'ArrowLeft':
+                    if (document.getElementById('controlBar').classList.contains('show')) {
+                        focusedControlIndex = Math.max(0, focusedControlIndex - 1);
+                        updateControlFocus();
+                        showControls();
+                    }
+                    break;
+                    
+                case 'ArrowRight':
+                    if (document.getElementById('controlBar').classList.contains('show')) {
+                        const maxIndex = document.querySelectorAll('.control-btn').length - 1;
+                        focusedControlIndex = Math.min(maxIndex, focusedControlIndex + 1);
+                        updateControlFocus();
+                        showControls();
+                    }
+                    break;
+                    
+                case 'ArrowUp':
+                    // Volume up
+                    if (video) {
+                        const newVolume = Math.min(1, video.volume + 0.1);
+                        video.volume = newVolume;
+                        showVolumeIndicator(newVolume);
+                    }
+                    break;
+                    
+                case 'ArrowDown':
+                    // Volume down
+                    if (video) {
+                        const newVolume = Math.max(0, video.volume - 0.1);
+                        video.volume = newVolume;
+                        showVolumeIndicator(newVolume);
+                    }
+                    break;
+                    
+                case 'p':
+                case 'P':
+                    // Play/Pause
+                    if (video) {
+                        if (video.paused) {
+                            video.play();
+                        } else {
+                            video.pause();
+                        }
+                    }
+                    break;
+                    
+                case 'r':
+                case 'R':
+                    // Reload/Retry
+                    playChannel();
+                    break;
+                    
+                case 'i':
+                case 'I':
+                    // Show controls
+                    showControls();
+                    break;
+            }
+        }
+
+        // Handle Menu Keys
+        function handleMenuKeys(key) {
+            const menuItems = document.querySelectorAll('.menu-item');
+            const maxIndex = menuItems.length - 1;
+            
+            switch (key) {
+                case 'ArrowUp':
+                    menuFocusIndex = Math.max(0, menuFocusIndex - 1);
+                    updateMenuFocus();
+                    break;
+                    
+                case 'ArrowDown':
+                    menuFocusIndex = Math.min(maxIndex, menuFocusIndex + 1);
+                    updateMenuFocus();
+                    break;
+                    
+                case 'Enter':
+                    if (menuItems[menuFocusIndex]) {
+                        menuItems[menuFocusIndex].click();
+                        hideAudioSubtitleMenu();
+                    }
+                    break;
+                    
+                case 'Backspace':
+                case 'Escape':
+                    hideAudioSubtitleMenu();
+                    break;
+            }
+        }
+    </script>
+</body>
+</html>
