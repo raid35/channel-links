@@ -26,6 +26,10 @@ https://hamada-tv.com/mbc2.html
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/35.png" group-title="ARABIC SPORTS",MBC BOLLYWOOD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="STC Cinema" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/0x0@75/http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCC_176.png" , STC Cinema
+https://raid35.github.io/docs/STCC.html
+#EXTINF:-1 group-title="STC Drama" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCD_176.png" , STC Drama
+https://raid35.github.io/docs/STCD.html
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates (1080p)
