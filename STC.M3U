@@ -18,12 +18,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/30.png" group-title="ARABIC SPORTS",MBC VARITY
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="ARABIC SPORTS",MBC iraq
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="ARABIC SPORTS",MBC VARITY
+https://raid35.github.io/docs/MBV.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/31.png" group-title="ARABIC SPORTS",MBC 2
-https://hamada-tv.com/mbc2.html
+https://raid35.github.io/docs/MB2H.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/38.png" group-title="ARABIC SPORTS",MBC MAX
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+https://raid35.github.io/docs/MBMH.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/35.png" group-title="ARABIC SPORTS",MBC BOLLYWOOD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="STC Cinema" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/0x0@75/http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCC_176.png" , STC Cinema
