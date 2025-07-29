@@ -9,6 +9,6 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=1236621&exten
 #EXTINF:-1 tvg-id="" tvg-name="4krelax" tvg-logo="https://4krelax.com/channels/4krelax/logo.png", 4krelax  
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=1238298&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="4krelax" tvg-logo="https://4krelax.com/channels/4krelax/logo.png", 4krelax  
-https://jazzy-phoenix-68e8e5.netlify.app/
+https://raw.githubusercontent.com/raid35/channel-links/5d0bd6ac11d582e0f373c20cecd9f107718939bf/index.html
 #EXTINF:-1 tvg-id="" tvg-name="4krelax" tvg-logo="https://4krelax.com/channels/4krelax/logo.png", 4krelax  
 https://dancing-sprinkles-e72e20.netlify.app/
