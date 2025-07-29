@@ -6,35 +6,19 @@ https://raid35.github.io/docs/AD-SPORT-2.html
 https://raid35.github.io/docs/STC1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="http://mediaimage.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_Color.svg", STC SPORTS 2
 https://raid35.github.io/docs/STC2.html
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png", AD SPORTS PREMIUM 1
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1968.ts
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1969.ts
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-1.png", AD SPORTS 1
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/238.ts
+https://raw.githubusercontent.com/raid35/SIKSA-TV/main/AD1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-2.jpg", AD SPORTS 2
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/239.ts
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+https://raw.githubusercontent.com/raid35/SIKSA-TV/main/AD2.html
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1
+https://raw.githubusercontent.com/raid35/SIKSA-TV/main/DBSH.html
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2
+https://raw.githubusercontent.com/raid35/SIKSA-TV/main/DBS2.html
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+https://raw.githubusercontent.com/raid35/SIKSA-TV/main/SHS.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w783855516_b1307000.m3u8
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
-https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
-#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=djg5bA0OjIb+3fK1fobPjXNn91A7d0gdSeD34zljmi+2IkNZXwty01tpxYT1p5q9
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7
-https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd
+
+
 
 
