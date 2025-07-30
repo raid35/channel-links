@@ -60,12 +60,8 @@ https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/60579
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/45.png" group-title="ARABIC SPORTS",ROTANA CINEMA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/rotana-drama.jpg" group-title="ARABIC SPORTS",ROTANA drama
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/668.png" group-title="ARABIC SPORTS",ROTANA CINEMA +
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/392461.ts
+https://siksa40.blogspot.com/2025/01/bein-sports-5.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/1668.png" group-title="ARABIC SPORTS",ROTANA COMEDY
 http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/368621.ts
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/drama.png" group-title="ARABIC SPORTS",ROTANA DRAMA
@@ -75,16 +71,14 @@ https://siksa40.blogspot.com/2025/01/bein-sports.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://media0075.elcinema.com/tvguide/1365_1.png" group-title="ARABIC SPORTS",ROTP
 https://siksa40.blogspot.com/2025/01/bein-sports-9.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/44.png" group-title="ARABIC SPORTS",ROTANA CLASSIC
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ARABIC SPORTS",ROTANA AFLAM
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+https://siksa40.blogspot.com/2025/01/bein-sports-4.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
+https://siksa40.blogspot.com/2025/01/sports-2.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp" group-title="ARABIC SPORTS",ROTANA CINEMA US
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae 
-https://fastly-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd
+https://siksa40.blogspot.com/2025/01/bein-sports-3.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ARABIC SPORTS",ROTANA CINEMA MASR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
-https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd
+https://siksa40.blogspot.com/2025/01/bein-sports-6.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/comedy.png" group-title="ARABIC SPORTS",ROTF
 https://siksa40.blogspot.com/2025/01/bein-sports-7.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
+https://siksa40.blogspot.com/2025/01/sports-2.html
