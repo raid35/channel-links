@@ -32,6 +32,30 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://raid35.github.io/docs/STCC.html
 #EXTINF:-1 group-title="STC Drama" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCD_176.png" , STC Drama
 https://raid35.github.io/docs/STCD.html
+#EXTINF:-1 group-title="STC Drama" tvg-logo="https://tod.enhance.diagnal.com/resources/images/link/0d4da9ec-6d9f-367c-8ceb-7143f47ba840/ab4448aa-6e2c-56a6-8408-e6ad8ec7d1fe/638763644800100000/0:0:400:400/330x330/b178b4c5-3420-4719-97e9-034943301424_star-action.webp" , star action
+https://raid35.github.io/docs/STA.html
+#EXTINF:-1 group-title="STC Drama" tvg-logo="https://tod.enhance.diagnal.com/resources/images/link/52cf300e-7e0a-3b6a-a0ad-7ddfc8118abe/ab4448aa-6e2c-56a6-8408-e6ad8ec7d1fe/638763647396280000/0:0:400:400/330x330/15f84bca-4a13-4008-866d-8de5154b33c1_star-movies.webp" , star movies
+https://raid35.github.io/docs/STM.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/668.png" group-title="ARABIC SPORTS",ROTANA CINEMA +
+https://siksa40.blogspot.com/2025/01/bein-sports-5.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/drama.png" group-title="ARABIC SPORTS",ROTANA DRAMA
+https://siksa40.blogspot.com/2025/01/bein-sports-8.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/khaleejiya.png" group-title="ARABIC SPORTS",ROTANA KHALAJA
+https://siksa40.blogspot.com/2025/01/bein-sports.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://media0075.elcinema.com/tvguide/1365_1.png" group-title="ARABIC SPORTS",ROTP
+https://siksa40.blogspot.com/2025/01/bein-sports-9.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/44.png" group-title="ARABIC SPORTS",ROTANA CLASSIC
+https://siksa40.blogspot.com/2025/01/bein-sports-4.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
+https://siksa40.blogspot.com/2025/01/sports-2.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp" group-title="ARABIC SPORTS",ROTANA CINEMA US
+https://siksa40.blogspot.com/2025/01/bein-sports-3.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ARABIC SPORTS",ROTANA CINEMA MASR
+https://siksa40.blogspot.com/2025/01/bein-sports-6.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/comedy.png" group-title="ARABIC SPORTS",ROTF
+https://siksa40.blogspot.com/2025/01/bein-sports-7.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
+https://siksa40.blogspot.com/2025/01/sports-2.html
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates (1080p)
@@ -60,25 +84,3 @@ https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/60579
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/668.png" group-title="ARABIC SPORTS",ROTANA CINEMA +
-https://siksa40.blogspot.com/2025/01/bein-sports-5.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/1668.png" group-title="ARABIC SPORTS",ROTANA COMEDY
-http://satpower.shop:8080/live/MustafaIbrahim/E3WnrMo2q4/368621.ts
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/drama.png" group-title="ARABIC SPORTS",ROTANA DRAMA
-https://siksa40.blogspot.com/2025/01/bein-sports-8.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/khaleejiya.png" group-title="ARABIC SPORTS",ROTANA KHALAJA
-https://siksa40.blogspot.com/2025/01/bein-sports.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://media0075.elcinema.com/tvguide/1365_1.png" group-title="ARABIC SPORTS",ROTP
-https://siksa40.blogspot.com/2025/01/bein-sports-9.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/44.png" group-title="ARABIC SPORTS",ROTANA CLASSIC
-https://siksa40.blogspot.com/2025/01/bein-sports-4.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
-https://siksa40.blogspot.com/2025/01/sports-2.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp" group-title="ARABIC SPORTS",ROTANA CINEMA US
-https://siksa40.blogspot.com/2025/01/bein-sports-3.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ARABIC SPORTS",ROTANA CINEMA MASR
-https://siksa40.blogspot.com/2025/01/bein-sports-6.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/comedy.png" group-title="ARABIC SPORTS",ROTF
-https://siksa40.blogspot.com/2025/01/bein-sports-7.html
-#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://rotana.net/logos/clip.png" group-title="ARABIC SPORTS",ROTANA clip
-https://siksa40.blogspot.com/2025/01/sports-2.html
