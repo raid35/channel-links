@@ -12,6 +12,16 @@ https://siksa40.blogspot.com/2025/07/ziggo4.html
 https://siksa40.blogspot.com/2025/07/ziggo5.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport6" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport6.svg", ZIGGO SPORTS 6
 https://siksa40.blogspot.com/2025/07/ziggo6.html
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
+https://siksa40.blogspot.com/2025/07/tnt1.html
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
+https://siksa40.blogspot.com/2025/07/tnt2.html
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports | UK", TNT Sports 3 FHD
+https://siksa40.blogspot.com/2025/07/tnt3.html
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports | UK", TNT Sports 4 FHD
+https://siksa40.blogspot.com/2025/07/tnt4.html
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", Sky Sports Main Event FHD
+http://line.iptv-4k.cc/live/AD1137/498545/1444578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN UHD
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=326256&extension=ts&play_token=HCy49VwM76
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN 1
