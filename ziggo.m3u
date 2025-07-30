@@ -4,8 +4,6 @@ https://siksa40.blogspot.com/2025/07/ziggo1.html
 https://siksa40.blogspot.com/2025/07/ziggo2.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport3.svg", ZIGGO SPORTS 3
 https://siksa40.blogspot.com/2025/07/ziggo3.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport3.svg", ZIGGO SPORTS 3
-https://siksa40.blogspot.com/2025/07/ziggo3.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport4.svg", ZIGGO SPORTS 4
 https://siksa40.blogspot.com/2025/07/ziggo4.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport5.svg", ZIGGO SPORTS 5
@@ -23,12 +21,14 @@ https://siksa40.blogspot.com/2025/07/tnt4.html
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", Sky Sports Main Event FHD
 http://line.iptv-4k.cc/live/AD1137/498545/1444578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN UHD
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=326256&extension=ts&play_token=HCy49VwM76
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=326256&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN 1
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317812&extension=ts&play_token=SoB4bVADf0
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317812&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://lo1.in/nl/espn2.png", zESPN 2
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317811&extension=ts&play_token=ALFBOLEmL8
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317811&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://lo1.in/nl/espn3.png", ESPN 3
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317810&extension=ts&play_token=JDTySpWogL
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317810&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport4" tvg-logo="https://lo1.in/nl/espn4.png", ESPN 4
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317809&extension=ts&play_token=D3rw5oT1gc
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317809&extension=ts
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
+https://siksa40.blogspot.com/2025/07/max5.html
