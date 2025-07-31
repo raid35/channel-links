@@ -23,13 +23,11 @@ https://raid35.github.io/docs/player.html?id=USANETWORK
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg", DISCOVERY 
 https://raid35.github.io/docs/player.html?id=DSC
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/asharqdiscovery.jpg", asharqdiscovery 
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+https://raid35.github.io/docs/player.html?id=DCF
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s", DISCOVERY FAMILY 
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=137498&extension=ts&play_token=KWtyl3VcFE
+https://raid35.github.io/docs/player.html?id=DCF
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", DISCOVERY ID 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188 
-https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
+https://raid35.github.io/docs/player.html?id=DCX
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="FR CULTURE",FR: NAT GEO HD
