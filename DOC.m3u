@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: HG TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/150px-HGTV_logo.svg.png" group-title="AR OSN PREMIUM",AR: HG TV 
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: HG TV  " tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/HGTV.png" group-title="AR OSN PREMIUM",AR: HG TV 
 https://raid35.github.io/docs/player.html?id=USANETWORK
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg", DISCOVERY 
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://assets.bein.com/mena/sites/3/2021/03/Discovery-logo-1.png", DISCOVERY 
 https://raid35.github.io/docs/player.html?id=DSC
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s", DISCOVERY FAMILY 
 https://raid35.github.io/docs/player.html?id=DCF
@@ -8,13 +8,13 @@ https://raid35.github.io/docs/player.html?id=DCF
 https://raid35.github.io/docs/player.html?id=DCX
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://go4.pw/ARABE/ASHARQ_DISCOVERY.png", asharqdiscovery 
 https://raid35.github.io/docs/player.html?id=ASHD
-#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="FR CULTURE",FR: NAT GEO HD
+#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png",FR: NAT GEO HD
 https://raid35.github.io/docs/player.html?id=DCF
-#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/nat_geo_wild_us.png" group-title="FR CULTURE",FR: NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/UPDATEz-NGW_Full_Logo_20182.png" group-title="FR CULTURE",FR: NAT GEO WILD HD
 https://raid35.github.io/docs/player.html?id=NHD
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FATAFEAT" tvg-logo="https://go4.pw/ARABE/Fatafeat.png" group-title="AR OSN PREMIUM",AR: OSN FATAFEAT
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FATAFEAT" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="AR OSN PREMIUM",AR: OSN FATAFEAT
 https://raid35.github.io/docs/player.html?id=FAT
-#EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Travel_Channel_logo-aqua.png/120px-Travel_Channel_logo-aqua.png" group-title="AR OSN PREMIUM",AR: Travel 
+#EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="AR OSN PREMIUM",AR: Travel 
 https://raid35.github.io/docs/player.html?id=TRA
 #EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="https://go4.pw/EUROPE/GERMANY/AnimalPlanet.png" group-title="AR OSN PREMIUM",AR: ANIMAL PALANT 
 https://raid35.github.io/docs/player.html?id=APL
