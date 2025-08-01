@@ -11,15 +11,15 @@ https://raid35.github.io/docs/player.html?id=adsp1
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png", AD SPORTS 2
 https://raid35.github.io/docs/player.html?id=adsp2
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://go4.pw/ARABE/DUBAI_SPORTS_2.png" group-title="Sports",Dubai Sports 1
-https://raid35.github.io/docs/DBSH.html
+https://raid35.github.io/docs/player.html?id=DBSH
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://go4.pw/ARABE/DUBAI_SPORTS_2.png" group-title="Sports",Dubai Sports 2
-https://raid35.github.io/docs/DBS2.html
+https://raid35.github.io/docs/player.html?id=DBS2
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://go4.pw/ARABE/DUBAI_SPORTS_2.png" group-title="Sports",Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
-https://raid35.github.io/docs/SHS.html
+https://raid35.github.io/docs/player.html?id=SHS
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/bahrin1.png", BAHRIEN SPORTS 1
-https://raid35.github.io/docs/BST.html
+https://raid35.github.io/docs/player.html?id=BST
 
 
 
