@@ -23,23 +23,21 @@ https://raid35.github.io/docs/player.html?id=USANETWORK
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg", DISCOVERY 
 https://raid35.github.io/docs/player.html?id=DSC
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="http://mobi.jawaltv.com/iphone/images/ar_jpg/asharqdiscovery.jpg", asharqdiscovery 
-https://raid35.github.io/docs/player.html?id=DCF
+https://raid35.github.io/docs/player.html?id=ASHD
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kMiY-7tnxBy6IGqU7f1skLc0cOU4S8GS1iLAB9gKr9cRhyJRyTwyBc&usqp=CAE&s", DISCOVERY FAMILY 
 https://raid35.github.io/docs/player.html?id=DCF
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", DISCOVERY ID 
 https://raid35.github.io/docs/player.html?id=DCX
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="FR CULTURE",FR: NAT GEO HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=15065&extension=ts&play_token=T51bIbB6SK
+https://raid35.github.io/docs/player.html?id=DCF
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/nat_geo_wild_us.png" group-title="FR CULTURE",FR: NAT GEO WILD HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=15064&extension=ts&play_token=sWLZcxVCfh
+https://raid35.github.io/docs/player.html?id=NHD
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN FATAFEAT" tvg-logo="http://sltv-logo.cms-s.com/logo/SAUDIARABIA/osnFatafeat.png" group-title="AR OSN PREMIUM",AR: OSN FATAFEAT
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=73783&extension=ts&play_token=Z0sX60LuRd
 #EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Travel_Channel_logo-aqua.png/120px-Travel_Channel_logo-aqua.png" group-title="AR OSN PREMIUM",AR: Travel 
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=2557&extension=ts&play_token=trXtM8GiQf
+https://raid35.github.io/docs/player.html?id=TRA
 #EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/animal_planet.png" group-title="AR OSN PREMIUM",AR: ANIMAL PALANT 
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=77012&extension=ts&play_token=IEBPiOK0ak
+https://raid35.github.io/docs/player.html?id=APL
 #EXTINF:-1 tvg-name="FR: CHASSE PECHE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6329.jpg?31714" group-title="FR| DOCUMENTAIRE HD/4K",FR: CHASSE PECHE 4K
 http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106927.m3u8
 #EXTINF:-1 tvg-name="#### DOCUMENTAIRE HD/4K ####" group-title="FR| DOCUMENTAIRE HD/4K",#### DOCUMENTAIRE HD/4K ####
