@@ -1,6 +1,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES
-https://raid35.github.io/docs/LIGA_CAM.html
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="" group-title="Sports",ES | M+ LA LIGÁ HD
+https://raid35.github.io/docs/CAMP.html
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES - M. LIGA DE CAMPEONES 1 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 1
+https://raid35.github.io/docs/CAMP1.html
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES - M. LIGA DE CAMPEONES 2 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 2
+https://raid35.github.io/docs/CAMP2.html
+#EXTINF:-1 tvg-name="ES - M. LIGA DE CAMPEONES 3 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 3
+https://raid35.github.io/docs/CAMP3.html
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES - M. LIGA DE CAMPEONES 4 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 4
+https://raid35.github.io/docs/CAMP4.html
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" group-title="Sports",ES | M+ LA LIGÁ HD
 https://raid35.github.io/docs/LA_LIGÁ.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://148.251.133.153:8181/logo/chn/3354.png" group-title="Sports",ES | DAZN LaLiga
 https://raid35.github.io/docs/player.html?id=nova1
