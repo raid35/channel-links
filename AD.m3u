@@ -7,9 +7,9 @@ https://raid35.github.io/docs/STC1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="http://mediaimage.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_Color.svg", STC SPORTS 2
 https://raid35.github.io/docs/STC2.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-1.png", AD SPORTS 1
-https://raid35.github.io/docs/AD1.html
+https://raid35.github.io/docs/player.html?id=adsp1
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-2.jpg", AD SPORTS 2
-https://raid35.github.io/docs/AD2.html
+https://raid35.github.io/docs/player.html?id=adsp2
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/DS-Medium.jpg" group-title="Sports",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/DS2-Medium.jpg" group-title="Sports",Dubai Sports 2
