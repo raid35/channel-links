@@ -40,6 +40,8 @@ https://siksa40.blogspot.com/2025/07/tnt3.html
 https://siksa40.blogspot.com/2025/07/tnt4.html
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC USA
 https://raid35.github.io/docs/NBC.html
+#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",USA
+https://raid35.github.io/docs/usa-west.html
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png", TSN 1
 https://siksa40.blogspot.com/2025/07/max5.html
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png", TSN 2
