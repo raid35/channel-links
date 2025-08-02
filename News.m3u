@@ -6,18 +6,16 @@ https://raid35.github.io/docs/AD-SPORT-2.html
 https://raid35.github.io/docs/STC1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 2
 https://raid35.github.io/docs/STC2.html
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" group-title="Sports",ES | M+ LA LIGÁ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" LA LIGÁ
 https://raid35.github.io/docs/LA_LIGÁ.html
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES
-https://raid35.github.io/docs/CAMP.html
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES - M. LIGA DE CAMPEONES 1 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 1
-https://raid35.github.io/docs/CAMP1.html
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES - M. LIGA DE CAMPEONES 2 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 2
-https://raid35.github.io/docs/CAMP2.html
-#EXTINF:-1 tvg-name="ES - M. LIGA DE CAMPEONES 3 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 3
-https://raid35.github.io/docs/CAMP3.html
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES - M. LIGA DE CAMPEONES 4 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="EU | ES | DEPORTES",ES - M. LIGA DE CAMPEONES 4
-https://raid35.github.io/docs/CAMP4.html
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png" LIGA DE CAMPEONES
+https://raid35.github.io/docs/LIGA_CAMP.html
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES - M. LIGA DE CAMPEONES 1 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" LIGA DE CAMPEONES 2
+https://raid35.github.io/docs/LIGA_CAMP2.html
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES - M. LIGA DE CAMPEONES 2 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" LIGA DE CAMPEONES 3
+https://raid35.github.io/docs/LIGA_CAMP3.html
+#EXTINF:-1 tvg-name="ES - M. LIGA DE CAMPEONES 3 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" LIGA DE CAMPEONES 4
+https://raid35.github.io/docs/LIGA_CAMP4.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 1
 https://siksa40.blogspot.com/2025/07/ziggo1.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 2
@@ -32,21 +30,21 @@ https://siksa40.blogspot.com/2025/07/ziggo5.html
 https://siksa40.blogspot.com/2025/07/ziggo6.html
 #EXTINF:-1 group-title="SHOQ" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
 https://siksa40.blogspot.com/2025/07/peacock.html
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" TNT Sports 1
 https://siksa40.blogspot.com/2025/07/tnt1.html
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" TNT Sports 2
 https://siksa40.blogspot.com/2025/07/tnt2.html
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports | UK", TNT Sports 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" TNT Sports 3
 https://siksa40.blogspot.com/2025/07/tnt3.html
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports | UK", TNT Sports 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" TNT Sports 4
 https://siksa40.blogspot.com/2025/07/tnt4.html
-#EXTINF:-1 tvg-id="TSN1.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png", TSN 1
 https://siksa40.blogspot.com/2025/07/max5.html
-#EXTINF:-1 tvg-id="TSN2.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png",TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png", TSN 2
 https://siksa40.blogspot.com/2025/07/tsn2.html
-#EXTINF:-1 tvg-id="TSN3.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png",TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png", TSN 3
 https://siksa40.blogspot.com/2025/07/tsn3.html
-#EXTINF:-1 tvg-id="TSN4.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png",TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png", TSN 4
 https://siksa40.blogspot.com/2025/07/tsn4.html
-#EXTINF:-1 tvg-id="TSN5.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png",TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="SHOQ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png", TSN 5
 https://siksa40.blogspot.com/2025/07/tsn5.html
