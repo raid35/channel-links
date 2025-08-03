@@ -6,6 +6,8 @@ https://raid35.github.io/docs/AD-SPORT-2.html
 https://raid35.github.io/docs/STC1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 2
 https://raid35.github.io/docs/STC2.html
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
+https://raid35.github.io/docs/laUne.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 https://raid35.github.io/docs/LA_LIGÁ.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png", LIGA DE CAMPEONES
