@@ -16,6 +16,14 @@ https://tinyurl.com/Komestas-eincehn/801/index.m3u8
 https://tinyurl.com/Komestas-eincehn/802/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TURKEY",TİVİBU SPOR 4 HD
 https://tinyurl.com/Komestas-eincehn/704/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="TURKEY",TİVİBU SPOR HD
+https://tinyurl.com/Komestas-eincehn/700/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TURKEY",TİVİBU SPOR 1 HD
+https://tinyurl.com/Komestas-eincehn/701/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TURKEY",TİVİBU SPOR 2 HD
+https://tinyurl.com/Komestas-eincehn/702/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png" group-title="TURKEY",TİVİBU SPOR 3 HD
+https://tinyurl.com/Komestas-eincehn/703/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR HD
 https://tinyurl.com/Komestas-eincehn/tabii/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 1 HD
@@ -70,3 +78,4 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
