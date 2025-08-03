@@ -52,6 +52,8 @@ https://kusnadipepenk.github.io/ntn/ele2.m3u8
 https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", PremierSports2-FHD
 https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
+https://seed.nakachi.online/hls/skyepluk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
 https://seed.nakachi.online/hls/tnt1-uk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
@@ -78,4 +80,5 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
