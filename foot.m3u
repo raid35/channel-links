@@ -1,0 +1,72 @@
+#EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
+https://seed.nakachi.online/hls/beinusa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TURKEY",BeIN Sports 1 HD
+https://tinyurl.com/Komestas-eincehn/601/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_170_122" group-title="TURKEY",BeIN Sports 2 HD
+https://tinyurl.com/Komestas-eincehn/602/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="TURKEY",BeIN Sports 3 HD
+https://tinyurl.com/Komestas-eincehn/603/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="TURKEY",BeIN Sports 4 HD
+https://tinyurl.com/Komestas-eincehn/604/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="TURKEY",BeIN Sports 5 HD
+https://tinyurl.com/Komestas-eincehn/605/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="TURKEY",BeIN Sports Max 1 HD
+https://tinyurl.com/Komestas-eincehn/801/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="TURKEY",BeIN Sports Max 2 HD
+https://tinyurl.com/Komestas-eincehn/802/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TURKEY",TİVİBU SPOR 4 HD
+https://tinyurl.com/Komestas-eincehn/704/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR HD
+https://tinyurl.com/Komestas-eincehn/tabii/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 1 HD
+https://tinyurl.com/Komestas-eincehn/tabii1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 2 HD
+https://tinyurl.com/Komestas-eincehn/tabii2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 3 HD
+https://tinyurl.com/Komestas-eincehn/tabii3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 4 HD
+https://tinyurl.com/Komestas-eincehn/tabii4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 5 HD
+https://tinyurl.com/Komestas-eincehn/tabii5/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="TURKEY",SMART SPOR HD
+https://tinyurl.com/Komestas-eincehn/609/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="TURKEY",SMART SPOR 2 HD
+https://tinyurl.com/Komestas-eincehn/610/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="TURKEY",S Sport HD
+https://tinyurl.com/Komestas-eincehn/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="TURKEY",S Sport 2 HD
+https://tinyurl.com/Komestas-eincehn/608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", PremierSports1-FHD
+https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", PremierSports2-FHD
+https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
+https://seed.nakachi.online/hls/tnt1-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
+https://seed.nakachi.online/hls/tnt2-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports | UK", TNT Sports 3 FHD
+https://seed.nakachi.online/hls/tnt3-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports | UK", TNT Sports 4 FHD
+https://seed.nakachi.online/hls/tnt4-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", ESPN 
+https://seed.nakachi.online/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US", ESPN2 
+https://seed.nakachi.online/hls/espn2/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", TSN1
+https://seed.nakachi.online/hls/tsn1/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Sports | CA", TSN2
+https://seed.nakachi.online/hls/tsn2/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Sports | CA", TSN3
+https://seed.nakachi.online/hls/tsn3/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Sports | CA", TSN4
+https://seed.nakachi.online/hls/tsn4/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN5
+https://seed.nakachi.online/hls/tsn5/playlist.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN UHD
+https://seed.nakachi.online/hls/masn/playlist.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
+https://seed.nakachi.online/hls/masn2/playlist.m3u8
