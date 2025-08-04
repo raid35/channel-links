@@ -1,10 +1,10 @@
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
 https://seed.nakachi.online/hls/beinusa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium116
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium117
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3406.png" group-title="Sports",AR | BEIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium118
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TURKEY",BeIN Sports 1 HD
 https://tinyurl.com/Komestas-eincehn/601/index.m3u8
@@ -96,8 +96,10 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", Digi Sport 4 🇷🇴
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sky-sports-1-logo-png-transparent.png" , SKY SPORT LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium870
+#EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium881
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
 https://seed.nakachi.online/hls/skyepluk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1 FHD
@@ -126,6 +128,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
