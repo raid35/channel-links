@@ -10,6 +10,24 @@ http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2560.m3u8
 http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2561.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
 http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2562.ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium91
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium92
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium93
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium94
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium95
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium96
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium97
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium98
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium99
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/gewher-sport-1.jpg" ,Gewher sport
 https://shawkat-zebari.short.gy/Gewher_Sport.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/nr1-sport.png" ,nr1 sport
