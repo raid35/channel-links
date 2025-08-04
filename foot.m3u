@@ -88,14 +88,24 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png", Digi Sport 1 🇷🇴
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium400
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-2.png", Digi Sport 2 🇷🇴
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-3.png", Digi Sport 3 🇷🇴
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", Digi Sport 4 🇷🇴
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-premier-vert.svg", NOVA SPORT PREMIER LEAGUE 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium599
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-prime-v.svg", NOVA SPORT PRIME 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium638
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-start-v.svg", NOVA SPORT START 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium637
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-6-v.svg", NOVA SPORT 1 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium631
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-2-v.svg", NOVA SPORT 2 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium632
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-3-v.svg", NOVA SPORT 3 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium633
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-4-v.svg", NOVA SPORT 4 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium634
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-5-v.svg", NOVA SPORT 5 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium635
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.novasports.gr/wp-content/uploads/2024/10/logo-novasports-alt-6-v.svg", NOVA SPORT 6 🇬🇷
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium636
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium870
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
@@ -128,6 +138,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
