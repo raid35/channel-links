@@ -70,8 +70,6 @@ http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" , SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png", Sky Sports PremierLeague FHD
-https://seed.nakachi.online/hls/skyepluk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1 FHD
 https://seed.nakachi.online/hls/tnt1-uk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png", TNT Sports 2 FHD
@@ -98,6 +96,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
