@@ -72,9 +72,11 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium400
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-3.png", Digi Sport 3 🇷🇴
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", Digi Sport 4 🇷🇴
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png", Digi Sport 4 🇷🇴
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
-#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-3.png", Digi Sport 5 🇷🇴
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-2.png", Digi Sport 5 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium404
+#EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-3.png", Digi Sport 6 🇷🇴
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium405
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sky-sports-1-logo-png-transparent.png" , SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -106,6 +108,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
