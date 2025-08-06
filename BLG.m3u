@@ -1,11 +1,11 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
 https://raid35.github.io/docs/laUne.html
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+https://rodrixtv.info/tv/canal53.html
 #EXTINF:-1 tvg-id="TiVi5Monde.fr",TiVi5 Monde [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+https://rjo1.dbcast.live/bS7IaepNMTmWsAbQpwkoSA/1754529230/3130352e3130342e3235302e313330/ff640/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/512px-Rai_1_HD_Logo.svg.png?20211130161946" group-title="Français ",FR | rai1
-https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://rjo2.dbcast.live/2qG0HmATObfclN0ZAUesHw/1754529093/3130352e3130342e3235302e313330/ff619/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rai_2_HD_-_Logo_2016.svg/512px-Rai_2_HD_-_Logo_2016.svg.png" group-title="Français ",FR | rai2
 https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FR | rai3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Rai3.png" group-title="Français ",FR | rai3
