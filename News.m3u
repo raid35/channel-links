@@ -11,9 +11,9 @@ https://raid35.github.io/docs/laUne.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 https://raid35.github.io/docs/LA_LIGÁ.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png", LIGA DE CAMPEONES
-https://raid35.github.io/docs/LIGA_CAMP.html
+https://raid35.github.io/docs/player.html?id=CAMP
 #EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES - M. LIGA DE CAMPEONES 1 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png", LIGA DE CAMPEONES 2
-https://raid35.github.io/docs/LIGA_CAMP2.html
+https://raid35.github.io/docs/player.html?id=laligatv
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES - M. LIGA DE CAMPEONES 2 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png", LIGA DE CAMPEONES 3
 https://raid35.github.io/docs/LIGA_CAMP3.html
 #EXTINF:-1 tvg-name="ES - M. LIGA DE CAMPEONES 3 FHD" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png", LIGA DE CAMPEONES 4
@@ -35,7 +35,7 @@ https://raid35.github.io/docs/player.html?id=sport2sk
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 1
 https://siksa40.blogspot.com/2025/07/ziggo1.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 2
-https://siksa40.blogspot.com/2025/07/ziggo2.html
+https://raid35.github.io/docs/player.html?id=ziggo2
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 3
 https://siksa40.blogspot.com/2025/07/ziggo3.html
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 4
