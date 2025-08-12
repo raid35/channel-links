@@ -1,14 +1,14 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/227px-2026_FIFA_World_Cup_emblem.svg.png?20230519003440",
+https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://e7.pngegg.com/pngimages/820/992/png-clipart-assorted-sports-illustration-sports-betting-rugby-football-people-sport-game-sport-thumbnail.png", 
-https://raw.githubusercontent.com/raid35/channel-links/main/News.m3u
+https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="4kuhd" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/227px-2026_FIFA_World_Cup_emblem.svg.png?20230519003440",
-https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc//2025//04//174519833320451.jpg",
 https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
