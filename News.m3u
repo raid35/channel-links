@@ -1,12 +1,12 @@
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png", AD SPORTS PREMIUM 1
-https://raid35.github.io/docs/AD-SPORT-1.html
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
-https://raid35.github.io/docs/AD-SPORT-2.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 1
-https://raid35.github.io/docs/STC1.html
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 2
-https://raid35.github.io/docs/STC2.html
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
@@ -59,7 +59,9 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="SHOQ" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
-https://siksa40.blogspot.com/2025/07/peacock.html
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -104,23 +106,3 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 1
-https://siksa40.blogspot.com/2025/07/ziggo1.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 2
-https://raid35.github.io/docs/player.html?id=ziggo2
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 3
-https://siksa40.blogspot.com/2025/07/ziggo3.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 4
-https://siksa40.blogspot.com/2025/07/ziggo4.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 5
-https://siksa40.blogspot.com/2025/07/ziggo5.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport6" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 6
-https://siksa40.blogspot.com/2025/07/ziggo6.html
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/01/20/132645331-a3b3b56f-d240-4fcc-b4a0-2fd1f5b9124f.png" , CANALE_5_IT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2022/03/29/095428173-580f7767-9070-433f-a972-805c6097c964.png" , CANALE_1_IT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
