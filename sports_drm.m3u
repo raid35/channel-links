@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="sports_drm" tvg-logo="https://e7.pngegg.com/pngimages/820/992/png-clipart-assorted-sports-illustration-sports-betting-rugby-football-people-sport-game-sport-thumbnail.png",
+#EXTINF:-1 tvg-id="" tvg-name="sports_drm" tvg-logo="https://e7.pngegg.com/pngimages/820/992/png-clipart-assorted-sports-illustration-sports-betting-rugby-football-people-sport-game-sport-thumbnail.png", قنوات رياضية
 https://raid35.github.io/docs/sports_drm.html
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1655905990/direct/freeTV_Logo_DarkBG_epesol.jpg", FREE IPTV
+https://raid35.github.io/docs/freeiptv.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png", AD SPORTS PREMIUM 1
 https://raid35.github.io/docs/player.html?id=ADSP1
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
