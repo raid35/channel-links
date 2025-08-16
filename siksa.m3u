@@ -19,6 +19,12 @@ https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 #EXTINF:-1 tvg-id="" tvg-name="bein" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="novlaer" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
@@ -28,14 +34,8 @@ https://raw.githubusercontent.com/raid35/channel-links/main/tinse.m3u
 #EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://lynxshop.net/logo1.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="falcon" tvg-logo="https://th.bing.com/th/id/OIP.LP6ZrG0vG8x93PZM8kfw8AHaHY?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MYHD" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/AD.m3u8
@@ -99,4 +99,3 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/m3u_url.m3u
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
 http://ugeen.live:8080/get.php?username=exskypeleoshare-jordansat4u&password=50&type=m3u_plus&output=hls&lang=en&view_category=yes
-
