@@ -1,38 +1,32 @@
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=639908&extension=ts
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461007.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510909&extension=ts
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461008.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510910&extension=ts
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461009.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510911&extension=ts
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510912&extension=ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510913&extension=ts
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462096.m3u8
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462097.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510914&extension=ts
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462098.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510915&extension=ts
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462099.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510916&extension=ts
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1591582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
+https://xtrmh2.vg2095-2024-vega.com/7_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
+https://xtrmh2.vg2095-2024-vega.com/1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
+https://xtrmh2.vg2095-2024-vega.com/8_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
+https://xtrmh2.vg2095-2024-vega.com/2_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
+https://xtrmh2.vg2095-2024-vega.com/9_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
+https://xtrmh2.vg2095-2024-vega.com/3_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
+https://xtrmh2.vg2095-2024-vega.com/10_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
+https://xtrmh2.vg2095-2024-vega.com/4_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
+https://xtrmh2.vg2095-2024-vega.com/11_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
+https://xtrmh2.vg2095-2024-vega.com/5_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
+https://xtrmh2.vg2095-2024-vega.com/12_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
+https://xtrmh2.vg2095-2024-vega.com/6_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
+https://xtrmh2.vg2095-2024-vega.com/13_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
+https://xtrmh2.vg2095-2024-vega.com/14_.m3u8
+#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png",BeIn 8
+https://xtrmh2.vg2095-2024-vega.com/16_.m3u8
+#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png",BeIn 9
+https://xtrmh2.vg2095-2024-vega.com/17_.m3u8
