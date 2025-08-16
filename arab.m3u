@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2557.m3u8
+http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2557.ts
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
 http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2558.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
@@ -9,7 +9,7 @@ http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2560.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
 http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2561.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2562.ts
+http://cms-ar.accesss.me:25461/live/NPhL76H9Y1916732/yhq666s3F6rA65/2562.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium91
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2
@@ -28,55 +28,5 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium97
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium98
 #EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium99
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/gewher-sport-1.jpg" ,Gewher sport
-https://shawkat-zebari.short.gy/Gewher_Sport.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/nr1-sport.png" ,nr1 sport
-https://live.karwan.tv/nr1-sport/tracks-v1a1/mono.m3u8?token=2712025f0e036bb838b0eec3627ae304c76ff2f7-1e5c3c4de9f92a9ffaf0763f608b359f-1754499109-1752425509
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/nubar-sport.jpg" ,nubar sport
-https://live.karwan.tv/nubar-sport/tracks-v1a1/mono.m3u8?token=7d6fc9ce7343245eba23855c5d46767142201f4b-5fe65865fa6c9083bbe8db6aed8a9f0d-1754439737-1752366137
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" ,nrt sport
-https://live2.karwan.tv/nrt-sport/tracks-v1a1/mono.m3u8?token=4bb0d12260e24802b5715b774e77c9fc77c83ed6-7ec7ca177f3bcbd1afeca5f87729846b-1754440050-1752366450
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
-https://xtrmh2.vg2095-2024-vega.com/7_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
-https://xtrmh2.vg2095-2024-vega.com/1_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
-https://xtrmh2.vg2095-2024-vega.com/8_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
-https://xtrmh2.vg2095-2024-vega.com/2_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
-https://xtrmh2.vg2095-2024-vega.com/9_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
-https://xtrmh2.vg2095-2024-vega.com/3_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
-https://xtrmh2.vg2095-2024-vega.com/10_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
-https://xtrmh2.vg2095-2024-vega.com/4_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
-https://xtrmh2.vg2095-2024-vega.com/11_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
-https://xtrmh2.vg2095-2024-vega.com/5_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
-https://xtrmh2.vg2095-2024-vega.com/12_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
-https://xtrmh2.vg2095-2024-vega.com/6_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
-https://xtrmh2.vg2095-2024-vega.com/13_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
-https://xtrmh2.vg2095-2024-vega.com/14_.m3u8
-#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png",BeIn 8
-https://xtrmh2.vg2095-2024-vega.com/16_.m3u8
-#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png",BeIn 9
-https://xtrmh2.vg2095-2024-vega.com/17_.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 1
-http://138.201.201.122:8080/live/tdn/tdn/9967138.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 2
-http://138.201.201.122:8080/live/tdn/tdn/9967245.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 3
-http://138.201.201.122:8080/live/tdn/tdn/9967246.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=153542&extension=ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" ,الفجر 5
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:8A:3E:A1&stream=153543&extension=ts
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
 https://stormconnect.ct.ws/playerr.php?id=svc-spo-hd-09-dt&key=462b64d0595b3838b4d68eb0e6c59448&key2=b4d30d1bfe81d4cffc52790bb6c5d979&i=1
