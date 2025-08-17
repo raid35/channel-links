@@ -1,55 +1,53 @@
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Algérie",ALGERIA
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=984547&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/657.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7749&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/69.m3u8
-#EXTINF:-1 tvg-id="TV3.dz@SD" tvg-logo="https://i.imgur.com/EQTGCbm.png" group-title="News",TV3
-https://fl1002.bozztv.com/ga-algeria3/index.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7748&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7747&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/2013.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7746&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/670.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7745&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/986.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=54836&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2010.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=91128&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2011.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=91129&extension=ts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/659.m3u8
-#EXTINF:-1 tvg-name="AR: Algeria ONE TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10759.png?60372" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria ONE TV 4K
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2422.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7741&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/661.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7740&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/663.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7739&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | El Djazairia N1" tvg-logo="http://148.251.133.153:8181/logo/chn/6537.png" group-title="Algérie",Dz | El Djazairia N1
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2001.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=201421&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/673.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7731&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/672.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=12357&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Al-Anis TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6552.png" group-title="Algérie",Dz | Al-Anis TV
 http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/1994.ts
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7744&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2423.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=255880&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Al Bahia TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6539.png" group-title="Algérie",Dz | Al Bahia TV
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/66.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7736&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Berbere TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6540.png" group-title="Algérie",Dz | Berbere TV
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2426.m3u8
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7720&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/682.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | AL24 News" tvg-logo="http://148.251.133.153:8181/logo/chn/6553.png" group-title="Algérie",Dz | AL24 News
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/317737.ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=7733&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2332.ts
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bf:47:35&stream=73519&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2002.ts
+http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2421.ts
+http://cms-ar.accesss.me:25461/live/903w535HL3353f/P771xY7MS15173/2421.m3u8
 #EXTINF:-1 tvg-id="4KidsTV.dz@SD" tvg-logo="https://i.imgur.com/507piHp.png" group-title="Kids",4Kids TV
 http://149.100.19.147:8000/play/a02t
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
@@ -62,196 +60,20 @@ http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
 http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 1" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153539&extension=ts&play_token=3TtWRt1iz0
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 2" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153540&extension=ts&play_token=uUFkUaO9zj
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 3
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153541&extension=ts&play_token=dr0xug8CTj
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 4
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153542&extension=ts&play_token=v2Xb7WdHry
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153543&extension=ts&play_token=h1D16AytaY
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 1" tvg-logo="" group-title="Arabes",PS | Al Fajer 1
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bd:c5:8a&stream=153539&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 2" tvg-logo="" group-title="Arabes",PS | Al Fajer 2
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bd:c5:8a&stream=153540&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="" group-title="Arabes",PS | Al Fajer 3
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bd:c5:8a&stream=153541&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="" group-title="Arabes",PS | Al Fajer 4
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bd:c5:8a&stream=153542&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="" group-title="Arabes",PS | Al Fajer 5
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:bd:c5:8a&stream=153543&extension=ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
-#EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="General",Watar TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="General",Watar TV
 http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Algérie",ALGERIA
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=984547&extension=ts&play_token=vLUBV9MREt
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7749&extension=ts&play_token=3Q8YRAhhrT
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7748&extension=ts&play_token=JsYoQjkCZ6
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7747&extension=ts&play_token=dRZdR8lYvj
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7746&extension=ts&play_token=HrHu8wqYwa
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7745&extension=ts&play_token=aksNOkQrKq
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=54836&extension=ts&play_token=TCQFo6s3SJ
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=91128&extension=ts&play_token=iU00ArhAg3
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=91129&extension=ts&play_token=1ITlV3rB9c
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7741&extension=ts&play_token=4lNwHE2oss
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7740&extension=ts&play_token=ZG0VQP7xnB
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7739&extension=ts&play_token=kEEL9UsE25
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Djazairia N1" tvg-logo="http://148.251.133.153:8181/logo/chn/6537.png" group-title="Algérie",Dz | El Djazairia N1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=201421&extension=ts&play_token=r98GNUvzRB
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7731&extension=ts&play_token=QOlpu84gpN
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=12357&extension=ts&play_token=ZSpZCPlWm4
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al-Anis TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6552.png" group-title="Algérie",Dz | Al-Anis TV
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7744&extension=ts&play_token=r0coGzo55T
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=255880&extension=ts&play_token=HJITQRcNUp
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al Bahia TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6539.png" group-title="Algérie",Dz | Al Bahia TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7736&extension=ts&play_token=J9wB3EkTYw
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Berbere TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6540.png" group-title="Algérie",Dz | Berbere TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7720&extension=ts&play_token=jG2lUcqVoB
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7733&extension=ts&play_token=dsWPUAaXor
-#EXTINF:-1 tvg-id="" tvg-name="Dz | AL24 News" tvg-logo="http://148.251.133.153:8181/logo/chn/6553.png" group-title="Algérie",Dz | AL24 News
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6553.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=73519&extension=ts&play_token=etG6TfMRSj
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6555.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6558.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 1" tvg-logo="" group-title="Arabes",PS | Al Fajer 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153539&extension=ts&play_token=3TtWRt1iz0
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 2" tvg-logo="" group-title="Arabes",PS | Al Fajer 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153540&extension=ts&play_token=uUFkUaO9zj
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="" group-title="Arabes",PS | Al Fajer 3
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153541&extension=ts&play_token=dr0xug8CTj
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="" group-title="Arabes",PS | Al Fajer 4
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153542&extension=ts&play_token=v2Xb7WdHry
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="" group-title="Arabes",PS | Al Fajer 5
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=153543&extension=ts&play_token=h1D16AytaY
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Algérie",ALGERIA
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10453.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10452.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10432.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10433.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=7745&extension=ts&play_token=aksNOkQrKq
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/138045.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/165570.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=91129&extension=ts&play_token=1ITlV3rB9c
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10450.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10440.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Djazairia N1" tvg-logo="http://148.251.133.153:8181/logo/chn/6537.png" group-title="Algérie",Dz | El Djazairia N1
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/138044.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10445.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/63845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al-Anis TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6552.png" group-title="Algérie",Dz | Al-Anis TV
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/321406.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Al Bahia TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6539.png" group-title="Algérie",Dz | Al Bahia TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10438.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Berbere TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6540.png" group-title="Algérie",Dz | Berbere TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10436.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10444.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | AL24 News" tvg-logo="http://148.251.133.153:8181/logo/chn/6553.png" group-title="Algérie",Dz | AL24 News
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/317737.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/10431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/370760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://line.porschetv.net/live/PBIEHEC4VZ/8J4A9VGVWM/370762.ts
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Echourouk TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/108.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk TV 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3228.m3u8
-#EXTINF:-1 tvg-name="AR: Echourouk TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/108.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk TV HD
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/499158.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Echourouk News 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/110.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk News 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3229.m3u8
-#EXTINF:-1 tvg-name="AR: Echourouk News HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/110.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk News HD
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/499157.m3u8
-#EXTINF:-1 tvg-name="AR: AL24 News 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13372.png?2289" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: AL24 News 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/308464.m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-name="AR: Samira TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/111.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Samira TV 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/4475.m3u8
-#EXTINF:-1 tvg-name="AR: Algerie EN TV 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/96.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algerie EN TV 1
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/97196.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="AR: Algérie Canal TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/96.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algérie Canal TV 2
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/4459.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Algeria A3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/99.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria A3 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/4458.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Algerie Tamazight TV 4" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/109.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algerie Tamazight TV 4
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/4421.m3u8
-#EXTINF:-1 tvg-name="AR: Algérie TV 6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13421.png?44718" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algérie TV 6 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/139310.m3u8
-#EXTINF:-1 tvg-name="AR: Algerie Elmaarifa TV7" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12972.png?ver=8930" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algerie Elmaarifa TV7
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/216112.m3u8
-#EXTINF:-1 tvg-name="AR: Algerie Edhakira TV8" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12974.png?ver=66352" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algerie Edhakira TV8
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/216218.m3u8
-#EXTINF:-1 tvg-name="AR: Algeria TV Coran" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/96.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria TV Coran
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/97190.m3u8
-#EXTINF:-1 tvg-name="AR: Algeria Salam TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13593.jpg?75516" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria Salam TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/389466.m3u8
-#EXTINF:-1 tvg-name="AR: Algeria ONE TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10759.png?60372" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria ONE TV 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/706930.m3u8
-#EXTINF:-1 tvg-name="AR: Algeria ONE TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10759.png?60372" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algeria ONE TV HD
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/706931.m3u8
-#EXTINF:-1 tvg-name="AR: Algerian 4Kids 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13494.png?90225" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Algerian 4Kids 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/1355497.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Ennahar TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/365.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Ennahar TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/4325.m3u8
-#EXTINF:-1 tvg-name="AR: Al Anis TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2375.png?4198" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Al Anis TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/247721.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: Bahia TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/101.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Bahia TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3177.m3u8
-#EXTINF:-1 tvg-name="AR: Berbere TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/112.jpg?ver=34123" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Berbere TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/218690.m3u8
-#EXTINF:-1 tvg-name="AR: El Heddaf TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12814.png" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Heddaf TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3180.m3u8
-#EXTINF:-1 tvg-name="AR: Canal Atlas Algeria" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12932.png?ver=41784" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Canal Atlas Algeria
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/184940.m3u8
-#EXTINF:-1 tvg-name="AR: Dzair Jannah" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/103.jpg?87895" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Dzair Jannah
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/149769.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: El Bilad" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/104.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Bilad
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3178.m3u8
-#EXTINF:-1 tvg-name="AR: El Djazair N1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12956.png?ver=52338" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Djazair N1
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/201886.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: El Djazairia1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/102.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Djazairia1
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3179.m3u8
-#EXTINF:-1 tvg-id="TS" tvg-name="AR: El Hayat Algeria 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/105.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Hayat Algeria 4K
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/3182.m3u8
-#EXTINF:-1 tvg-name="AR: El Hayat Algeria HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/105.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Hayat Algeria HD
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/499155.m3u8
-#EXTINF:-1 tvg-name="AR: EL Watania TV Algeria" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13153.png?ver=78473" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: EL Watania TV Algeria
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/243373.m3u8
-#EXTINF:-1 tvg-name="AR: EL Fadjer Drama DZ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13489.png?42868" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: EL Fadjer Drama DZ
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/411440.m3u8
-#EXTINF:-1 tvg-name="AR: Zahra TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/857.jpg?4260" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Zahra TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/318682.m3u8
 
