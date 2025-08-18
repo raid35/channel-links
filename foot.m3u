@@ -119,9 +119,9 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium870
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:B9:D6:16&stream=41042&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium881
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:B9:D6:16&stream=385&extension=ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
 https://seed.nakachi.online/hls/skyepluk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1 FHD
@@ -150,6 +150,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
