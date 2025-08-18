@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://flowcastapp.com/wp-content/uploads/2025/03/cropped-IMG_20250304_234220_711-2048x504-1-1-180x180.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 
@@ -60,9 +63,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/STC.M3U
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://images.seeklogo.com/logo-png/31/1/flag-map-of-turkey-logo-png_seeklogo-311633.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/TURKEY.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
