@@ -7,7 +7,7 @@ http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
 http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31412&extension=ts&play_token=mj4r7OWvEh
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 http://125x.org:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3404.png" group-title="Sports",AR | BEIN SPORTS 1 HD
@@ -35,11 +35,11 @@ http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 4
 http://user.scalecdn.co:8080/live/19995634/79960700/659430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="Sports",AR | BEIN SPORTS 5 FHD
-http://125x.org:8080/bn54k/tracks-v1a1/mono.m3u8
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31423&extension=ts&play_token=RxLTRK1tX6
 #EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 5
 http://user.scalecdn.co:8080/live/19995634/79960700/659431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
-http://125x.org:8080/bn64k/tracks-v1a1/mono.m3u8
+http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31424&extension=ts&play_token=Wy03ClclSD
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="Bein Sports 6" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 6
