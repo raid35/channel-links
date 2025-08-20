@@ -1,47 +1,42 @@
 [
   {
-    "name": "📺 Nuevos",
-    "samples": [
-      {
-        "name": "ADSP2",
-        "uri": "https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd",
-        "kid": "efca93272b9d34f5cf9d8598f43be5ea",
-        "key": "55e5fe489e9c18f6c979c3126d4bcfed",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      },
-      {
-        "name": "ADSP1",
-        "uri": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
-        "kid": "b253c726c24c7c94a3ddf9b1907e2c76",
-        "key": "097963d6ad73c3d712a104981de0ed42",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      },
-      {
-        "name": "TV PUBLICA",
-        "uri": "http://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
-        "kid": "axdTiBDx3USF8XTcwgSHLA",
-        "key": "PVuXN3JDPOB8iZmqZZ6kjA",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      },
-      {
-        "name": "EUROSPORT 1",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd",
-        "kid": "39pJEV9eRieyFLgOnnHChg",
-        "key": "WcusGG4Y9gmH4+GIPmG+BQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      },
-      {
-        "name": "EUROSPORT 2",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd",
-        "kid": "6fKNjkl5S9+Y4QqA9VTyeA",
-        "key": "A6Y1UQpkqe8gV9no7Ny+cg",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      }
-    ]
+    "name": "ADSP2",
+    "uri": "https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd",
+    "kid": "efca93272b9d34f5cf9d8598f43be5ea",
+    "key": "55e5fe489e9c18f6c979c3126d4bcfed",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TYC SPORTS",
+    "uri": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
+    "kid": "b253c726c24c7c94a3ddf9b1907e2c76",
+    "key": "097963d6ad73c3d712a104981de0ed42",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TV PUBLICA",
+    "uri": "http://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+    "kid": "axdTiBDx3USF8XTcwgSHLA",
+    "key": "PVuXN3JDPOB8iZmqZZ6kjA",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "EUROSPORT 1",
+    "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd",
+    "kid": "39pJEV9eRieyFLgOnnHChg",
+    "key": "WcusGG4Y9gmH4+GIPmG+BQ",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "EUROSPORT 2",
+    "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd",
+    "kid": "6fKNjkl5S9+Y4QqA9VTyeA",
+    "key": "A6Y1UQpkqe8gV9no7Ny+cg",
+    "drm_scheme": "clearkey",
+    "extension": ""
   }
 ]
