@@ -150,6 +150,3 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
-
-#EXTINF:-1 tvg-id="ADSP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg" group-title="Sports", ADSP2
-https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd|drm-info=clearkey|efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
