@@ -98,9 +98,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/bein4k
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/m3u_url.m3u
-
-#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
 http://ugeen.live:8080/get.php?username=exskypeleoshare-jordansat4u&password=50&type=m3u_plus&output=hls&lang=en&view_category=yes
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
