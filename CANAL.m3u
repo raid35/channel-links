@@ -129,7 +129,7 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32824&extens
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32822&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://cf.cdn-fast1.me:80/live/ahmedxrefai/3tgfzymw87/106982.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=106982&extension=ts&play_token=loynrSRHqD
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=339&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
