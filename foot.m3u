@@ -34,6 +34,8 @@ http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/20068/index.m3u8
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Poland",PL | Eleven Sports 3 FHD
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19026/index.m3u8
 #EXTINF:-1 tvg-id="CANAL + SPORT 1" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r437x246n/4f2678f9-f870-401b-826a-31bb5f372877", CANAL + SPORT SK
@@ -132,6 +134,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
