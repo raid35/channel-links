@@ -101,13 +101,13 @@ https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", PremierSports2-FHD
 https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/130.jpg", Матч! 🇷🇺
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/9010/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/10015/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/10027/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/10016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19129/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
@@ -140,6 +140,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
