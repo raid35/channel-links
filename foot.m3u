@@ -30,9 +30,9 @@ https://tinyurl.com/Komestas-eincehn/607/index.m3u8
 https://tinyurl.com/Komestas-eincehn/608/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 4 4K" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1 4k.png" group-title="Poland",PL | Eleven Sports 4 4K
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/20068/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Poland",PL | Eleven Sports 1 HD
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19026/index.m3u8
@@ -132,6 +132,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
