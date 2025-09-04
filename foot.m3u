@@ -25,9 +25,9 @@ https://tinyurl.com/Komestas-eincehn/700/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TURKEY",TİVİBU SPOR 1 HD
 https://tinyurl.com/Komestas-eincehn/701/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TURKEY",TİVİBU SPOR 2 HD
-https://tinyurl.com/Komestas-eincehn/702/index.m3u8
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19074/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png" group-title="TURKEY",TİVİBU SPOR 3 HD
-https://tinyurl.com/Komestas-eincehn/703/index.m3u8
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19076/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TURKEY",TİVİBU SPOR 4 HD
 https://tinyurl.com/Komestas-eincehn/704/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR HD
@@ -119,7 +119,7 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:B9:D6:16&stream=41042&extension=ts
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19129/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:B9:D6:16&stream=385&extension=ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
@@ -150,6 +150,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
