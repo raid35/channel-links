@@ -1,27 +1,5 @@
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
 https://seed.nakachi.online/hls/beinusa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium116
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium117
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium118
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TURKEY",BeIN Sports 1 HD
-https://tinyurl.com/Komestas-eincehn/601/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_170_122" group-title="TURKEY",BeIN Sports 2 HD
-https://tinyurl.com/Komestas-eincehn/602/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="TURKEY",BeIN Sports 3 HD
-https://tinyurl.com/Komestas-eincehn/603/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="TURKEY",BeIN Sports 4 HD
-https://tinyurl.com/Komestas-eincehn/604/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="TURKEY",BeIN Sports 5 HD
-https://tinyurl.com/Komestas-eincehn/605/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="TURKEY",BeIN Sports Max 1 HD
-https://tinyurl.com/Komestas-eincehn/801/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="TURKEY",BeIN Sports Max 2 HD
-https://tinyurl.com/Komestas-eincehn/802/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="TURKEY",TİVİBU SPOR HD
-https://tinyurl.com/Komestas-eincehn/700/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TURKEY",TİVİBU SPOR 1 HD
 https://tinyurl.com/Komestas-eincehn/701/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TURKEY",TİVİBU SPOR 2 HD
@@ -50,10 +28,14 @@ https://tinyurl.com/Komestas-eincehn/610/index.m3u8
 https://tinyurl.com/Komestas-eincehn/607/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="TURKEY",S Sport 2 HD
 https://tinyurl.com/Komestas-eincehn/608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 4 4K" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1 4k.png" group-title="Poland",PL | Eleven Sports 4 4K
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/20068/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19026/index.m3u8
 #EXTINF:-1 tvg-id="CANAL + SPORT 1" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r437x246n/4f2678f9-f870-401b-826a-31bb5f372877", CANAL + SPORT SK
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-id="CANAL + SPORT 2" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/565ce14b-59b6-4a44-b0bc-50304dc04c0c.png", CANAL + SPORT 2 SK
@@ -150,6 +132,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
