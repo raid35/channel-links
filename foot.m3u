@@ -1,5 +1,31 @@
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
 https://seed.nakachi.online/hls/beinusa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2499/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2501/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2502/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium464
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium486
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium487
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium488
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium489
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium490
+#EXTINF:-1 tvg-id="CANAL + SPORT 1" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r437x246n/4f2678f9-f870-401b-826a-31bb5f372877", CANAL + SPORT SK
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="CANAL + SPORT 2" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/565ce14b-59b6-4a44-b0bc-50304dc04c0c.png", CANAL + SPORT 2 SK
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="CANAL + SPORT 3" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/dbf47a87-6ca8-4c76-a638-1d221929c355.png", CANAL + SPORT 3 SK
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TURKEY",TİVİBU SPOR 1 HD
 https://tinyurl.com/Komestas-eincehn/701/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TURKEY",TİVİBU SPOR 2 HD
@@ -40,28 +66,6 @@ https://kusnadipepenk.github.io/ntn/ele3.m3u8
 https://kusnadipepenk.github.io/ntn/ele4.m3u8
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19026/index.m3u8
-#EXTINF:-1 tvg-id="CANAL + SPORT 1" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r437x246n/4f2678f9-f870-401b-826a-31bb5f372877", CANAL + SPORT SK
-http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="CANAL + SPORT 2" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/565ce14b-59b6-4a44-b0bc-50304dc04c0c.png", CANAL + SPORT 2 SK
-http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="CANAL + SPORT 3" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/dbf47a87-6ca8-4c76-a638-1d221929c355.png", CANAL + SPORT 3 SK
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://148.251.133.153:8181/logo/chn/2386.png" group-title="Français ",FR | CANAL+
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium121
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium463
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium464
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium486
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium487
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium488
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium489
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium490
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_premier_league.png", NOVA SPORT PREMIER LEAGUE 🇬🇷
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium599
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_prime.png", NOVA SPORT PRIME 🇬🇷
@@ -136,6 +140,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
