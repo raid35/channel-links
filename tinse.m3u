@@ -1,17 +1,32 @@
-#EXTINF:-1 tvg-id="NessmaElJadida.tn@SD" tvg-logo="https://i.imgur.com/66CJtdz.png" group-title="General",Nessma El Jadida
-https://fl1002.bozztv.com/ga-nessmatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 1
-https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 2
-https://fl1002.bozztv.com/ga-elwatania2/index.m3u8
-#EXTINF:-1 tvg-id="TunisnaTV.tn@SD" tvg-logo="https://i.imgur.com/EePmh2R.png" group-title="General",Tunisna TV
-https://live20.bozztv.com/gin-36bay3/ga-tunisna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CarthagePlus.tn@SD" tvg-logo="https://i.imgur.com/5BsDW4B.png" group-title="Entertainment",Carthage+
-https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",ATTASIA 9
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1
-tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
-https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS HD1" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS HD1
+http://lukatv.net:8080/live/17512157228784/31263913139833/274283.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS HD2" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS HD2
+http://lukatv.net:8080/live/17512157228784/31263913139833/274284.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS HD3" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS HD3
+http://lukatv.net:8080/live/17512157228784/31263913139833/274285.m3u8
+#EXTINF:-1 tvg-name="Fr | Sport: Foot+ 24/24 HD" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",Fr | Sport: Foot+ 24/24 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/274328.m3u8
+#EXTINF:-1 tvg-name="DS: Canal + Sport 1 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-1.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 1 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/540090.m3u8
+#EXTINF:-1 tvg-name="DS: Canal + Sport 2 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-2.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 2 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/540091.m3u8
+#EXTINF:-1 tvg-name="DS: Canal + Sport 3 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-3.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 3 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/540092.m3u8
+#EXTINF:-1 tvg-name="DS: Canal + Sport 4 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-4.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 4 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/540093.m3u8
+#EXTINF:-1 tvg-name="DS: Canal+ Sport 5 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-5.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal+ Sport 5 HD
+http://lukatv.net:8080/live/17512157228784/31263913139833/540094.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX4" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX4
+http://lukatv.net:8080/live/17512157228784/31263913139833/274286.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX5" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX5
+http://lukatv.net:8080/live/17512157228784/31263913139833/274287.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX6" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX6
+http://lukatv.net:8080/live/17512157228784/31263913139833/274288.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX7" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX7
+http://lukatv.net:8080/live/17512157228784/31263913139833/274289.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX8" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX8
+http://lukatv.net:8080/live/17512157228784/31263913139833/274290.m3u8
+#EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX9" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX9
+http://lukatv.net:8080/live/17512157228784/31263913139833/274291.m3u8
+
+
