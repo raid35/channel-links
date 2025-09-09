@@ -9,9 +9,9 @@ http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=6722&
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=83669&extension=ts&play_token=LRmuTNfOiN
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=97190&extension=ts&play_token=V3Y6KsmWxL
-#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=8167&extension=ts&play_token=ZL7PZpMOBy
+#EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=196191&extension=ts&play_token=fjy6RQoqd5
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=518614&extension=ts&play_token=9enAIAVoJa
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
