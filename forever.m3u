@@ -3,9 +3,9 @@ http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=983525&extens
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
-https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105276
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-https://cma.620097.ir.cdn.ir/hls2/b1.m3u8
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105275
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
 http://user.scalecdn.co:8080/live/19995634/79960700/714411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
