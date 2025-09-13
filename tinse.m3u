@@ -16,6 +16,18 @@ http://lukatv.net:8080/live/17512157228784/31263913139833/540092.m3u8
 http://lukatv.net:8080/live/17512157228784/31263913139833/540093.m3u8
 #EXTINF:-1 tvg-name="DS: Canal+ Sport 5 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-5.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal+ Sport 5 HD
 http://lukatv.net:8080/live/17512157228784/31263913139833/540094.m3u8
+#EXTINF:-1 tvg-name="|FR| ligue-1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-1
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899148&extension=ts&play_token=KheKUwh8G1
+#EXTINF:-1 tvg-name="|FR| ligue-2" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-2
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899147&extension=ts&play_token=3HeGkV4fSn
+#EXTINF:-1 tvg-name="|FR| ligue-3" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-3
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899146&extension=ts&play_token=oXASlO0Ghi
+#EXTINF:-1 tvg-name="|FR| ligue-4" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-4
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899145&extension=ts&play_token=v4iLyvuWab
+#EXTINF:-1 tvg-name="|FR| ligue-5" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-5
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899144&extension=ts&play_token=iELJpQerkU
+#EXTINF:-1 tvg-name="|FR| ligue-6" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="|FR|FRANCE SPORTS",|FR| ligue-6
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1899143&extension=ts&play_token=ZAKEqpyRYj
 #EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX4" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX4
 http://lukatv.net:8080/live/17512157228784/31263913139833/274286.m3u8
 #EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX5" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX5
