@@ -13,11 +13,11 @@ http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=71273
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA" tvg-logo="https://lo1.in/por/fuelhd.png" group-title="Portugal",PT | SPORT TV NBA
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107431&extension=ts&play_token=MfGxAJutw5
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107495&extension=ts&play_token=Lj2V72hufX
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=63300&extension=ts&play_token=WZSV0lGamn
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107494&extension=ts&play_token=TQwvf8LJfN
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=63301&extension=ts&play_token=Bsn9LxKGta
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70",PT | DAZN 3
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=122484&extension=ts&play_token=cR3GEI0nI4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=63302&extension=ts&play_token=YbZMlZ6mH6
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000",PT | DAZN 4
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=122485&extension=ts&play_token=sPCEapJWd4
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 5" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000&quality=70",PT | DAZN 5
