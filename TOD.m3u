@@ -18,4 +18,44 @@ http://line.myox.me:80/play/live.php?mac=00:1A:79:C4:45:0E&stream=1887497&extens
 http://line.myox.me:80/play/live.php?mac=00:1A:79:C4:45:0E&stream=1887496&extension=ts&play_token=WCxiDr2EAA
 #EXTINF:-1 tvg-name="AR - TOD TRES HD" tvg-logo="https://go4.pw/ARABE/TOD.png" group-title="AR | TOD",AR - TOD 10
 http://line.myox.me:80/play/live.php?mac=00:1A:79:C4:45:0E&stream=1887495&extension=ts&play_token=oHFbu1hzxX
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 1" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 1
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 2" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 2
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 3" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 3
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 4" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 4
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 5" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 5
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 6" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 6
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 7" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 7
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 8" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 8
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 9" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 9
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 10" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 10
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 11" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 11
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 12" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 12
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 13" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 13
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 14" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 14
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 15" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 15
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 16" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 16
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 17" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 17
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 18" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 18
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 19" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 19
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOD beIN EVENTS 20" tvg-logo="" group-title="TOD BEIN Event Only ",TOD beIN EVENTS 20
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277831.m3u8
 
