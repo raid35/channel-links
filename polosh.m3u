@@ -1,30 +1,34 @@
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 4 4K" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1 4k.png" group-title="Poland",PL | Eleven Sports 4 4K
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium71
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Poland",PL | Eleven Sports 1 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium71
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273859.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium72
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273860.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Poland",PL | Eleven Sports 3 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium428
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | ELEVEN SPORTS 4 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 4.png" group-title="Poland",PL | ELEVEN SPORTS 4 HD
-http://145.239.19.144:18088/272/mpegts
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 FHD" tvg-logo="https://i.imgur.com/6mSSfZ5.png" group-title="POLAND",CANAL+ 360 FHD
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273814.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4165.png" group-title="Poland",PL | Canal+ Sport 1 FHD
-http://145.239.19.144:18088/297/mpegts
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4166.png" group-title="Poland",PL | Canal+ Sport 2 FHD
-http://145.239.19.144:18088/298/mpegts
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273809.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4167.png" group-title="Poland",PL | Canal+ Sport 3 FHD
-http://145.239.19.144:18088/340/mpegts
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273810.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4168.png" group-title="Poland",PL | Canal+ Sport 4 FHD
-http://145.239.19.144:18088/341/mpegts
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://i.imgur.com/izz7plc.png" group-title="POLAND",CANAL+ SPORT 5 FHD
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4174.png" group-title="Poland",PL | Polsat Sport Premium 1 FHD
-http://145.239.19.144:18088/190/mpegts
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880467&extension=ts&play_token=9JXkIvGYcj
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4175.png" group-title="Poland",PL | Polsat Sport Premium 2 FHD
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7305/index.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880466&extension=ts&play_token=hAq5r8hO55
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4176.png" group-title="Poland",PL | Polsat Sport Premium PPV 3
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7306/index.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880465&extension=ts&play_token=REqJD7IpDB
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4177.png" group-title="Poland",PL | Polsat Sport Premium PPV 4
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7307/index.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880464&extension=ts&play_token=ay2kadY5SU
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7308/index.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880463&extension=ts&play_token=rxFji9Asyp
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 6" tvg-logo="http://148.251.133.153:8181/logo/chn/4179.png" group-title="Poland",PL | Polsat Sport Premium PPV 6
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7309/index.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880462&extension=ts&play_token=2v2wgLap89
