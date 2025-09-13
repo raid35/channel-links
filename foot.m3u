@@ -1,15 +1,15 @@
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
 https://seed.nakachi.online/hls/beinusa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=158&extension=ts&play_token=YuCsTfDYot
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=506552&extension=ts&play_token=u2cWYPqURl
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=159&extension=ts&play_token=7PPAZYyMVf
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=507696&extension=ts&play_token=pNjIU8XLLl
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=1219&extension=ts&play_token=aMnm1GNLlD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=506550&extension=ts&play_token=nQ8DsOK8Mk
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:4C:0D:80&stream=796603&extension=ts&play_token=tHPnzmljQE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=1002837&extension=ts&play_token=rYmxLO3kcK
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C4:30:BD&stream=117792&extension=ts&play_token=s4Ax2qmY3I
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=1002841&extension=ts&play_token=ltmXPVpLKa
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421486&extension=ts&play_token=C96DXPdXMJ
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -130,6 +130,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
