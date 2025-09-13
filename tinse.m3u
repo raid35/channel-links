@@ -1,11 +1,15 @@
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/275838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 2 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-2-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 2 ꜰʜᴅ ʜᴇᴠᴄ
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/275841.m3u8
-EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 3 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-3-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 3 ꜰʜᴅ ʜᴇᴠᴄ
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/275844.m3u8
-#EXTINF:-1 tvg-name="Fr | Sport: Foot+ 24/24 HD" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",Fr | Sport: Foot+ 24/24 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/274328.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/373
+#EXTINF:-1 tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1 HD
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/128979
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 2
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/374
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 3
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/375
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT VIP",FR: CANAL+ FOOT
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/369
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/370
 #EXTINF:-1 tvg-name="DS: Canal + Sport 1 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-1.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 1 HD
 http://lukatv.net:8080/live/17512157228784/31263913139833/540090.m3u8
 #EXTINF:-1 tvg-name="DS: Canal + Sport 2 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-2.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 2 HD
@@ -16,46 +20,26 @@ http://lukatv.net:8080/live/17512157228784/31263913139833/540092.m3u8
 http://lukatv.net:8080/live/17512157228784/31263913139833/540093.m3u8
 #EXTINF:-1 tvg-name="DS: Canal+ Sport 5 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-5.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal+ Sport 5 HD
 http://lukatv.net:8080/live/17512157228784/31263913139833/540094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 1" tvg-logo="" group-title="France Ligue +",Ligue + 1
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 1 HD" tvg-logo="" group-title="France Ligue +",Ligue + 1 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 2" tvg-logo="" group-title="France Ligue +",Ligue + 2
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 2 HD" tvg-logo="" group-title="France Ligue +",Ligue + 2 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 3" tvg-logo="" group-title="France Ligue +",Ligue + 3
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 3 HD" tvg-logo="" group-title="France Ligue +",Ligue + 3 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 4" tvg-logo="" group-title="France Ligue +",Ligue + 4
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 4 HD" tvg-logo="" group-title="France Ligue +",Ligue + 4 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 5" tvg-logo="" group-title="France Ligue +",Ligue + 5
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 5 HD" tvg-logo="" group-title="France Ligue +",Ligue + 5 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 6" tvg-logo="" group-title="France Ligue +",Ligue + 6
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 6 HD" tvg-logo="" group-title="France Ligue +",Ligue + 6 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 7" tvg-logo="" group-title="France Ligue +",Ligue + 7
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 7 HD" tvg-logo="" group-title="France Ligue +",Ligue + 7 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 8" tvg-logo="" group-title="France Ligue +",Ligue + 8
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 8 HD" tvg-logo="" group-title="France Ligue +",Ligue + 8 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 9" tvg-logo="" group-title="France Ligue +",Ligue + 9
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 9 HD" tvg-logo="" group-title="France Ligue +",Ligue + 9 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 10" tvg-logo="" group-title="France Ligue +",Ligue + 10
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ligue + 10 HD" tvg-logo="" group-title="France Ligue +",Ligue + 10 HD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277420.m3u8
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 1
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142250
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 2
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142251
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 3
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142252
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 4
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142253
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 5
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142254
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 6
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142255
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 7
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142256
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 8
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142257
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 9" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 9
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142258
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 10
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/142259
 #EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX4" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX4
 http://lukatv.net:8080/live/17512157228784/31263913139833/274286.m3u8
 #EXTINF:-1 tvg-name="|FR| BEIN SPORTS MAX5" tvg-logo="https://static.mytuner.mobi/media/countries/fr.png" group-title="|FR|FRANCE SPORTS",|FR| BEIN SPORTS MAX5
