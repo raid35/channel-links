@@ -99,9 +99,9 @@ https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", PremierSports2-FHD
 https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky calcio" tvg-logo="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png",IT | sky calcio
-http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19129/index.m3u8
+http://line.trx-ott.com:80/live/bbbfd9603573/146bf09c351f/692417.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT | sky uno" tvg-logo="https://tv-programmi.it/pic_v4/chaines/epg/61.jpg" group-title="Français ",IT | sky uno
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=692393&extension=ts&play_token=GUFAQRxZ1C
+http://line.trx-ott.com:80/live/bbbfd9603573/146bf09c351f/692393.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
 https://seed.nakachi.online/hls/skyepluk/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1 FHD
@@ -130,6 +130,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
