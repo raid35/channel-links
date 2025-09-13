@@ -1,98 +1,36 @@
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS1_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be1.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS1_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31412&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_1 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be1.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_1 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31419&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS2_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be2.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS2_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31413&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_2 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be2.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_2 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31420&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS3_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be3.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS3_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31414&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_3 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be3.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_3 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31421&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS4_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be3.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS3_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31415&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_4 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be4.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_4 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31422&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS5_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be5.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS5_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31416&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_5 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be5.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_5 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31413&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_5 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be5.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_5 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31423&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS6_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be6.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS6_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31417&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_6 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be6.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_6 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31424&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS7_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be7.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS7_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31418&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_7 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be7.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_7 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31425&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS8_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be8.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS8_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31409&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_8 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be8.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_8 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31426&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS9_4K" tvg-logo="http://images.vg2095-2024-vega.com/bein/be9.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS9_4K
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31410&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_9 FHD" tvg-logo="http://images.vg2095-2024-vega.com/bein/be9.png" group-title="beIN SPORTS-1080FHD-4K",beIN_SPORTS_9 FHD
-http://avare.kingtv.pw:80/play/live.php?mac=00:1A:79:14:E1:54&stream=31427&extension=ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_1_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/1.png" group-title="beIN SPORTS H265 HQ-SD",beIN_1_H265_HQ
-https://xtrmh2.vg2095-2024-vega.com/7_.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_2_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/2.png" group-title="beIN SPORTS H265 HQ-SD",beIN_2_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24180.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_3_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/3.png" group-title="beIN SPORTS H265 HQ-SD",beIN_3_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24181.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_4_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/4.png" group-title="beIN SPORTS H265 HQ-SD",beIN_4_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24172.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_5_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/5.png" group-title="beIN SPORTS H265 HQ-SD",beIN_5_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24173.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_6_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/6.png" group-title="beIN SPORTS H265 HQ-SD",beIN_6_H265_HQ
-https://xtrmh2.vg2095-2024-vega.com/12_.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_7_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/7.png" group-title="beIN SPORTS H265 HQ-SD",beIN_7_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24175.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_8_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/8.png" group-title="beIN SPORTS H265 HQ-SD",beIN_8_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24176.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_9_H265_HQ" tvg-logo="http://images.vg2095-2024-vega.com/bein/a9.png" group-title="beIN SPORTS H265 HQ-SD",beIN_9_H265_HQ
-http://hhh25.xyz:80/live/m334400/M334400/24177.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 1 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be1.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 1 8M
-http://hhh25.xyz:80/live/m334400/M334400/22997.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_1_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be1.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_1_H265
-http://hhh25.xyz:80/live/m334400/M334400/7053.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 2 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be2.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 2 8M
-http://hhh25.xyz:80/live/m334400/M334400/22998.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_2_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be2.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_2_H265
-http://hhh25.xyz:80/live/m334400/M334400/9384.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 3 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be3.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 3 8M
-http://hhh25.xyz:80/live/m334400/M334400/22999.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_3_H265  " tvg-logo="http://images.vg2095-2024-vega.com/bein/be3.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_3_H265  
-http://hhh25.xyz:80/live/m334400/M334400/9383.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 4 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be4.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 4 8M
-http://hhh25.xyz:80/live/m334400/M334400/22990.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_4_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be4.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_4_H265
-http://hhh25.xyz:80/live/m334400/M334400/7029.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 5 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be5.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 5 8M
-http://hhh25.xyz:80/live/m334400/M334400/22991.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_5_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be5.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_5_H265
-http://hhh25.xyz:80/live/m334400/M334400/7047.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 6 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be6.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 6 8M
-http://hhh25.xyz:80/live/m334400/M334400/22992.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_6_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be6.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_6_H265
-http://hhh25.xyz:80/live/m334400/M334400/7048.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 7 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be7.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 7 8M
-http://hhh25.xyz:80/live/m334400/M334400/22993.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_7_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be7.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_7_H265
-http://hhh25.xyz:80/live/m334400/M334400/7049.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 8 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be8.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 8 8M
-http://hhh25.xyz:80/live/m334400/M334400/22994.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_8_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be8.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_8_H265
-http://hhh25.xyz:80/live/m334400/M334400/7050.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_H265 9 8M" tvg-logo="http://images.vg2095-2024-vega.com/bein/be9.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_H265 9 8M
-http://hhh25.xyz:80/live/m334400/M334400/22995.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sport_9_H265" tvg-logo="http://images.vg2095-2024-vega.com/bein/be9.png" group-title="beIN H265-8M-H265-4M",beIN_Sport_9_H265
-http://hhh25.xyz:80/live/m334400/M334400/7051.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_1Xtra_VEGA" tvg-logo="" group-title="beIN XTRA-اكسترا",beIN_SPORTS_1Xtra_VEGA
-http://hhh25.xyz:80/live/m334400/M334400/3844.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_2Xtra_VEGA" tvg-logo="" group-title="beIN XTRA-اكسترا",beIN_SPORTS_2Xtra_VEGA
-http://hhh25.xyz:80/live/m334400/M334400/31153.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS_3Xtra_VEGA" tvg-logo="" group-title="beIN XTRA-اكسترا",beIN_SPORTS_3Xtra_VEGA
-http://hhh25.xyz:80/live/m334400/M334400/115383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 1 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 2 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 3 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 4 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 5 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 6 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 4K" tvg-logo="" group-title="BeIN 4K",beIN SPORTS 7 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 4K" tvg-logo="" group-title="BeIN 4K",beIN Sports 8 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 4K" tvg-logo="" group-title="BeIN 4K",beIN Sport 9 4K
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD1 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD2 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD3 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD3 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD4 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD4 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD5 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD5 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD6 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD6 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD7 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD7 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD8 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD8 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD9 1080" tvg-logo="" group-title="BEIN FHD",Bein Sports HD9 1080
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/267451.m3u8
