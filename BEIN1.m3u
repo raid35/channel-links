@@ -30,3 +30,17 @@ http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1120405&exten
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1120424&extension=ts&play_token=HLWpNGf2pC
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1120423&extension=ts&play_token=RUFlJPQ9CA
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 1
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/841
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 2
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/842
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 3
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/843
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 4
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/844
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 5
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/845
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 6
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/846
+#EXTINF:-1 tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 7
+http://vipboacnn.top:8080/VIP01495172357192093/5abf70f9b02a/847
