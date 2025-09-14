@@ -7,19 +7,19 @@ http://fast.luckonline.eu:80/live/qwZTFS4pXF/5898171564/1004.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
 http://fast.luckonline.eu:80/live/qwZTFS4pXF/5898171564/2242.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=1002837&extension=ts&play_token=rYmxLO3kcK
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=256123&extension=ts&play_token=55QSWEQejm
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:2E:41:26&stream=1002841&extension=ts&play_token=ltmXPVpLKa
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=256628&extension=ts&play_token=zeEZwGhlGN
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421486&extension=ts&play_token=C96DXPdXMJ
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151081&extension=ts&play_token=pjw9oLf50d
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421487&extension=ts&play_token=rOhBPtMLXy
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151082&extension=ts&play_token=cE9LAc4CIS
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421488&extension=ts&play_token=JS0vt02Rq2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151083&extension=ts&play_token=fWorIWLIxu
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium489
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151084&extension=ts&play_token=TkhrQjQHNv
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium490
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151085&extension=ts&play_token=vU4QH7hwOt
 #EXTINF:-1 tvg-id="CANAL + SPORT 1" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r437x246n/4f2678f9-f870-401b-826a-31bb5f372877", CANAL + SPORT SK
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-id="CANAL + SPORT 2" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/565ce14b-59b6-4a44-b0bc-50304dc04c0c.png", CANAL + SPORT 2 SK
@@ -130,6 +130,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
