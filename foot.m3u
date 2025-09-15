@@ -1,11 +1,11 @@
 #EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
 https://seed.nakachi.online/hls/beinusa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://fast.luckonline.eu:80/live/qwZTFS4pXF/5898171564/1003.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=146116&extension=ts&play_token=TxdG82k1dX
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://fast.luckonline.eu:80/live/qwZTFS4pXF/5898171564/1004.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=149773&extension=ts&play_token=Iocoa1T5UI
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://fast.luckonline.eu:80/live/qwZTFS4pXF/5898171564/2242.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=250663&extension=ts&play_token=6LRYRWFY8V
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=256123&extension=ts&play_token=55QSWEQejm
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
@@ -35,13 +35,13 @@ http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/19076/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TURKEY",TİVİBU SPOR 4 HD
 https://tinyurl.com/Komestas-eincehn/704/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 1 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1625461&extension=ts&play_token=g1vAIEef9k
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1121579&extension=ts&play_token=xcWnfdurFY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 2 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1625460&extension=ts&play_token=qNgqYljz8T
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1121577&extension=ts&play_token=xUNJFGnEub
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 3 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1625459&extension=ts&play_token=fDuoe3XQ4T
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1121575&extension=ts&play_token=75tpclRDtU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 4 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1625458&extension=ts&play_token=LogMGS91kY
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1121573&extension=ts&play_token=WhcVf32GDr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 5 HD
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1625457&extension=ts&play_token=rG6L23hLhT
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="TURKEY",SMART SPOR HD
@@ -65,21 +65,21 @@ https://kusnadipepenk.github.io/ntn/ele4.m3u8
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:00:43:D0&stream=1567796&extension=ts&play_token=4xWAQm5wP3
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_premier_league.png", NOVA SPORT PREMIER LEAGUE 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=988193&extension=ts&play_token=FyPyvAVnAY
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=767848&extension=ts&play_token=pccfEej5XK
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_prime.png", NOVA SPORT PRIME 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=719352&extension=ts&play_token=7uvee9U6pE
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=196863&extension=ts&play_token=8FpjtlytQG
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_start.png", NOVA SPORT START 🇬🇷
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=719351&extension=ts&play_token=F79edR7MkA
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_1.png", NOVA SPORT 1 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=534451&extension=ts&play_token=6wBYK05jfC
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=83802&extension=ts&play_token=6YMKpLPNhZ
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_2.png", NOVA SPORT 2 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=534450&extension=ts&play_token=1mCEXzPhYD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=83803&extension=ts&play_token=XbU4087isy
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_3.png", NOVA SPORT 3 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=534449&extension=ts&play_token=PGTVYAJ8tU
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=83804&extension=ts&play_token=CLVPqcAsVa
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_4.png", NOVA SPORT 4 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=534448&extension=ts&play_token=cSzvziM4qJ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=83805&extension=ts&play_token=TQPTmgqkvF
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_5.png", NOVA SPORT 5 🇬🇷
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=534447&extension=ts&play_token=hOsSMIM3ja
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=83806&extension=ts&play_token=rBQfZTTqqK
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/novasports_6.png", NOVA SPORT 6 🇬🇷
 http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1432158&extension=ts&play_token=smnXzYc5IL
 #EXTINF:-1 tvg-id="Digi Sport 1 🇷🇴" tvg-logo="https://tvepg.eu/img/greece/logo/cosmote_sport_1.png", COSMOTE SPORT 1 🇬🇷
@@ -130,6 +130,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
