@@ -23,15 +23,15 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=3848&extensi
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1588733&extension=ts&play_token=VUrF5EJRGX
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 1
-http://magic-tv.live:2095/live/TU7nYLUXqo/C1DMO9OBLO/1688382.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
 #EXTINF:-1 tvg-id="" tvg-name="Thmanayh 1 FHD" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" group-title="ARABIC SPORT",Thmanayh 1 FHD
 http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277807.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 2
-http://magic-tv.live:2095/live/TU7nYLUXqo/C1DMO9OBLO/1688383.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
 #EXTINF:-1 tvg-id="" tvg-name="Thmanayh 2 FHD" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" group-title="ARABIC SPORT",Thmanayh 2 FHD
 http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277808.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 3
-http://magic-tv.live:2095/live/TU7nYLUXqo/C1DMO9OBLO/1689069.ts
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
 #EXTINF:-1 tvg-id="" tvg-name="Thmanayh 3 FHD" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" group-title="ARABIC SPORT",Thmanayh 3 FHD
 http://20025.online:2086/live/888420221658/21945814066f91c99369e5/277810.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
