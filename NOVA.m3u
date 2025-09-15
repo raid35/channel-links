@@ -15,7 +15,7 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=32835&extens
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=203436&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ HDR UHD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/620965.ts
+http://suphotte.xyz:80/live/234883593963044/2647968442/56993.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://nodns1.top:8080/live/7151733675985630/9234244d8777/8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
@@ -60,11 +60,11 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=1122938&exte
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106908&extension=ts&play_token=VDqpk8VPPB
+http://suphotte.xyz:80/live/234883593963044/2647968442/56840.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106914&extension=ts&play_token=qFzkZAOn6v
+http://suphotte.xyz:80/live/234883593963044/2647968442/56837.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:A3:1A:9A&stream=36664&extension=ts&play_token=XH1qlpwJ8i
+http://suphotte.xyz:80/live/234883593963044/2647968442/56849.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
@@ -76,45 +76,45 @@ https://jmp2.uk/sam-FRBA3300021ME.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=425578&extension=ts&play_token=JaNmFjQ1v7
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106915&extension=ts&play_token=E3joGNG2kb
+http://suphotte.xyz:80/live/234883593963044/2647968442/56851.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106910&extension=ts&play_token=25ua1osNBV
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106917&extension=ts&play_token=N1l3iiPn4I
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106917&extension=ts&play_token=N1l3iiPn4I
+http://suphotte.xyz:80/live/234883593963044/2647968442/56832.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=106916&extension=ts&play_token=WAP3W89PUS
+http://suphotte.xyz:80/live/234883593963044/2647968442/1015769.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://148.251.133.153:8181/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
 https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621011.ts
+http://suphotte.xyz:80/live/234883593963044/2647968442/1044109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+http://suphotte.xyz:80/live/234883593963044/2647968442/56988.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
 http://s.rocketdns.info:8080/live/19995634/79960700/599609.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+http://suphotte.xyz:80/live/234883593963044/2647968442/60130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+http://suphotte.xyz:80/live/234883593963044/2647968442/56848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621005.ts
+http://suphotte.xyz:80/live/234883593963044/2647968442/1044110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://mystb.live/live/Joshi2024/4562358745/236046.ts
+http://mystb.live/live/Joshi2024/4562358745/236046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://mystb.live/live/Joshi2024/4562358745/236045.ts
+http://mystb.live/live/Joshi2024/4562358745/236045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://mystb.live/live/Joshi2024/4562358745/236044.ts
+http://mystb.live/live/Joshi2024/4562358745/236044.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://mystb.live/live/Joshi2024/4562358745/236043.ts
+http://mystb.live/live/Joshi2024/4562358745/236043.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621010.ts
+http://suphotte.xyz:80/live/234883593963044/2647968442/1044107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
 https://livetvde.net/m6/index.m3u8?token=f9c53b12fbc6b11c74b8fa5175e049817e2dc05b-197d350c6237f7d2f4bbd951fd559ad0-1755808710-1755797910
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
+http://suphotte.xyz:80/live/234883593963044/2647968442/57006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+http://suphotte.xyz:80/live/234883593963044/2647968442/60133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
 http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=107012&extension=ts&play_token=PB2eo7Tynt
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
