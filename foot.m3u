@@ -27,23 +27,23 @@ http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 #EXTINF:-1 tvg-id="CANAL + SPORT 3" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/dbf47a87-6ca8-4c76-a638-1d221929c355.png", CANAL + SPORT 3 SK
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="TURKEY",TİVİBU SPOR 1 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/6102.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=157125&extension=ts
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png" group-title="TURKEY",TİVİBU SPOR 2 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/6103.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=157123&extension=ts
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png" group-title="TURKEY",TİVİBU SPOR 3 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/113254.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=157124&extension=ts
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="TURKEY",TİVİBU SPOR 4 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/115600.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=35524&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 1 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/454312.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=1121579&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 2 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/454316.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=1121577&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 3 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/454318.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=1121575&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 4 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/454320.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=1121573&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TURKEY",TABİİ SPOR 5 HD
-http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/454322.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=1121571&extension=ts
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="TURKEY",SMART SPOR HD
 http://playsda656ds79dsa46dsa46.orspcokplay.shop:8080/live/brkbysl464/Ke7SbTwshJpk/121246.m3u8
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="TURKEY",SMART SPOR 2 HD
@@ -130,6 +130,7 @@ https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 https://seed.nakachi.online/hls/masn/playlist.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN2
 https://seed.nakachi.online/hls/masn2/playlist.m3u8
+
 
 
 
