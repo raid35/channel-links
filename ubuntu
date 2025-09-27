@@ -9,3 +9,55 @@ sudo apt install xfce4 xfce4-goodies -y
 sudo apt install lightdm -y
 sudo dpkg-reconfigure lightdm
 sudo apt install ubuntu-desktop -y
+
+./iptv_menu.sh https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
+
+
+
+Bein Sports 3 HD
+
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+
+F  "name": "ABU DHABI SPORTS TV 1",
+        "uri": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd",
+        "icono": "https://i.ibb.co/K23yYkH/ad-sports1.png"
+      },
+       {
+        "name": "ABU DHABI SPORTS TV 2",
+        "uri": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
+        "icono": "https://i.ibb.co/j6FqJXQ/ad-sports2.png"
+        {
+                "name": "TNT SPORTS 1 UK",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae26845bd33038a9c0774a0981007294&key=63ac662dde310cfb4cc6f9b43b34196d",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
+                "icono": "https://i.ibb.co/M2XfypX/tnt1.png"
+            },
+            {
+                "name": "TNT SPORTS 2 UK",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d1708b185c6c4d7b37600520c7cc93c&key=1aace05f58d8edef9697fd52cb09f441",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "icono": "https://i.ibb.co/gFpYs4N/tnt2.png"
+            },
+            {
+                "name": "TNT SPORTS 3 UK",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4e993aa8c1f295f8b94e8e9e6f6d0bfe&key=86a1ed6e96caab8eb1009fe530d2cf4f",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                "icono": "https://i.ibb.co/R6d05KZ/tnt3.png"
+            },
+            {
+                "name": "TNT SPORTS 4 UK",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e31a5a81caff5d07ea2411a571fc2e59&key=96c5ef69479732ae734f962748c19729",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                "icono": "https://i.ibb.co/52R1cbw/tnt4.png"
+            },
+            {
+                "name": "TNT SPORTS 5 UK",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+                "icono": "https://i.ibb.co/gyzGJ7f/tnt5.png"
+            },
