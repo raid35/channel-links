@@ -1,0 +1,11 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y curl wget sudo
+bash <(curl -Ls https://git.io/JY4eE)
+http://IP-SERVER:25500
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install xfce4 xfce4-goodies -y
+sudo apt install xfce4 xfce4-goodies -y
+sudo apt install lightdm -y
+sudo dpkg-reconfigure lightdm
+sudo apt install ubuntu-desktop -y
