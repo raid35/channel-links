@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="gogo" tvg-logo="https://manager.gogo-iptv.com/assets/images/logoandroid.png" group-title="gogo", 
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://w7.pngwing.com/pngs/509/173/png-transparent-white-blue-and-red-soccer-ball-uefa-euro-2016-football-sketch-euro-2016-france-ball-sport-sports-equipment-drawing-thumbnail.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/tinse.m3u
+
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://up6.cc//2025//04//174519833320451.jpg" group-title="ALWAN",
 https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
 
@@ -33,9 +36,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://w7.pngwing.com/pngs/509/173/png-transparent-white-blue-and-red-soccer-ball-uefa-euro-2016-football-sketch-euro-2016-france-ball-sport-sports-equipment-drawing-thumbnail.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/tinse.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://lynxshop.net/logo1.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
