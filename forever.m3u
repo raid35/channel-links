@@ -1,43 +1,31 @@
 #EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="Bein Sports 1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
 https://nl1.streamlive.to/live/19995634/79960700/714411.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 1" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png?ver=12-01-2025" group-title="Algeria -", FR بي إن سبورتس 1
+#EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png?ver=12-01-2025" group-title="Algeria -", FR بي إن سبورتس 1
 https://nl1.streamlive.to/live/19995634/79960700/659439.m3u8
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 2
 https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr2" tvg-name="Bein Sports France 2" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png?ver=12-01-2025" group-title="Algeria -", FR 2 بي إن سبورتس
+#EXTINF:-1 tvg-id="beinsports.fr2" tvg-name="Bein Sports France 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png?ver=12-01-2025" group-title="Algeria -", FR 2 بي إن سبورتس
 https://nl1.streamlive.to/live/19995634/79960700/607903.m3u8
 #EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 3
 https://nl1.streamlive.to/live/19995634/79960700/659429.m3u8
-#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 3
+#EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png?ver=12-01-2025" group-title="Algeria -", FR 3 بي إن سبورتس
 https://nl1.streamlive.to/live/19995634/79960700/659441.m3u8
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 4
 https://nl1.streamlive.to/live/19995634/79960700/659430.m3u8
 #EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 5
 https://nl1.streamlive.to/live/19995634/79960700/659431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="Bein Sports 6" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 6
 https://nl1.streamlive.to/live/19995634/79960700/659432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5085.png" group-title="Sports",AR | BEIN SPORTS 7 FHD
-http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/3847.ts
 #EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 7
 https://nl1.streamlive.to/live/19995634/79960700/659433.m3u8
 #EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 8
 https://nl1.streamlive.to/live/19995634/79960700/659434.m3u8
 #EXTINF:-1 tvg-id="beinsports9.ar" tvg-name="Bein Sports 9" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 9
 https://nl1.streamlive.to/live/19995634/79960700/659435.m3u8
-#EXTINF:-1 tvg-id="beinsports.en1" tvg-name="Bein Sports English 1" tvg-logo="https://prod-media.beinsports.com/image/6a971e08a01e6676d0f1a6e0dacbbd67.128.png?ver=12-01-2025" group-title="Algeria -", EN بي إن سبورتس 1
-https://nl1.streamlive.to/live/19995634/79960700/659436.m3u8
-#EXTINF:-1 tvg-id="beinsports.en2" tvg-name="Bein Sports English 2" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=12-01-2025" group-title="Algeria -", EN 2 بي إن سبورتس
-https://nl1.streamlive.to/live/19995634/79960700/659437.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 1" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png?ver=12-01-2025" group-title="Algeria -", FR بي إن سبورتس 1
-https://nl1.streamlive.to/live/19995634/79960700/607902.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr2" tvg-name="Bein Sports France 2" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png?ver=12-01-2025" group-title="Algeria -", FR 2 بي إن سبورتس
-https://nl1.streamlive.to/live/19995634/79960700/607903.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 1
 https://nl1.streamlive.to/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 https://nl1.streamlive.to/live/19995634/79960700/659443.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 3" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 3
-http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
+https://nl1.streamlive.to/live/19995634/79960700/659444.m3u8
 
