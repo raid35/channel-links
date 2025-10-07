@@ -9,15 +9,15 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=288255
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=288253&extension=ts&
 #EXTINF:-1 tvg-name="DS: Canal + Sport 1 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-1.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 1 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/540090.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151081&extension=ts&play_token=pjw9oLf50d
 #EXTINF:-1 tvg-name="DS: Canal + Sport 2 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-2.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 2 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/540091.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151082&extension=ts&play_token=cE9LAc4CIS
 #EXTINF:-1 tvg-name="DS: Canal + Sport 3 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-3.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 3 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/540092.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151083&extension=ts&play_token=fWorIWLIxu
 #EXTINF:-1 tvg-name="DS: Canal + Sport 4 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-4.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal + Sport 4 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/540093.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151084&extension=ts&play_token=TkhrQjQHNv
 #EXTINF:-1 tvg-name="DS: Canal+ Sport 5 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Africa/DS%20Africa/Canal-PLUS-Sport-5.png" group-title="|AF|  AFRICA CANAL +  SPORTS 4K",DS: Canal+ Sport 5 HD
-http://lukatv.net:8080/live/17512157228784/31263913139833/540094.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=151085&extension=ts&play_token=vU4QH7hwOt
 #EXTINF:-1 tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 1
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=326632&extension=ts&
 #EXTINF:-1 tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 2
