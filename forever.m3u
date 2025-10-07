@@ -1,21 +1,15 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png" group-title="Sports",AR | BEIN SPORTS 4k
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=983525&extension=ts&play_token=hszzN8IAD6
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="Bein Sports 1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
 https://nl1.streamlive.to/live/19995634/79960700/714411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-https://wo.cma.footballii.ir/hls2/b2_src.m3u8
+#EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 1" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png?ver=12-01-2025" group-title="Algeria -", FR بي إن سبورتس 1
+https://nl1.streamlive.to/live/19995634/79960700/659439.m3u8
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 2
 https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-https://wo.cma.footballii.ir/hls2/b3_src.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-https://wo.cma.footballii.ir/hls2/b3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-https://wo.cma.footballii.ir/hls2/b3.m3u8
+#EXTINF:-1 tvg-id="beinsports.fr2" tvg-name="Bein Sports France 2" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png?ver=12-01-2025" group-title="Algeria -", FR 2 بي إن سبورتس
+https://nl1.streamlive.to/live/19995634/79960700/607903.m3u8
 #EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 3
 https://nl1.streamlive.to/live/19995634/79960700/659429.m3u8
+#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 3
+https://nl1.streamlive.to/live/19995634/79960700/659441.m3u8
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 4
 https://nl1.streamlive.to/live/19995634/79960700/659430.m3u8
 #EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 5
@@ -44,7 +38,6 @@ https://nl1.streamlive.to/live/19995634/79960700/607903.m3u8
 https://nl1.streamlive.to/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 https://nl1.streamlive.to/live/19995634/79960700/659443.m3u8
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 3" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 3
+http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
+
