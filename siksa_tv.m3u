@@ -13,11 +13,14 @@ https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="gogo" tvg-logo="https://manager.gogo-iptv.com/assets/images/logoandroid.png" group-title="gogo", 
-https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
+#EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://gogoiptv.tv/wp-content/uploads/2021/05/lllll-removebg-preview.png ",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="bein" tvg-logo="https://cdn.apkhome.net/storage/2023/11/Gogo-23-APK.jpg?strip=all&lossy=1&ssl=1", 
 https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
+
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="gogo" tvg-logo="https://manager.gogo-iptv.com/assets/images/logoandroid.png" group-title="gogo", 
+https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://suptvshop.me/wp-content/uploads/2021/11/bdab498178bf7c6f56fca0a916362196.jpeg" group-title="DOC", 
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
@@ -36,9 +39,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://lynxshop.net/logo1.png ",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/beinSA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://lynxshop.net/logo1.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
