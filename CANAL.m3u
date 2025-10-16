@@ -196,3 +196,21 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21500&extens
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21501&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115673&extension=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
+https://cdnfest.com/G1-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN FHD",BEIN SPORTS 2 HD GHD
+https://cdnfest.com/G2-1080p/video.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="BEIN SPORT",BEIN SPORTS 3 HD GHD
+https://cdnfest.com/G3-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/188068553.png" group-title="BEIN FHD",BEIN SPORTS 4 HD GHD
+https://cdnfest.com/G4-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/181309184.png" group-title="BEIN FHD",BEIN SPORTS 5 HD GHD
+https://cdnfest.com/G5-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="BEIN FHD",BEIN SPORTS 6 HD GHD
+https://cdnfest.com/G6-1080p/video.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/819528568.png" group-title="BEIN FHD",BEIN SPORTS 7 HD GHD
+https://cdnfest.com/G7-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN FHD",BEIN SPORTS 8 HD GHD
+https://cdnfest.com/G8-1080p/video.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN FHD",BEIN SPORTS 9 HD GHD
+https://cdnfest.com/G9-1080p/video.m3u8
