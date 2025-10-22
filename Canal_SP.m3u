@@ -10,18 +10,6 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 1
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
-https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 2
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
-https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/6bbe53d4-5d66-44c0-846d-a5635c67a13c?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
-https://fastly-live.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC MASR 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
@@ -107,10 +95,14 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png", CBC Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=937f2af157c2bcc8631364d7bbb58198:a2d8a370b13c2e57aed02254b584ca91
-https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/trhqmmepww/out/v1/9c4354f576964d18b98a944d31b8dbf0/cenc.mpd
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._VeKRxMQ1Uzp2Ozz57Vi7gHaA9?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3", sky football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png", TNT Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
