@@ -1,19 +1,17 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png" group-title="Sports",AR | BEIN SPORTS 4k
-http://45.139.122.199:2095/play/live.php?mac=00:1A:79:CB:5C:74&stream=269457&extension=ts&play_token=GnI2NSEV0c
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630675&extension=ts&play_token=Ef5d8ppXBZ
+https://live.foxtv7.com/foxtv/ostora/main.php?id=81239&cat=4297
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=3854&extension=ts&play_token=xgV4h6IIv9
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 2
-http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630676&extension=ts&play_token=Hu5Oh047d2
+https://live.foxtv7.com/foxtv/ostora/main.php?id=81238&cat=4297
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=3853&extension=ts&play_token=07ynfG6GGX
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630677&extension=ts&play_token=M8QvYxqyXB
+https://live.foxtv7.com/foxtv/ostora/main.php?id=81240&cat=4297
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=3851&extension=ts&play_token=aUveTjIw86
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630678&extension=ts&play_token=0qnD4hEhKm
+https://live.foxtv7.com/foxtv/ostora/main.php?id=81242&cat=4297
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=3850&extension=ts&play_token=ab8Bw7GN7z
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
