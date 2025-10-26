@@ -1,3 +1,5 @@
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl wget sudo
 bash <(curl -Ls https://git.io/JY4eE)
