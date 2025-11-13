@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Algérie",ALGERIA
 http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=984547&extension=ts&play_token=k9CkkePLg5
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=7749&extension=ts&play_token=1RM4MTAAa1
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=7749&extension=ts&play_token=1RM4MTAAa1
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
 http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=7748&extension=ts&play_token=EEdvlZE130
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
@@ -11,7 +11,7 @@ http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=7746&extension=
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
 http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=7745&extension=ts&play_token=AllAvBaqXN
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=54836&extension=ts&play_token=cmNipBSkwK
+http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=54836&extension=ts&play_token=cmNipBSkwK
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
 http://eag23.ddns.net/play/live.php?mac=00:1A:79:A9:73:E7&stream=91128&extension=ts&play_token=Wzi44nPjJl
 #EXTINF:-1 tvg-id="" tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
