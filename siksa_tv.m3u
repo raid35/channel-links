@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg/768px-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg.png?20210521122235" group-title="ARABIC SPORTS",
+https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
+
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" ,
 https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u
 
@@ -96,9 +99,6 @@ https://raw.githubusercontent.com/v5on/filoox-bdix-selected/main/playlist.m3u
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
 http://ugeen.live:8080/get.php?username=exskypeleoshare-jordansat4u&password=50&type=m3u_plus&output=hls&lang=en&view_category=yes
-
-#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
-https://raw.githubusercontent.com/raid35/channel-links/main/AD.json
 
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
