@@ -11,9 +11,9 @@ http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/8522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2433.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=32835&extension=ts
+http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=203436&extension=ts
+http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/82.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
