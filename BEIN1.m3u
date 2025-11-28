@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
-https://on-tv.site/tv/?action=play&src=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FtGD0tWJPUN-DOlD-a2jQ1JdpGByBYhdlaNiWlCEvSa_WQDeCbNBgmb6XBs3t3_nhQamE1F0qKy255r7yXb3dyw%2Fnon_transcode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2Fmaster_dynamic_highlatency.m3u8%3Ftype%3Dlive
+https://newplayer.tv1122mo.workers.dev/live/2.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
 https://on-tv.site/tv/?action=play&src=https%3A%2F%2Fprod-fastly-eu-central-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FXuVxTgIjt38ogJXIqKfmq1zJiD7zb9cfZOGJwY_vBU9INoiGT4nKI3GZZKQOMHCAZIC7V1vjzFW6IwO7uuD9xw%2Fnon_transcode%2Feu-central-1%2Fperiscope-replay-direct-prod-eu-central-1-public%2Fmaster_dynamic_highlatency.m3u8%3Ftype%3Dlive
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN SPORT",BEIN SPORTS 2 HD
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/zgjXZ4lYgyk8qi554o4_h3TZGHR3Q9YpBk0d9X1Gq841dZnwbQYEvVPqKO7qu9cUVWkNKTsXzwTOOrCT1BGfXg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+https://newplayer.tv1122mo.workers.dev/live/1.m3u
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN SPORT",BEIN SPORTS 2 SD
 https://js2.didou.space/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="BEIN SPORT",BEIN SPORTS 3 HD GHD
