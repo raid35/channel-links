@@ -15,13 +15,13 @@ http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/82.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3934.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=256628&extension=ts
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/77.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2502/index.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -34,33 +34,12 @@ http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.m3u8
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="Français ",FR | Infosport
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR |L'Equipe Live1
-https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR |L'Equipe Live2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 6
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 7
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 8
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1" tvg-logo="http://148.251.133.153:8181/logo/chn/6526.png" group-title="Français ",FR | DAZN 1
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=1044125&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5123.png" group-title="Français ",FR | DAZN 1 FHD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=1122938&extension=ts
-#EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/81.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/78.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://suphotte.xyz:80/live/234883593963044/2647968442/56849.ts
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6006/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
@@ -72,33 +51,33 @@ https://jmp2.uk/sam-FRBA3300021ME.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/65.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/17039/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/62.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://148.251.133.153:8181/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2650.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7262/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4002.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/15187/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2941.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/115.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6148/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2912.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6149/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2913.m3u8
+http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6150/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1651.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
