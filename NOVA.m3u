@@ -17,9 +17,9 @@ http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2546/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1206556&extension=ts&play_token=HuTENPXFKo
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15394.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1206555&extension=ts&play_token=pQMvSIlQpP
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/260425.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2502/index.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
@@ -40,27 +40,19 @@ http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6006/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/621007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:09:ED:B7&stream=1640380&extension=m3u8
-#EXTINF:-1 channel-id="samsung-FR370000288" tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250307T151927SQUARE.png" group-title="CinÃ©ma" tvg-chno="4007",Box Office Action
-https://jmp2.uk/sam-FR370000288.m3u8
-#EXTINF:-1 channel-id="samsung-FRBA3300021ME" tvg-id="FRBA3300021ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300021ME_20241210T052712SQUARE.png" group-title="CinÃ©ma" tvg-chno="4874",Wild Side TV
-https://jmp2.uk/sam-FRBA3300021ME.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/205112.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/17039/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/64.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/4371.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/63.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/58.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://148.251.133.153:8181/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2503.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/4643.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/7262/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
@@ -78,65 +70,57 @@ http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6149/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6150/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1651.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/20069.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3292.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/324.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1641.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/5090.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3297.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15421.ts
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/26994.ts
 #EXTINF:-1 group-title="rts1" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rts-1-logo-png_seeklogo-498049.png" , rts1
-https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19922.ts
 #EXTINF:-1 group-title="rts2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png?20230830203438" , rts2
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=386547&extension=ts&play_token=MfL1NFMOrM
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19921.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TÉVA" tvg-logo="http://148.251.133.153:8181/logo/chn/2490.png" group-title="Français ",FR | TÉVA
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3097.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/4653.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TV BREIZH" tvg-logo="http://148.251.133.153:8181/logo/chn/2375.png" group-title="Français ",FR | TV BREIZH
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/6725.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://148.251.133.153:8181/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2915.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/215.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4358.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3334.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6475.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3334.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15464.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | AB1" tvg-logo="http://148.251.133.153:8181/logo/chn/2376.png" group-title="Français ",FR | AB1
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1160.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19928.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | AB3" tvg-logo="http://148.251.133.153:8181/logo/chn/2492.png" group-title="Français ",FR | AB3
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2232.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19927.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RTL9" tvg-logo="http://148.251.133.153:8181/logo/chn/2374.png" group-title="Français ",FR | RTL9
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2383.png" group-title="Français ",FR | ACTION
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3099.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15374.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | POLAR+" tvg-logo="http://148.251.133.153:8181/logo/chn/2487.png" group-title="Français ",FR | POLAR+
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4077.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6462.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SYFY" tvg-logo="http://148.251.133.153:8181/logo/chn/2381.png" group-title="Français ",FR | SYFY
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2917.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/5196.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | WARNER TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2486.png" group-title="Français ",FR | WARNER TV
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3880.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15482.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | NOVELAS TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2512.png" group-title="Français ",FR | NOVELAS TV
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3332.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="Melody.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Musique",MÉLODY
-https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-FRBC2100001YY" tvg-id="FRBC2100001YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png" group-title="Musique" tvg-chno="4683",Vevo Pop
-https://jmp2.uk/sam-FRBC2100001YY.m3u8
-#EXTINF:-1 channel-id="samsung-FRBC2100002JA" tvg-id="FRBC2100002JA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png" group-title="Musique" tvg-chno="4685",Vevo Hip-Hop & R&B
-https://jmp2.uk/sam-FRBC2100002JA.m3u8
-#EXTINF:-1 channel-id="samsung-FRBD1900013CB" tvg-id="FRBD1900013CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20241015T040408SQUARE.png" group-title="Musique" tvg-chno="4687",Vevo '90s & '00s
-https://jmp2.uk/sam-FRBD1900013CB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://148.251.133.153:8181/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=425577&extension=ts&play_token=aWvDPNeack
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/82638.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2910.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/38721.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3275.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19874.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3276.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19866.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
@@ -144,21 +128,21 @@ http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/6722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2508.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15476.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2435.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3300.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/13548.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/6723.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19876.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/224.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19860.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4293.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19865.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/4123.m3u8
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19868.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
 http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
