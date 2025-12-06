@@ -1,202 +1,342 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3404.png" group-title="Sports",AR | BEIN SPORTS 1 HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3405.png" group-title="Sports",AR | BEIN SPORTS 2 HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3406.png" group-title="Sports",AR | BEIN SPORTS 3 HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5082.png" group-title="Sports",AR | BEIN SPORTS 4 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="Sports",AR | BEIN SPORTS 5 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5085.png" group-title="Sports",AR | BEIN SPORTS 7 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5086.png" group-title="Sports",AR | BEIN SPORTS 8 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2198" group-title="Sports",AR | BEIN SPORTS 9 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=256628&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=256628&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2507.png" group-title="Sports",AF | CANAL+ SPORT 1
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:AB:54:F8&stream=151081&extension=ts&play_token=rIHu4D86qa
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2508.png" group-title="Sports",AF | CANAL+ SPORT 2
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:AB:54:F8&stream=151082&extension=ts&play_token=1wte1QOCJj
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2509.png" group-title="Sports",AF | CANAL+ SPORT 3
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:AB:54:F8&stream=151083&extension=ts&play_token=mBKMSSNEKT
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 4
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:AB:54:F8&stream=151084&extension=ts&play_token=eORnL6cXNV
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2511.png" group-title="Sports",AF | CANAL+ SPORT 5
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:AB:54:F8&stream=151085&extension=ts&play_token=YL3kkkqIjz
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2406.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1" tvg-logo="http://148.251.133.153:8181/logo/chn/6526.png" group-title="Français ",FR | DAZN 1
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6526.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5123.png" group-title="Français ",FR | DAZN 1 FHD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/5123.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://148.251.133.153:8181/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=231345&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=250640&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68070.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FR | ARTE" tvg-logo="http://148.251.133.153:8181/logo/chn/2377.png" group-title="Français ",FR | ARTE
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32757&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TCM CINEMA" tvg-logo="http://148.251.133.153:8181/logo/chn/2382.png" group-title="Français ",FR | TCM CINEMA
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=32788&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32759&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://148.251.133.153:8181/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TÉVA" tvg-logo="http://148.251.133.153:8181/logo/chn/2490.png" group-title="Français ",FR | TÉVA
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32795&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TV BREIZH" tvg-logo="http://148.251.133.153:8181/logo/chn/2375.png" group-title="Français ",FR | TV BREIZH
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://148.251.133.153:8181/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=32790&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=228916&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=228917&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=70471&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=70472&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=72476&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115668&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115669&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115670&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115671&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115672&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=10337&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=10338&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=10339&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=10341&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21497&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21498&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21499&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21500&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=21501&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:ab:54:f8&stream=115673&extension=ts
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
-https://cdnfest.com/G1-1080p/video.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN FHD",BEIN SPORTS 2 HD GHD
-https://cdnfest.com/G2-1080p/video.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="BEIN SPORT",BEIN SPORTS 3 HD GHD
-https://github.com/siksa40/xPola-Player/raw/main/bein_3.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/188068553.png" group-title="BEIN FHD",BEIN SPORTS 4 HD GHD
-https://cdnfest.com/G4-1080p/video.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/181309184.png" group-title="BEIN FHD",BEIN SPORTS 5 HD GHD
-https://cdnfest.com/G5-1080p/video.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="BEIN FHD",BEIN SPORTS 6 HD GHD
-https://cdnfest.com/G6-1080p/video.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/819528568.png" group-title="BEIN FHD",BEIN SPORTS 7 HD GHD
-https://cdnfest.com/G7-1080p/video.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN FHD",BEIN SPORTS 8 HD GHD
-https://cdnfest.com/G8-1080p/video.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN FHD",BEIN SPORTS 9 HD GHD
-https://cdnfest.com/G9-1080p/video.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR|BEIN SPORTS 1 HD" tvg-logo="http://www8.0zz0.com/2017/07/26/05/155847106.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 1 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5926.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR|BEIN SPORTS 1 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BEIN%20FR1.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 1 FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77904.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR|BEIN SPORTS 2 HD" tvg-logo="http://www3.0zz0.com/2017/07/26/05/611337538.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 2 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5925.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR|BEIN SPORTS 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3x1U-tK-KvjSuYKEXVbjkVqz5KvyWYCmCoAQWn-BXvlRaWRrri_BWw" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 2 FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6430.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR|BEIN SPORTS 3 HD" tvg-logo="http://www4.0zz0.com/2017/07/26/05/243915759.jpg" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 3 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5924.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR|BEIN SPORTS 3 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BEIN%203FR.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 3 FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77902.m3u8
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR|CANAL+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+.png" group-title="FR|  FRANCE HD",FR|CANAL+ HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5919.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ FOOT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20sport%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ FOOT HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177676.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ FOOT FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20sport%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ FOOT FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177675.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177678.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177677.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR|CANAL+ SPORT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnYv2wMX1v-QxZzhQgdgBeEp1eQnXCHfjyCTfmsa1670UMXG-tabml0eL" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6421.m3u8
+#EXTINF:-1 tvg-name="AF|CANAL+ SPORT 1HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 1HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232526.m3u8
+#EXTINF:-1 tvg-name="AF|CANAL+ SPORT 2HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 2HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232527.m3u8
+#EXTINF:-1 tvg-name="AF|CANAL+ SPORT 3HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 3HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232528.m3u8
+#EXTINF:-1 tvg-name="AF|CANAL+ SPORT 4HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 4HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232529.m3u8
+#EXTINF:-1 tvg-name="AF|CANAL+ SPORT 5HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 5HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232530.m3u8
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR|CANAL+ CINEMA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+CINEMA.png" group-title="FR|  FRANCE HD",FR|CANAL+ CINEMA HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5918.m3u8
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR|CANAL+ SERIES HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+%20SERIES.png" group-title="FR|  FRANCE HD",FR|CANAL+ SERIES HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5915.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ GRAND ECRAN HD" tvg-logo="https://uc158da5502232732e12ba863a26.previews.dropboxusercontent.com/p/thumb/ABh4-On8RC7coA1M2Fiw5YGszPGBIb3dJYijDWncuZxUhMDAojKNqE6nwLDlbb5jS42jH4UctpCm-fNS-BH4wQZyPlyBV1yUTbRFe74rRN9fyXSzl8J2h-YyV8s04yKUXdxh2RZa58Gf922Ex5bHBvl1W72Nt8ggJgggYwpQiCQB8htRn0Z_c61JFZcoQ_cWq1UENBjZmA5AwvZ7XUox0S-QCB0NL8fUIhOoL3cUqP3PIIm2vtRtMIXTQ1oQf1tSn7Km5nvb916hmqZMei1DoMqLRKVw0IfozGjY8GCRi24eVYLJUoFhwK-EXTN9hFrva1SCVkO6859FK1brZirWd0XmvQq0ki1Qp7FzkpveEWnmwycwWTlJSMPwrPNOCPbp4Bx4XXktp8haHqhp-KqY9gGVU7eYgI9NmSMAb25bpdCreQ/p.png" group-title="FR|  FRANCE HD",FR|CANAL+ GRAND ECRAN HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/172849.m3u8
+#EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="FR|CANAL+ BOX OFFICE HD" tvg-logo="https://live.staticflickr.com/65535/54164096372_583c9c1aec.jpg" group-title="FR|  FRANCE HD",FR|CANAL+ BOX OFFICE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/223453.m3u8
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR|CINE PREMIER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20PREMIER.png" group-title="FR|  FRANCE HD",FR|CINE PREMIER HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5908.m3u8
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR|CINE FRISSON HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20PRESSON.png" group-title="FR|  FRANCE HD",FR|CINE FRISSON HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5903.m3u8
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR|CINE FAMIZ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20FAMIZ.png" group-title="FR|  FRANCE HD",FR|CINE FAMIZ HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5904.m3u8
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR|CINE EMOTION HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20EMOTION.png" group-title="FR|  FRANCE HD",FR|CINE EMOTION HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5905.m3u8
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR|CINE CLUB HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20CLUB.png" group-title="FR|  FRANCE HD",FR|CINE CLUB HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5906.m3u8
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="FR| POLAR+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/POLAR+.png" group-title="FR|  FRANCE HD",FR| POLAR+ HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5901.m3u8
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR|CINE CLASSIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20CLASSIC.png" group-title="FR|  FRANCE HD",FR|CINE CLASSIC HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5907.m3u8
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR|ACTION HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/ACTION.png" group-title="FR|  FRANCE HD",FR|ACTION HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5929.m3u8
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR|TF1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TF1.png" group-title="FR|  FRANCE HD",FR|TF1 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5835.m3u8
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR|TFX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TFX.png" group-title="FR|  FRANCE HD",FR|TFX HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5856.m3u8
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR|TF1 SERIES FILMS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TF1%20SERIE%20FILM.png" group-title="FR|  FRANCE HD",FR|TF1 SERIES FILMS HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5873.m3u8
+#EXTINF:-1 tvg-name="FR|MYTF1 MAX HD" group-title="FR|  FRANCE HD",FR|MYTF1 MAX HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/202761.m3u8
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR|M6 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/m6.png" group-title="FR|  FRANCE HD",FR|M6 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5869.m3u8
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR|FRANCE 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%202.png" group-title="FR|  FRANCE HD",FR|FRANCE 2 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5883.m3u8
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FR|FRANCE 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%203.png" group-title="FR|  FRANCE HD",FR|FRANCE 3 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5882.m3u8
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FR|FRANCE 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%204.png" group-title="FR|  FRANCE HD",FR|FRANCE 4 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5881.m3u8
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FR|FRANCE 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%205.png" group-title="FR|  FRANCE HD",FR|FRANCE 5 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5880.m3u8
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR|CSTAR HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/C%20STAR.png" group-title="FR|  FRANCE HD",FR|CSTAR HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5898.m3u8
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR|TMC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TMC.png" group-title="FR|  FRANCE HD",FR|TMC HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5833.m3u8
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR|SYFY HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SYFY.png" group-title="FR|  FRANCE HD",FR|SYFY HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5838.m3u8
+#EXTINF:-1 tvg-id="RTS Deux HD CH" tvg-name="FR|RTS DEUX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%202.png" group-title="FR|  FRANCE HD",FR|RTS DEUX HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5846.m3u8
+#EXTINF:-1 tvg-id="RTS Un HD CH" tvg-name="FR|RTS UN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%201.png" group-title="FR|  FRANCE HD",FR|RTS UN HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5845.m3u8
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR|CHERIE 25 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CHERIE%2025.png" group-title="FR|  FRANCE HD",FR|CHERIE 25 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5909.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR|6TER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/6TER.png" group-title="FR|  FRANCE HD",FR|6TER HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5932.m3u8
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR|AB1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB1.png" group-title="FR|  FRANCE HD",FR|AB1 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5931.m3u8
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR|AB3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB3.png" group-title="FR|  FRANCE HD",FR|AB3 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5930.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR|ARTE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/ARTE.png" group-title="FR|  FRANCE HD",FR|ARTE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5927.m3u8
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR|13EME RUE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/13EME%20RUE.png" group-title="FR|  FRANCE HD",FR|13EME RUE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5933.m3u8
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR|PARIS PREMIERE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/PARIS%20PREMIEME.png" group-title="FR|  FRANCE HD",FR|PARIS PREMIERE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/26014.m3u8
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="FR|COMEDIE+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CEMEDIE+.png" group-title="FR|  FRANCE HD",FR|COMEDIE+ HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5900.m3u8
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR|RFM TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RFMTV.png" group-title="FR|  FRANCE HD",FR|RFM TV HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5849.m3u8
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR|W9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/W9.png" group-title="FR|  FRANCE HD",FR|W9 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5825.m3u8
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR|RTL9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTL9.png" group-title="FR|  FRANCE HD",FR|RTL9 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5847.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="FR|PARAMOUNT CHANNEL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/PARAMOUNT%20CHANNEL.png" group-title="FR|  FRANCE HD",FR|PARAMOUNT CHANNEL HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5854.m3u8
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR|TCM CINEMA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TCM%20CINEMA.png" group-title="FR|  FRANCE HD",FR|TCM CINEMA HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5837.m3u8
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR|WARNER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/WARNER.png" group-title="FR|  FRANCE HD",FR|WARNER HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75634.m3u8
+#EXTINF:-1 tvg-name="FR|PARAMOUNT DECALE HD" tvg-logo="https://www5.0zz0.com/2020/04/12/06/404458362.png" group-title="FR|  FRANCE HD",FR|PARAMOUNT DECALE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75643.m3u8
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR|TV BREIZH HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/BREIZH%20TV.png" group-title="FR|  FRANCE HD",FR|TV BREIZH HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5830.m3u8
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR|TV5 MONDE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TV5%20MONDE.png" group-title="FR|  FRANCE HD",FR|TV5 MONDE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5829.m3u8
+#EXTINF:-1 tvg-name="FR|RMC Mecanic" group-title="FR|  FRANCE HD",FR|RMC Mecanic
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220394.m3u8
+#EXTINF:-1 tvg-name="FR|RMC Mystère" group-title="FR|  FRANCE HD",FR|RMC Mystère
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220392.m3u8
+#EXTINF:-1 tvg-name="FR|RMC Talk Info" group-title="FR|  FRANCE HD",FR|RMC Talk Info
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220395.m3u8
+#EXTINF:-1 tvg-name="FR|RMC Talk Sport" group-title="FR|  FRANCE HD",FR|RMC Talk Sport
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220396.m3u8
+#EXTINF:-1 tvg-name="FR|RMC WOW" group-title="FR|  FRANCE HD",FR|RMC WOW
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220397.m3u8
+#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="FR|TRACE URBAN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20URBAN.png" group-title="FR|  FRANCE HD",FR|TRACE URBAN HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5832.m3u8
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR|MTV FRANCE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MTV%20FRANCE.png" group-title="FR|  FRANCE HD",FR|MTV FRANCE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5862.m3u8
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="FR|MEZZO LIVE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO%20LIVE.png" group-title="FR|  FRANCE HD",FR|MEZZO LIVE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5864.m3u8
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="FR|MEZZO HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO.png" group-title="FR|  FRANCE HD",FR|MEZZO HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5865.m3u8
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR|MCM HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MCM.png" group-title="FR|  FRANCE HD",FR|MCM HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5867.m3u8
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="FR|E! ENTERTAINMENT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/E!%20ENTERTAINMENT.png" group-title="FR|  FRANCE HD",FR|E! ENTERTAINMENT HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5891.m3u8
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR|TRACE AFRICA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20AFRICA.png" group-title="FR|  FRANCE HD",FR|TRACE AFRICA HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74433.m3u8
+#EXTINF:-1 tvg-name="FR|TRACE LATINA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20LATINA.png" group-title="FR|  FRANCE HD",FR|TRACE LATINA HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74435.m3u8
+#EXTINF:-1 tvg-name="FR|TRACE CARIBBEAN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/trace%20carriben.png" group-title="FR|  FRANCE HD",FR|TRACE CARIBBEAN HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124856.m3u8
+#EXTINF:-1 tvg-name="FR|TRACE SPORT STARS" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20SPORT%20STARS.png" group-title="FR|  FRANCE HD",FR|TRACE SPORT STARS
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/146022.m3u8
+#EXTINF:-1 tvg-name="FR|LFM TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/LFM%20TV.png" group-title="FR|  FRANCE HD",FR|LFM TV HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75628.m3u8
+#EXTINF:-1 tvg-name="FR|TVM3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TVM3.png" group-title="FR|  FRANCE HD",FR|TVM3 HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75631.m3u8
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="FR|BET HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/BET.png" group-title="FR|  FRANCE HD",FR|BET HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75632.m3u8
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR|SERIE CLUB HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SERIE%20CLUB.png" group-title="FR|  FRANCE HD",FR|SERIE CLUB HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/121434.m3u8
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FRI TEVA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TEVA.png" group-title="FR|  FRANCE HD",FRI TEVA HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124857.m3u8
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="FR|M6 MUSIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/M6%20MUSIC.png" group-title="FR|  FRANCE HD",FR|M6 MUSIC HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/125483.m3u8
+#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="FR|COMEDY CENTRAL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/COMEDY%20CENTRAL.png" group-title="FR|  FRANCE HD",FR|COMEDY CENTRAL HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/125477.m3u8
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="FRI NOVELAS TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/NOVELAS%20TV.png" group-title="FR|  FRANCE HD",FRI NOVELAS TV HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/112023.m3u8
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FRI RMC STORY HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RMC%20STORY.png" group-title="FR|  FRANCE HD",FRI RMC STORY HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124858.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR|NAT GEO WILD HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5861.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="FR|NAT GEO WILD SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74014.m3u8
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR|NATIONAL GEOGRAPHIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5860.m3u8
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR|NATIONAL GEOGRAPHIC SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74013.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR|PLANETE+ HD" tvg-logo="http://www12.0zz0.com/2017/07/27/04/285341574.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5852.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR|PLANETE+ SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74024.m3u8
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR|PLANETE+ AVENTURE HD" tvg-logo="http://www2.0zz0.com/2017/07/27/04/719564422.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ AVENTURE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5851.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR|PLANETE+ ADV SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+AE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ ADV SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74025.m3u8
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR|PLANETE+ CRIME HD" tvg-logo="http://www7.0zz0.com/2017/07/27/04/951852103.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ CRIME HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5850.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR|PLANETE+ CRIME SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+CI.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ CRIME SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74023.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="FR|DISCOVERY CHANNEL SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74019.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR|DISCOVERY CHANNEL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5897.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR|DISCOVERY SCIENCE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5896.m3u8
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR|VOSGES TV" group-title="FR| FRANCE DOCUMENTAIRE",FR|VOSGES TV
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74021.m3u8
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR|DISCOVERY SCIENCE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DECOVRY%20SC.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74018.m3u8
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR|DISCOVERY INVESTIGATION HD" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77807.m3u8
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR|CRIME DISTRICT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CRIME%20DS.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CRIME DISTRICT HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5899.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR|RMC DECOUVERTE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5848.m3u8
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR|RMC DECOUVERTE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74012.m3u8
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR|SCIENCE & VIE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5844.m3u8
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="FR|SCIENCE & VIE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74017.m3u8
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR|SEASONS HD" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5843.m3u8
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR|USHUAIA TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5828.m3u8
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR|USHUAIA TV SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74009.m3u8
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR|L" group-title="FR| FRANCE DOCUMENTAIRE",FR|L'EQUIPE NATURE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74015.m3u8
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR|CHASSE & PECHE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE & PECHE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/1914.m3u8
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR|HISTOIRE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|HISTOIRE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5872.m3u8
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR|ANIMAUX SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/ANIMAUX.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ANIMAUX SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74016.m3u8
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR|ANIMAUX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/ANIMAUX.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ANIMAUX HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5928.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ DOCS HD" tvg-logo="https://ucf0b25c1ed0d08d338cb907523c.previews.dropboxusercontent.com/p/thumb/ABg47gStUIoVRrWlbh0GNraA1NkMAQ9I7EZWcti2ZYp_QptJEcRgy2K-EAG-uZc_M2qpQX2YbEVE0njZFqTaJ7kG3F1tC1b6z6KppDQrMVrcGiqsTxAi60AZJ4H_fDr9IkoFHg82N3e1HfTT7m1yS6tX6DOdwOg-pQvbaxMKSBLNBiB-knz1gb_uo4-nbvLSuRbECZ17bqYFTP4vOkak_g3-4B4lfIo38dqZqh1QIg2YEByoRdY7NUHzH-6sHsgVdy5OHalC20oTfDA4FdhD5YCXcenA3ZiPdemLPFnTIajd00rPfsY7MpenXDxto8j6A77gOKvC6qR1ltiOpHmkbEiGEbhYurqlCcPwY3e906Bvz9_VTXw-noWBE2-boAxo49x7FqaguQAou0Yee0-HKaExXVpt93qzUGTHmBVWu5mosw/p.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CANAL+ DOCS HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/172850.m3u8
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR|TREK HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/TREKFHD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5831.m3u8
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR|TREK SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/TREK.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74011.m3u8
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR|CRIME DISTRICT SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CRIME%20DS.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CRIME DISTRICT SD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74022.m3u8
+#EXTINF:-1 tvg-name="FR|ABXPLORE HD" tvg-logo="https://www5.0zz0.com/2020/04/12/06/953148815.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ABXPLORE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75641.m3u8
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR|TOUTE L" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjVuBmS1NkiyysQeErNh7-e6CPpJNMI9CzVQuBVLGDmBBplal1IyRd-I" group-title="FR| FRANCE DOCUMENTAIRE",FR|TOUTE L'HISTOIRE HD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124861.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL+ DOCS FHD" tvg-logo="https://live.staticflickr.com/65535/51605113329_2c5c796a56_o_d.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CANAL+ DOCS FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/157299.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="FR|NAT GEO WILD FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6386.m3u8
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR|NATIONAL GEOGRAPHIC FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6385.m3u8
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR|USHUAIA TV FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6359.m3u8
+#EXTINF:-1 tvg-id="Seasons FR" tvg-name="FR|SEASONS FHD" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6375.m3u8
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR|RMC DECOUVERTE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6376.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR|PLANETE+ FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6377.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR|PLANETE+AVENTURE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMAyQDst4TC620OUeQUi0QKIqX7lJjk2WChgi9idzMHFMfhOBV4bNTrc" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+AVENTURE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6378.m3u8
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR|DISCOVERY INVESTIGATION FHD" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6407.m3u8
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR|DISCOVERY SCIENCE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6409.m3u8
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR|CRIME DISTRICT FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CRIME%20DS.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CRIME DISTRICT FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6411.m3u8
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR|ANIMAUX FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/ANIMAUX.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ANIMAUX FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6434.m3u8
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="FR|SCIENCE & VIE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6991.m3u8
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR|TOUTE L" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjVuBmS1NkiyysQeErNh7-e6CPpJNMI9CzVQuBVLGDmBBplal1IyRd-I" group-title="FR| FRANCE DOCUMENTAIRE",FR|TOUTE L'HISTOIRE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36747.m3u8
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR|TREK FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/TREK.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6363.m3u8
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR|HISTOIRE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/HISTOIRE.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|HISTOIRE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6393.m3u8
+#EXTINF:-1 tvg-name="FRI MUSEUM TV FHD" tvg-logo="https://live.staticflickr.com/65535/49853364027_8a7fe7d263.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FRI MUSEUM TV FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80237.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FRIPLANETE+ CRIME FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+CI.png" group-title="FR| FRANCE DOCUMENTAIRE",FRIPLANETE+ CRIME FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80239.m3u8
+#EXTINF:-1 tvg-name="FR|DISCOVERY CHANNEL FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80243.m3u8
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR|TOUTE L" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjVuBmS1NkiyysQeErNh7-e6CPpJNMI9CzVQuBVLGDmBBplal1IyRd-I" group-title="FR| FRANCE DOCUMENTAIRE",FR|TOUTE L'HISTOIRE FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/127599.m3u8
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR|CHASSE PECHE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE PECHE FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47971.m3u8
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR|DISCOVERY INVESTIGATION FHD (H.265)" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47983.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR|DISCOVERY SCIENCE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47984.m3u8
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR|NATIONAL GEOGRAPHIC FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48003.m3u8
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR|NAT GEO WILD FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48004.m3u8
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR|PLANETE+ A&E FHD (H.265)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzM0SxznSl7MvL4K5bBR1qyTrjK0j0fbenjbegHMk-yd37PE_JazAji8Yb" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ A&E FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48015.m3u8
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR|PLANETE+ Crime FHD (H.265)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtz1B0ow-R2-VVniCUwuOUc1coNMLuXr7fFEU6k_b2RsnmKlow18dGYEaV" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ Crime FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48016.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR|PLANETE+ FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48017.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR|RMC DECOUVERTE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48018.m3u8
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR|SCIENCE & VIE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48024.m3u8
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR|SEASONS FHD (H.265)" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS FHD (H.265)
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48025.m3u8
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR|CHASSE & PECHE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE & PECHE FHD
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36790.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 01" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 01
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88713.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 02" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 02
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88714.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 03" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 03
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88715.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 04" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 04
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88716.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 05" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 05
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88717.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 06" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 06
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88718.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 07" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 07
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88719.m3u8
+#EXTINF:-1 tvg-name="FR|A LA CARTE 08" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/alacarte.jpg" group-title="FR| C+ PLAY & ALA CARTE",FR|A LA CARTE 08
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88720.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 01" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 01
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88721.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 03" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 03
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88722.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 04" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 04
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88723.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 05" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 05
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88724.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 06" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 06
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88725.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 07" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 07
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88726.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 08" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 08
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88727.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 09" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 09
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88728.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 11" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 11
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88730.m3u8
+#EXTINF:-1 tvg-name="FR|CANAL PLAY 10" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/canalplay.png" group-title="FR| C+ PLAY & ALA CARTE",FR|CANAL PLAY 10
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/88729.m3u8
+
+
+
