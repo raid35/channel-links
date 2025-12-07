@@ -54,8 +54,6 @@ http://line.extraott-iptv.com/live/7592121230/5718043551/506.ts
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5856.m3u8
 #EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR|TF1 SERIES FILMS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TF1%20SERIE%20FILM.png" group-title="FR|  FRANCE HD",FR|TF1 SERIES FILMS HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5873.m3u8
-#EXTINF:-1 tvg-name="FR|MYTF1 MAX HD" group-title="FR|  FRANCE HD",FR|MYTF1 MAX HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/202761.m3u8
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="FR|M6 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/m6.png" group-title="FR|  FRANCE HD",FR|M6 HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/514.ts
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="FR|FRANCE 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%202.png" group-title="FR|  FRANCE HD",FR|FRANCE 2 HD
@@ -136,18 +134,14 @@ http://line.extraott-iptv.com/live/7592121230/5718043551/953.ts
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5848.m3u8
 #EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR|RMC DECOUVERTE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE SD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74012.m3u8
-#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR|SCIENCE & VIE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5844.m3u8
-#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="FR|SCIENCE & VIE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74017.m3u8
+#EXTINF:-1 tvg-id="scienceandvie.fr" thttp://line.extraott-iptv.com/live/7592121230/5718043551/1022.tsvg-name="FR|SCIENCE & VIE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE HD
+http://line.extraott-iptv.com/live/7592121230/5718043551/1022.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR|SEASONS HD" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5843.m3u8
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR|USHUAIA TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5828.m3u8
-#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR|USHUAIA TV SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74009.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/1016.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR|CHASSE & PECHE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE & PECHE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/1914.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/1018.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR|HISTOIRE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|HISTOIRE HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5872.m3u8
 #EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR|ANIMAUX SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/ANIMAUX.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ANIMAUX SD
@@ -158,8 +152,6 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5928.m3u8
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/172850.m3u8
 #EXTINF:-1 tvg-id="trek.fr" tvg-name="FR|TREK HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/TREKFHD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5831.m3u8
-#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR|TREK SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/TREK.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74011.m3u8
 #EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR|CRIME DISTRICT SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CRIME%20DS.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CRIME DISTRICT SD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74022.m3u8
 #EXTINF:-1 tvg-name="FR|ABXPLORE HD" tvg-logo="https://www5.0zz0.com/2020/04/12/06/953148815.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|ABXPLORE HD
