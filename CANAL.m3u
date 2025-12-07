@@ -1,23 +1,15 @@
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR|BEIN SPORTS 1 HD" tvg-logo="http://www8.0zz0.com/2017/07/26/05/155847106.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 1 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5926.m3u8
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR|BEIN SPORTS 1 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BEIN%20FR1.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 1 FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77904.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/685.ts
 #EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR|BEIN SPORTS 2 HD" tvg-logo="http://www3.0zz0.com/2017/07/26/05/611337538.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 2 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5925.m3u8
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR|BEIN SPORTS 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3x1U-tK-KvjSuYKEXVbjkVqz5KvyWYCmCoAQWn-BXvlRaWRrri_BWw" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 2 FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6430.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/686.ts
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR|BEIN SPORTS 3 HD" tvg-logo="http://www4.0zz0.com/2017/07/26/05/243915759.jpg" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 3 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5924.m3u8
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR|BEIN SPORTS 3 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BEIN%203FR.png" group-title="FR| FRANCE SPORTS",FR|BEIN SPORTS 3 FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77902.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/687.ts
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR|CANAL+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+.png" group-title="FR|  FRANCE HD",FR|CANAL+ HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5919.m3u8
-#EXTINF:-1 tvg-name="FR|CANAL+ FOOT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20sport%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ FOOT HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177676.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/838.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ FOOT FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20sport%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ FOOT FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177675.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/401188661.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177678.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/400448848.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 FHD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/177677.m3u8
 #EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR|CANAL+ SPORT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnYv2wMX1v-QxZzhQgdgBeEp1eQnXCHfjyCTfmsa1670UMXG-tabml0eL" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT FHD
@@ -33,31 +25,31 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232529.m3u8
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 5HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 5HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232530.m3u8
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR|CANAL+ CINEMA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+CINEMA.png" group-title="FR|  FRANCE HD",FR|CANAL+ CINEMA HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5918.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/839.ts
 #EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR|CANAL+ SERIES HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+%20SERIES.png" group-title="FR|  FRANCE HD",FR|CANAL+ SERIES HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5915.m3u8
 #EXTINF:-1 tvg-name="FR|CANAL+ GRAND ECRAN HD" tvg-logo="https://uc158da5502232732e12ba863a26.previews.dropboxusercontent.com/p/thumb/ABh4-On8RC7coA1M2Fiw5YGszPGBIb3dJYijDWncuZxUhMDAojKNqE6nwLDlbb5jS42jH4UctpCm-fNS-BH4wQZyPlyBV1yUTbRFe74rRN9fyXSzl8J2h-YyV8s04yKUXdxh2RZa58Gf922Ex5bHBvl1W72Nt8ggJgggYwpQiCQB8htRn0Z_c61JFZcoQ_cWq1UENBjZmA5AwvZ7XUox0S-QCB0NL8fUIhOoL3cUqP3PIIm2vtRtMIXTQ1oQf1tSn7Km5nvb916hmqZMei1DoMqLRKVw0IfozGjY8GCRi24eVYLJUoFhwK-EXTN9hFrva1SCVkO6859FK1brZirWd0XmvQq0ki1Qp7FzkpveEWnmwycwWTlJSMPwrPNOCPbp4Bx4XXktp8haHqhp-KqY9gGVU7eYgI9NmSMAb25bpdCreQ/p.png" group-title="FR|  FRANCE HD",FR|CANAL+ GRAND ECRAN HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/172849.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/1926.ts
 #EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="FR|CANAL+ BOX OFFICE HD" tvg-logo="https://live.staticflickr.com/65535/54164096372_583c9c1aec.jpg" group-title="FR|  FRANCE HD",FR|CANAL+ BOX OFFICE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/223453.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/54320.ts
 #EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR|CINE PREMIER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20PREMIER.png" group-title="FR|  FRANCE HD",FR|CINE PREMIER HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5908.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/847.ts
 #EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR|CINE FRISSON HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20PRESSON.png" group-title="FR|  FRANCE HD",FR|CINE FRISSON HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5903.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/850.ts
 #EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR|CINE FAMIZ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20FAMIZ.png" group-title="FR|  FRANCE HD",FR|CINE FAMIZ HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5904.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/849.ts
 #EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR|CINE EMOTION HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20EMOTION.png" group-title="FR|  FRANCE HD",FR|CINE EMOTION HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5905.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/848.ts
 #EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR|CINE CLUB HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20CLUB.png" group-title="FR|  FRANCE HD",FR|CINE CLUB HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5906.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/852.ts
 #EXTINF:-1 tvg-id="polarplus.fr" tvg-name="FR| POLAR+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/POLAR+.png" group-title="FR|  FRANCE HD",FR| POLAR+ HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5901.m3u8
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR|CINE CLASSIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CINE+%20CLASSIC.png" group-title="FR|  FRANCE HD",FR|CINE CLASSIC HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5907.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/851.ts
 #EXTINF:-1 tvg-id="action.fr" tvg-name="FR|ACTION HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/ACTION.png" group-title="FR|  FRANCE HD",FR|ACTION HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5929.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/853.ts
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR|TF1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TF1.png" group-title="FR|  FRANCE HD",FR|TF1 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5835.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/506.ts
 #EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR|TFX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TFX.png" group-title="FR|  FRANCE HD",FR|TFX HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5856.m3u8
 #EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR|TF1 SERIES FILMS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TF1%20SERIE%20FILM.png" group-title="FR|  FRANCE HD",FR|TF1 SERIES FILMS HD
@@ -65,29 +57,29 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5873.m3u8
 #EXTINF:-1 tvg-name="FR|MYTF1 MAX HD" group-title="FR|  FRANCE HD",FR|MYTF1 MAX HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/202761.m3u8
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="FR|M6 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/m6.png" group-title="FR|  FRANCE HD",FR|M6 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5869.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/514.ts
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="FR|FRANCE 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%202.png" group-title="FR|  FRANCE HD",FR|FRANCE 2 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5883.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/508.ts
 #EXTINF:-1 tvg-id="france3.fr" tvg-name="FR|FRANCE 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%203.png" group-title="FR|  FRANCE HD",FR|FRANCE 3 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5882.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/509.ts
 #EXTINF:-1 tvg-id="france4.fr" tvg-name="FR|FRANCE 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%204.png" group-title="FR|  FRANCE HD",FR|FRANCE 4 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5881.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/156674.ts
 #EXTINF:-1 tvg-id="france5.fr" tvg-name="FR|FRANCE 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/FRANCE%205.png" group-title="FR|  FRANCE HD",FR|FRANCE 5 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5880.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/512.ts
 #EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR|CSTAR HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/C%20STAR.png" group-title="FR|  FRANCE HD",FR|CSTAR HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5898.m3u8
 #EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR|TMC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TMC.png" group-title="FR|  FRANCE HD",FR|TMC HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5833.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/854.ts
 #EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR|SYFY HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SYFY.png" group-title="FR|  FRANCE HD",FR|SYFY HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5838.m3u8
 #EXTINF:-1 tvg-id="RTS Deux HD CH" tvg-name="FR|RTS DEUX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%202.png" group-title="FR|  FRANCE HD",FR|RTS DEUX HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5846.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/573.ts
 #EXTINF:-1 tvg-id="RTS Un HD CH" tvg-name="FR|RTS UN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%201.png" group-title="FR|  FRANCE HD",FR|RTS UN HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5845.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/572.ts
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR|CHERIE 25 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CHERIE%2025.png" group-title="FR|  FRANCE HD",FR|CHERIE 25 HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5909.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR|6TER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/6TER.png" group-title="FR|  FRANCE HD",FR|6TER HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5932.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/518.ts
 #EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR|AB1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB1.png" group-title="FR|  FRANCE HD",FR|AB1 HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5931.m3u8
 #EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR|AB3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB3.png" group-title="FR|  FRANCE HD",FR|AB3 HD
@@ -97,82 +89,31 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5927.m3u8
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR|13EME RUE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/13EME%20RUE.png" group-title="FR|  FRANCE HD",FR|13EME RUE HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5933.m3u8
 #EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR|PARIS PREMIERE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/PARIS%20PREMIEME.png" group-title="FR|  FRANCE HD",FR|PARIS PREMIERE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/26014.m3u8
-#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="FR|COMEDIE+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CEMEDIE+.png" group-title="FR|  FRANCE HD",FR|COMEDIE+ HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5900.m3u8
-#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR|RFM TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RFMTV.png" group-title="FR|  FRANCE HD",FR|RFM TV HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5849.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/520.ts
 #EXTINF:-1 tvg-id="w9.fr" tvg-name="FR|W9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/W9.png" group-title="FR|  FRANCE HD",FR|W9 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5825.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/519.ts
 #EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR|RTL9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTL9.png" group-title="FR|  FRANCE HD",FR|RTL9 HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5847.m3u8
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="FR|PARAMOUNT CHANNEL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/PARAMOUNT%20CHANNEL.png" group-title="FR|  FRANCE HD",FR|PARAMOUNT CHANNEL HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5854.m3u8
 #EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR|TCM CINEMA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TCM%20CINEMA.png" group-title="FR|  FRANCE HD",FR|TCM CINEMA HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5837.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/854.ts
 #EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR|WARNER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/WARNER.png" group-title="FR|  FRANCE HD",FR|WARNER HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75634.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/857.ts
 #EXTINF:-1 tvg-name="FR|PARAMOUNT DECALE HD" tvg-logo="https://www5.0zz0.com/2020/04/12/06/404458362.png" group-title="FR|  FRANCE HD",FR|PARAMOUNT DECALE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75643.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/856.ts
 #EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR|TV BREIZH HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/BREIZH%20TV.png" group-title="FR|  FRANCE HD",FR|TV BREIZH HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5830.m3u8
-#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR|TV5 MONDE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TV5%20MONDE.png" group-title="FR|  FRANCE HD",FR|TV5 MONDE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5829.m3u8
-#EXTINF:-1 tvg-name="FR|RMC Mecanic" group-title="FR|  FRANCE HD",FR|RMC Mecanic
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220394.m3u8
-#EXTINF:-1 tvg-name="FR|RMC Mystère" group-title="FR|  FRANCE HD",FR|RMC Mystère
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220392.m3u8
-#EXTINF:-1 tvg-name="FR|RMC Talk Info" group-title="FR|  FRANCE HD",FR|RMC Talk Info
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220395.m3u8
-#EXTINF:-1 tvg-name="FR|RMC Talk Sport" group-title="FR|  FRANCE HD",FR|RMC Talk Sport
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220396.m3u8
-#EXTINF:-1 tvg-name="FR|RMC WOW" group-title="FR|  FRANCE HD",FR|RMC WOW
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/220397.m3u8
-#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="FR|TRACE URBAN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20URBAN.png" group-title="FR|  FRANCE HD",FR|TRACE URBAN HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5832.m3u8
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR|MTV FRANCE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MTV%20FRANCE.png" group-title="FR|  FRANCE HD",FR|MTV FRANCE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5862.m3u8
-#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="FR|MEZZO LIVE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO%20LIVE.png" group-title="FR|  FRANCE HD",FR|MEZZO LIVE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5864.m3u8
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="FR|MEZZO HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO.png" group-title="FR|  FRANCE HD",FR|MEZZO HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5865.m3u8
-#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR|MCM HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MCM.png" group-title="FR|  FRANCE HD",FR|MCM HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5867.m3u8
-#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="FR|E! ENTERTAINMENT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/E!%20ENTERTAINMENT.png" group-title="FR|  FRANCE HD",FR|E! ENTERTAINMENT HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5891.m3u8
-#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR|TRACE AFRICA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20AFRICA.png" group-title="FR|  FRANCE HD",FR|TRACE AFRICA HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74433.m3u8
-#EXTINF:-1 tvg-name="FR|TRACE LATINA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20LATINA.png" group-title="FR|  FRANCE HD",FR|TRACE LATINA HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74435.m3u8
-#EXTINF:-1 tvg-name="FR|TRACE CARIBBEAN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/trace%20carriben.png" group-title="FR|  FRANCE HD",FR|TRACE CARIBBEAN HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124856.m3u8
-#EXTINF:-1 tvg-name="FR|TRACE SPORT STARS" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TRACE%20SPORT%20STARS.png" group-title="FR|  FRANCE HD",FR|TRACE SPORT STARS
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/146022.m3u8
-#EXTINF:-1 tvg-name="FR|LFM TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/LFM%20TV.png" group-title="FR|  FRANCE HD",FR|LFM TV HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75628.m3u8
-#EXTINF:-1 tvg-name="FR|TVM3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TVM3.png" group-title="FR|  FRANCE HD",FR|TVM3 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75631.m3u8
-#EXTINF:-1 tvg-id="bet.fr" tvg-name="FR|BET HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/BET.png" group-title="FR|  FRANCE HD",FR|BET HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/75632.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/522.ts
 #EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR|SERIE CLUB HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SERIE%20CLUB.png" group-title="FR|  FRANCE HD",FR|SERIE CLUB HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/121434.m3u8
 #EXTINF:-1 tvg-id="teva.fr" tvg-name="FRI TEVA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TEVA.png" group-title="FR|  FRANCE HD",FRI TEVA HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124857.m3u8
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="FR|M6 MUSIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/M6%20MUSIC.png" group-title="FR|  FRANCE HD",FR|M6 MUSIC HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/125483.m3u8
-#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="FR|COMEDY CENTRAL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/COMEDY%20CENTRAL.png" group-title="FR|  FRANCE HD",FR|COMEDY CENTRAL HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/125477.m3u8
 #EXTINF:-1 tvg-id="novelastv.fr" tvg-name="FRI NOVELAS TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/NOVELAS%20TV.png" group-title="FR|  FRANCE HD",FRI NOVELAS TV HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/112023.m3u8
-#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FRI RMC STORY HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RMC%20STORY.png" group-title="FR|  FRANCE HD",FRI RMC STORY HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124858.m3u8
-#EXTM3U
+http://line.extraott-iptv.com/live/7592121230/5718043551/401814535.ts
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR|NAT GEO WILD HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5861.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="FR|NAT GEO WILD SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74014.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/956.ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR|NATIONAL GEOGRAPHIC HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5860.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/955.ts
 #EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR|NATIONAL GEOGRAPHIC SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC SD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74013.m3u8
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR|PLANETE+ HD" tvg-logo="http://www12.0zz0.com/2017/07/27/04/285341574.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ HD
@@ -181,26 +122,16 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5852.m3u8
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74024.m3u8
 #EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR|PLANETE+ AVENTURE HD" tvg-logo="http://www2.0zz0.com/2017/07/27/04/719564422.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ AVENTURE HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5851.m3u8
-#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR|PLANETE+ ADV SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+AE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ ADV SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74025.m3u8
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR|PLANETE+ CRIME HD" tvg-logo="http://www7.0zz0.com/2017/07/27/04/951852103.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ CRIME HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5850.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR|PLANETE+ CRIME SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+CI.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ CRIME SD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74023.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="FR|DISCOVERY CHANNEL SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74019.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR|DISCOVERY CHANNEL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5897.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/950.ts
 #EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR|DISCOVERY SCIENCE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5896.m3u8
-#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR|VOSGES TV" group-title="FR| FRANCE DOCUMENTAIRE",FR|VOSGES TV
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74021.m3u8
-#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR|DISCOVERY SCIENCE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DECOVRY%20SC.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74018.m3u8
-#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR|DISCOVERY INVESTIGATION HD" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/77807.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/951.ts
 #EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR|CRIME DISTRICT HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CRIME%20DS.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CRIME DISTRICT HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5899.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/953.ts
 #EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR|RMC DECOUVERTE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5848.m3u8
 #EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR|RMC DECOUVERTE SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE SD
@@ -215,8 +146,6 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5843.m3u8
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5828.m3u8
 #EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR|USHUAIA TV SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/USHUAIA%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|USHUAIA TV SD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74009.m3u8
-#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR|L" group-title="FR| FRANCE DOCUMENTAIRE",FR|L'EQUIPE NATURE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74015.m3u8
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR|CHASSE & PECHE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE & PECHE HD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/1914.m3u8
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR|HISTOIRE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|HISTOIRE HD
@@ -247,12 +176,10 @@ http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6385.m3u8
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6359.m3u8
 #EXTINF:-1 tvg-id="Seasons FR" tvg-name="FR|SEASONS FHD" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS FHD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6375.m3u8
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR|RMC DECOUVERTE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6376.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR|PLANETE+ FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6377.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/1013.ts
 #EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR|PLANETE+AVENTURE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMAyQDst4TC620OUeQUi0QKIqX7lJjk2WChgi9idzMHFMfhOBV4bNTrc" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+AVENTURE FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6378.m3u8
+http://line.extraott-iptv.com/live/7592121230/5718043551/1015.ts
 #EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR|DISCOVERY INVESTIGATION FHD" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION FHD
 http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6407.m3u8
 #EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR|DISCOVERY SCIENCE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE FHD
