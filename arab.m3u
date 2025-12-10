@@ -22,34 +22,41 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454115
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641610&extension=ts&play_token=poinciE3zn
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454114&extension=ts&play_token=QrK5Vsxwtt
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859098&extension=ts&play_token=qUKYFFjsT3
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859097&extension=ts&play_token=mMdPqKCvdQ
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859096&extension=ts&play_token=XoQUPch7lu
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859095&extension=ts&play_token=4rCiy337Wm
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859094&extension=ts&play_token=RzgDFqiWBq
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859093&extension=ts&play_token=DUOnz8wyig
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 2
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://www2.0zz0.com/2025/09/12/23/855058744.png" , thmanyah 3
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6123/index.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6124/index.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6124/index.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6125/index.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6126/index.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6127/index.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORT",Alwan Sport 1 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852915.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 SD" group-title="ALWAN SPORT",Alwan Sport 1 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852916.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 4K" group-title="ALWAN SPORT",Alwan Sport 1 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852917.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852918.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 SD" group-title="ALWAN SPORT",Alwan Sport 2 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852919.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 4K" group-title="ALWAN SPORT",Alwan Sport 2 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852920.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852921.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 SD" group-title="ALWAN SPORT",Alwan Sport 3 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852922.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 4K" group-title="ALWAN SPORT",Alwan Sport 3 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852923.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852924.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 SD" group-title="ALWAN SPORT",Alwan Sport 4 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852925.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 4K" group-title="ALWAN SPORT",Alwan Sport 4 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852926.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852927.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 SD" group-title="ALWAN SPORT",Alwan Sport 5 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852928.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 4K" group-title="ALWAN SPORT",Alwan Sport 5 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852929.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 6 HD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852930.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 SD" group-title="ALWAN SPORT",Alwan Sport 6 SD
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852931.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 4K" group-title="ALWAN SPORT",Alwan Sport 6 4K
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852932.m3u8
+
 
