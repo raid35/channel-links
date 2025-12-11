@@ -1,113 +1,113 @@
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9913.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126935.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126935.ts
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9914.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126936.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126936.ts
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9915.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126937.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/126937.ts
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR|CANAL+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CANAL+.png" group-title="FR|  FRANCE HD",FR|CANAL+ HD
-http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126810.m3u8
+http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126810.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ FOOT FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20sport%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ FOOT FHD
-http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126832.m3u8
+http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126832.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 HD
-http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126834.m3u8
+http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126834.ts
 #EXTINF:-1 tvg-name="FR|CANAL+ SPORT 360 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 FHD
-http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126834.m3u8
+http://sansatplus.net:88/live/PZCDPSRHZXQDF8Z/ZQGZYYS7AQBVQSB/126834.ts
 #EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR|CANAL+ SPORT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnYv2wMX1v-QxZzhQgdgBeEp1eQnXCHfjyCTfmsa1670UMXG-tabml0eL" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6421.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6421.ts
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 1HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 1HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232526.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232526.ts
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 2HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 2HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232527.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232527.ts
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 3HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 3HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232528.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232528.ts
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 4HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 4HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232529.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232529.ts
 #EXTINF:-1 tvg-name="AF|CANAL+ SPORT 5HD" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 5HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232530.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/232530.ts
 #EXTINF:-1 tvg-name="-----| CINÉMA FRANCE FHD |-----" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="FRANCE CINEMA",-----| CINÉMA FRANCE FHD |-----
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127214.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127214.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ BOX OFFICE SD" group-title="FRANCE CINEMA",|FR| CANAL+ BOX OFFICE SD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861326.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861326.ts
 #EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL HD 4ᴋ
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861323.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861323.ts
 #EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS SD" group-title="FRANCE CINEMA",|FR| CINE+ OCS SD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861325.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861325.ts
 #EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127215.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127215.ts
 #EXTINF:-1 tvg-ID="CinePlusFrisson.ch" tvg-name="|FR| CINE+ FRISSON FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127216.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127216.ts
 #EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127217.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127217.ts
 #EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ CLUB FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127219.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127219.ts
 #EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ CLASSIC FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127220.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127220.ts
 #EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127227.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127227.ts
 #EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/POLAR+.png" group-title="FRANCE CINEMA",|FR| POLAR+ FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127228.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127228.ts
 #EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| ACTION FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127232.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127232.ts
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/634532.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/634532.ts
 #EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127286.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127286.ts
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127285.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127285.ts
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 2 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127275.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127275.ts
 #EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 3 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127276.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127276.ts
 #EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 4 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127278.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127278.ts
 #EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 5 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127279.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127279.ts
 #EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| 6TER FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127280.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127280.ts
 #EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| ARTE FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127281.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127281.ts
 #EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127282.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127282.ts
 #EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 INTERNATIONAL FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 INTERNATIONAL FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/272388.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/272388.ts
 #EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| W9 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127283.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127283.ts
 #EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| NRJ 12 FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127284.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127284.ts
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127285.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127285.ts
 #EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR|CSTAR HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/C%20STAR.png" group-title="FR|  FRANCE HD",FR|CSTAR HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5898.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5898.ts
 #EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TMC FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127289.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127289.ts
 #EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR|SYFY HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SYFY.png" group-title="FR|  FRANCE HD",FR|SYFY HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5838.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5838.ts
 #EXTINF:-1 tvg-id="RTS Deux HD CH" tvg-name="FR|RTS DEUX HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%202.png" group-title="FR|  FRANCE HD",FR|RTS DEUX HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/573.ts
 #EXTINF:-1 tvg-id="RTS Un HD CH" tvg-name="FR|RTS UN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTS%201.png" group-title="FR|  FRANCE HD",FR|RTS UN HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/572.ts
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR|CHERIE 25 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/CHERIE%2025.png" group-title="FR|  FRANCE HD",FR|CHERIE 25 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5909.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5909.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR|6TER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/6TER.png" group-title="FR|  FRANCE HD",FR|6TER HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/518.ts
 #EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR|AB1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB1.png" group-title="FR|  FRANCE HD",FR|AB1 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5931.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5931.ts
 #EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR|AB3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/AB3.png" group-title="FR|  FRANCE HD",FR|AB3 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5930.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5930.ts
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="FR|ARTE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/ARTE.png" group-title="FR|  FRANCE HD",FR|ARTE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5927.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5927.ts
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR|13EME RUE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/13EME%20RUE.png" group-title="FR|  FRANCE HD",FR|13EME RUE HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5933.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5933.ts
 #EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR|PARIS PREMIERE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/PARIS%20PREMIEME.png" group-title="FR|  FRANCE HD",FR|PARIS PREMIERE HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/520.ts
 #EXTINF:-1 tvg-id="w9.fr" tvg-name="FR|W9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/W9.png" group-title="FR|  FRANCE HD",FR|W9 HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/519.ts
 #EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR|RTL9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RTL9.png" group-title="FR|  FRANCE HD",FR|RTL9 HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5847.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/5847.ts
 #EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127230.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127230.ts
 #EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE FHD" group-title="FRANCE CINEMA",|FR| PARAMOUNT DECALE FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127231.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127231.ts
 #EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR|TCM CINEMA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TCM%20CINEMA.png" group-title="FR|  FRANCE HD",FR|TCM CINEMA HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/854.ts
 #EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR|WARNER HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/WARNER.png" group-title="FR|  FRANCE HD",FR|WARNER HD
@@ -117,109 +117,109 @@ http://line.extraott-iptv.com/live/7592121230/5718043551/856.ts
 #EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR|TV BREIZH HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/BREIZH%20TV.png" group-title="FR|  FRANCE HD",FR|TV BREIZH HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/522.ts
 #EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR|SERIE CLUB HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/SERIE%20CLUB.png" group-title="FR|  FRANCE HD",FR|SERIE CLUB HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/121434.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/121434.ts
 #EXTINF:-1 tvg-id="teva.fr" tvg-name="FRI TEVA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/TEVA.png" group-title="FR|  FRANCE HD",FRI TEVA HD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124857.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/124857.ts
 #EXTINF:-1 tvg-id="novelastv.fr" tvg-name="FRI NOVELAS TV HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/NOVELAS%20TV.png" group-title="FR|  FRANCE HD",FRI NOVELAS TV HD
 http://line.extraott-iptv.com/live/7592121230/5718043551/401814535.ts
 #EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127044.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127044.ts
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA TV FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127050.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127050.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127051.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127051.ts
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE ET PECHE FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127052.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127052.ts
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127035.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127035.ts
 #EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ A&E FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127036.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127036.ts
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127037.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127037.ts
 #EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR|PLANETE+ CRIME SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+CI.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ CRIME SD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74023.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/74023.ts
 #EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127038.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127038.ts
 #EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127039.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127039.ts
 #EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127040.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127040.ts
 #EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127042.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127042.ts
 #EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE TV FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127045.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127045.ts
 #EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127046.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127046.ts
 #EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127047.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127047.ts
 #EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCE & VIE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Science_et_Vie.png" group-title="FRANCE DECOUVERTE",|FR| SCIENCE & VIE TV FHD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127048.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/127048.ts
 #EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR|TOUTE L" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjVuBmS1NkiyysQeErNh7-e6CPpJNMI9CzVQuBVLGDmBBplal1IyRd-I" group-title="FR| FRANCE DOCUMENTAIRE",FR|TOUTE L'HISTOIRE FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36747.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36747.ts
 #EXTINF:-1 tvg-id="Trek FR" tvg-name="FR|TREK FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/TREK.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|TREK FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6363.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6363.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR|HISTOIRE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/HISTOIRE.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|HISTOIRE FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6393.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/6393.ts
 #EXTINF:-1 tvg-name="FRI MUSEUM TV FHD" tvg-logo="https://live.staticflickr.com/65535/49853364027_8a7fe7d263.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FRI MUSEUM TV FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80237.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80237.ts
 #EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FRIPLANETE+ CRIME FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+CI.png" group-title="FR| FRANCE DOCUMENTAIRE",FRIPLANETE+ CRIME FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80239.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80239.ts
 #EXTINF:-1 tvg-name="FR|DISCOVERY CHANNEL FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DISCOVERY%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY CHANNEL FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80243.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/80243.ts
 #EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR|TOUTE L" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjVuBmS1NkiyysQeErNh7-e6CPpJNMI9CzVQuBVLGDmBBplal1IyRd-I" group-title="FR| FRANCE DOCUMENTAIRE",FR|TOUTE L'HISTOIRE FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/127599.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/127599.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR|CHASSE PECHE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE PECHE FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47971.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47971.ts
 #EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR|DISCOVERY INVESTIGATION FHD (H.265)" tvg-logo="https://live.staticflickr.com/65535/49852835448_d691768b7f.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY INVESTIGATION FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47983.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47983.ts
 #EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR|DISCOVERY SCIENCE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/DESCOVRU%20SC%20HD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|DISCOVERY SCIENCE FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47984.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/47984.ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR|NATIONAL GEOGRAPHIC FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATIONAL%20GEO.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NATIONAL GEOGRAPHIC FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48003.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48003.ts
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR|NAT GEO WILD FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/NATGEOWELD.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|NAT GEO WILD FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48004.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48004.ts
 #EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR|PLANETE+ A&E FHD (H.265)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzM0SxznSl7MvL4K5bBR1qyTrjK0j0fbenjbegHMk-yd37PE_JazAji8Yb" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ A&E FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48015.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48015.ts
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR|PLANETE+ Crime FHD (H.265)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtz1B0ow-R2-VVniCUwuOUc1coNMLuXr7fFEU6k_b2RsnmKlow18dGYEaV" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ Crime FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48016.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48016.ts
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR|PLANETE+ FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/PLANET+.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|PLANETE+ FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48017.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48017.ts
 #EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR|RMC DECOUVERTE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/RMC%20DECOVER.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|RMC DECOUVERTE FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48018.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48018.ts
 #EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR|SCIENCE & VIE FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/SCIENCE&VIE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|SCIENCE & VIE FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48024.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48024.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR|SEASONS FHD (H.265)" tvg-logo="https://live.staticflickr.com/65535/49853252301_9692ec6d5f_z.jpg" group-title="FR| FRANCE DOCUMENTAIRE",FR|SEASONS FHD (H.265)
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48025.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/48025.ts
 #EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR|CHASSE & PECHE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CHASSE&PECHE.png" group-title="FR| FRANCE DOCUMENTAIRE",FR|CHASSE & PECHE FHD
-http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36790.m3u8
+http://king-play.newtvhd.com:8080/live/erraziaziz24/rqtpqi97/36790.ts
 #EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ OCS HD 4ᴋ
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861322.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861322.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX THRILLER" group-title="FRANCE CINEMA",|FR| NETFLIX THRILLER
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861327.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861327.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX SCI-FI" group-title="FRANCE CINEMA",|FR| NETFLIX SCI-FI
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861328.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861328.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX FANTASY" group-title="FRANCE CINEMA",|FR| NETFLIX FANTASY
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861329.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861329.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX ACTION" group-title="FRANCE CINEMA",|FR| NETFLIX ACTION
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861330.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861330.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX ADVENTURE" group-title="FRANCE CINEMA",|FR| NETFLIX ADVENTURE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861331.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861331.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX ROMANCE" group-title="FRANCE CINEMA",|FR| NETFLIX ROMANCE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861332.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861332.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX DRAMA" group-title="FRANCE CINEMA",|FR| NETFLIX DRAMA
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861333.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861333.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX COMEDY" group-title="FRANCE CINEMA",|FR| NETFLIX COMEDY
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861334.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861334.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX HORROR" group-title="FRANCE CINEMA",|FR| NETFLIX HORROR
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861335.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861335.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX DOCUMENTARY" group-title="FRANCE CINEMA",|FR| NETFLIX DOCUMENTARY
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861336.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861336.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX SPORTS" group-title="FRANCE CINEMA",|FR| NETFLIX SPORTS
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861337.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861337.ts
 #EXTINF:-1 tvg-name="|FR| NETFLIX KIDS" group-title="FRANCE CINEMA",|FR| NETFLIX KIDS
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861338.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861338.ts
 #EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861416.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/861416.ts
 
 
 
