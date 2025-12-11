@@ -1,57 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="======ALGERIA======" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-algerie.png" group-title="ARABIC ALGERIA",======ALGERIA======
-http://promo.sansat.biz:25461/images/promo/promo.mkv
 #EXTINF:-1 tvg-name="|DZ| ENTV ALGERIE NATIONAL" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Programme_NationalHD.png" group-title="ARABIC ALGERIA",|DZ| ENTV ALGERIE NATIONAL
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7353.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7353.ts
 #EXTINF:-1 tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/CANAL_ALGERIE.png" group-title="ARABIC ALGERIA",|DZ| CANAL ALGERIE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7356.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7356.ts
 #EXTINF:-1 tvg-name="|DZ| A3 ALGERIE" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/A3.png" group-title="ARABIC ALGERIA",|DZ| A3 ALGERIE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7355.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7355.ts
 #EXTINF:-1 tvg-name="|DZ| ECHOUROUK" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Echorouk_TV_HD.png" group-title="ARABIC ALGERIA",|DZ| ECHOUROUK
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34777.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34777.ts
 #EXTINF:-1 tvg-name="|DZ| ECHOUROUK NEWS" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Echorouk_NEWS.png" group-title="ARABIC ALGERIA",|DZ| ECHOUROUK NEWS
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34778.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34778.ts
 #EXTINF:-1 tvg-name="|DZ| SAMIRA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Samira_TV.png" group-title="ARABIC ALGERIA",|DZ| SAMIRA TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7345.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7345.ts
 #EXTINF:-1 tvg-name="|DZ| EL HEDDAF" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/EL_HEDDAF_TV.png" group-title="ARABIC ALGERIA",|DZ| EL HEDDAF
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7336.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7336.ts
 #EXTINF:-1 tvg-name="|DZ| EL BILAD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/EL_BILAD.png" group-title="ARABIC ALGERIA",|DZ| EL BILAD
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34776.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/34776.ts
 #EXTINF:-1 tvg-name="|DZ| DZAIR 24" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/ZAIR_NEWS.png" group-title="ARABIC ALGERIA",|DZ| DZAIR 24
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/28663.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/28663.ts
 #EXTINF:-1 tvg-name="|DZ| AL MAGHARIBIA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/El_Magharibia.png" group-title="ARABIC ALGERIA",|DZ| AL MAGHARIBIA TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/75908.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/75908.ts
 #EXTINF:-1 tvg-name="|DZ| TV7 EL MAARIFA" tvg-logo="http://vodkom.com:25461/Logo/PICONS/TV7_ELMAARIFA.png" group-title="ARABIC ALGERIA",|DZ| TV7 EL MAARIFA
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7352.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7352.ts
 #EXTINF:-1 tvg-name="|DZ| ENNAHAR ALGERIE" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Ennahar_TV.png" group-title="ARABIC ALGERIA",|DZ| ENNAHAR ALGERIE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7348.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7348.ts
 #EXTINF:-1 tvg-name="|DZ| DZAIR JANNAH" tvg-logo="http://vodkom.com:25461/Logo/PICONS/DZAIR_JANNAH.png" group-title="ARABIC ALGERIA",|DZ| DZAIR JANNAH
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7347.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7347.ts
 #EXTINF:-1 tvg-name="|DZ| BAHIA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Bahia_TV.png" group-title="ARABIC ALGERIA",|DZ| BAHIA TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7338.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7338.ts
 #EXTINF:-1 tvg-name="|DZ| AL HAYAT DZ" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/EL_HAYAT_TV_ALGERIE.png" group-title="ARABIC ALGERIA",|DZ| AL HAYAT DZ
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/49998.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/49998.ts
 #EXTINF:-1 tvg-name="|DZ| BERBERE TV" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/BERBERE_TV.png" group-title="ARABIC ALGERIA",|DZ| BERBERE TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7333.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7333.ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 6" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/TV_6_HD.png" group-title="ARABIC ALGERIA",|DZ| ALGERIE 6
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/75909.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/75909.ts
 #EXTINF:-1 tvg-name="|DZ| DZAIR 3" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/" group-title="ARABIC ALGERIA",|DZ| DZAIR 3
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7576.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7576.ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 4" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/TV_4_HD.png" group-title="ARABIC ALGERIA",|DZ| ALGERIE 4
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/13008.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/13008.ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 5" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/TV_5_HD.png" group-title="ARABIC ALGERIA",|DZ| ALGERIE 5
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7339.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7339.ts
 #EXTINF:-1 tvg-name="|DZ| EL FADJR TV DZ" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/EL_FADJR_TV_DZ.png" group-title="ARABIC ALGERIA",|DZ| EL FADJR TV DZ
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/38407.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/38407.ts
 #EXTINF:-1 tvg-name="|DZ| AL MUSTAKILA" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/AL-MUSTAKILA.png" group-title="ARABIC ALGERIA",|DZ| AL MUSTAKILA
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/52838.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/52838.ts
 #EXTINF:-1 tvg-name="|DZ| AWRAAS TV" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Awraas_TV_channel.png" group-title="ARABIC ALGERIA",|DZ| AWRAAS TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7577.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7577.ts
 #EXTINF:-1 tvg-name="|DZ| AL24 NEWS" group-title="ARABIC ALGERIA",|DZ| AL24 NEWS
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231528.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231528.ts
 #EXTINF:-1 tvg-name="|DZ| ZAHRA TV" group-title="ARABIC ALGERIA",|DZ| ZAHRA TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231530.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231530.ts
 #EXTINF:-1 tvg-name="|DZ| SALAM TV" group-title="ARABIC ALGERIA",|DZ| SALAM TV
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231531.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231531.ts
 #EXTINF:-1 tvg-name="|DZ| EL WATANIA ALGERIE" group-title="ARABIC ALGERIA",|DZ| EL WATANIA ALGERIE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231532.m3u8
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/231532.ts
