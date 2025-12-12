@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="|DZ| ENTV ALGERIE NATIONAL" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Programme_NationalHD.png" group-title="ARABIC ALGERIA",|DZ| ENTV ALGERIE NATIONAL
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7353.ts
+http://api.runso.me:8080/live/PCM3HH9XV65I/08384410/71302.ts
 #EXTINF:-1 tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/CANAL_ALGERIE.png" group-title="ARABIC ALGERIA",|DZ| CANAL ALGERIE
-http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7356.ts
+http://api.runso.me:8080/live/PCM3HH9XV65I/08384410/71303.ts
 #EXTINF:-1 tvg-name="|DZ| A3 ALGERIE" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/A3.png" group-title="ARABIC ALGERIA",|DZ| A3 ALGERIE
 http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/7355.ts
 #EXTINF:-1 tvg-name="|DZ| ECHOUROUK" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Echorouk_TV_HD.png" group-title="ARABIC ALGERIA",|DZ| ECHOUROUK
