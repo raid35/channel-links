@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="|AR| ALWAN 1" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 1
+http://01.15052024.uk:2052/live/950626129988/960308701446/56877.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 2" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 2
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454119&extension=ts&play_token=af1JeqUUpB
+#EXTINF:-1 tvg-name="|AR| ALWAN 2" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641606&extension=ts&play_token=OpfElA27Bd
+#EXTINF:-1 tvg-name="|AR| ALWAN 3" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 4
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454118&extension=ts&play_token=Ia55VVg6ji
+#EXTINF:-1 tvg-name="|AR| ALWAN 3" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641607&extension=ts&play_token=fC1SuteHcE
+#EXTINF:-1 tvg-name="|AR| ALWAN 3" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 3
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454117&extension=ts&play_token=QrK5Vsxwtt
+#EXTINF:-1 tvg-name="|AR| ALWAN 4" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641608&extension=ts&play_token=JAUdDiXZzW
+#EXTINF:-1 tvg-name="|AR| ALWAN 4" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 4
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454116&extension=ts&play_token=QrK5Vsxwtt
+#EXTINF:-1 tvg-name="|AR| ALWAN 5" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641609&extension=ts&play_token=vn1XltJZ47
+#EXTINF:-1 tvg-name="|AR| ALWAN 5 " tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 5
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454115&extension=ts&play_token=QrK5Vsxwtt
+#EXTINF:-1 tvg-name="|AR| ALWAN 6" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 6
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641610&extension=ts&play_token=poinciE3zn
+#EXTINF:-1 tvg-name="|AR| ALWAN 6" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 6
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454114&extension=ts&play_token=QrK5Vsxwtt
+#EXTINF:-1 tvg-name="|AR| ALWAN 1 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 1 4k
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852917.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 2 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 1
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852920.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 3 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 3 4k
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852923.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 4 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 4 4k
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852926.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 5 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 5 4k
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852929.ts
+#EXTINF:-1 tvg-name="|AR| ALWAN 6 4k" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 6 4k
+http://www.sansat.cc:88/live/VEVXYO5CPO7ENXH/3NRK0NDDMLEPRQP/852932.ts
 #EXTINF:-1 tvg-name="|AR| beIN 4k SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4K.png" group-title="BEIN SPORTS LIVE",|AR| beIN 4k SS
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274122.ts
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 1 HD SS
