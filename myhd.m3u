@@ -7,7 +7,7 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454118
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454117&extension=ts&play_token=QrK5Vsxwtt
 #EXTINF:-1 tvg-name="|AR| ALWAN 4" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="ALWAN",|AR| ALWAN 4
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454116&extension=ts&play_token=QrK5Vsxwtt
-#EXTINF:-1 tvg-name="|AR| ALWAN 5" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="BEIN SPORTS LIVE",|AR| ALWAN 5
+#EXTINF:-1 tvg-name="|AR| ALWAN 5" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="ALWAN",|AR| ALWAN 5
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454115&extension=ts&play_token=QrK5Vsxwtt
 #EXTINF:-1 tvg-name="|AR| ALWAN 6" tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="ALWAN",|AR| ALWAN 6
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454114&extension=ts&play_token=QrK5Vsxwtt
@@ -43,37 +43,41 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274129.ts
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274130.ts
 #EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 9 HD SS
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274131.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285695&extension=ts&play_token=iyfe1AsagT
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 1 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285712&extension=ts&play_token=EwK65wnBNA
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 1 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114053&extension=ts&play_token=UNKTYktqTm
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285694&extension=ts&play_token=bRqBY1cdcR
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 2 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285711&extension=ts&play_token=bEBrSmlyrP
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 2 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114052&extension=ts&play_token=3huDe9X7Sv
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.pngg" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285693&extension=ts&play_token=inBy1WeN9Q
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 3 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285710&extension=ts&play_token=4P4GMuHyJn
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 3 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114050&extension=ts&play_token=rNxTZGHpLU
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285692&extension=ts&play_token=Dt6QrsimpB
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 4 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285709&extension=ts&play_token=UZyVp04OyI
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 4 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114049&extension=ts&play_token=qo051Xyiq4
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
-http://line.myox.me:80/play/live.php?mac=00:1A:79:18:25:65&stream=1330429&extension=ts&play_token=yX2BI8q8BT
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 5 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285708&extension=ts&play_token=pge5j6ytjO
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 5 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114048&extension=ts&play_token=Tsw83ETTq1
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
-http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114047&extension=ts&play_token=qQgS1qSXkO
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 6 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285707&extension=ts&play_token=eRDN5k1b9H
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 6 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=3848&extension=ts&play_token=BdehoYC1xZ
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 7 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285706&extension=ts&play_token=Xfekx63Pha
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 7 SA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=114046&extension=ts&play_token=psVAIQyLrh
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 7 
-http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=3847&extension=ts&play_token=QCjEYQSi58
-#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png",BeIn 8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 8K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 8 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285705&extension=ts&play_token=SAG8Fs3EG6
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 8 SA
 http://line.myox.me:80/play/live.php?mac=00:1A:79:18:25:65&stream=1330426&extension=ts&play_token=P7KbrF1f1n
-#EXTINF:0 group-title="Beinsport"tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png",BeIn 9
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 9 8K
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=285704&extension=ts&play_token=ApEGj64833
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS 8K",|AR| BEIN SPORTS 9 SA
 http://line.myox.me:80/play/live.php?mac=00:1A:79:18:25:65&stream=1330425&extension=ts&play_token=x1LtcSXo51
 #EXTINF:-1 tvg-name="|DZ| ENTV ALGERIE NATIONAL" tvg-logo="http://www.vodkom.com:25461/Logo/ARABALGERIE/Programme_NationalHD.png" group-title="ARABIC ALGERIA",|DZ| ENTV ALGERIE NATIONAL
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/319320.ts
