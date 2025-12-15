@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
 http://app.gogo-tv.com:2086/live/319957061G/27674/12742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
 http://app.gogo-tv.com:2086/live/319957061G/27674/12740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
 http://app.gogo-tv.com:2086/live/319957061G/27674/12737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
@@ -17,15 +17,15 @@ http://app.gogo-tv.com:2086/live/319957061G/27674/122770.m3u8
 http://app.gogo-tv.com:2086/live/319957061G/27674/122771.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://app.gogo-tv.com:2086/live/319957061G/27674/122769.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268842.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268843.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
@@ -67,128 +67,128 @@ http://app.gogo-tv.com:2086/live/319957061G/27674/3581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
 http://app.gogo-tv.com:2086/live/319957061G/27674/122774.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12910.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
 http://app.gogo-tv.com:2086/live/319957061G/27674/122723.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
 http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/57480.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/26994.ts
-#EXTINF:-1 group-title="rts1" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rts-1-logo-png_seeklogo-498049.png" , rts1
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19922.ts
-#EXTINF:-1 group-title="rts2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png?20230830203438" , rts2
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19921.ts
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/26994.m3u8
+#EXTINF:-1 group-title="rm3u81" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rm3u8-1-logo-png_seeklogo-498049.png" , rm3u81
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19922.m3u8
+#EXTINF:-1 group-title="rm3u82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rm3u8_2_Logo_2023.svg/500px-Rm3u8_2_Logo_2023.svg.png?20230830203438" , rm3u82
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TÉVA" tvg-logo="http://148.251.133.153:8181/logo/chn/2490.png" group-title="Français ",FR | TÉVA
-http://app.gogo-tv.com:2086/live/319957061G/27674/12831.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TV BREIZH" tvg-logo="http://148.251.133.153:8181/logo/chn/2375.png" group-title="Français ",FR | TV BREIZH
-http://app.gogo-tv.com:2086/live/319957061G/27674/12901.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12901.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://148.251.133.153:8181/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
-http://app.gogo-tv.com:2086/live/319957061G/27674/12821.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12821.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12836.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12903.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12864.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12861.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | AB1" tvg-logo="http://148.251.133.153:8181/logo/chn/2376.png" group-title="Français ",FR | AB1
-http://app.gogo-tv.com:2086/live/319957061G/27674/12829.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12829.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | AB3" tvg-logo="http://148.251.133.153:8181/logo/chn/2492.png" group-title="Français ",FR | AB3
-http://app.gogo-tv.com:2086/live/319957061G/27674/12827.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RTL9" tvg-logo="http://148.251.133.153:8181/logo/chn/2374.png" group-title="Français ",FR | RTL9
-http://app.gogo-tv.com:2086/live/319957061G/27674/12823.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12823.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2383.png" group-title="Français ",FR | ACTION
-http://app.gogo-tv.com:2086/live/319957061G/27674/12867.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | POLAR+" tvg-logo="http://148.251.133.153:8181/logo/chn/2487.png" group-title="Français ",FR | POLAR+
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6462.ts
+http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6462.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SYFY" tvg-logo="http://148.251.133.153:8181/logo/chn/2381.png" group-title="Français ",FR | SYFY
-http://app.gogo-tv.com:2086/live/319957061G/27674/12897.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | WARNER TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2486.png" group-title="Français ",FR | WARNER TV
-http://app.gogo-tv.com:2086/live/319957061G/27674/12843.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | NOVELAS TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2512.png" group-title="Français ",FR | NOVELAS TV
-http://app.gogo-tv.com:2086/live/319957061G/27674/12819.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12819.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://148.251.133.153:8181/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
-http://app.gogo-tv.com:2086/live/319957061G/27674/12671.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12671.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://app.gogo-tv.com:2086/live/319957061G/27674/12634.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12634.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://app.gogo-tv.com:2086/live/319957061G/27674/12629.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12629.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://app.gogo-tv.com:2086/live/319957061G/27674/12656.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12656.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://app.gogo-tv.com:2086/live/319957061G/27674/12627.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://app.gogo-tv.com:2086/live/319957061G/27674/12646.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12646.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
 http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://app.gogo-tv.com:2086/live/319957061G/27674/12643.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12643.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://app.gogo-tv.com:2086/live/319957061G/27674/12641.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12641.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://app.gogo-tv.com:2086/live/319957061G/27674/12639.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12658.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12658.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://app.gogo-tv.com:2086/live/319957061G/27674/12669.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12669.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://app.gogo-tv.com:2086/live/319957061G/27674/12665.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12665.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12667.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://app.gogo-tv.com:2086/live/319957061G/27674/12632.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12632.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12531.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12530.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12530.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12529.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12529.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12528.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12527.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12527.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12526.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12525.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12524.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12524.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12523.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12522.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12538.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12538.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12537.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12537.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12536.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12535.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12534.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12534.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12553.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12552.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12552.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12551.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12550.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12549.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://app.gogo-tv.com:2086/live/319957061G/27674/12735.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://app.gogo-tv.com:2086/live/319957061G/27674/12734.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://app.gogo-tv.com:2086/live/319957061G/27674/12731.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://app.gogo-tv.com:2086/live/319957061G/27674/12729.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://app.gogo-tv.com:2086/live/319957061G/27674/12728.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://app.gogo-tv.com:2086/live/319957061G/27674/12727.ts
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://app.gogo-tv.com:2086/live/319957061G/27674/12726.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12549.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
+http://app.gogo-tv.com:2086/live/319957061G/27674/12735.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
+http://app.gogo-tv.com:2086/live/319957061G/27674/12734.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://app.gogo-tv.com:2086/live/319957061G/27674/12731.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://app.gogo-tv.com:2086/live/319957061G/27674/12729.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12728.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
+http://app.gogo-tv.com:2086/live/319957061G/27674/12727.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
+http://app.gogo-tv.com:2086/live/319957061G/27674/12726.m3u8
