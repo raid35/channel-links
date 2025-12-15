@@ -1,200 +1,267 @@
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2499/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
-http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/61711.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2501/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
-http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/61712.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://148.251.133.153:8181/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2546/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77874.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77878.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77882.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268842.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268843.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77880.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77876.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/205112.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77879.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77988.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/4371.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77987.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77985.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/4643.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77850.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77867.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77674.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77854.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77855.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77860.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77862.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77861.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77849.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77865.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/57480.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/88737.ts
-#EXTINF:-1 group-title="rts1" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rts-1-logo-png_seeklogo-498049.png" , rts1
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19922.ts
-#EXTINF:-1 group-title="rts2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png?20230830203438" , rts2
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/19921.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TÉVA" tvg-logo="http://148.251.133.153:8181/logo/chn/2490.png" group-title="Français ",FR | TÉVA
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78082.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TV BREIZH" tvg-logo="http://148.251.133.153:8181/logo/chn/2375.png" group-title="Français ",FR | TV BREIZH
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78067.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://148.251.133.153:8181/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78064.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77481.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6475.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77480.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://148.251.133.153:8181/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | AB1" tvg-logo="http://148.251.133.153:8181/logo/chn/2376.png" group-title="Français ",FR | AB1
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78065.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | AB3" tvg-logo="http://148.251.133.153:8181/logo/chn/2492.png" group-title="Français ",FR | AB3
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78084.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RTL9" tvg-logo="http://148.251.133.153:8181/logo/chn/2374.png" group-title="Français ",FR | RTL9
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78075.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2383.png" group-title="Français ",FR | ACTION
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/92195.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | POLAR+" tvg-logo="http://148.251.133.153:8181/logo/chn/2487.png" group-title="Français ",FR | POLAR+
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6462.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SYFY" tvg-logo="http://148.251.133.153:8181/logo/chn/2381.png" group-title="Français ",FR | SYFY
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77486.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | WARNER TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2486.png" group-title="Français ",FR | WARNER TV
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/15482.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | NOVELAS TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2512.png" group-title="Français ",FR | NOVELAS TV
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77482.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://148.251.133.153:8181/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/82638.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77733.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77729.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77724.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77730.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77732.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77692.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77719.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77720.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77721.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77723.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77689.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77691.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77717.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77728.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/1590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/2356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
-http://goldtvhd.tv:8080/live/obsfullhd.tv/xARq84RvmLfx@@133/3348.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8301.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8302.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8303.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8304.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8305.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8306.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/8307.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="[FR] bein Sport 1" tvg-logo="http://87.cie-eg.com:80/images/c7a18d2aba4d4f00e16970ef85a95ab6.png" group-title="France",[FR] bein Sport 1
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51884.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="[FR] bein Sport 1 HD" tvg-logo="http://87.cie-eg.com:80/images/c7a18d2aba4d4f00e16970ef85a95ab6.png" group-title="France",[FR] bein Sport 1 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/4005.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="[FR] bein Sport 2" tvg-logo="http://87.cie-eg.com:80/images/2cb457119c65c264fca87d477d9c27e2.png" group-title="France",[FR] bein Sport 2
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51882.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="[FR] bein Sport 2 HD" tvg-logo="http://87.cie-eg.com:80/images/2cb457119c65c264fca87d477d9c27e2.png" group-title="France",[FR] bein Sport 2 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/4003.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="[FR] bein Sport 3" tvg-logo="http://87.cie-eg.com:80/images/7089eca5d4ca06d486f0c62b317c894c.png" group-title="France",[FR] bein Sport 3
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51881.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="[FR] bein Sport 3 HD" tvg-logo="http://87.cie-eg.com:80/images/7089eca5d4ca06d486f0c62b317c894c.png" group-title="France",[FR] bein Sport 3 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10681.m3u8
+#EXTINF:-1 tvg-name="[FR] bein Sport 4" tvg-logo="http://87.cie-eg.com:80/images/4c1babeb018bc2b34c346bc1117cc137.png" group-title="France",[FR] bein Sport 4
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51880.m3u8
+#EXTINF:-1 tvg-name="[FR] bein Sport 5" tvg-logo="http://87.cie-eg.com:80/images/8ffb8bf38c4cd38c73b86375825159de.png" group-title="France",[FR] bein Sport 5
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51879.m3u8
+#EXTINF:-1 tvg-name="[FR] bein Sport 6" tvg-logo="http://87.cie-eg.com/images/8396c69ec1c368b41ea9f87c891e4199.png" group-title="France",[FR] bein Sport 6
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51878.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="[FR] bein Sport 7" tvg-logo="http://87.cie-eg.com:80/images/4ebc86ca9d2904dafc0eba2bbda7499e.png" group-title="France",[FR] bein Sport 7
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51877.m3u8
+#EXTINF:-1 tvg-name="[FR] bein Sport 8" tvg-logo="http://87.cie-eg.com:80/images/f9d9b3356b6c2728d491898640b37a83.png" group-title="France",[FR] bein Sport 8
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51876.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="[FR] bein Sport 9" tvg-logo="http://87.cie-eg.com:80/images/645626a21988384c552c0e59084903a1.png" group-title="France",[FR] bein Sport 9
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51875.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="[FR] bein Sport 10" tvg-logo="http://87.cie-eg.com:80/images/8acc0ba438ecfdc20ef829bde10fdc4a.png" group-title="France",[FR] bein Sport 10
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51883.m3u8
+#EXTINF:-1 tvg-name="[FR] Canal+ Sport" tvg-logo="http://87.cie-eg.com:80/images/dd10d048778a907283c216cba838effe.png" group-title="France",[FR] Canal+ Sport
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51865.m3u8
+#EXTINF:-1 tvg-name="[FR] Canal+ Sport HD" tvg-logo="http://87.cie-eg.com:80/images/dd10d048778a907283c216cba838effe.png" group-title="France",[FR] Canal+ Sport HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3990.m3u8
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="[FR] Canal+" tvg-logo="http://87.cie-eg.com:80/images/c6afabf620900cdc72774df13db440ec.png" group-title="France",[FR] Canal+
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51869.m3u8
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="[FR] Canal+ HD" tvg-logo="http://87.cie-eg.com:80/images/c6afabf620900cdc72774df13db440ec.png" group-title="France",[FR] Canal+ HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3995.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="[FR] Canal+ Cinema" tvg-logo="http://87.cie-eg.com:80/images/eb848674f037b5243850491f23e2e75f.png" group-title="France",[FR] Canal+ Cinema
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51868.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="[FR] Canal+ Cinema HD" tvg-logo="http://87.cie-eg.com:80/images/eb848674f037b5243850491f23e2e75f.png" group-title="France",[FR] Canal+ Cinema HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3994.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="[FR] Canal+ Series" tvg-logo="http://87.cie-eg.com:80/images/858670b42e7dc8e1ddc1773e4c105a42.png" group-title="France",[FR] Canal+ Series
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51866.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="[FR] Canal+ Series HD" tvg-logo="http://87.cie-eg.com:80/images/858670b42e7dc8e1ddc1773e4c105a42.png" group-title="France",[FR] Canal+ Series HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3991.m3u8
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="[FR] Canal+ Grand Ecrran" group-title="France",[FR] Canal+ Grand Ecrran
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51864.m3u8
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="[FR] Canal+ Grand Ecrran HD" group-title="France",[FR] Canal+ Grand Ecrran HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/216.m3u8
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="[FR] Cine Premiere" tvg-logo="http://87.cie-eg.com:80/images/477cd5615778c3c03087efe119372821.png" group-title="France",[FR] Cine Premiere
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51855.m3u8
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="[FR] Cine Premiere HD" tvg-logo="http://87.cie-eg.com:80/images/477cd5615778c3c03087efe119372821.png" group-title="France",[FR] Cine Premiere HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10651.m3u8
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="[FR] Cine Frisson" tvg-logo="http://87.cie-eg.com:80/images/febfa28d4648ce318e80e868d00b5469.png" group-title="France",[FR] Cine Frisson
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51856.m3u8
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="[FR] Cine Frisson HD" tvg-logo="http://87.cie-eg.com:80/images/febfa28d4648ce318e80e868d00b5469.png" group-title="France",[FR] Cine Frisson HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/712.m3u8
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="[FR] Cine Emotion" tvg-logo="http://87.cie-eg.com:80/images/1f473f96a787da72f5baa57ca29556a0.png" group-title="France",[FR] Cine Emotion
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51858.m3u8
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="[FR] Cine Emotion HD" tvg-logo="http://87.cie-eg.com:80/images/1f473f96a787da72f5baa57ca29556a0.png" group-title="France",[FR] Cine Emotion HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/938.m3u8
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="[FR] Cine Famiz" tvg-logo="http://87.cie-eg.com:80/images/487d271c1ae022be29d22eb4bc3eabc2.png" group-title="France",[FR] Cine Famiz
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51857.m3u8
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="[FR] Cine Famiz HD" tvg-logo="http://87.cie-eg.com:80/images/487d271c1ae022be29d22eb4bc3eabc2.png" group-title="France",[FR] Cine Famiz HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/711.m3u8
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="[FR] Cine Classic" tvg-logo="http://87.cie-eg.com:80/images/9403e51f3a89e72057a02f911d4a7cb8.png" group-title="France",[FR] Cine Classic
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51860.m3u8
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="[FR] Cine Classic HD" tvg-logo="http://87.cie-eg.com:80/images/9403e51f3a89e72057a02f911d4a7cb8.png" group-title="France",[FR] Cine Classic HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/923.m3u8
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="[FR] Cine Club" tvg-logo="http://87.cie-eg.com:80/images/204eb2b669fbff887400add48e22bae5.png" group-title="France",[FR] Cine Club
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51859.m3u8
+#EXTINF:-1 tvg-name="[FR] Cine Polar" tvg-logo="http://87.cie-eg.com:80/images/573fec5252bdb5d8d69546baba61e94b.png" group-title="France",[FR] Cine Polar
+http://soloip.co:80/live/AlaaHussein/Hayat2025/931.m3u8
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="[FR] Canal+ Docs HD" group-title="France",[FR] Canal+ Docs HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3165.m3u8
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="[FR] Canal+ Docs" group-title="France",[FR] Canal+ Docs
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51787.m3u8
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="[FR] TF1" tvg-logo="http://87.cie-eg.com:80/images/a2614d04d73789df502765c840928384.png" group-title="France",[FR] TF1
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51784.m3u8
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="[FR] TF1 HD" tvg-logo="http://87.cie-eg.com:80/images/a2614d04d73789df502765c840928384.png" group-title="France",[FR] TF1 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/174.m3u8
+#EXTINF:-1 tvg-name="[FR] TFX" tvg-logo="http://87.cie-eg.com:80/images/a2614d04d73789df502765c840928384.png" group-title="France",[FR] TFX
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51779.m3u8
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="[FR] M6" tvg-logo="http://87.cie-eg.com:80/images/b6ace39132784286cdfee7a96df6d18b.png" group-title="France",[FR] M6
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51823.m3u8
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="[FR] M6 HD" tvg-logo="http://87.cie-eg.com:80/images/b6ace39132784286cdfee7a96df6d18b.png" group-title="France",[FR] M6 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/173.m3u8
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="[FR] France 2" tvg-logo="http://87.cie-eg.com:80/images/7da8d7668711d97950a9b246f13aefac.png" group-title="France",[FR] France 2
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51837.m3u8
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="[FR] France 2 HD" tvg-logo="http://87.cie-eg.com:80/images/7da8d7668711d97950a9b246f13aefac.png" group-title="France",[FR] France 2 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/187.m3u8
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="[FR] France 3" tvg-logo="http://87.cie-eg.com:80/images/d981c8ffefa4c8926853bf3c484bcce5.png" group-title="France",[FR] France 3
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51836.m3u8
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="[FR] France 3 HD" tvg-logo="http://87.cie-eg.com:80/images/d981c8ffefa4c8926853bf3c484bcce5.png" group-title="France",[FR] France 3 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/188.m3u8
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="[FR] France 4" tvg-logo="http://87.cie-eg.com:80/images/8c03c23db3d1254929ee11e43ec5b9e3.png" group-title="France",[FR] France 4
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51835.m3u8
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="[FR] France 4 HD" tvg-logo="http://87.cie-eg.com:80/images/8c03c23db3d1254929ee11e43ec5b9e3.png" group-title="France",[FR] France 4 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/189.m3u8
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="[FR] France 5" tvg-logo="http://87.cie-eg.com:80/images/9a1a46b255cf4f49db6e65e8052f9536.png" group-title="France",[FR] France 5
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51834.m3u8
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="[FR] France 5 HD" tvg-logo="http://87.cie-eg.com:80/images/9a1a46b255cf4f49db6e65e8052f9536.png" group-title="France",[FR] France 5 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/190.m3u8
+#EXTINF:-1 tvg-id="FranceInfo FR" tvg-name="[FR] France Info" tvg-logo="http://87.cie-eg.com:80/images/1de13c6294a0d14b8f8bc61f20547dd8.png" group-title="France",[FR] France Info
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51833.m3u8
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="[FR] Teva" tvg-logo="http://87.cie-eg.com:80/images/dd1a4e3c73f0cae8051e8858b93a9151.png" group-title="France",[FR] Teva
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51785.m3u8
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="[FR] Teva HD" tvg-logo="http://87.cie-eg.com:80/images/dd1a4e3c73f0cae8051e8858b93a9151.png" group-title="France",[FR] Teva HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/699.m3u8
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="[FR] RTL 9" tvg-logo="http://87.cie-eg.com:80/images/8be2d7c81475219eddc79968306413d9.png" group-title="France",[FR] RTL 9
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51793.m3u8
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="[FR] RTL 9 HD" tvg-logo="http://87.cie-eg.com:80/images/8be2d7c81475219eddc79968306413d9.png" group-title="France",[FR] RTL 9 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/197.m3u8
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="[FR] Paris Premiere" tvg-logo="http://87.cie-eg.com:80/images/29dc1d2f8e4b14b589f3e0c1826a9b35.png" group-title="France",[FR] Paris Premiere
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51805.m3u8
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="[FR] Paris Premiere HD" tvg-logo="http://87.cie-eg.com:80/images/29dc1d2f8e4b14b589f3e0c1826a9b35.png" group-title="France",[FR] Paris Premiere HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/206.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="[FR] Paramount Channel" tvg-logo="http://87.cie-eg.com:80/images/e1f8ec8f6bb7d6f73435cdfb8ce411a1.png" group-title="France",[FR] Paramount Channel
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51806.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="[FR] Paramount Channel HD" tvg-logo="http://87.cie-eg.com:80/images/e1f8ec8f6bb7d6f73435cdfb8ce411a1.png" group-title="France",[FR] Paramount Channel HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/932.m3u8
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="[FR] TV Breizh" tvg-logo="http://87.cie-eg.com:80/images/24de7d5f98911a202f7319b7db9e99e5.png" group-title="France",[FR] TV Breizh
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51776.m3u8
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="[FR] TV Breizh HD" tvg-logo="http://87.cie-eg.com:80/images/24de7d5f98911a202f7319b7db9e99e5.png" group-title="France",[FR] TV Breizh HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10617.m3u8
+#EXTINF:-1 tvg-id="serieclub FR" tvg-name="[FR] Serie Club" tvg-logo="http://87.cie-eg.com:80/images/4a235cf7400d0e3b823dc27472e30d82.png" group-title="France",[FR] Serie Club
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51790.m3u8
+#EXTINF:-1 tvg-id="serieclub FR" tvg-name="[FR] Serie Club HD" tvg-logo="http://87.cie-eg.com:80/images/4a235cf7400d0e3b823dc27472e30d82.png" group-title="France",[FR] Serie Club HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/15438.m3u8
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="[FR] TF1 Series" tvg-logo="http://87.cie-eg.com:80/images/8a2e8e95ad450611081a6eaf410aa2ab.png" group-title="France",[FR] TF1 Series
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51783.m3u8
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="[FR] TF1 Series HD" tvg-logo="http://87.cie-eg.com:80/images/8a2e8e95ad450611081a6eaf410aa2ab.png" group-title="France",[FR] TF1 Series HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3993.m3u8
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="[FR] TMC" tvg-logo="http://87.cie-eg.com/images/8abc64ae294d6f5f700df1f9dd004e53.png" group-title="France",[FR] TMC
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51780.m3u8
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="[FR] TMC HD" tvg-logo="http://87.cie-eg.com:80/images/8abc64ae294d6f5f700df1f9dd004e53.png" group-title="France",[FR] TMC HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10577.m3u8
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="[FR] NRJ12" tvg-logo="http://87.cie-eg.com:80/images/cf4b4b28344d63775a7ced7038ee490c.png" group-title="France",[FR] NRJ12
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51812.m3u8
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="[FR] NRJ12 HD" tvg-logo="http://87.cie-eg.com:80/images/cf4b4b28344d63775a7ced7038ee490c.png" group-title="France",[FR] NRJ12 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/181.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="[FR] Syfy" tvg-logo="http://87.cie-eg.com:80/images/35886c95a1fe487b26db037085678680.png" group-title="France",[FR] Syfy
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51788.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="[FR] Syfy HD" tvg-logo="http://87.cie-eg.com:80/images/35886c95a1fe487b26db037085678680.png" group-title="France",[FR] Syfy HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/32.m3u8
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="[FR] W9" tvg-logo="http://87.cie-eg.com:80/images/ccd164a9b539d9621f799edb89326a20.png" group-title="France",[FR] W9
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51773.m3u8
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="[FR] W9 HD" tvg-logo="http://87.cie-eg.com:80/images/ccd164a9b539d9621f799edb89326a20.png" group-title="France",[FR] W9 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/191.m3u8
+#EXTINF:-1 tvg-id="Action FR" tvg-name="[FR] Action" tvg-logo="http://87.cie-eg.com:80/images/0517eb6855841ee1a136815d600c7041.png" group-title="France",[FR] Action
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51888.m3u8
+#EXTINF:-1 tvg-id="Action FR" tvg-name="[FR] Action HD" tvg-logo="http://87.cie-eg.com:80/images/0517eb6855841ee1a136815d600c7041.png" group-title="France",[FR] Action HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/935.m3u8
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="[FR] AB 1" tvg-logo="http://87.cie-eg.com:80/images/0bbf82228c039e26cf6c2be142c23192.png" group-title="France",[FR] AB 1
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51890.m3u8
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="[FR] AB1 HD" tvg-logo="http://87.cie-eg.com:80/images/0bbf82228c039e26cf6c2be142c23192.png" group-title="France",[FR] AB1 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/305.m3u8
+#EXTINF:-1 tvg-id="AB3 HD FR" tvg-name="[FR] AB 3" tvg-logo="http://87.cie-eg.com:80/images/234d8c0da77f7c8dba5ac7c96587ddc9.png" group-title="France",[FR] AB 3
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51889.m3u8
+#EXTINF:-1 tvg-id="AB Moteurs FR" tvg-name="[FR] AB Moteurs" tvg-logo="http://87.cie-eg.com/images/0a66df3454957d14ab0afc41710c6bd3.png" group-title="France",[FR] AB Moteurs
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51891.m3u8
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="[FR] Arte" tvg-logo="http://87.cie-eg.com:80/images/1a7df0df91cf903750010602e64f1d8f.png" group-title="France",[FR] Arte
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51885.m3u8
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="[FR] Arte HD" tvg-logo="http://87.cie-eg.com:80/images/1a7df0df91cf903750010602e64f1d8f.png" group-title="France",[FR] Arte HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/924.m3u8
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="[FR] RMC Decouvert" tvg-logo="http://87.cie-eg.com:80/images/36f6001f71de6bc5d097a780b41670e0.png" group-title="France",[FR] RMC Decouvert
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51800.m3u8
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="[FR] RMC Decouvert HD" tvg-logo="http://87.cie-eg.com:80/images/36f6001f71de6bc5d097a780b41670e0.png" group-title="France",[FR] RMC Decouvert HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/14907.m3u8
+#EXTINF:-1 tvg-name="[FR] RMC Story" tvg-logo="http://87.cie-eg.com:80/images/e03f93fc0b6c1352cef9e1d5e95c2c2c.png" group-title="France",[FR] RMC Story
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51794.m3u8
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="[FR] 13eme rue" tvg-logo="http://87.cie-eg.com:80/images/077ec1f41a1294ae34306143ab396a53.png" group-title="France",[FR] 13eme rue
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51893.m3u8
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="[FR] Crime District" tvg-logo="http://87.cie-eg.com:80/images/c1d40c1c2eb0f0beecc68563a34ab86b.png" group-title="France",[FR] Crime District
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51852.m3u8
+#EXTINF:-1 tvg-id="E! FR" tvg-name="[FR] E!" tvg-logo="http://87.cie-eg.com:80/images/0134f5abd2190f2c6d8fb53491d187b3.png" group-title="France",[FR] E!
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51841.m3u8
+#EXTINF:-1 tvg-id="Seasons FR" tvg-name="[FR] Seasons" tvg-logo="http://87.cie-eg.com:80/images/ab2c0722a35285b9d7a6fdb65bfbcd43.png" group-title="France",[FR] Seasons
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51791.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="[FR] Planete+" tvg-logo="http://87.cie-eg.com:80/images/a081db6903465edc424e3f4226f1f223.png" group-title="France",[FR] Planete+
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51803.m3u8
+#EXTINF:-1 tvg-name="[FR] Planete + HD" tvg-logo="http://87.cie-eg.com:80/images/aeb4202ee92527bc8ec677202daab4cd.png" group-title="France",[FR] Planete + HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51802.m3u8
+#EXTINF:-1 tvg-name="[FR] Planete+ CI" tvg-logo="http://87.cie-eg.com:80/images/a081db6903465edc424e3f4226f1f223.png" group-title="France",[FR] Planete+ CI
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51801.m3u8
+#EXTINF:-1 tvg-name="[FR] Planete+ CI HD" tvg-logo="http://87.cie-eg.com:80/images/a081db6903465edc424e3f4226f1f223.png" group-title="France",[FR] Planete+ CI HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3999.m3u8
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="[FR] Ocs Geants" tvg-logo="http://87.cie-eg.com:80/images/973892c24d43f4c6fe72be6b733fa618.png" group-title="France",[FR] Ocs Geants
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51809.m3u8
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="[FR] Ocs Geants HD" tvg-logo="http://87.cie-eg.com:80/images/973892c24d43f4c6fe72be6b733fa618.png" group-title="France",[FR] Ocs Geants HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/172.m3u8
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="[FR] Ocs Max" tvg-logo="http://87.cie-eg.com:80/images/92921f9e4819b913efa926b33705df8f.png" group-title="France",[FR] Ocs Max
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51808.m3u8
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="[FR] Ocs Max HD" tvg-logo="http://87.cie-eg.com:80/images/92921f9e4819b913efa926b33705df8f.png" group-title="France",[FR] Ocs Max HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/34.m3u8
+#EXTINF:-1 tvg-name="[FR] Ocs Choc" tvg-logo="http://87.cie-eg.com:80/images/cdbf030250e6f6bf3404efb10c5ad3a9.png" group-title="France",[FR] Ocs Choc
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51811.m3u8
+#EXTINF:-1 tvg-name="[FR] TFX" tvg-logo="http://87.cie-eg.com:80/images/a2614d04d73789df502765c840928384.png" group-title="France",[FR] TFX
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51779.m3u8
+#EXTINF:-1 tvg-name="[FR] TFX HD" tvg-logo="http://87.cie-eg.com:80/images/49e77b12b555c1717109739b260a5ecb.png" group-title="France",[FR] TFX HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/20323.m3u8
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="[FR] 6ter" tvg-logo="http://87.cie-eg.com:80/images/a0242285a696a39dc525cb01dbf3632e.png" group-title="France",[FR] 6ter
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51892.m3u8
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="[FR] 6ter HD" tvg-logo="http://87.cie-eg.com:80/images/a0242285a696a39dc525cb01dbf3632e.png" group-title="France",[FR] 6ter HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/20318.m3u8
+#EXTINF:-1 tvg-name="[FR] C8" tvg-logo="http://87.cie-eg.com:80/images/86a1656445287cb08fd049ea36c27f8e.png" group-title="France",[FR] C8
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51870.m3u8
+#EXTINF:-1 tvg-name="[FR] C8 HD" tvg-logo="http://87.cie-eg.com:80/images/86a1656445287cb08fd049ea36c27f8e.png" group-title="France",[FR] C8 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/20317.m3u8
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="[FR] Cherie 25" tvg-logo="http://87.cie-eg.com:80/images/effef4d7254e61aa4e3a95a96148bb77.png" group-title="France",[FR] Cherie 25
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51861.m3u8
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="[FR] Cherie 25 HD" tvg-logo="http://87.cie-eg.com:80/images/effef4d7254e61aa4e3a95a96148bb77.png" group-title="France",[FR] Cherie 25 HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/20316.m3u8
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="[FR] Trek" tvg-logo="http://87.cie-eg.com:80/images/f5c6a51d034d3dbff37f4514b86aeb4d.png" group-title="France",[FR] Trek
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51777.m3u8
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="[FR] Trek HD" tvg-logo="http://87.cie-eg.com:80/images/f5c6a51d034d3dbff37f4514b86aeb4d.png" group-title="France",[FR] Trek HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10074.m3u8
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="[FR] M6 Music" tvg-logo="http://87.cie-eg.com:80/images/2856d1760fd5986faf618ababa3916ed.png" group-title="France",[FR] M6 Music
+http://soloip.co:80/live/AlaaHussein/Hayat2025/934.m3u8
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="[FR] Disney Channel" tvg-logo="http://87.cie-eg.com:80/images/a77450f87def43cbe79f3f494d0c332a.png" group-title="France",[FR] Disney Channel
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51846.m3u8
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="[FR] Disney Channel HD" tvg-logo="http://87.cie-eg.com:80/images/a77450f87def43cbe79f3f494d0c332a.png" group-title="France",[FR] Disney Channel HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3095.m3u8
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="[FR] Disney Junior" tvg-logo="http://87.cie-eg.com:80/images/085fac3147dd4b0e30152fbfa0c1a0d9.png" group-title="France",[FR] Disney Junior
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51843.m3u8
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="[FR] Boomerang HD" tvg-logo="http://87.cie-eg.com:80/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="France",[FR] Boomerang HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/4002.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="[FR] Canal+ Kids" tvg-logo="http://87.cie-eg.com:80/images/58eb5c10d4a214ecf4d03cd00570cbfe.png" group-title="France",[FR] Canal+ Kids
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51867.m3u8
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="[FR] Canal+ Kids HD" tvg-logo="http://87.cie-eg.com:80/images/58eb5c10d4a214ecf4d03cd00570cbfe.png" group-title="France",[FR] Canal+ Kids HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/3992.m3u8
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="[FR] Histoire" tvg-logo="http://87.cie-eg.com:80/images/690c9ca5aa752dde7c213eef976bcf2c.png" group-title="France",[FR] Histoire
+http://soloip.co:80/live/AlaaHussein/Hayat2025/14912.m3u8
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="[FR] Toute Histoire" tvg-logo="http://87.cie-eg.com:80/images/0aca2c2bdc77cbea3f59e25f06e6029b.png" group-title="France",[FR] Toute Histoire
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51778.m3u8
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="[FR] Science et Vie" tvg-logo="http://87.cie-eg.com:80/images/49b2c3a9d518836c220e478276e906d7.png" group-title="France",[FR] Science et Vie
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51792.m3u8
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="[FR] Ushuaïa" tvg-logo="http://87.cie-eg.com:80/images/12b5a21d5ae4c918624fca465d051e83.png" group-title="France",[FR] Ushuaïa
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51775.m3u8
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="[FR] Ushuaia HD" tvg-logo="http://87.cie-eg.com:80/images/12b5a21d5ae4c918624fca465d051e83.png" group-title="France",[FR] Ushuaia HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/10636.m3u8
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="[FR] Animaux" tvg-logo="http://87.cie-eg.com:80/images/a86ad0867e5d1b5d52f99a5c5f842dad.png" group-title="France",[FR] Animaux
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51886.m3u8
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="[FR] Animaux HD" tvg-logo="http://87.cie-eg.com:80/images/a86ad0867e5d1b5d52f99a5c5f842dad.png" group-title="France",[FR] Animaux HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/185.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="[FR] Discovery" tvg-logo="http://87.cie-eg.com:80/images/7bacf416a449ab2c1c4b45cfbac9728a.png" group-title="France",[FR] Discovery
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51850.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="[FR] Discovery HD" tvg-logo="http://87.cie-eg.com:80/images/7bacf416a449ab2c1c4b45cfbac9728a.png" group-title="France",[FR] Discovery HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/925.m3u8
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="[FR] Discovery Science" tvg-logo="http://87.cie-eg.com:80/images/f18adf05a1ac2a1a0f0ff478a1d4e74f.png" group-title="France",[FR] Discovery Science
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51847.m3u8
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="[FR] Discovery Investigation" tvg-logo="http://87.cie-eg.com:80/images/c5ac80d3d514dce28073e8ba0d2ad7be.png" group-title="France",[FR] Discovery Investigation
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51848.m3u8
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="[FR] Chasse Et Peche" tvg-logo="http://87.cie-eg.com:80/images/84089626df55dbef94700422850acdfb.png" group-title="France",[FR] Chasse Et Peche
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51862.m3u8
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="[FR] National Geo" tvg-logo="http://87.cie-eg.com:80/images/537ea9ccbfec959e423ce133a00031f3.png" group-title="France",[FR] National Geo
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51818.m3u8
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="[FR] National Geo HD" tvg-logo="http://87.cie-eg.com:80/images/537ea9ccbfec959e423ce133a00031f3.png" group-title="France",[FR] National Geo HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/182.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="[FR] Nat Geo Wild HD" tvg-logo="http://87.cie-eg.com:80/images/9a3112670d7e4ccf92e6b55e013f911b.png" group-title="France",[FR] Nat Geo Wild HD
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51819.m3u8
+#EXTINF:-1 tvg-name="[FR] RMC Sport 1" tvg-logo="http://87.cie-eg.com:80/images/fd1ad86f4a2eeefa9353a0b9f33b96f5.jpg" group-title="France",[FR] RMC Sport 1
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51798.m3u8
+#EXTINF:-1 tvg-name="[FR] RMC Sport 2" tvg-logo="http://87.cie-eg.com:80/images/4fafc48bce5cd351866e9e64f8f4fe0a.jpg" group-title="France",[FR] RMC Sport 2
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51797.m3u8
+#EXTINF:-1 tvg-name="[FR] RMC Sport 3" tvg-logo="http://87.cie-eg.com/images/489955214202453f9981c129e2a0db42.jpg" group-title="France",[FR] RMC Sport 3
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51796.m3u8
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="[FR] L" tvg-logo="http://87.cie-eg.com:80/images/e5584b9191bae72f6d7b4a7e4cb8c64b.png" group-title="France",[FR] L'EQUIPE
+http://soloip.co:80/live/AlaaHussein/Hayat2025/51839.m3u8
