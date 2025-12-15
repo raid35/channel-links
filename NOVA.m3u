@@ -15,9 +15,9 @@ http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2546/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77875.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77874.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77874.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77878.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
