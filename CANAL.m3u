@@ -10,13 +10,13 @@ http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2546/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12889.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/122770.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://app.gogo-tv.com:2086/live/319957061G/27674/122771.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/122769.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12811.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
@@ -29,25 +29,25 @@ http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.m3u8
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12885.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://app.gogo-tv.com:2086/live/319957061G/27674/12851.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12851.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://app.gogo-tv.com:2086/live/319957061G/27674/122763.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/12676.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://app.gogo-tv.com:2086/live/319957061G/27674/12854.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://app.gogo-tv.com:2086/live/319957061G/27674/12870.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://app.gogo-tv.com:2086/live/319957061G/27674/12879.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://app.gogo-tv.com:2086/live/319957061G/27674/12876.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://app.gogo-tv.com:2086/live/319957061G/27674/12878.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://app.gogo-tv.com:2086/live/319957061G/27674/12881.ts
+http://app.gogo-tv.com:2086/live/319957061G/27674/12881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
 http://app.gogo-tv.com:2086/live/319957061G/27674/122779.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
@@ -101,7 +101,7 @@ http://app.gogo-tv.com:2086/live/319957061G/27674/12823.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2383.png" group-title="Français ",FR | ACTION
 http://app.gogo-tv.com:2086/live/319957061G/27674/12867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | POLAR+" tvg-logo="http://148.251.133.153:8181/logo/chn/2487.png" group-title="Français ",FR | POLAR+
-http://tv.iptv-chal.net:2052/live/Ld2010/2010ld/6462.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SYFY" tvg-logo="http://148.251.133.153:8181/logo/chn/2381.png" group-title="Français ",FR | SYFY
 http://app.gogo-tv.com:2086/live/319957061G/27674/12897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | WARNER TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2486.png" group-title="Français ",FR | WARNER TV
