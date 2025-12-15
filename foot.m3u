@@ -35,6 +35,49 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/five.png" group-title="Algeria -",BeIN Alkass 5 HD
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 ARB" tvg-name="beIN Sport 1 4K" tvg-logo="http://87.cie-eg.com:80/images/8323c27089f14a50598a3feae970e09d.png" group-title="Sports",beIN Sport 1 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/67446.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 ARB" tvg-name="beIN Sport 2 4K" tvg-logo="http://87.cie-eg.com:80/images/c630188612dc4c2b9f75b54a83d4f00e.png" group-title="Sports",beIN Sport 2 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69337.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3 ARB" tvg-name="beIN Sport 3 4K" tvg-logo="http://87.cie-eg.com:80/images/ad4218383d1a475ff036d0dcc6e42dd4.png" group-title="Sports",beIN Sport 3 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69343.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 4 ARB" tvg-name="beIN Sport 4 4K" tvg-logo="http://87.cie-eg.com:80/images/6ac147e4826eb2ceb200911bab5a3c43.png" group-title="Sports",beIN Sport 4 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69338.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 5 ARB" tvg-name="beIN Sport 5 4K" tvg-logo="http://87.cie-eg.com:80/images/13743b0f18d402235c555168b8e3ba0a.png" group-title="Sports",beIN Sport 5 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69341.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 6 ARB" tvg-name="beIN Sport 6 4K" tvg-logo="http://87.cie-eg.com:80/images/80ee41920458704fdea6b88732aaa71a.png" group-title="Sports",beIN Sport 6 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69339.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 7 ARB" tvg-name="beIN Sport 7 4K" tvg-logo="http://87.cie-eg.com:80/images/e9723c65b3ad7a612dbc7b0e7aa57e64.png" group-title="Sports",beIN Sport 7 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69345.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 8 ARB" tvg-name="beIN Sport 8 4K" tvg-logo="http://87.cie-eg.com:80/images/96056ed0e33cf766e5c9ab75835612f6.png" group-title="Sports",beIN Sport 8 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69344.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 9 ARB" tvg-name="beIN Sport 9 4K" tvg-logo="http://87.cie-eg.com:80/images/2c42ff524a4150149332d604c7c8ecf2.png" group-title="Sports",beIN Sport 9 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69342.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 ENGLISH ARB" tvg-name="beIN Sport 1 EN 4K" tvg-logo="http://87.cie-eg.com:80/images/67a12432227d720702824a740b8fd123.png" group-title="Sports",beIN Sport 1 EN 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69346.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 ENGLISH ARB" tvg-name="beIN Sport 2 EN 4K" tvg-logo="http://87.cie-eg.com:80/images/a74ea1c83b3513a3c04f12c31d2ab224.png" group-title="Sports",beIN Sport 2 EN 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69347.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN Sport 1 FR 4K" tvg-logo="http://87.cie-eg.com:80/images/6cc688411af0b14aa5483e4e0162fa89.png" group-title="Sports",beIN Sport 1 FR 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/74956.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 2 FR 4K" tvg-logo="http://87.cie-eg.com:80/images/d845d0d23323c1a41dbf5d313573e2d7.png" group-title="Sports",beIN Sport 2 FR 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/74955.m3u8
+#EXTINF:-1 tvg-name="beIN Sport Afc 1 4K" tvg-logo="http://87.cie-eg.com/images/a7b72d2cdde78e404bf9bad377076921.png" group-title="Sports",beIN Sport Afc 1 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/95609.m3u8
+#EXTINF:-1 tvg-name="beIN Sport Afc 2 4K" tvg-logo="http://87.cie-eg.com/images/a4dfea47cc0a1f2372dc2b0dd270cea1.png" group-title="Sports",beIN Sport Afc 2 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/95610.m3u8
+#EXTINF:-1 tvg-name="beIN Sport Afc 3 4K" tvg-logo="http://87.cie-eg.com/images/919dba0d4a074ecc2a618e96a500738d.png" group-title="Sports",beIN Sport Afc 3 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/95611.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 1 ARB" tvg-name="beIN Sport 1 Xtra 4K" tvg-logo="http://87.cie-eg.com:80/images/bf8fa3fb1bf5966168875913bc3dca91.png" group-title="Sports",beIN Sport 1 Xtra 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69340.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 2 ARB" tvg-name="beIN Sport 2 Xtra 4K" tvg-logo="http://87.cie-eg.com:80/images/0fe288b668b6b11a2c2b6fa1607317e4.png" group-title="Sports",beIN Sport 2 Xtra 4K
+http://soloip.co:80/live/AlaaHussein/Hayat2025/69348.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Thmanayah 1" tvg-logo="http://87.cie-eg.com:80/images/927b1d4320751e087a28f478ac757a9c.png" group-title="Sports",Thmanayah 1
+http://soloip.co:80/live/AlaaHussein/Hayat2025/251.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Thmanayah 2" tvg-logo="http://87.cie-eg.com:80/images/927b1d4320751e087a28f478ac757a9c.png" group-title="Sports",Thmanayah 2
+http://soloip.co:80/live/AlaaHussein/Hayat2025/250.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Thmanayah 3" tvg-logo="http://87.cie-eg.com:80/images/927b1d4320751e087a28f478ac757a9c.png" group-title="Sports",Thmanayah 3
+http://soloip.co:80/live/AlaaHussein/Hayat2025/256.m3u8
+
 
 
 
