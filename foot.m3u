@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 1
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/bO4HuIgRJim2FoDnABv_uxOXVcubsAaO1TgSSa4otjfH058YoJupk4LtTFLF3pAtQRrkrONsUgzFUM61bRcUWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 1
+https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
 https://fox.mtxtvapp.workers.dev/stroma/fox/TVD4003/index.mpd
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 2
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jhMIcf2-mw6QlmN_4ScsVV_itTOoDnDvLqifXAxZ7KG_ZP_fEDilnqgr69FHr75KAMiNVecTyBSnjGiSF37tNg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 2
+https://balance.footballii.ir/hls2/bein2.m3u8
 #EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 3
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/94HlC-ZG-gd4SMfk8ca58SBWTY1BxaOu8LGl4AFYt31boUAPMEd3dFoI1IGsplTJkqVTf66vtWtRdMfn-Sc9lA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 3
+https://balance.footballii.ir/hls2/bein3.m3u8
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 4
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/a01XKxpo-Q36OMnFRdLag_xzq6X39QtOhOPSAjp2eGpGt8q2RsXpbTRwI07SkF8r6kVO5NXKb0K2e0qQz5MGOw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="Algeria -", بي إن سبورتس 5
@@ -29,5 +35,6 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/five.png" group-title="Algeria -",BeIN Alkass 5 HD
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
 
 
