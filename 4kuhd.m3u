@@ -1,5 +1,13 @@
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.128.png?ver=03-06-2025" group-title="Algeria -",Bein Sport News HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/4651.ts
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025" group-title="Algeria -",BeIN Alkass 1 HD
+http://app.gogo-tv.com:2086/live/319957061G/27674/138726.ts
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS MAX 1
+http://app.gogo-tv.com:2086/live/319957061G/27674/138723.ts
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS MAX 2
+http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274238.ts
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.128.png?ver=03-06-2025",beIN SPORTS MAX 3
+http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274239.ts
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.128.png?ver=03-06-2025",beIN SPORTS MAX 4
+http://app.gogo-tv.com:2086/live/319957061G/27674/12740.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
@@ -8,23 +16,4 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153546&extension=ts
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1780642816.m3u8
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 1
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274131.ts
-#EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274132.ts
-#EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 3" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 3
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274133.ts
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="Algeria -",BeIN Alkass 1 HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274236.ts
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/two.png group-title="Algeria -",BeIN Alkass 2 HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274237.ts
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/three.png" group-title="Algeria -",BeIN Alkass 3 HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274238.ts
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/four.png" group-title="Algeria -",BeIN Alkass 4 HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274239.ts
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://www.alkass.net/assets/images/five.png" group-title="Algeria -",BeIN Alkass 5 HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274240.ts
+
