@@ -1,44 +1,87 @@
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 1
-https://raid35.github.io/docs/player.html?id=ziggo1
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 2
-https://raid35.github.io/docs/player.html?id=ziggo2
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 3
-https://raid35.github.io/docs/player.html?id=ziggo3
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 4
-https://raid35.github.io/docs/player.html?id=ziggo4
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 5
-https://raid35.github.io/docs/player.html?id=ziggo5
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport6" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 6
-https://siksa40.blogspot.com/2025/07/ziggo6.html
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN UHD
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=326256&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://lo1.in/nl/espn.png", ESPN 1
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317812&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://lo1.in/nl/espn2.png", ESPN 2
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317811&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://lo1.in/nl/espn3.png", ESPN 3
-http://star4k.me:80/play/live.php?mac=00:1A:79:ae:1b:b4&stream=317810&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641605&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454119&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641606&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454118&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641607&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454117&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641608&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454116&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641609&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454115&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:57:05:CF&stream=1641610&extension=m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=454114&extension=m3u8
+#NAME FR| DOCUMENTAIRE HD
+#SERVICE 5002:0:1:573:4DDA:4DDA:C6DF6:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=814582&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTgxNDU4MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1GSWJReG43cFVF&end=:##### DOCUMENTAIRE  #####
+#DESCRIPTION ##### DOCUMENTAIRE  #####
+#SERVICE 5002:0:1:573:4DDB:4DDB:AF904:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=719108&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTcxOTEwOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1UQ3dDMmpPa3pr&end=:FR| CANAL+ DOCS HD
+#DESCRIPTION FR| CANAL+ DOCS HD
+#SERVICE 5002:0:1:573:4DDC:4DDC:AF906:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=719110&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTcxOTExMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1vbWtMNWtiZzhH&end=:FR| CANAL+ DOCS LQ
+#DESCRIPTION FR| CANAL+ DOCS LQ
+#SERVICE 5002:0:1:573:4DDD:4DDD:7BDCA:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507338&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1zOEo4aG9uVGNM&end=:FR| PLANETE + HD
+#DESCRIPTION FR| PLANETE + HD
+#SERVICE 5002:0:1:573:4DDE:4DDE:7BE87:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507527&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyNyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iVEZiSWxJVTI4&end=:FR| PLANETE + LQ
+#DESCRIPTION FR| PLANETE + LQ
+#SERVICE 5002:0:1:573:4DDF:4DDF:7BDC9:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507337&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzNyZleHRlbnNpb249dHMmcGxheV90b2tlbj1tZVBJamJqM3Bh&end=:FR| PLANETE A&E HD
+#DESCRIPTION FR| PLANETE A&E HD
+#SERVICE 5002:0:1:573:4DE0:4DE0:7BE86:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507526&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyNiZleHRlbnNpb249dHMmcGxheV90b2tlbj1ram1pejdQZmlx&end=:FR| PLANETE A&E LQ
+#DESCRIPTION FR| PLANETE A&E LQ
+#SERVICE 5002:0:1:573:4DE1:4DE1:7BDC8:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507336&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzNiZleHRlbnNpb249dHMmcGxheV90b2tlbj1JbmpFRnQ2OURt&end=:FR| PLANETE CI HD
+#DESCRIPTION FR| PLANETE CI HD
+#SERVICE 5002:0:1:573:4DE2:4DE2:7BE85:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507525&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1jS2d1OWl0ejV6&end=:FR| PLANETE CI LQ
+#DESCRIPTION FR| PLANETE CI LQ
+#SERVICE 5002:0:1:573:4DE3:4DE3:7BDC6:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507334&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzNCZleHRlbnNpb249dHMmcGxheV90b2tlbj04aG41ZEV2NnVT&end=:FR| NATIONAL GEO HD
+#DESCRIPTION FR| NATIONAL GEO HD
+#SERVICE 5002:0:1:573:4DE4:4DE4:7BE83:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507523&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1WYlF3cG1kZlRB&end=:FR| NATIONAL GEO LQ
+#DESCRIPTION FR| NATIONAL GEO LQ
+#SERVICE 5002:0:1:573:4DE5:4DE5:7BDC5:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507333&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1LTXZmVzZsVnA0&end=:FR| NAT GEO WILD HD
+#DESCRIPTION FR| NAT GEO WILD HD
+#SERVICE 5002:0:1:573:4DE6:4DE6:7BE82:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507522&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyMiZleHRlbnNpb249dHMmcGxheV90b2tlbj1jRTN6TjJwMHBl&end=:FR| NAT GEO WILD LQ
+#DESCRIPTION FR| NAT GEO WILD LQ
+#SERVICE 5002:0:1:573:4DE7:4DE7:7BDB9:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507321&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyMSZleHRlbnNpb249dHMmcGxheV90b2tlbj03cTJQUVdkdE1o&end=:FR| DISCOVERY CHANNEL HD
+#DESCRIPTION FR| DISCOVERY CHANNEL HD
+#SERVICE 5002:0:1:573:4DE8:4DE8:7BE76:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507510&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1FODVSc3pkY3Aw&end=:FR| DISCOVERY CHANNEL LQ
+#DESCRIPTION FR| DISCOVERY CHANNEL LQ
+#SERVICE 5002:0:1:573:4DE9:4DE9:7BDB7:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507319&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMxOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1zVnlGa1NmUngz&end=:FR| DISCOVERY ID HD
+#DESCRIPTION FR| DISCOVERY ID HD
+#SERVICE 5002:0:1:573:4DEA:4DEA:7BE74:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507508&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUwOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1TRnFValdDbUo5&end=:FR| DISCOVERY ID LQ
+#DESCRIPTION FR| DISCOVERY ID LQ
+#SERVICE 5002:0:1:573:4DEB:4DEB:7BDB8:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507320&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1JUFNYbG5Iczhi&end=:FR| TLC HD
+#DESCRIPTION FR| TLC HD
+#SERVICE 5002:0:1:573:4DEC:4DEC:7BE75:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507509&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUwOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1yMFRKTTlhdnJ1&end=:FR| TLC LQ
+#DESCRIPTION FR| TLC LQ
+#SERVICE 5002:0:1:573:4DED:4DED:7BDBD:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507325&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyNSZleHRlbnNpb249dHMmcGxheV90b2tlbj13aFhsR0hDRkVx&end=:FR| TREK HD
+#DESCRIPTION FR| TREK HD
+#SERVICE 5002:0:1:573:4DEE:4DEE:7BE7A:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507514&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxNCZleHRlbnNpb249dHMmcGxheV90b2tlbj04RGgwdXg3ZzVV&end=:FR| TREK LQ
+#DESCRIPTION FR| TREK LQ
+#SERVICE 5002:0:1:573:4DEF:4DEF:7BDC3:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507331&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzMSZleHRlbnNpb249dHMmcGxheV90b2tlbj13NXNlWXM1eGhU&end=:FR| HISTOIRE HD
+#DESCRIPTION FR| HISTOIRE HD
+#SERVICE 5002:0:1:573:4DF0:4DF0:7BE80:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507520&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iVEZnVDR3TjdT&end=:FR| HISTOIRE LQ
+#DESCRIPTION FR| HISTOIRE LQ
+#SERVICE 5002:0:1:573:4DF1:4DF1:7BDC2:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507330&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1LWXlLRmRWRkVj&end=:FR| TOUTE L'HISTOIRE HD
+#DESCRIPTION FR| TOUTE L'HISTOIRE HD
+#SERVICE 5002:0:1:573:4DF2:4DF2:7BE7F:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507519&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1SZURsTmhsM3Bo&end=:FR| TOUTE L'HISTOIRE LQ
+#DESCRIPTION FR| TOUTE L'HISTOIRE LQ
+#SERVICE 5002:0:1:573:4DF3:4DF3:7BDBC:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507324&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyNCZleHRlbnNpb249dHMmcGxheV90b2tlbj1QUWhXSGl6Q3BR&end=:FR| SEASONS HD
+#DESCRIPTION FR| SEASONS HD
+#SERVICE 5002:0:1:573:4DF4:4DF4:7BE79:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507513&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1vNFJvUTVBRGxT&end=:FR| SEASONS LQ
+#DESCRIPTION FR| SEASONS LQ
+#SERVICE 5002:0:1:573:4DF6:4DF6:1057A0:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=1071008&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTEwNzEwMDgmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49SXM1UVhpY3kxYQ==&end=:FR| CRIME DISTRICT LQ
+#DESCRIPTION FR| CRIME DISTRICT LQ
+#SERVICE 5002:0:1:573:4DF7:4DF7:7BDC4:0:0:0:http%3a//mag.gofast-tv.me%3a80/play/live.php?mac=00%3a1A%3a79%3aB5%3a8B%3aD5&stream=507332&extension=ts&play_token=wZsQ4qHuPH?&mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507332&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMzMiZleHRlbnNpb249dHMmcGxheV90b2tlbj13WnNRNHFIdVBI&end=:FR| USHUAIA HD
+#DESCRIPTION FR| USHUAIA HD
+#SERVICE 5002:0:1:573:4DF8:4DF8:7BE81:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507521&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyMSZleHRlbnNpb249dHMmcGxheV90b2tlbj05U0hIUEtLdzlk&end=:FR| USHUAIA LQ
+#DESCRIPTION FR| USHUAIA LQ
+#SERVICE 5002:0:1:573:4DF9:4DF9:7BDBE:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507326&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyNiZleHRlbnNpb249dHMmcGxheV90b2tlbj1zQ3NXRDVBNmJY&end=:FR| ANIMAUX HD
+#DESCRIPTION FR| ANIMAUX HD
+#SERVICE 5002:0:1:573:4DFA:4DFA:7BE7B:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507515&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1Nb1Y0dmlyUXJp&end=:FR| ANIMAUX LQ
+#DESCRIPTION FR| ANIMAUX LQ
+#SERVICE 5002:0:1:573:4DFB:4DFB:7BDBB:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507323&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1KQjdFVWRxcWNK&end=:FR| CHASSE & PECHE HD
+#DESCRIPTION FR| CHASSE & PECHE HD
+#SERVICE 5002:0:1:573:4DFC:4DFC:7BE78:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507512&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxMiZleHRlbnNpb249dHMmcGxheV90b2tlbj0yYWRHRXdaazVo&end=:FR| CHASSE & PECHE LQ
+#DESCRIPTION FR| CHASSE & PECHE LQ
+#SERVICE 5002:0:1:573:4DFD:4DFD:7BE39:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507449&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzQ0OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1ZaTBJNlVNZFV0&end=:FR| RMC DECOUVERTE HD
+#DESCRIPTION FR| RMC DECOUVERTE HD
+#SERVICE 5002:0:1:573:4DFE:4DFE:7BED5:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507605&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzYwNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1MR3ZoM2c0VHFx&end=:FR| RMC DECOUVERTE LQ
+#DESCRIPTION FR| RMC DECOUVERTE LQ
+#SERVICE 5002:0:1:573:4E05:4E05:7BED6:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507606&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzYwNiZleHRlbnNpb249dHMmcGxheV90b2tlbj1JZm1Db0FPUFJD&end=:FR| RMC STORY LQ
+#DESCRIPTION FR| RMC STORY LQ
+#SERVICE 5002:0:1:573:4E06:4E06:7BDC0:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507328&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1NRHVsQ3A0M0R6&end=:FR| SCIENCE ET VIE HD
+#DESCRIPTION FR| SCIENCE ET VIE HD
+#SERVICE 5002:0:1:573:4E07:4E07:7BE7D:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507517&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxNyZleHRlbnNpb249dHMmcGxheV90b2tlbj1hVThKZGlwRVRp&end=:FR| SCIENCE ET VIE LQ
+#DESCRIPTION FR| SCIENCE ET VIE LQ
+#SERVICE 5002:0:1:573:4E08:4E08:7BDC1:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507329&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzMyOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1XR0dMYU14TEhi&end=:FR| MUSEUM HD
+#DESCRIPTION FR| MUSEUM HD
+#SERVICE 5002:0:1:573:4E09:4E09:7BE77:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507511&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUxMSZleHRlbnNpb249dHMmcGxheV90b2tlbj1OWHd6YlloRGVX&end=:FR| VOYAGE LQ
+#DESCRIPTION FR| VOYAGE LQ
+#SERVICE 5002:0:1:573:4E0A:4E0A:7BE89:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=507529&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTUwNzUyOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1OR240STJNd1l6&end=:FR| NAUTICAL LQ
+#DESCRIPTION FR| NAUTICAL LQ
+#SERVICE 5002:0:1:573:4E0B:4E0B:1057A1:0:0:0:http%3a//mag.gofast-tv.me/j.php?mode=itv&ph1=p&hst=aHR0cDovL21hZy5nb2Zhc3QtdHYubWU=&chCode=MDA6MUE6Nzk6QjU6OEI6RDU=&epNum=&epId=&cId=1395&sId=1071009&chCm=Zz1aHR0cDovL21hZy5nb2Zhc3QtdHYubWU6ODAvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6QjU6OEI6RDUmc3RyZWFtPTEwNzEwMDkmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49Ym84TmxDWnZQaQ==&end=:FR| WEO LQ
+#DESCRIPTION FR| WEO LQ
