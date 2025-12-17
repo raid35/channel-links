@@ -75,7 +75,5 @@ http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507337&ext
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507526&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507336&extension=ts
-#EXTINF:-1 tvg-name="FR | PLANETE AE HD" group-title="Français ",FR | PLANETE AE HD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1859098&extension=ts
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507331&extension=ts
