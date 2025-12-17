@@ -25,8 +25,28 @@ http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1002837&ex
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1002841&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507325&extension=ts
-#EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2453.ts
+#EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1002837&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506611&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=863794&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=876361&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506609&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=830359&extension=ts
+#EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=830357&extension=ts
+#EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506604&extension=ts
+#EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506605&extension=ts
+#EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506603&extension=ts
+#EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=506602&extension=ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507325&extension=ts
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
