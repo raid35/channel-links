@@ -1,9 +1,15 @@
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
 http://app.gogo-tv.com:2086/live/319957061G/27674/138726.m3u8
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
+http://app.gogo-tv.com:2086/live/319957061G/27674/138726.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://app.gogo-tv.com:2086/live/319957061G/27674/138723.m3u8
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS MAX 2
+http://asgxuikn.mexamo.xyz/live/schwesterandjey/6C8QPZNR/42.ts
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS FR MAX AF
 http://app.gogo-tv.com:2086/live/319957061G/27674/12740.m3u8
+#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png?ver=03-06-2025",beIN SPORTS FR MAX AF
+http://asgxuikn.mexamo.xyz/live/schwesterandjey/6C8QPZNR/44.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
