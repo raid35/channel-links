@@ -53,9 +53,9 @@ http://app.gogo-tv.com:2086/live/319957061G/27674/122779.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
 http://app.gogo-tv.com:2086/live/319957061G/27674/3579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-http://app.gogo-tv.com:2086/live/319957061G/27674/122721.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://app.gogo-tv.com:2086/live/319957061G/27674/3584.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12906.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
 http://app.gogo-tv.com:2086/live/319957061G/27674/3584.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
@@ -65,11 +65,11 @@ http://app.gogo-tv.com:2086/live/319957061G/27674/3582.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
 http://app.gogo-tv.com:2086/live/319957061G/27674/3581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://app.gogo-tv.com:2086/live/319957061G/27674/122774.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
 http://app.gogo-tv.com:2086/live/319957061G/27674/12910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://app.gogo-tv.com:2086/live/319957061G/27674/122723.m3u8
+http://app.gogo-tv.com:2086/live/319957061G/27674/12908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
 http://norkadymm.top:8080/live/941689935138099/859cfb2adafa/57480.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
