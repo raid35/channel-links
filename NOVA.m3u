@@ -25,6 +25,16 @@ http://var8k.me:8080/live/987654321/123456789/383799.ts
 http://var8k.me:8080/live/987654321/123456789/389367.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://var8k.me:8080/live/987654321/123456789/383801.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
+http://var8k.me:8080/live/987654321/123456789/432479.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
+http://var8k.me:8080/live/987654321/123456789/383800.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268843.m3u8
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268844.m3u8
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
+http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/385499.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
 http://var8k.me:8080/live/987654321/123456789/389369.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
@@ -52,7 +62,7 @@ http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507325&ext
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507326&extension=ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507332&extension=ts
+http://var8k.me:8080/live/987654321/123456789/426980.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507323&extension=ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
