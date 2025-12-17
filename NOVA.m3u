@@ -1,31 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2421.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507325&extension=ts
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2414.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507326&extension=ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2419.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507332&extension=ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2493.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507323&extension=ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2422.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507517&extension=ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2424.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507324&extension=ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2410.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507321&extension=ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2411.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507319&extension=ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2449.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1071008&extension=ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2413.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507333&extension=ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2412.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507523&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2415.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507337&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2417.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507526&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2416.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507336&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE AE HD" group-title="Français ",FR | PLANETE AE HD
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3537.ts
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=1859098&extension=ts
+#EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=507331&extension=ts
