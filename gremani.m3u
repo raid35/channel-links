@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://www.allatvkanaler.se/assets/61/logo-sm/v-sport-premium-tabla_sm.webp" group-title="EU | NO",NO| v-sport-premium
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=276667&extension=ts
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712642&extension=ts&play_token=iOkxXgtyBD
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/145?cb=20220701201704" group-title="EU | NO",NO| v-sport-premier-league
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=22601&extension=ts
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712639&extension=ts&play_token=2cDUSzk8o6
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="EU | NO",NO| viasat-ultra-hd
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium571
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712634&extension=ts&play_token=pgzFhYpKDb
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="EU | GERMANY HD",DE| DAZN 1 BAR HD
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium426
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE| DAZN 2 BAR HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="EU | GERMANY HD",DE| DAZN 2 BAR HD
