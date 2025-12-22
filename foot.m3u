@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_sport_1.png" group-title="beIN SPORTS (2)",alrabiaa_sport_1
+#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_sport_1.png", alrabiaa_sport_1
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605086.ts
-#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_sport_1.png" group-title="beIN SPORTS (2)",alrabiaa_sport_1
+#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_sport_1.png", alrabiaa_sport_1
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605087.ts
-#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_general.png" group-title="beIN SPORTS (2)",alrabiaa_sport_2
+#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_general.png", alrabiaa_sport_2
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605088.ts
-#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_general.png" group-title="beIN SPORTS (2)",alrabiaa_sport_2
+#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_general.png", alrabiaa_sport_2
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605089.ts
-#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://astonishstore.com/wp-content/uploads/2025/09/2.png-2-150x89.webp" group-title="beIN SPORTS (2)",alrabiaa_sport_2
+#EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://astonishstore.com/wp-content/uploads/2025/09/2.png-2-150x89.webp",shahid sport
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605115.ts
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://www2.0zz0.com/2025/12/22/00/465852388.png",Thmanyah 1
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605097.ts
@@ -15,6 +15,7 @@ http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605097.ts
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605098.ts
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://www2.0zz0.com/2025/12/22/00/465852388.png",Thmanyah 3
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605099.ts
+
 
 
 
