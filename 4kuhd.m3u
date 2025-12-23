@@ -33,4 +33,20 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153546&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN MAX 1 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227570.m3u8
+#EXTINF:-1 tvg-name="beIN MAX 1 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227582.m3u8
+#EXTINF:-1 tvg-name="beIN MAX 2 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227571.m3u8
+#EXTINF:-1 tvg-name="beIN MAX 2 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227583.m3u8
+#EXTINF:-1 tvg-name="beIN MAX 4 FR 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227573.m3u8
+#EXTINF:-1 tvg-name="beIN MAX 4 FR 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227585.m3u8
+
+
+
 
