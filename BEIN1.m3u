@@ -1,49 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="beIN MAX 1 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 4K (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227570.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 1 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 4K (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227582.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 4K (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227571.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 4K (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227583.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN 4K (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227572.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN 4K (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227584.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR 4K (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR 4K (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227573.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR 4K (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR 4K (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227585.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 1 HD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 HD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227574.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 1 HD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 HD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227586.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 HD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 HD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227575.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 HD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 HD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227587.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN HD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN HD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227576.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN HD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN HD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227588.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR HD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR HD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227577.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR HD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR HD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227589.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 1 SD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 SD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227578.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 1 SD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 1 SD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227590.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 SD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 SD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227579.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 2 SD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 2 SD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227591.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN SD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN SD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227580.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 3 EN SD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 3 EN SD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227592.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR SD (S1)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR SD (S1)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227581.m3u8
-#EXTINF:-1 tvg-name="beIN MAX 4 FR SD (S2)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/2025_Africa_Cup_of_Nations_logo.svg.png" group-title="COPA AFRICA 2025",beIN MAX 4 FR SD (S2)
-http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/227593.m3u8
+#EXTINF:-1 tvg-name="beIN 4K HDR" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="BEIN HEVC & FHD",beIN 4K HDR
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/228300.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67338.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196157.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67339.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196158.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67340.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196159.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67341.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196160.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67342.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196161.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67343.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196162.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67344.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196163.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8  4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8  4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67345.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196164.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67346.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196165.m3u8
+#EXTINF:-1 tvg-name="beIN EXTRA 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67347.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138135.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196167.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138136.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196168.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138137.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196169.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138138.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196170.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138139.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196171.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138140.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196172.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138141.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196173.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138142.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196174.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138143.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S2)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/196175.m3u8
+#EXTINF:-1 tvg-name="beIN EXTRA 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 FHD (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/138144.m3u8
+#EXTINF:-1 tvg-name="beIN AFC 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-qa.png" group-title="BEIN HEVC & FHD",beIN AFC 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/219939.m3u8
+#EXTINF:-1 tvg-name="beIN AFC1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-1-qa.png" group-title="BEIN HEVC & FHD",beIN AFC1 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/219942.m3u8
+#EXTINF:-1 tvg-name="beIN AFC2 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC2 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/222040.m3u8
+#EXTINF:-1 tvg-name="beIN AFC3 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC3 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/222041.m3u8
+#EXTINF:-1 tvg-name="beIN AFC4 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC4 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/222042.m3u8
+#EXTINF:-1 tvg-name="beIN AFC5 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC5 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/222043.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="BEIN HEVC & FHD",beIN XTRA 1 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/219945.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="BEIN HEVC & FHD",beIN XTRA 2 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/219948.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 3 4K (S1)" group-title="BEIN HEVC & FHD",beIN XTRA 3 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/222052.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 4 4K (S1)" group-title="BEIN HEVC & FHD",beIN XTRA 4 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/225498.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 5 4K (S1)" group-title="BEIN HEVC & FHD",beIN XTRA 5 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/225499.m3u8
+#EXTINF:-1 tvg-name="beIN XTRA 6 4K (S1)" group-title="BEIN HEVC & FHD",beIN XTRA 6 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/225500.m3u8
+#EXTINF:-1 tvg-name="beIN FR 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-1-qa.png" group-title="BEIN HEVC & FHD",beIN FR 1 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67351.m3u8
+#EXTINF:-1 tvg-name="beIN FR 2 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="BEIN HEVC & FHD",beIN FR 2 4k (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67352.m3u8
+#EXTINF:-1 tvg-name="beIN EN 1 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="BEIN HEVC & FHD",beIN EN 1 4k (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67353.m3u8
+#EXTINF:-1 tvg-name="beIN NBA 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-nba-qa.png" group-title="BEIN HEVC & FHD",beIN NBA 4K (S1)
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/67354.m3u8
