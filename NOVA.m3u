@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
-http://live.lynxiptv.xyz/live/532738805390/S627NFNvMc/152063.ts
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/152063.m3u8
 #EXTINF:-1 tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
-http://live.lynxiptv.xyz/live/532738805390/S627NFNvMc/152064.ts
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/152064.m3u8
 #EXTINF:-1 tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
-http://live.lynxiptv.xyz/live/532738805390/S627NFNvMc/152065.ts
+http://ibo.lynxiptv.com/live/532738805390/S627NFNvMc/152065.m3u8
 #EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2468.png" group-title="Français ",FR | BEIN SPORTS MAX 4
 http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/62502.ts
 #EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2469.png" group-title="Français ",FR | BEIN SPORTS MAX 5
