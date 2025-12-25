@@ -1,11 +1,877 @@
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
-https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
-https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
+#EXTM3U
+#EXTINF:-1 tvg-name="|DZ| PROGRAMME NATIONAL" group-title="ALGERIE",|DZ| PROGRAMME NATIONAL
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=657&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| ENNAHAR TV" group-title="ALGERIE",|DZ| ENNAHAR TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=663&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Echorouk TV HD" group-title="ALGERIE",|DZ| Echorouk TV HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=661&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Echorouk NEWS" group-title="ALGERIE",|DZ| Echorouk NEWS
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=659&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| A3 HD" group-title="ALGERIE",|DZ| A3 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=658&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Samira TV" group-title="ALGERIE",|DZ| Samira TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=666&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| ALGERIA" group-title="ALGERIE",|DZ| ALGERIA
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=656&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| EL DJAZAIRIA TV" group-title="ALGERIE",|DZ| EL DJAZAIRIA TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=662&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| EL BILAD" group-title="ALGERIE",|DZ| EL BILAD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=682&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Alanis TV" group-title="ALGERIE",|DZ| Alanis TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=679&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| BERBERE TV" group-title="ALGERIE",|DZ| BERBERE TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=678&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Dzair 2" group-title="ALGERIE",|DZ| Dzair 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=675&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Dzair Jannah" group-title="ALGERIE",|DZ| Dzair Jannah
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=674&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| EL HEDDAF TV" group-title="ALGERIE",|DZ| EL HEDDAF TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=673&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| EL HAYAT TV ALGERIE" group-title="ALGERIE",|DZ| EL HAYAT TV ALGERIE
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=672&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| TV 5" group-title="ALGERIE",|DZ| TV 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=670&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| TV 4" group-title="ALGERIE",|DZ| TV 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=669&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| CANAL ALGERIE" group-title="ALGERIE",|DZ| CANAL ALGERIE
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=667&t=live&f=ts
+#EXTINF:-1 tvg-name="|DZ| Bahia TV" group-title="ALGERIE",|DZ| Bahia TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=EoxUDwurnX&s=1996165617&id=665&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports NEWS HD" group-title="BEINSPORT",beIN Sports NEWS HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3985&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports HD " group-title="BEINSPORT",beIN Sports HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3986&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Full HD" group-title="BEINSPORT",beIN Sports Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4041&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="BEINSPORT",beIN Sports 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=988&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 Full HD" group-title="BEINSPORT",beIN Sports 1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1167&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 4K" group-title="CANAL+",beIN Sports 1 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81651&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 SD" group-title="CANAL+",beIN Sports 1 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82359&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="BEINSPORT",beIN Sports 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=987&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 Full HD" group-title="BEINSPORT",beIN Sports 2 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1168&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 4K" group-title="CANAL+",beIN Sports 2 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81652&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 SD" group-title="CANAL+",beIN Sports 2 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82360&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="BEINSPORT",beIN Sports 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=986&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 Full HD" group-title="BEINSPORT",beIN Sports 3 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1169&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 4K" group-title="BEINSPORT",beIN Sports 3 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3903&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 SD" group-title="BEINSPORT",beIN Sports 3 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3881&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 4" group-title="BEINSPORT",beIN Sports 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=985&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 4 Full HD" group-title="BEINSPORT",beIN Sports 4 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1170&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 4 4K" group-title="BEINSPORT",beIN Sports 4 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3904&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 4 SD" group-title="BEINSPORT",beIN Sports 4 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3880&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 5" group-title="BEINSPORT",beIN Sports 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=984&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 5 Full HD" group-title="BEINSPORT",beIN Sports 5 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1171&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 5 4K" group-title="BEINSPORT",beIN Sports 5 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3905&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 5 SD" group-title="BEINSPORT",beIN Sports 5 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3879&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 6" group-title="BEINSPORT",beIN Sports 6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=983&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 6 Full HD" group-title="BEINSPORT",beIN Sports 6 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1172&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 6 4K" group-title="BEINSPORT",beIN Sports 6 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3906&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 6 SD" group-title="BEINSPORT",beIN Sports 6 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3878&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 7" group-title="BEINSPORT",beIN Sports 7
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=982&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 7 Full HD" group-title="BEINSPORT",beIN Sports 7 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=1173&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 7 4K" group-title="BEINSPORT",beIN Sports 7 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3907&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 7 SD" group-title="BEINSPORT",beIN Sports 7 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3877&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 8" group-title="BEINSPORT",beIN Sports 8
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3996&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 8 Full HD" group-title="BEINSPORT",beIN Sports 8 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3997&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 8 4K" group-title="BEINSPORT",beIN Sports 8 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3998&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 8 SD" group-title="BEINSPORT",beIN Sports 8 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3999&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 9" group-title="BEINSPORT",beIN Sports 9
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4000&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 9 Full HD" group-title="BEINSPORT",beIN Sports 9 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4001&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 9 4K" group-title="BEINSPORT",beIN Sports 9 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4002&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 9 SD" group-title="BEINSPORT",beIN Sports 9 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4003&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 1 HD" group-title="BEINSPORT",beIN Xtra 1 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4042&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 1 4K" group-title="BEINSPORT",beIN Xtra 1 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4043&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 1 SD" group-title="BEINSPORT",beIN Xtra 1 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4044&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 2 HD" group-title="BEINSPORT",beIN Xtra 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4045&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 2 4K" group-title="BEINSPORT",beIN Xtra 2 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4046&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 2 SD" group-title="BEINSPORT",beIN Xtra 2 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4047&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 3 HD" group-title="BEINSPORT",beIN Xtra 3 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4048&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 3 4K" group-title="BEINSPORT",beIN Xtra 3 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4049&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 3 SD" group-title="BEINSPORT",beIN Xtra 3 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4050&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 4 HD" group-title="BEINSPORT",beIN Xtra 4 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4051&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 4 4K" group-title="BEINSPORT",beIN Xtra 4 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4052&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 4 SD" group-title="BEINSPORT",beIN Xtra 4 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4053&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 5 HD" group-title="BEINSPORT",beIN Xtra 5 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4054&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 5 4K" group-title="BEINSPORT",beIN Xtra 5 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4055&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 5 SD" group-title="BEINSPORT",beIN Xtra 5 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4056&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 6 HD" group-title="BEINSPORT",beIN Xtra 6 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4057&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 6 4K" group-title="BEINSPORT",beIN Xtra 6 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4058&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Xtra 6 SD" group-title="BEINSPORT",beIN Xtra 6 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4059&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports NBA HD" group-title="BEINSPORT",beIN Sports NBA HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3884&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports NBA 4K" group-title="BEINSPORT",beIN Sports NBA 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4064&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports French HD1" group-title="BEINSPORT",beIN Sports French HD1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3933&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports French 4K 1" group-title="BEINSPORT",beIN Sports French 4K 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3944&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports French HD2" group-title="BEINSPORT",beIN Sports French HD2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3934&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports French 4K 2" group-title="BEINSPORT",beIN Sports French 4K 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3945&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports English HD1" group-title="BEINSPORT",beIN Sports English HD1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3938&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports English 4K 1" group-title="BEINSPORT",beIN Sports English 4K 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3946&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports English 2 HD" group-title="BEINSPORT",beIN Sports English 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4061&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports English 2 4k" group-title="BEINSPORT",beIN Sports English 2 4k
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4060&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Alkass 1 HD" group-title="BEINSPORT",beIN Alkass 1 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4039&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Alkass 2 HD" group-title="BEINSPORT",beIN Alkass 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=4040&t=live&f=ts
+#EXTINF:-1 tvg-name="Arryadia HD" group-title="BEINSPORT",Arryadia HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3988&t=live&f=ts
+#EXTINF:-1 tvg-name="|MA| Arryadia HD" group-title="BEINSPORT",|MA| Arryadia HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3989&t=live&f=ts
+#EXTINF:-1 tvg-name="2M Maroc" group-title="BEINSPORT",2M Maroc
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3990&t=live&f=ts
+#EXTINF:-1 tvg-name="|MA| 2M Maroc" group-title="BEINSPORT",|MA| 2M Maroc
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3991&t=live&f=ts
+#EXTINF:-1 tvg-name="2M NAT" group-title="BEINSPORT",2M NAT
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3992&t=live&f=ts
+#EXTINF:-1 tvg-name="Al Jazeera HD" group-title="BEINSPORT",Al Jazeera HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3993&t=live&f=ts
+#EXTINF:-1 tvg-name="Medi1 TV HD" group-title="BEINSPORT",Medi1 TV HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3994&t=live&f=ts
+#EXTINF:-1 tvg-name="Al Aoula Inter HD" group-title="BEINSPORT",Al Aoula Inter HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=EoxUDwurnX&s=1996165617&id=3995&t=live&f=ts
+#EXTINF:-1 tvg-name="TF1  4K" group-title="CANAL+",TF1  4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=28351&t=live&f=ts
+#EXTINF:-1 tvg-name="M6 4K" group-title="CANAL+",M6 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89569&t=live&f=ts
+#EXTINF:-1 tvg-name="France 2 4K" group-title="CANAL+",France 2 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89563&t=live&f=ts
+#EXTINF:-1 tvg-name="France 3 4K" group-title="CANAL+",France 3 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89584&t=live&f=ts
+#EXTINF:-1 tvg-name="France 4 4K" group-title="CANAL+",France 4 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89585&t=live&f=ts
+#EXTINF:-1 tvg-name="France 5 4K" group-title="CANAL+",France 5 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89586&t=live&f=ts
+#EXTINF:-1 tvg-name="W9 4K" group-title="CANAL+",W9 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89594&t=live&f=ts
+#EXTINF:-1 tvg-name="6Ter" group-title="CANAL+",6Ter
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89595&t=live&f=ts
+#EXTINF:-1 tvg-name="ARTE 4K" group-title="CANAL+",ARTE 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89604&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC Story 4K" group-title="CANAL+",RMC Story 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89611&t=live&f=ts
+#EXTINF:-1 tvg-name="NRJ 12 4K" group-title="CANAL+",NRJ 12 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89609&t=live&f=ts
+#EXTINF:-1 tvg-name="AB3 4K" group-title="CANAL+",AB3 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89603&t=live&f=ts
+#EXTINF:-1 tvg-name="TFX 4K" group-title="CANAL+",TFX 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89596&t=live&f=ts
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS 4K" group-title="CANAL+",TF1 SERIES FILMS 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89601&t=live&f=ts
+#EXTINF:-1 tvg-name="TV Breizh 4K" group-title="CANAL+",TV Breizh 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89602&t=live&f=ts
+#EXTINF:-1 tvg-name="TMC 4K" group-title="CANAL+",TMC 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89598&t=live&f=ts
+#EXTINF:-1 tvg-name="HBO Max 4k 1" group-title="CANAL+",HBO Max 4k 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81686&t=live&f=ts
+#EXTINF:-1 tvg-name="HBO Max 4k 2" group-title="CANAL+",HBO Max 4k 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82116&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ 4K" group-title="CANAL+",Canal+ 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=28352&t=live&f=ts
+#EXTINF:-1 tvg-name="Comedie+ 4K" group-title="CANAL+",Comedie+ 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89568&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 4K" group-title="CANAL+",beIN Sports 1 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81651&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 4K" group-title="CANAL+",beIN Sports 2 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81652&t=live&f=ts
+#EXTINF:-1 tvg-name="Infosport + 4K" group-title="CANAL+",Infosport + 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89587&t=live&f=ts
+#EXTINF:-1 tvg-name="Eleven Sports Pro League 1 FR 4K" group-title="CANAL+",Eleven Sports Pro League 1 FR 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89588&t=live&f=ts
+#EXTINF:-1 tvg-name="L" group-title="CANAL+",L'Équipe 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89589&t=live&f=ts
+#EXTINF:-1 tvg-name="National Geo 4K" group-title="CANAL+",National Geo 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89566&t=live&f=ts
+#EXTINF:-1 tvg-name="National Geographic Wild 4K" group-title="CANAL+",National Geographic Wild 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89570&t=live&f=ts
+#EXTINF:-1 tvg-name="Planete+ 4K" group-title="CANAL+",Planete+ 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89571&t=live&f=ts
+#EXTINF:-1 tvg-name="Planete+Aventure 4K" group-title="CANAL+",Planete+Aventure 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89572&t=live&f=ts
+#EXTINF:-1 tvg-name="Planete+ Crime Investigation 4K" group-title="CANAL+",Planete+ Crime Investigation 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89567&t=live&f=ts
+#EXTINF:-1 tvg-name="Seasons 4K" group-title="CANAL+",Seasons 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89573&t=live&f=ts
+#EXTINF:-1 tvg-name="Ushuaïa 4K" group-title="CANAL+",Ushuaïa 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89564&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC Decouverte 4K" group-title="CANAL+",RMC Decouverte 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89610&t=live&f=ts
+#EXTINF:-1 tvg-name="BFM TV 4K" group-title="CANAL+",BFM TV 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89565&t=live&f=ts
+#EXTINF:-1 tvg-name="Franceinfo 4K" group-title="CANAL+",Franceinfo 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89590&t=live&f=ts
+#EXTINF:-1 tvg-name="CNEWS 4K" group-title="CANAL+",CNEWS 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89591&t=live&f=ts
+#EXTINF:-1 tvg-name="LCI 4K" group-title="CANAL+",LCI 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89592&t=live&f=ts
+#EXTINF:-1 tvg-name="LCP 4K" group-title="CANAL+",LCP 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89593&t=live&f=ts
+#EXTINF:-1 tvg-name="Disney Channel 4K" group-title="CANAL+",Disney Channel 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89581&t=live&f=ts
+#EXTINF:-1 tvg-name="Disney Channel +1 4K" group-title="CANAL+",Disney Channel +1 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89575&t=live&f=ts
+#EXTINF:-1 tvg-name="Disney Junior 4K" group-title="CANAL+",Disney Junior 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89576&t=live&f=ts
+#EXTINF:-1 tvg-name="Nickelodeon 4K" group-title="CANAL+",Nickelodeon 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89578&t=live&f=ts
+#EXTINF:-1 tvg-name="Teletoon +1 4K" group-title="CANAL+",Teletoon +1 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89580&t=live&f=ts
+#EXTINF:-1 tvg-name="Teletoon + 4K" group-title="CANAL+",Teletoon + 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89579&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal J 4K" group-title="CANAL+",Canal J 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89574&t=live&f=ts
+#EXTINF:-1 tvg-name="Piwi+ 4K" group-title="CANAL+",Piwi+ 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89582&t=live&f=ts
+#EXTINF:-1 tvg-name="Tiji 4K" group-title="CANAL+",Tiji 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89583&t=live&f=ts
+#EXTINF:-1 tvg-name="Gulli 4K" group-title="CANAL+",Gulli 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89577&t=live&f=ts
+#EXTINF:-1 tvg-name="BET 4K" group-title="CANAL+",BET 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89605&t=live&f=ts
+#EXTINF:-1 tvg-name="Cherie 25 4K" group-title="CANAL+",Cherie 25 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89606&t=live&f=ts
+#EXTINF:-1 tvg-name="MTV 4K" group-title="CANAL+",MTV 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89608&t=live&f=ts
+#EXTINF:-1 tvg-name="RFM TV 4K" group-title="CANAL+",RFM TV 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89600&t=live&f=ts
+#EXTINF:-1 tvg-name="MEZZO 4K" group-title="CANAL+",MEZZO 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89607&t=live&f=ts
+#EXTINF:-1 tvg-name="C8 4K" group-title="CANAL+",C8 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89597&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ HD" group-title="CANAL+",Canal+ HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=316&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Cinema HD" group-title="CANAL+",Canal+ Cinema HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=314&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ kids HD" group-title="CANAL+",Canal+ kids HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=315&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Series HD" group-title="CANAL+",Canal+ Series HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=299&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Cine HD 1" group-title="CANAL+",Canal+ Cine HD 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89612&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Cine HD 2" group-title="CANAL+",Canal+ Cine HD 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89613&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Cine HD 3" group-title="CANAL+",Canal+ Cine HD 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89614&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Sport HD" group-title="CANAL+",Canal+ Sport HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=265&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Docs HD" group-title="CANAL+",Canal+ Docs HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81688&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Grand Ecran HD" group-title="CANAL+",Canal+ Grand Ecran HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=85695&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Foot HD" group-title="CANAL+",Canal+ Foot HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=86013&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Sport 360 HD" group-title="CANAL+",Canal+ Sport 360 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87278&t=live&f=ts
+#EXTINF:-1 tvg-name="CINE+ FESTIVAL" group-title="[FR] CINEMA TOP",CINE+ FESTIVAL
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99629&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Premier HD" group-title="CANAL+",Cine+ Premier HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=313&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Frisson HD" group-title="CANAL+",Cine+ Frisson HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=312&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Emotion HD" group-title="CANAL+",Cine+ Emotion HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=311&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Famiz HD" group-title="CANAL+",Cine+ Famiz HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=298&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Classic HD" group-title="CANAL+",Cine+ Classic HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=309&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Survive HD" group-title="[FR] CINEMA TOP",Cine+ Survive HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=102440&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Club HD" group-title="CANAL+",Cine+ Club HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=310&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ TITAN 1" group-title="[FR] CINEMA TOP",Cine+ TITAN 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100469&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ TITAN 2" group-title="[FR] CINEMA TOP",Cine+ TITAN 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100470&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ TITAN 3" group-title="[FR] CINEMA TOP",Cine+ TITAN 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100471&t=live&f=ts
+#EXTINF:-1 tvg-name="OCS" group-title="[FR] CINEMA TOP",OCS
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99628&t=live&f=ts
+#EXTINF:-1 tvg-name="Action HD" group-title="CANAL+",Action HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=301&t=live&f=ts
+#EXTINF:-1 tvg-name="#EAGLE FORCE 1" group-title="[FR] CINEMA TOP",#EAGLE FORCE 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100407&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Mission impossible" group-title="[FR] CINEMA TOP",24/7 Mission impossible
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=102439&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 1" group-title="CANAL+",24/7 Top Action 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50912&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 2" group-title="CANAL+",24/7 Top Action 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50913&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 3" group-title="CANAL+",24/7 Top Action 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50914&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 4" group-title="CANAL+",24/7 Top Action 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50915&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 5" group-title="CANAL+",24/7 Top Action 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81415&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Action 6" group-title="CANAL+",24/7 Top Action 6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81416&t=live&f=ts
+#EXTINF:-1 tvg-name="Iprotv Cinema 1" group-title="CANAL+",Iprotv Cinema 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81670&t=live&f=ts
+#EXTINF:-1 tvg-name="Iprotv Cinema 2" group-title="CANAL+",Iprotv Cinema 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81671&t=live&f=ts
+#EXTINF:-1 tvg-name="Iprotv Cinema 3" group-title="CANAL+",Iprotv Cinema 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81672&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel Studios 1" group-title="MOVISTAR+",Marvel Studios 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=997&u=EoxUDwurnX&s=1996165617&id=26654&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel Studios 2" group-title="MOVISTAR+",Marvel Studios 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=997&u=EoxUDwurnX&s=1996165617&id=26655&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel Studios 3" group-title="CANAL+",Marvel Studios 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81675&t=live&f=ts
+#EXTINF:-1 tvg-name="Amazon Prime Tv1" group-title="CANAL+",Amazon Prime Tv1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82111&t=live&f=ts
+#EXTINF:-1 tvg-name="Amazon Prime Tv2" group-title="CANAL+",Amazon Prime Tv2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82112&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 1" group-title="CANAL+",[ LIVE ]   Box Office 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81629&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 2" group-title="CANAL+",[ LIVE ]   Box Office 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81630&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 3" group-title="CANAL+",[ LIVE ]   Box Office 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81631&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 4" group-title="CANAL+",[ LIVE ]   Box Office 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81632&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 5" group-title="CANAL+",[ LIVE ]   Box Office 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81633&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 6" group-title="CANAL+",[ LIVE ]   Box Office 6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81634&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 7" group-title="CANAL+",[ LIVE ]   Box Office 7
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81635&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 8" group-title="CANAL+",[ LIVE ]   Box Office 8
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81636&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 9" group-title="CANAL+",[ LIVE ]   Box Office 9
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81637&t=live&f=ts
+#EXTINF:-1 tvg-name="[ LIVE ]   Box Office 10" group-title="CANAL+",[ LIVE ]   Box Office 10
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81638&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Quentin Tarantino" group-title="CANAL+",24/7 Top Quentin Tarantino
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82117&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Warner Bros" group-title="CANAL+",24/7 Top Warner Bros
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82118&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Bruce Willis" group-title="CANAL+",24/7 Top Bruce Willis
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87566&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Steven Seagel" group-title="CANAL+",24/7 Top Steven Seagel
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87567&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Will Smith" group-title="CANAL+",24/7 Top Will Smith
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87568&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Vin Diesel" group-title="CANAL+",24/7 Top Vin Diesel
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89039&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Arnold Schawrzenegger" group-title="CANAL+",24/7 Top Arnold Schawrzenegger
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89040&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Sylvester Stallone" group-title="CANAL+",24/7 Top Sylvester Stallone
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89041&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Bruce Lee" group-title="CANAL+",24/7 Top Bruce Lee
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89042&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Liam Neeson" group-title="CANAL+",24/7 Top Liam Neeson
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=89044&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Policier" group-title="CANAL+",24/7 Top Policier
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50916&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Leonardo DiCaprio" group-title="CANAL+",24/7 Top Leonardo DiCaprio
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50917&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Tom Cruise" group-title="CANAL+",24/7 Top Tom Cruise
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50918&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Denzel Washington" group-title="CANAL+",24/7 Top Denzel Washington
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50919&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Christian Bale" group-title="CANAL+",24/7 Top Christian Bale
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50920&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Brad Pitt" group-title="CANAL+",24/7 Top Brad Pitt
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50921&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Russell Crowe" group-title="CANAL+",24/7 Top Russell Crowe
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50922&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Science-fiction" group-title="CANAL+",24/7 Top Science-fiction
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50924&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Jason Statham" group-title="CANAL+",24/7 Top Jason Statham
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50939&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Art Martial 1" group-title="CANAL+",24/7 Top Art Martial 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50940&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Art Martial 2" group-title="CANAL+",24/7 Top Art Martial 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81419&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 James Bond" group-title="CANAL+",24/7 James Bond
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81599&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Jet Li" group-title="CANAL+",24/7 Top Jet Li
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81601&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Films 1" group-title="CANAL+",24/7 Top Films 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81615&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Jackie Chan" group-title="CANAL+",24/7 Top Jackie Chan
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81420&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Van Damme" group-title="CANAL+",24/7 Top Van Damme
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81616&t=live&f=ts
+#EXTINF:-1 tvg-name="Fast and Furious" group-title="CANAL+",Fast and Furious
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3412&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Oscar" group-title="CANAL+",24/7 Top Oscar
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50865&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Espace" group-title="CANAL+",24/7 Top Espace
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50700&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Guerre" group-title="CANAL+",24/7 Top Guerre
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50701&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Sous-marin" group-title="CANAL+",24/7 Top Sous-marin
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50702&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Top Francais" group-title="CANAL+",24/7 Top Francais
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=50703&t=live&f=ts
+#EXTINF:-1 tvg-name="The Bourne" group-title="CANAL+",The Bourne
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3413&t=live&f=ts
+#EXTINF:-1 tvg-name="Le Seigneur des Anneaux" group-title="CANAL+",Le Seigneur des Anneaux
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3775&t=live&f=ts
+#EXTINF:-1 tvg-name="Le Transporteur" group-title="CANAL+",Le Transporteur
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3774&t=live&f=ts
+#EXTINF:-1 tvg-name="Mad Max" group-title="CANAL+",Mad Max
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3776&t=live&f=ts
+#EXTINF:-1 tvg-name="Pirates Des Caraibes" group-title="CANAL+",Pirates Des Caraibes
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3777&t=live&f=ts
+#EXTINF:-1 tvg-name="Transformers" group-title="CANAL+",Transformers
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3778&t=live&f=ts
+#EXTINF:-1 tvg-name="Hunger Games" group-title="CANAL+",Hunger Games
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3779&t=live&f=ts
+#EXTINF:-1 tvg-name="Avengers" group-title="CANAL+",Avengers
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3781&t=live&f=ts
+#EXTINF:-1 tvg-name="Sergio LEONE- western" group-title="CANAL+",Sergio LEONE- western
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3784&t=live&f=ts
+#EXTINF:-1 tvg-name="Thor" group-title="CANAL+",Thor
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3783&t=live&f=ts
+#EXTINF:-1 tvg-name="Iron Man" group-title="CANAL+",Iron Man
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3782&t=live&f=ts
+#EXTINF:-1 tvg-name="Captain America" group-title="CANAL+",Captain America
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3786&t=live&f=ts
+#EXTINF:-1 tvg-name="Terminator" group-title="CANAL+",Terminator
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6991&t=live&f=ts
+#EXTINF:-1 tvg-name="Le Parrain Trilogie" group-title="CANAL+",Le Parrain Trilogie
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7347&t=live&f=ts
+#EXTINF:-1 tvg-name="Taken.Trilogie" group-title="CANAL+",Taken.Trilogie
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7348&t=live&f=ts
+#EXTINF:-1 tvg-name="Bruce.Lee" group-title="CANAL+",Bruce.Lee
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6997&t=live&f=ts
+#EXTINF:-1 tvg-name="Batman" group-title="CANAL+",Batman
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6996&t=live&f=ts
+#EXTINF:-1 tvg-name="Riddick Trilogie" group-title="CANAL+",Riddick Trilogie
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7015&t=live&f=ts
+#EXTINF:-1 tvg-name="John Wick." group-title="CANAL+",John Wick.
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6999&t=live&f=ts
+#EXTINF:-1 tvg-name="Underworld Pentalogie" group-title="CANAL+",Underworld Pentalogie
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7011&t=live&f=ts
+#EXTINF:-1 tvg-name="Spider-Man" group-title="CANAL+",Spider-Man
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7004&t=live&f=ts
+#EXTINF:-1 tvg-name="Die Hard" group-title="CANAL+",Die Hard
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6998&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 1" group-title="CANAL+",Marvel 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=3780&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 2" group-title="CANAL+",Marvel 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6881&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 3" group-title="CANAL+",Marvel 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6882&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 4" group-title="CANAL+",Marvel 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6883&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 5" group-title="CANAL+",Marvel 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6884&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 6" group-title="CANAL+",Marvel 6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6885&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 7" group-title="CANAL+",Marvel 7
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6886&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 8" group-title="CANAL+",Marvel 8
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7002&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 9" group-title="CANAL+",Marvel 9
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7003&t=live&f=ts
+#EXTINF:-1 tvg-name="Marvel 10" group-title="CANAL+",Marvel 10
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7005&t=live&f=ts
+#EXTINF:-1 tvg-name="Jurassic Park," group-title="CANAL+",Jurassic Park,
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=7000&t=live&f=ts
+#EXTINF:-1 tvg-name="TF1 Full HD" group-title="CANAL+",TF1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1216&t=live&f=ts
+#EXTINF:-1 tvg-name="M6 Full HD" group-title="CANAL+",M6 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6981&t=live&f=ts
+#EXTINF:-1 tvg-name="France 2 Full HD" group-title="CANAL+",France 2 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1213&t=live&f=ts
+#EXTINF:-1 tvg-name="France 3 Full HD" group-title="CANAL+",France 3 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1214&t=live&f=ts
+#EXTINF:-1 tvg-name="France 4 Full HD" group-title="CANAL+",France 4 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1202&t=live&f=ts
+#EXTINF:-1 tvg-name="France 5 Full HD" group-title="CANAL+",France 5 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1215&t=live&f=ts
+#EXTINF:-1 tvg-name="6Ter Full HD" group-title="CANAL+",6Ter Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6980&t=live&f=ts
+#EXTINF:-1 tvg-name="C8 Full HD" group-title="CANAL+",C8 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6966&t=live&f=ts
+#EXTINF:-1 tvg-name="W9 Full HD" group-title="CANAL+",W9 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6967&t=live&f=ts
+#EXTINF:-1 tvg-name="Tmc Full HD" group-title="CANAL+",Tmc Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6978&t=live&f=ts
+#EXTINF:-1 tvg-name="Paris Premiere Full HD" group-title="CANAL+",Paris Premiere Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6979&t=live&f=ts
+#EXTINF:-1 tvg-name="TV Breizh Full HD" group-title="CANAL+",TV Breizh Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6963&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Full HD" group-title="CANAL+",Canal+ Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1199&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Cinema Full HD" group-title="CANAL+",Canal+ Cinema Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1198&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ kids Full HD" group-title="CANAL+",Canal+ kids Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1196&t=live&f=ts
+#EXTINF:-1 tvg-name="Ocs Max Full HD" group-title="CANAL+",Ocs Max Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6972&t=live&f=ts
+#EXTINF:-1 tvg-name="Ocs Geants Full HD" group-title="CANAL+",Ocs Geants Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1204&t=live&f=ts
+#EXTINF:-1 tvg-name="Ocs Pulp Full HD" group-title="CANAL+",Ocs Pulp Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1212&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Premier Full HD" group-title="CANAL+",Cine+ Premier Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6977&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Frisson Full HD" group-title="CANAL+",Cine+ Frisson Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6976&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Emotion Full HD" group-title="CANAL+",Cine+ Emotion Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6975&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Famiz Full HD" group-title="CANAL+",Cine+ Famiz Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6969&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Club Full HD" group-title="CANAL+",Cine+ Club Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6974&t=live&f=ts
+#EXTINF:-1 tvg-name="Cine+ Classic Full HD" group-title="CANAL+",Cine+ Classic Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6973&t=live&f=ts
+#EXTINF:-1 tvg-name="Action Full HD" group-title="CANAL+",Action Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1176&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Series Full HD" group-title="CANAL+",Canal+ Series Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1195&t=live&f=ts
+#EXTINF:-1 tvg-name="TF1 Series Films Full HD" group-title="CANAL+",TF1 Series Films Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6965&t=live&f=ts
+#EXTINF:-1 tvg-name="AB1 Full HD" group-title="CANAL+",AB1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6956&t=live&f=ts
+#EXTINF:-1 tvg-name="AB3 Full HD" group-title="CANAL+",AB3 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87370&t=live&f=ts
+#EXTINF:-1 tvg-name="Paramount Channel Full HD" group-title="CANAL+",Paramount Channel Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1180&t=live&f=ts
+#EXTINF:-1 tvg-name="Serie Club Full HD" group-title="CANAL+",Serie Club Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6968&t=live&f=ts
+#EXTINF:-1 tvg-name="Novelas TV Full HD" group-title="CANAL+",Novelas TV Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6955&t=live&f=ts
+#EXTINF:-1 tvg-name="TFX Full HD" group-title="CANAL+",TFX Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6960&t=live&f=ts
+#EXTINF:-1 tvg-name="Comedie+ Full HD" group-title="CANAL+",Comedie+ Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6964&t=live&f=ts
+#EXTINF:-1 tvg-name="Polar Full HD" group-title="CANAL+",Polar Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6957&t=live&f=ts
+#EXTINF:-1 tvg-name="BET Full HD" group-title="CANAL+",BET Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6948&t=live&f=ts
+#EXTINF:-1 tvg-name="Teva Full HD" group-title="CANAL+",Teva Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6962&t=live&f=ts
+#EXTINF:-1 tvg-name="NRJ 12 Full HD" group-title="CANAL+",NRJ 12 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6914&t=live&f=ts
+#EXTINF:-1 tvg-name="CSTAR Full HD" group-title="CANAL+",CSTAR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6959&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC STORY Full HD" group-title="CANAL+",RMC STORY Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6958&t=live&f=ts
+#EXTINF:-1 tvg-name="RTL9 Full HD" group-title="CANAL+",RTL9 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6952&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Grand Ecran Full HD" group-title="CANAL+",Canal+ Grand Ecran Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=85696&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Sport Full HD" group-title="CANAL+",Canal+ Sport Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1194&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Sport 360 Full HD" group-title="CANAL+",Canal+ Sport 360 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87279&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Foot Full HD" group-title="CANAL+",Canal+ Foot Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87372&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 FR Full HD" group-title="CANAL+",beIN Sports 1 FR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6989&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 FR Full HD" group-title="CANAL+",beIN Sports 2 FR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6988&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 FR Full HD" group-title="CANAL+",beIN Sports 3 FR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6987&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 4 Full HD" group-title="CANAL+",beIN Sports MAX 4 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6945&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 5 Full HD" group-title="CANAL+",beIN Sports MAX 5 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6944&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 6 Full HD" group-title="CANAL+",beIN Sports MAX 6 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6943&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 7 Full HD" group-title="CANAL+",beIN Sports MAX 7 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6942&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 8 Full HD" group-title="CANAL+",beIN Sports MAX 8 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6941&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 9 Full HD" group-title="CANAL+",beIN Sports MAX 9 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6940&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports MAX 10 Full HD" group-title="CANAL+",beIN Sports MAX 10 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6939&t=live&f=ts
+#EXTINF:-1 tvg-name="Eleven Sports Pro League 1 FR FULL HD" group-title="CANAL+",Eleven Sports Pro League 1 FR FULL HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=53543&t=live&f=ts
+#EXTINF:-1 tvg-name="L" group-title="CANAL+",L'EQUIPE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1184&t=live&f=ts
+#EXTINF:-1 tvg-name="INFOSPORT+ Full HD" group-title="CANAL+",INFOSPORT+ Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6938&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 Full HD" group-title="CANAL+",EUROSPORT 1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6937&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 2 Full HD" group-title="CANAL+",EUROSPORT 2 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6936&t=live&f=ts
+#EXTINF:-1 tvg-name="AUTOMOTO la chaine Full HD" group-title="CANAL+",AUTOMOTO la chaine Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6931&t=live&f=ts
+#EXTINF:-1 tvg-name="EQUIDIA LIVE Full HD" group-title="CANAL+",EQUIDIA LIVE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6932&t=live&f=ts
+#EXTINF:-1 tvg-name="GOLF Full HD" group-title="CANAL+",GOLF Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6933&t=live&f=ts
+#EXTINF:-1 tvg-name="Canal+ Docs Full HD" group-title="CANAL+",Canal+ Docs Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81687&t=live&f=ts
+#EXTINF:-1 tvg-name="PLANETE+ Full HD" group-title="CANAL+",PLANETE+ Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6927&t=live&f=ts
+#EXTINF:-1 tvg-name="PLANETE +AVENTURE Full HD" group-title="CANAL+",PLANETE +AVENTURE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6928&t=live&f=ts
+#EXTINF:-1 tvg-name="PLANETE+CRIME Full HD" group-title="CANAL+",PLANETE+CRIME Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1186&t=live&f=ts
+#EXTINF:-1 tvg-name="Arte Full HD" group-title="CANAL+",Arte Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1200&t=live&f=ts
+#EXTINF:-1 tvg-name="NATIONAL GEO Full HD" group-title="CANAL+",NATIONAL GEO Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6930&t=live&f=ts
+#EXTINF:-1 tvg-name="NAT GEO WILD Full HD" group-title="CANAL+",NAT GEO WILD Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6929&t=live&f=ts
+#EXTINF:-1 tvg-name="USHUAIA TV Full HD" group-title="CANAL+",USHUAIA TV Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6926&t=live&f=ts
+#EXTINF:-1 tvg-name="Museum Full HD" group-title="CANAL+",Museum Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6949&t=live&f=ts
+#EXTINF:-1 tvg-name="ANIMAUX Full HD" group-title="CANAL+",ANIMAUX Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6920&t=live&f=ts
+#EXTINF:-1 tvg-name="HISTOIRE Full HD" group-title="CANAL+",HISTOIRE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6921&t=live&f=ts
+#EXTINF:-1 tvg-name="Toute L Histoire Full HD" group-title="CANAL+",Toute L Histoire Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6923&t=live&f=ts
+#EXTINF:-1 tvg-name="TREK Full HD" group-title="CANAL+",TREK Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6924&t=live&f=ts
+#EXTINF:-1 tvg-name="CHASSE ET PECHE Full HD" group-title="CANAL+",CHASSE ET PECHE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6925&t=live&f=ts
+#EXTINF:-1 tvg-name="SEASONS Full HD" group-title="CANAL+",SEASONS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1206&t=live&f=ts
+#EXTINF:-1 tvg-name="Cherie 25 Full HD" group-title="CANAL+",Cherie 25 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87368&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC DECOUVERTE Full HD" group-title="CANAL+",RMC DECOUVERTE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=13754&t=live&f=ts
+#EXTINF:-1 tvg-name="BFM BUSINESS Full HD" group-title="CANAL+",BFM BUSINESS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87377&t=live&f=ts
+#EXTINF:-1 tvg-name="MTV Full HD" group-title="CANAL+",MTV Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6918&t=live&f=ts
+#EXTINF:-1 tvg-name="M6 MUSIC Full HD" group-title="CANAL+",M6 MUSIC Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6919&t=live&f=ts
+#EXTINF:-1 tvg-name="MCM Full HD" group-title="CANAL+",MCM Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6982&t=live&f=ts
+#EXTINF:-1 tvg-name="NRJ HITS Full HD" group-title="CANAL+",NRJ HITS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6915&t=live&f=ts
+#EXTINF:-1 tvg-name="CSTAR HITS FRANCE Full HD" group-title="CANAL+",CSTAR HITS FRANCE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87375&t=live&f=ts
+#EXTINF:-1 tvg-name="RFM TV Full HD" group-title="CANAL+",RFM TV Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6913&t=live&f=ts
+#EXTINF:-1 tvg-name="TRACE URBAN Full HD" group-title="CANAL+",TRACE URBAN Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6950&t=live&f=ts
+#EXTINF:-1 tvg-name="MELODY Full HD" group-title="CANAL+",MELODY Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6909&t=live&f=ts
+#EXTINF:-1 tvg-name="DJAZZ Full HD" group-title="CANAL+",DJAZZ Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6912&t=live&f=ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL Full HD" group-title="CANAL+",DISNEY CHANNEL Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6908&t=live&f=ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL+ 1 Full HD" group-title="CANAL+",DISNEY CHANNEL+ 1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6907&t=live&f=ts
+#EXTINF:-1 tvg-name="DISNEY JUNIOR Full HD" group-title="CANAL+",DISNEY JUNIOR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1201&t=live&f=ts
+#EXTINF:-1 tvg-name="NICKELODEON Full HD" group-title="CANAL+",NICKELODEON Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6906&t=live&f=ts
+#EXTINF:-1 tvg-name="NICKELODEON+ 1 Full HD" group-title="CANAL+",NICKELODEON+ 1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6905&t=live&f=ts
+#EXTINF:-1 tvg-name="NICKELODEON JUNIOR Full HD" group-title="CANAL+",NICKELODEON JUNIOR Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1179&t=live&f=ts
+#EXTINF:-1 tvg-name="NICKELODEON 4TEEN Full HD" group-title="CANAL+",NICKELODEON 4TEEN Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6904&t=live&f=ts
+#EXTINF:-1 tvg-name="TELETOON Full HD" group-title="CANAL+",TELETOON Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1187&t=live&f=ts
+#EXTINF:-1 tvg-name="TELETOON +1 Full HD" group-title="CANAL+",TELETOON +1 Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6903&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL J Full HD" group-title="CANAL+",CANAL J Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6899&t=live&f=ts
+#EXTINF:-1 tvg-name="J-ONE Full HD" group-title="CANAL+",J-ONE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6894&t=live&f=ts
+#EXTINF:-1 tvg-name="MANGAS Full HD" group-title="CANAL+",MANGAS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6895&t=live&f=ts
+#EXTINF:-1 tvg-name="TOONAMI Full HD" group-title="CANAL+",TOONAMI Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6896&t=live&f=ts
+#EXTINF:-1 tvg-name="GAME ONE Full HD" group-title="CANAL+",GAME ONE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6897&t=live&f=ts
+#EXTINF:-1 tvg-name="GULLI Full HD" group-title="CANAL+",GULLI Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1178&t=live&f=ts
+#EXTINF:-1 tvg-name="TIJI Full HD" group-title="CANAL+",TIJI Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1181&t=live&f=ts
+#EXTINF:-1 tvg-name="PIWI Full HD" group-title="CANAL+",PIWI Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6902&t=live&f=ts
+#EXTINF:-1 tvg-name="BFM TV Full HD" group-title="CANAL+",BFM TV Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6887&t=live&f=ts
+#EXTINF:-1 tvg-name="CNEWS Full HD" group-title="CANAL+",CNEWS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6888&t=live&f=ts
+#EXTINF:-1 tvg-name="LCI Full HD" group-title="CANAL+",LCI Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6889&t=live&f=ts
+#EXTINF:-1 tvg-name="LCP Full HD" group-title="CANAL+",LCP Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6890&t=live&f=ts
+#EXTINF:-1 tvg-name="TV5 MONDE Full HD" group-title="CANAL+",TV5 MONDE Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6891&t=live&f=ts
+#EXTINF:-1 tvg-name="LA CHAINE METEO Full HD" group-title="CANAL+",LA CHAINE METEO Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6892&t=live&f=ts
+#EXTINF:-1 tvg-name="EURONEWS Full HD" group-title="CANAL+",EURONEWS Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87378&t=live&f=ts
+#EXTINF:-1 tvg-name="FRANCEINFO: Full HD" group-title="CANAL+",FRANCEINFO: Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6893&t=live&f=ts
+#EXTINF:-1 tvg-name="La Une Full HD" group-title="CANAL+",La Une Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1190&t=live&f=ts
+#EXTINF:-1 tvg-name="Tipik Full HD" group-title="CANAL+",Tipik Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1188&t=live&f=ts
+#EXTINF:-1 tvg-name="La Trois Full HD" group-title="CANAL+",La Trois Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1189&t=live&f=ts
+#EXTINF:-1 tvg-name="Plug-RTL Full HD" group-title="CANAL+",Plug-RTL Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6946&t=live&f=ts
+#EXTINF:-1 tvg-name="Club-RTL Full HD" group-title="CANAL+",Club-RTL Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87365&t=live&f=ts
+#EXTINF:-1 tvg-name="RTL-TVi Full HD" group-title="CANAL+",RTL-TVi Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87366&t=live&f=ts
+#EXTINF:-1 tvg-name="RTS Un Full HD" group-title="CANAL+",RTS Un Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1191&t=live&f=ts
+#EXTINF:-1 tvg-name="RTS UN Full HD" group-title="CANAL+",RTS UN Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=1192&t=live&f=ts
+#EXTINF:-1 tvg-name="RTS Deux Full HD" group-title="CANAL+",RTS Deux Full HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=6947&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 1 HD" group-title="[FR] SPORT",LIGUE1 PLUS 1 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100459&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 2 HD" group-title="[FR] SPORT",LIGUE1 PLUS 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100460&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 3 HD" group-title="[FR] SPORT",LIGUE1 PLUS 3 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100461&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 4 HD" group-title="[FR] SPORT",LIGUE1 PLUS 4 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100462&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 5 HD" group-title="[FR] SPORT",LIGUE1 PLUS 5 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100463&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 6 HD" group-title="[FR] SPORT",LIGUE1 PLUS 6 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100464&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 7 HD" group-title="[FR] SPORT",LIGUE1 PLUS 7 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100465&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 8 HD" group-title="[FR] SPORT",LIGUE1 PLUS 8 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100466&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 9 HD" group-title="[FR] SPORT",LIGUE1 PLUS 9 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100467&t=live&f=ts
+#EXTINF:-1 tvg-name="LIGUE1 PLUS 10 HD" group-title="[FR] SPORT",LIGUE1 PLUS 10 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=100468&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 HD" group-title="CANAL+",beIN Sports 1 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=264&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 SD" group-title="CANAL+",beIN Sports 1 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82359&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 HD" group-title="CANAL+",beIN Sports 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=263&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 SD" group-title="CANAL+",beIN Sports 2 SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=82360&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 HD" group-title="CANAL+",beIN Sports 3 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=262&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3  SD" group-title="[FR] SPORT",beIN Sports 3  SD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99640&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 4 HD" group-title="CANAL+",beIN Sports Max 4 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=261&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 5 HD" group-title="CANAL+",beIN Sports Max 5 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=260&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 6 HD" group-title="CANAL+",beIN Sports Max 6 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=259&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 7 HD" group-title="CANAL+",beIN Sports Max 7 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=258&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 8 HD" group-title="CANAL+",beIN Sports Max 8 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=257&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 9 HD" group-title="CANAL+",beIN Sports Max 9 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=256&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports Max 10 HD" group-title="CANAL+",beIN Sports Max 10 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=255&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN Pro League 1 FR" group-title="[FR] SPORT",DAZN Pro League 1 FR
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=87373&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN1" group-title="[FR] SPORT",DAZN1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81677&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN2" group-title="[FR] SPORT",DAZN2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81678&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN3" group-title="[FR] SPORT",DAZN3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81679&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN4" group-title="[FR] SPORT",DAZN4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81680&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN5" group-title="[FR] SPORT",DAZN5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81681&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN6" group-title="[FR] SPORT",DAZN6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81682&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN7" group-title="[FR] SPORT",DAZN7
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81683&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN8" group-title="[FR] SPORT",DAZN8
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=81684&t=live&f=ts
+#EXTINF:-1 tvg-name="UFC FIGHT PASS" group-title="[FR] SPORT",UFC FIGHT PASS
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=95818&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC Sport 1" group-title="CANAL+",RMC Sport 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=249&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC Sport 2" group-title="CANAL+",RMC Sport 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=248&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC Sport 3" group-title="CANAL+",RMC Sport 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=246&t=live&f=ts
+#EXTINF:-1 tvg-name="RMC_SPORT4_HD" group-title="[FR] SPORT",RMC_SPORT4_HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99631&t=live&f=ts
+#EXTINF:-1 tvg-name="INFOSPORT+ HD" group-title="CANAL+",INFOSPORT+ HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=253&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="CANAL+",EUROSPORT 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=251&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="MOVISTAR+",EUROSPORT 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=997&u=EoxUDwurnX&s=1996165617&id=414&t=live&f=ts
+#EXTINF:-1 tvg-name="AUTOMOTO la chaine" group-title="CANAL+",AUTOMOTO la chaine
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=241&t=live&f=ts
+#EXTINF:-1 tvg-name="EQUIDIA" group-title="CANAL+",EQUIDIA
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=242&t=live&f=ts
+#EXTINF:-1 tvg-name="GOLF" group-title="CANAL+",GOLF
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=243&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL+ LIVE 1 HD" group-title="[FR] SPORT",CANAL+ LIVE 1 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99937&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL+ LIVE 2 HD" group-title="[FR] SPORT",CANAL+ LIVE 2 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99938&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL+ LIVE 3 HD" group-title="[FR] SPORT",CANAL+ LIVE 3 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99939&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL+ LIVE 4 HD" group-title="[FR] SPORT",CANAL+ LIVE 4 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99940&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL+ LIVE 5 HD" group-title="[FR] SPORT",CANAL+ LIVE 5 HD
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=EoxUDwurnX&s=1996165617&id=99941&t=live&f=ts
