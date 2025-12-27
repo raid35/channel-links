@@ -19,15 +19,15 @@ http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77874.ts
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77878.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77882.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title=", FR CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png", FR CANAL+ SPORT 1 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title=",|FR| CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" ,|FR| CANAL+ SPORT 2 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54843.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title=",|FR| CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" ,|FR| CANAL+ SPORT 3 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54844.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title=",|FR| CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" ,|FR| CANAL+ SPORT 4 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54845.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title=",|FR| CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png",|FR| CANAL+ SPORT 5 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54846.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78098.ts
