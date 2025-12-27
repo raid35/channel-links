@@ -1,107 +1,108 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15396.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77885.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15394.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77883.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15395.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77899.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35415.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77875.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35583.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77874.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35582.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77878.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://vipbhbiss.top:8080/live/10032024MA/10032024MA/371.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77882.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title=", FR CANAL+ SPORT 1 HD
 http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title=",|FR| CANAL+ SPORT 2 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54843.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title=",|FR| CANAL+ SPORT 3 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54844.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title=",|FR| CANAL+ SPORT 4 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54845.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title=",|FR| CANAL+ SPORT 5 HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/54846.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78098.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35412.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77880.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68095.m3u8
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77881.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://app.gogo-tv.com:2086/live/319957061G/27674/122763.m3u8
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77876.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/35416.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/274712.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77879.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15358.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77988.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15360.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77986.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35424.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78160.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15362.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77985.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://app.gogo-tv.com:2086/live/319957061G/27674/12881.m3u8
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77987.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15295.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77850.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://app.gogo-tv.com:2086/live/319957061G/27674/3579.m3u8
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77867.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15309.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77852.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15308.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77854.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15298.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77855.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15299.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77860.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15300.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77862.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15301.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77861.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15302.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77856.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
 http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15303.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15306.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77865.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68063.m3u8
 #EXTINF:-1 tvg-name="FR Canal+ Docs" group-title="France General ",FR Canal+ Docs
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/68096.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://sansatplus.net:88/live/02000408202789/dKOhgZ2RYdorqki/127051.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78166.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://sansatplus.net:88/live/02000408202789/dKOhgZ2RYdorqki/127050.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78193.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35544.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78279.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35540.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78275.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35542.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78254.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35534.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78281.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://euroroyals.com:8080/live/sundo1606/ezb3BAn/15347.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78290.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35535.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78291.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/37373.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78286.ts
 #EXTINF:-1 tvg-name="FR Natinal Geo" group-title="France Documentary",FR Natinal Geo
-http://top.cloud-ip.cc:2052/live/siksa403/0805/37372.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78287.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://sansatplus.net:88/live/02000408202789/dKOhgZ2RYdorqki/127078.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78195.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35538.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78241.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
 http://top.cloud-ip.cc:2052/live/siksa403/0805/35537.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://top.cloud-ip.cc:2052/live/siksa403/0805/35546.ts
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78274.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
 http://4kgood.org/live/fuegpsat2839/awb3gkto8q/332.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
