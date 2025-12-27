@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="XPOLA BEIN MAX" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="COPA AFRICA 2025",XPOLA BEIN
+https://raid35.github.io/docs/Sub_tv.html
 #EXTINF:-1 tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
 http://euroroyals.com:8080/live/sundo1606/ezb3BAn/24372.ts
 #EXTINF:-1 tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
