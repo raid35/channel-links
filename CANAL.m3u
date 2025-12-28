@@ -2,109 +2,107 @@
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA FRANCE
 https://raid35.github.io/docs/canal.html
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14971.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288829&extension=ts&play_token=9vB6KRkohS
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/919.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288828&extension=ts&play_token=TXDIHRpzjw
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14973.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288825&extension=ts&play_token=pVPRwvcIiU
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14974.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288756&extension=ts&play_token=vA9iYkz5RA
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/1024.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288775&extension=ts&play_token=RHzqwWHRHu
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/763.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553174&extension=ts&play_token=K9Eq5reGXz
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/13815.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288835&extension=ts&play_token=jvygd1Z4CW
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/13817.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288836&extension=ts&play_token=k1LN2BvSgK
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14947.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288834&extension=ts&play_token=ZIauL8vlQg
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png", FR CANAL+ SPORT 1 HD
-http://vipmax-tv.net:8080/live/6864kns2610/ccfGbtPyVk/268841.m3u8
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289150&extension=ts&play_token=qSOqaqtesh
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" ,|FR| CANAL+ SPORT 2 HD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/54843.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289149&extension=ts&play_token=nbD6EcX9pE
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" ,|FR| CANAL+ SPORT 3 HD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/54844.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289148&extension=ts&play_token=6bz6vO0CBJ
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" ,|FR| CANAL+ SPORT 4 HD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/54845.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289147&extension=ts&play_token=iJH0CuBJrY
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png",|FR| CANAL+ SPORT 5 HD
-http://top.cloud-ip.cc:2052/live/siksa403/0805/54846.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289146&extension=ts&play_token=4oS8L35vRY
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78098.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/761.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553172&extension=ts&play_token=bJ4vYSGxTe
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
 http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/5.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14944.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553277&extension=ts&play_token=9pxRpKhTfj
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14941.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553171&extension=ts&play_token=b44MY20A1z
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/758.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553231&extension=ts&play_token=BYst1qgioA
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14951.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553191&extension=ts&play_token=izqziZIZDj
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14948.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553194&extension=ts&play_token=azY5PcBULP
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14953.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553193&extension=ts&play_token=GUiBQSlW6Y
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14950.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553195&extension=ts&play_token=RfoMM68x1h
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/990.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553192&extension=ts&play_token=fACUGDZIy9
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/940.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553396&extension=ts&play_token=oJ5HRoY1yl
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14913.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553395&extension=ts&play_token=S2jtFbC4e1
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14917.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553389&extension=ts&play_token=WbU5uueE0t
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14916.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553201&extension=ts&play_token=4yyKArYJBf
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14904.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553393&extension=ts&play_token=Pcfedkdl38
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14905.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553392&extension=ts&play_token=RkH7g8AQ4k
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14906.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553390&extension=ts&play_token=4zTNLyoVDW
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14907.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553391&extension=ts&play_token=F6Jak2IPQY
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14903.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553387&extension=ts&play_token=BadgyooPJl
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14911.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553203&extension=ts&play_token=4HTyilufQ8
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14915.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | C8 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1506" group-title="Français ",FR | C8 FHD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14909.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553388&extension=ts&play_token=N3rPJAtcQ9
 #EXTINF:-1 tvg-name="FR Canal+ Docs" group-title="France General ",FR Canal+ Docs
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/68.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553242&extension=ts&play_token=8otTdfvS8U
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://splus.smartres.net/live/Ahmed22023/192837/65568.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288421&extension=ts&play_token=55BRWk3dDi
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://splus.smartres.net/live/Ahmed22023/192837/65570.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553248&extension=ts&play_token=qxSlgTGETq
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://splus.smartres.net/live/Ahmed22023/192837/65566.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553176&extension=ts&play_token=Q1SKLGlReO
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://splus.smartres.net/live/Ahmed22023/192837/65565.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553177&extension=ts&play_token=x7ZqcEiOr8
 #EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
 http://splus.smartres.net/live/Ahmed22023/192837/65563.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78281.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553181&extension=ts&play_token=OFuJfeylyJ
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
 http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14961.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78291.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553180&extension=ts&play_token=lQXpxfyth2
 #EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14957.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553260&extension=ts&play_token=ishImEiwWAs
 #EXTINF:-1 tvg-name="FR Natinal Geo" group-title="France Documentary",FR Natinal Geo
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14956.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553259&extension=ts&play_token=vqn1FU4bgt
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14965.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553184&extension=ts&play_token=mngETyQjBA
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14959.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553182&extension=ts&play_token=ttsxoD9Hem
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14958.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553183&extension=ts&play_token=Juy0tq356X
 #EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://splus.smartres.net/live/Ahmed22023/192837/65569.ts
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553244&extension=ts&play_token=8UulY8276l
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
 http://4kgood.org/live/fuegpsat2839/awb3gkto8q/332.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
