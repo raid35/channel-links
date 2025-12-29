@@ -85,8 +85,8 @@ https://github.com/raid35/channel-links/raw/main/polosh.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://fasselhd.com/page/image/series.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://fasselhd.com/page/image/turki.jpg", 
-https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/960px-Netflix_Logomark.png", 
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/Netflix.m3u
 
 #EXTINF:-1 tvg-id="BLG" tvg-name="AR: sporttv" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/501/766/non_2x/belgium-flag-circle-3d-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
@@ -97,11 +97,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12597.jpg?63072", 
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12597.jpg?63072", 
+#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/960px-Netflix_Logomark.png", 
 https://raw.githubusercontent.com/v5on/filoox-bdix-selected/main/playlist.m3u
 
-#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
 
-#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/ad-sport.m3u
