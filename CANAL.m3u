@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA FRANCE
 https://raid35.github.io/docs/canal.html
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288829&extension=ts&play_token=9vB6KRkohS
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288828&extension=ts&play_token=TXDIHRpzjw
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288825&extension=ts&play_token=pVPRwvcIiU
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPOR" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
+https://starshare.st:443/live/3033516711/837973984/230935.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPOR" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
+https://starshare.st:443/live/3033516711/837973984/230936.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPOR" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
+https://starshare.st:443/live/3033516711/837973984/230937.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288756&extension=ts&play_token=vA9iYkz5RA
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288775&extension=ts&play_token=RHzqwWHRHu
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553174&extension=ts&play_token=K9Eq5reGXz
+https://starshare.st:443/live/3033516711/837973984/230918.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288835&extension=ts&play_token=jvygd1Z4CW
+https://starshare.st:443/live/3033516711/837973984/230835.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288836&extension=ts&play_token=k1LN2BvSgK
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288834&extension=ts&play_token=ZIauL8vlQg
+https://starshare.st:443/live/3033516711/837973984/230919.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png", FR CANAL+ SPORT 1 HD
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289150&extension=ts&play_token=qSOqaqtesh
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" ,|FR| CANAL+ SPORT 2 HD
@@ -32,75 +32,75 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=289146
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78098.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553172&extension=ts&play_token=bJ4vYSGxTe
+https://starshare.st:443/live/3033516711/837973984/230920.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SERIES" tvg-logo="http://148.251.133.153:8181/logo/chn/2389.png" group-title="Français ",FR | CANAL+ SERIES
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/5.ts
+https://starshare.st:443/live/3033516711/837973984/230922.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553277&extension=ts&play_token=9pxRpKhTfj
+https://starshare.st:443/live/3033516711/837973984/230923.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE UHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553171&extension=ts&play_token=b44MY20A1z
+https://starshare.st:443/live/3033516711/837973984/230993.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553231&extension=ts&play_token=BYst1qgioA
+https://starshare.st:443/live/3033516711/837973984/230895.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553191&extension=ts&play_token=izqziZIZDj
+https://starshare.st:443/live/3033516711/837973984/230925.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553194&extension=ts&play_token=azY5PcBULP
+https://starshare.st:443/live/3033516711/837973984/230926.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553193&extension=ts&play_token=GUiBQSlW6Y
+https://starshare.st:443/live/3033516711/837973984/230927.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553195&extension=ts&play_token=RfoMM68x1h
+https://starshare.st:443/live/3033516711/837973984/230928.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553192&extension=ts&play_token=fACUGDZIy9
+https://starshare.st:443/live/3033516711/837973984/230929.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 UHD 4K 
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553396&extension=ts&play_token=oJ5HRoY1yl
+https://starshare.st:443/live/3033516711/837973984/230981.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553395&extension=ts&play_token=S2jtFbC4e1
+https://starshare.st:443/live/3033516711/837973984/230982.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFX " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX 
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553389&extension=ts&play_token=WbU5uueE0t
+https://starshare.st:443/live/3033516711/837973984/230983.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553201&extension=ts&play_token=4yyKArYJBf
+https://starshare.st:443/live/3033516711/837973984/230984.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 HDR
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553393&extension=ts&play_token=Pcfedkdl38
+https://starshare.st:443/live/3033516711/837973984/230970.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553392&extension=ts&play_token=RkH7g8AQ4k
+https://starshare.st:443/live/3033516711/837973984/230971.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553390&extension=ts&play_token=4zTNLyoVDW
+https://starshare.st:443/live/3033516711/837973984/230972.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553391&extension=ts&play_token=F6Jak2IPQY
+https://starshare.st:443/live/3033516711/837973984/230973.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 UHD 4K
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553387&extension=ts&play_token=BadgyooPJl
+https://starshare.st:443/live/3033516711/837973984/230977.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Français ",FR | 6TER FHD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553203&extension=ts&play_token=4HTyilufQ8
+https://starshare.st:443/live/3033516711/837973984/230965.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://148.251.133.153:8181/logo/chn/2365.png" group-title="Français ",FR | W9
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553388&extension=ts&play_token=N3rPJAtcQ9
+https://starshare.st:443/live/3033516711/837973984/230985.ts
 #EXTINF:-1 tvg-name="FR Canal+ Docs" group-title="France General ",FR Canal+ Docs
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553242&extension=ts&play_token=8otTdfvS8U
+https://starshare.st:443/live/3033516711/837973984/230853.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=288421&extension=ts&play_token=55BRWk3dDi
+https://starshare.st:443/live/3033516711/837973984/230883.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553248&extension=ts&play_token=qxSlgTGETq
+https://starshare.st:443/live/3033516711/837973984/230945.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553176&extension=ts&play_token=Q1SKLGlReO
+https://starshare.st:443/live/3033516711/837973984/230939.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553177&extension=ts&play_token=x7ZqcEiOr8
+https://starshare.st:443/live/3033516711/837973984/230949.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://splus.smartres.net/live/Ahmed22023/192837/65563.ts
+https://starshare.st:443/live/3033516711/837973984/230948.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553181&extension=ts&play_token=OFuJfeylyJ
+https://starshare.st:443/live/3033516711/837973984/230946.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/14961.ts
+https://starshare.st:443/live/3033516711/837973984/230947.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553180&extension=ts&play_token=lQXpxfyth2
 #EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553260&extension=ts&play_token=ishImEiwWAs
+https://starshare.st:443/live/3033516711/837973984/230940.ts
 #EXTINF:-1 tvg-name="FR Natinal Geo" group-title="France Documentary",FR Natinal Geo
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553259&extension=ts&play_token=vqn1FU4bgt
+https://starshare.st:443/live/3033516711/837973984/230941.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553184&extension=ts&play_token=mngETyQjBA
+https://starshare.st:443/live/3033516711/837973984/230944.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553182&extension=ts&play_token=ttsxoD9Hem
+https://starshare.st:443/live/3033516711/837973984/230943.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553183&extension=ts&play_token=Juy0tq356X
+https://starshare.st:443/live/3033516711/837973984/230942.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
 http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:B5:F9:89&stream=553244&extension=ts&play_token=8UulY8276l
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
