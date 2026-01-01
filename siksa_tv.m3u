@@ -31,6 +31,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/BEIN1.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://up6.cc//2025//04//174519833320451.jpg" group-title="ALWAN",
 https://raw.githubusercontent.com/raid35/channel-links/main/arab.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
+
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://suptvshop.me/wp-content/uploads/2021/11/bdab498178bf7c6f56fca0a916362196.jpeg" group-title="DOC", 
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 
@@ -43,17 +46,14 @@ https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="lynx" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
+https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="YACINE TV" tvg-logo="https://th.bing.com/th/id/OIP.LP6ZrG0vG8x93PZM8kfw8AHaHY?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/AD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
