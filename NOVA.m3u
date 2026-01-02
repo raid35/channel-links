@@ -1,24 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/918.m3u8
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/919.m3u8
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/920.m3u8
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://148.251.133.153:8181/logo/chn/2468.png" group-title="Français ",FR | BEIN SPORTS MAX 4
-http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/61711.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2469.png" group-title="Français ",FR | BEIN SPORTS MAX 5
-http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/61711.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 6" tvg-logo="http://148.251.133.153:8181/logo/chn/2470.png" group-title="Français ",FR | BEIN SPORTS MAX 6
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/62500.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 7" tvg-logo="http://148.251.133.153:8181/logo/chn/2471.png" group-title="Français ",FR | BEIN SPORTS MAX 7
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/62499.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 8" tvg-logo="http://148.251.133.153:8181/logo/chn/2472.png" group-title="Français ",FR | BEIN SPORTS MAX 8
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/62498.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 9" tvg-logo="http://148.251.133.153:8181/logo/chn/2473.png" group-title="Français ",FR | BEIN SPORTS MAX 9
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/62497.ts
-#EXTINF:-1 tvg-name="FR | BEIN SPORTS MAX 10" tvg-logo="http://148.251.133.153:8181/logo/chn/2467.png" group-title="Français ",FR | BEIN SPORTS MAX 10
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/211992.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265925.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265924.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265923.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265922.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 HD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265921.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265920.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 HD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265919.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 FHD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265918.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 7 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265917.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 8 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265916.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 9 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265915.ts
+#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 10 HD
+http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265914.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://web2021.biz:8080/live/344496181013062596/4732824427075684/26455.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
