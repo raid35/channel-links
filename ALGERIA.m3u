@@ -15,14 +15,8 @@ http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/118850.m3u8
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/126701.m3u8
 #EXTINF:-1 tvg-name="DZ: Edhakira TV 8" tvg-logo="http://myserveriptv.com:2082/images/e55be2a1302751c8eb666fe48ad6e09f.png" group-title="Algeria الجزائر",DZ: Edhakira TV 8
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/126702.m3u8
-#EXTINF:-1 tvg-name="DZ: Al Qanat 9" tvg-logo="http://iptvch.com:2082/images/9dc64207d58bc4fa31a40880922b32cc.png" group-title="Algeria الجزائر",DZ: Al Qanat 9
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/30845.m3u8
 #EXTINF:-1 tvg-name="DZ: AL24 News" tvg-logo="http://myserveriptv.com:2082/images/576f7e4b8e3829bae420796c79f746fc.png" group-title="Algeria الجزائر",DZ: AL24 News
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5442.m3u8
-#EXTINF:-1 tvg-name="DZ: Samira TV" tvg-logo="http://myserveriptv.com:2082/images/415f7c96da3e79cf3588156e93522caa.png" group-title="Algeria الجزائر",DZ: Samira TV
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5444.m3u8
-#EXTINF:-1 tvg-name="DZ: Samira TV" tvg-logo="http://myserveriptv.com:2082/images/415f7c96da3e79cf3588156e93522caa.png" group-title="Algeria الجزائر",DZ: Samira TV
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5444.m3u8
 #EXTINF:-1 tvg-name="DZ: Echorouk TV" tvg-logo="http://iptvch.com:2082/images/cb4c066478884c9403d9a3dea3e45653.png" group-title="Algeria الجزائر",DZ: Echorouk TV
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/24036.m3u8
 #EXTINF:-1 tvg-name="DZ: Echorouk News" tvg-logo="http://iptvch.com:2082/images/00c6a7b1bdaeb439fa880ab1a0bbabb1.png" group-title="Algeria الجزائر",DZ: Echorouk News
@@ -31,20 +25,22 @@ http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5438.m3u8
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5439.m3u8
 #EXTINF:-1 tvg-name="DZ: Ennahar TV" tvg-logo="http://iptvch.com:2082/images/68927ffd86e3a7ef0d69d346c20ae655.png" group-title="Algeria الجزائر",DZ: Ennahar TV
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5440.m3u8
-#EXTINF:-1 tvg-name="DZ: Bahia TV" tvg-logo="http://myserveriptv.com:2082/images/2568cf86cdced9274ad7e0c7ea02f78c.png" group-title="Algeria الجزائر",DZ: Bahia TV
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5443.m3u8
 #EXTINF:-1 tvg-name="DZ: El Hayat" tvg-logo="http://iptvch.com:2082/images/8e7d5df06fcc6b1054a8a5647594d574.png" group-title="Algeria الجزائر",DZ: El Hayat
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5450.m3u8
+#EXTINF:-1 tvg-name="DZ: El Watania" tvg-logo="http://iptvch.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png" group-title="Algeria الجزائر",DZ: El Watania
+http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/151247.m3u8
+#EXTINF:-1 tvg-name="DZ: Salam TV" tvg-logo="http://myserveriptv.com:2082/images/de6838252f95d3b9e803b28df33b4baa.png" group-title="Algeria الجزائر",DZ: Salam TV
+http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/209215.m3u8
+#EXTINF:-1 tvg-name="DZ: Samira TV" tvg-logo="http://myserveriptv.com:2082/images/415f7c96da3e79cf3588156e93522caa.png" group-title="Algeria الجزائر",DZ: Samira TV
+http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5444.m3u8
+#EXTINF:-1 tvg-name="DZ: Bahia TV" tvg-logo="http://myserveriptv.com:2082/images/2568cf86cdced9274ad7e0c7ea02f78c.png" group-title="Algeria الجزائر",DZ: Bahia TV
+http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/5443.m3u8
 #EXTINF:-1 tvg-name="DZ: El Djazair N1" tvg-logo="http://iptvch.com:2082/images/c82561ec215a6e31807ceedf3b3bd25e.png" group-title="Algeria الجزائر",DZ: El Djazair N1
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/126700.m3u8
 #EXTINF:-1 tvg-name="DZ: AL ANIS TV" tvg-logo="http://myserveriptv.com:2082/images/0c1cdb88966784be1443db6b2135f39c.png" group-title="Algeria الجزائر",DZ: AL ANIS TV
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/151246.m3u8
-#EXTINF:-1 tvg-name="DZ: El Watania" tvg-logo="http://iptvch.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png" group-title="Algeria الجزائر",DZ: El Watania
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/151247.m3u8
 #EXTINF:-1 tvg-name="DZ: Zahra TV" tvg-logo="http://iptvch.com:2082/images/01e50c681c0b05ff22686b3e0f7290d3.png" group-title="Algeria الجزائر",DZ: Zahra TV
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/159771.m3u8
-#EXTINF:-1 tvg-name="DZ: Salam TV" tvg-logo="http://myserveriptv.com:2082/images/de6838252f95d3b9e803b28df33b4baa.png" group-title="Algeria الجزائر",DZ: Salam TV
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/209215.m3u8
 #EXTINF:-1 tvg-name="DZ: El Fadjr Tv" tvg-logo="http://myserveriptv.com:2082/images/1a489758636d4c003ac9c38fe973a4aa.png" group-title="Algeria الجزائر",DZ: El Fadjr Tv
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/227876.m3u8
 #EXTINF:-1 tvg-name="DZ: Berbère Télévision" tvg-logo="http://myserveriptv.com:2082/images/74d4ba35561a866402029aa0f03d9509.png" group-title="Algeria الجزائر",DZ: Berbère Télévision
