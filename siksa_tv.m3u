@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" ,
 https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="https://cdn.katapy.io/ktdata2/6082/img/160063_o.PNG", 
+https://raw.githubusercontent.com/raid35/channel-links/main/DOC.m3u
+
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" ,
 https://raw.githubusercontent.com/raid35/channel-links/main/4kuhd.m3u
 
@@ -85,10 +88,8 @@ https://github.com/raid35/channel-links/raw/main/polosh.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://fasselhd.com/page/image/series.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/960px-Netflix_Logomark.png", 
+#EXTINF:-1 tvg-id="" tvg-name="https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/Netflix.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/960px-Netflix_Logomark.png", 
-https://raw.githubusercontent.com/freexoje/files/main/aWMf.m3u                    
+                   
 
 
