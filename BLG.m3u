@@ -1,32 +1,36 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
 https://raw.githubusercontent.com/freexoje/files/main/QNoG.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
-http://ar.packetcdn.me:9596/8be1228d28529b50b7bdb9302cd26b145a68bd7b97230d52307b0af002bbcfbe7449d5fa3819/index.m3u8?token=b0f72eacff183cde264de2bbdb960bfb9a7dd78c3070889b35ae02b27571b9bbdbf4da1ae98cb7d666dbeb9e936acf4284d6f6d29bb483293aad79fdf0df4022ea8aaeed16ba84-2d42cb52c57029dce944049676f9a50f
-#EXTINF:-1 tvg-id="TiVi5Monde.fr",TiVi5 Monde [Geo-blocked]
-https://xpola.yoo7.com/h13-page/?id=V3lKb2RIUndjem92TDNSdmNESnVaWGN1Ym1WM2EzTnZMbkoxTDJGMWRHZ3VjR2h3UDJOb1lXNXVaV3hmYVdROWVXRnNiR0ZzYVhabE9USTNOeVowY3oweE56VTJOREEwT1RZeUpuSnVaRDB6WVRCaU5UWm1aU1p6YVdjOVpUWmpNemsxT0dNd04ySXpaamMwTlRjNU0yTTNaVEppWkRreU1HSmlOVEpsWmprd00yTTNZamN3WkdaaVpqaGtObUkxTnpBeU1UTm1ObUprT1RsaU1YeHZjbWxuYVc0OVRXOTZhV3hzWVM4MUxqQWdLRmRwYm1SdmQzTWdUbFFnTVRBdU1Ec2dWMmx1TmpRN0lIZzJOQ2tnUVhCd2JHVlhaV0pMYVhRdk5UTTNMak0ySUNoTFNGUk5UQ3dnYkdsclpTQkhaV05yYnlrZ1EyaHliMjFsTHpFd09DNHdMakF1TUNCVFlXWmhjbWt2TlRNM0xqTTJmSEpsWm1WeVpYSTlhSFIwY0hNNkx5OXFlRzk0YTNCc1lYa3VlSGw2TDNObGNuWmxjblpsYjI5cmRYQXVjR2h3UDJOb1lXNXVaV3hmYVdROWVXRnNiR0ZzYVhabE9USTNOM3h1WVcxbFBYUmxjM1FpTENKb2RIUndjem92TDNkcGEybHVaWGN1Ym1WM2EzTnZMbkoxTDNkcGEya3ZlV0ZzYkdGc2FYWmxPVEkzTnk5dGIyNXZMbTB6ZFRoOGRYTmxjaTFoWjJWdWREMU5iM3BwYkd4aEx6VXVNQ0FvV0RFeE95Qk1hVzUxZUNCNE9EWmZOalFwSUVGd2NHeGxWMlZpUzJsMEx6VXpOQzR5TkNBb1MwaFVUVXdzSUd4cGEyVWdSMlZqYTI4cElFTm9jbTl0WlM4eE1TNHdMalk1Tmk0ek5DQlRZV1poY21rdk5UTTBMakkwZkhKbFptVnlaWEk5YUhSMGNITTZMeTlxZUc5NGEzQnNZWGt1ZUhsNkwzTmxjblpsY2w5c2IyOXJkWEF1Y0dod1AyTm9ZVzV1Wld4ZmFXUTllV0ZzYkdGc2FYWmxPVEkzTjN4dVlXMWxQVU5JT0NKZA==`
-#EXTINF:-1 tvg-id="" tvg-name="FR | rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/512px-Rai_1_HD_Logo.svg.png?20211130161946" group-title="Français ",FR | rai1
-https://edge14.620097.ir.cdn.ir/hls2/b2_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rai_2_HD_-_Logo_2016.svg/512px-Rai_2_HD_-_Logo_2016.svg.png" group-title="Français ",FR | rai2
-https://anvtcax.fubohd.com:443/premiere1/mono.m3u8?token=71e514433f1a7802922966294b6dd33f260e8e93-38-1754522716-1754504716
-#EXTINF:-1 tvg-id="" tvg-name="FR | rai3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Rai3.png" group-title="Français ",FR | rai3
-#EXTINF:-1 tvg-id="" tvg-name="BE | ELEVEN SPORT 1" tvg-logo="" group-title="Belgium",BE | ELEVEN SPORT 1
-https://sportsonline.si/channels/pt/eleven1.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | ELEVEN SPORT 2" tvg-logo="" group-title="Belgium",BE | ELEVEN SPORT 2
-https://sportsonline.si/channels/pt/eleven2.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | ELEVEN SPORT 3" tvg-logo="" group-title="Belgium",BE | ELEVEN SPORT 3
-https://sportsonline.si/channels/pt/eleven3.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | VOO SPORT 2" tvg-logo="" group-title="Belgium",BE | VOO SPORT 1
-https://sportsonline.si/channels/pt/eleven4.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY SPORTS 1" tvg-logo="" group-title="Belgium",BE | PLAY SPORTS 1
-https://sportsonline.si/channels/pt/eleven5.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY SPORTS 2" tvg-logo="" group-title="Belgium",BE | PLAY SPORTS 2
-https://sportsonline.si/channels/pt/eleven6.php
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY SPORTS 3" tvg-logo="" group-title="Belgium",BE | PLAY SPORTS 3
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=1229654&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY4" tvg-logo="" group-title="Belgium",BE | PLAY4
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=185149&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY5" tvg-logo="" group-title="Belgium",BE | PLAY5
-http://530329729559.cdn-eag.com/live/1234hjihhj89fr/pa5r6nxqkv/59422.ts
-#EXTINF:-1 tvg-id="" tvg-name="BE | PLAY6" tvg-logo="" group-title="Belgium",BE | PLAY6
-https://live.foxtv7.com/TOD8810/B.php?id=5024177
-
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
+https://py.dencreak.com/bn_s_fhd1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
+https://py.dencreak.com/bn_u_fhd_1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
+https://py.dencreak.com/bn_s_fhd2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
+https://py.dencreak.com/bn_u_fhd_2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
+https://py.dencreak.com/bn_s_fhd3.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
+https://py.dencreak.com/bn_u_fhd_3.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
+https://py.dencreak.com/bn_s_fhd5.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
+https://py.dencreak.com/bn_u_fhd_5.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_s_fhd6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_u_fhd_6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_u_fhd_6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
+https://py.dencreak.com/bn_s_fhd7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
+https://py.dencreak.com/bn_u_fhd_7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
+https://py.dencreak.com/bn_s_fhd8.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
+https://py.dencreak.com/bn_u_fhd_8.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
+https://py.dencreak.com/bn_s_fhd9.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
+https://py.dencreak.com/bn_u_fhd_9.m3u8
