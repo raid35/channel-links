@@ -1,38 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BEIN Sport 1 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 1 FHD | New |
-http://vibertv.online:8080/live/2020/2020/10.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 1 4K
+http://vibertv.online:8080/live/2020/2020/1.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_1
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 2 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 2 FHD | New |
-http://vibertv.online:8080/live/2020/2020/11.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 2  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 2  4K
+http://vibertv.online:8080/live/2020/2020/2.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_2
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 3 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 3 FHD | New |
-http://vibertv.online:8080/live/2020/2020/12.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 3  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 3  4K
+http://vibertv.online:8080/live/2020/2020/3.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_3
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 4 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 4 FHD | New |
-http://vibertv.online:8080/live/2020/2020/13.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 4  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 4  4K
+http://vibertv.online:8080/live/2020/2020/4.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_4
 http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 5 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 5 FHD | New |
-http://vibertv.online:8080/live/2020/2020/14.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 5  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 5  4K
+http://vibertv.online:8080/live/2020/2020/5.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_5
 http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 6 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 6 FHD | New |
-http://vibertv.online:8080/live/2020/2020/15.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 6  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 6  4K
+http://vibertv.online:8080/live/2020/2020/6.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_6
 http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 7 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 7 FHD | New |
-http://vibertv.online:8080/live/2020/2020/16.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 7  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 7  4K
+http://vibertv.online:8080/live/2020/2020/7.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_7
 http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 8 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 8 FHD | New |
-http://vibertv.online:8080/live/2020/2020/17.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 8  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 8  4K
+http://vibertv.online:8080/live/2020/2020/8.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_8
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1 tvg-name="BEIN Sport 9 FHD | New |" group-title=" Bein Sports FHD",BEIN Sport 9 FHD | New |
-http://vibertv.online:8080/live/2020/2020/18.m3u8
+#EXTINF:-1 tvg-name="AR: beIN SPOORTS 9  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 9  4K
+http://vibertv.online:8080/live/2020/2020/9.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_9
 http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://alrabiaagroup.tv/alrabiaa_sport_1.png", alrabiaa_sport_1
@@ -51,6 +51,7 @@ http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605097.ts
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605098.ts
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://www2.0zz0.com/2025/12/22/00/465852388.png",Thmanyah 3
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605099.ts
+
 
 
 
