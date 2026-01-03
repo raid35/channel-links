@@ -57,3 +57,5 @@ https://py.dencreak.com/bn_u_fhd_8.m3u8
 https://py.dencreak.com/bn_s_fhd9.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
 https://py.dencreak.com/bn_u_fhd_9.m3u89
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
+https://raw.githubusercontent.com/freexoje/files/main/QNoG.m3u
