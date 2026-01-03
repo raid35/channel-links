@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" ,
-https://raid35.github.io/docs/laUne.html
+https://raw.githubusercontent.com/freexoje/files/main/QNoG.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 " tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 
 http://ar.packetcdn.me:9596/8be1228d28529b50b7bdb9302cd26b145a68bd7b97230d52307b0af002bbcfbe7449d5fa3819/index.m3u8?token=b0f72eacff183cde264de2bbdb960bfb9a7dd78c3070889b35ae02b27571b9bbdbf4da1ae98cb7d666dbeb9e936acf4284d6f6d29bb483293aad79fdf0df4022ea8aaeed16ba84-2d42cb52c57029dce944049676f9a50f
 #EXTINF:-1 tvg-id="TiVi5Monde.fr",TiVi5 Monde [Geo-blocked]
