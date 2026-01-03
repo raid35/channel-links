@@ -12,12 +12,6 @@ http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273814.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/86510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4166.png" group-title="Poland",PL | Canal+ Sport 2 FHD
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/86509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4167.png" group-title="Poland",PL | Canal+ Sport 3 FHD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4168.png" group-title="Poland",PL | Canal+ Sport 4 FHD
-http://20025.online:2086/live/888420221658/21945814066f91c99369e5/273811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://i.imgur.com/izz7plc.png" group-title="POLAND",CANAL+ SPORT 5 FHD
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/86592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4174.png" group-title="Poland",PL | Polsat Sport Premium 1 FHD
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/1973.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4175.png" group-title="Poland",PL | Polsat Sport Premium 2 FHD
@@ -29,4 +23,37 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880464&ext
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880463&extension=ts&play_token=rxFji9Asyp
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 6" tvg-logo="http://148.251.133.153:8181/logo/chn/4179.png" group-title="Poland",PL | Polsat Sport Premium PPV 6
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880462&extension=ts&play_token=2v2wgLap89
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:B5:8B:D5&stream=880462&extension=ts&play_token=2v2wgLap8#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
+https://py.dencreak.com/bn_s_fhd1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
+https://py.dencreak.com/bn_u_fhd_1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
+https://py.dencreak.com/bn_s_fhd2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
+https://py.dencreak.com/bn_u_fhd_2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
+https://py.dencreak.com/bn_s_fhd3.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
+https://py.dencreak.com/bn_u_fhd_3.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
+https://py.dencreak.com/bn_s_fhd5.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
+https://py.dencreak.com/bn_u_fhd_5.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_s_fhd6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_u_fhd_6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://py.dencreak.com/bn_u_fhd_6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
+https://py.dencreak.com/bn_s_fhd7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
+https://py.dencreak.com/bn_u_fhd_7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
+https://py.dencreak.com/bn_s_fhd8.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
+https://py.dencreak.com/bn_u_fhd_8.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
+https://py.dencreak.com/bn_s_fhd9.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
+https://py.dencreak.com/bn_u_fhd_9.m3u89
