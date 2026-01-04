@@ -6,9 +6,9 @@ http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265924.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
 http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265923.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265922.ts
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/BvYkKrZl_uxzyt_12sk2Qw1MfDhGlo4ZM2fpsl61yH3Lowij0DE1Jl4Dh--_56w7xAxWEwFWfjyFFztlehmuxg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 HD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265921.ts
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/BvYkKrZl_uxzyt_12sk2Qw1MfDhGlo4ZM2fpsl61yH3Lowij0DE1Jl4Dh--_56w7xAxWEwFWfjyFFztlehmuxg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
 http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265920.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 HD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 HD
