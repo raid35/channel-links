@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AR: beIN SPOORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 1 4K
-http://vibertv.online:8080/live/2020/2020/1.m3u8
+http://vibertv.online:8080/live/2020/2020/19.ts
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_1
-http://135.125.109.73:9000/beinsport1_.m3u8
+http://vibertv.online:8080/live/2020/2020/20.ts
 #EXTINF:-1 tvg-name="AR: beIN SPOORTS 2  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 2  4K
-http://vibertv.online:8080/live/2020/2020/2.m3u8
+http://vibertv.online:8080/live/2020/2020/21.ts
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_2
-http://135.125.109.73:9000/beinsport2_.m3u8
+http://vibertv.online:8080/live/2020/2020/22.ts
 #EXTINF:-1 tvg-name="AR: beIN SPOORTS 3  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 3  4K
 http://vibertv.online:8080/live/2020/2020/3.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_3
@@ -51,6 +51,7 @@ http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605097.ts
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605098.ts
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://www2.0zz0.com/2025/12/22/00/465852388.png",Thmanyah 3
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605099.ts
+
 
 
 
