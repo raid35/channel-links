@@ -28,7 +28,7 @@ http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=256123&extension
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://xxip9.top:8080/live/r7GVVH/729540/160306.ts
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/4785.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274847&extension=ts&play_token=rLPtYusxc9
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250679&extension=ts&play_token=MFgyyp8nWM
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
