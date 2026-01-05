@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265925.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=146116&extension=ts&play_token=ajQeYNwxmc
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265924.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=149773&extension=ts&play_token=7Af1VuUfYg
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265923.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250663&extension=ts&play_token=Hf2ZLiaxi1
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/BvYkKrZl_uxzyt_12sk2Qw1MfDhGlo4ZM2fpsl61yH3Lowij0DE1Jl4Dh--_56w7xAxWEwFWfjyFFztlehmuxg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 HD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 HD
@@ -24,15 +24,15 @@ http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265915.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 10 HD
 http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265914.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/26455.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=256123&extension=ts&play_token=HrVOAvjvZJ
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://xxip9.top:8080/live/r7GVVH/729540/160306.ts
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
 http://web2021.biz:8080/live/344496181013062596/4732824427075684/4785.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/26456.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250679&extension=ts&play_token=MFgyyp8nWM
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194767.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=1833125&extension=ts&play_token=FXOc78eWUS
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
 http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194766.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
@@ -42,29 +42,29 @@ http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194764.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194763.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/28334.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148474&extension=ts&play_token=3SZMmplLdl
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/20883.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148475&extension=ts&play_token=Cuc8nAjsrh
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://web2021.biz:8080/live/344496181013062596/4732824427075684/15286.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/758.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274712&extension=ts&play_token=UU3Rs1Yfoo
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/3478.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=326682&extension=ts&play_token=w3SZIwMl4Y
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/15286.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32771&extension=ts&play_token=Weg5CqO0LN
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254653.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203425&extension=ts&play_token=q25NIbE3FC
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/43948.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203423&extension=ts&play_token=3LV0bu240O
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/20890.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250678&extension=ts&play_token=Oo9LWNRief
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/990.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250677&extension=ts&play_token=LbsNPsweiC
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/940.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32750&extension=ts&play_token=HC949Drho5
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/948.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32800&extension=ts&play_token=uYjqcsTn3O
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
 http://xxip9.top:8080/live/r7GVVH/729540/160297.ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
@@ -74,44 +74,44 @@ http://xxip9.top:8080/live/r7GVVH/729540/160299.ts
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
 http://xxip9.top:8080/live/r7GVVH/729540/160300.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/941.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32756&extension=ts&play_token=Ltapl07Ozl
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/947.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32758&extension=ts&play_token=CRpxMCDN8y
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/38.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32798&extension=ts&play_token=Hce2P1mcHA
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/953.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32799&extension=ts&play_token=CfFSF5h6uA
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/949.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32796&extension=ts&play_token=9eWmPXpABA
 #EXTINF:-1 tvg-id="Studio_Comedy.fr" tvg-name="FR:Canal.Docs.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/canal-plus-docs-fr.png" group-title="FRANCE HD",FR:Canal.Docs.HD
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/68.m3u8
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274705&extension=ts&play_token=rLn2SgiKks
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/958.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32824&extension=ts&play_token=eJFp9dbQAX
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/20898.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203430&extension=ts&play_token=ruI32E7NTH
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://web2021.biz:8080/live/344496181013062596/4732824427075684/976.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=335&extension=ts&play_token=8kNibwXw0b
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254652.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32823&extension=ts&play_token=fa2wcQC1Wf
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254686.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32819&extension=ts&play_token=INvAWgImrS
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
 http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254687.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254656.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148480&extension=ts&play_token=PyhvXaL5Ej
 #EXTINF:-1 tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254658.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=252293&extension=ts&play_token=xGvuTVADqb
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254657.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148482&extension=ts&play_token=uMavELZCdu
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254671.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32815&extension=ts&play_token=VczXCZPkKv
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254670.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32814&extension=ts&play_token=z1cZ2DRGMa
 #EXTINF:-1 tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254684.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148479&extension=ts&play_token=Rwk0dYHfCd
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254683.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250651&extension=ts&play_token=G7kATiJbi6
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254682.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250650&extension=ts&play_token=PrXb3WJB2Z
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254666.ts
+http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32820&extension=ts&play_token=FMss4kRXYH
