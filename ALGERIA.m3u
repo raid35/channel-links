@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Algeria" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA Algeria
+https://raid35.github.io/docs/Algeria.html
 #EXTINF:-1 tvg-name="DZ: Algérie ENTV 1" tvg-logo="http://myserveriptv.com:2082/images/858d17af92c782e49f4cbab04f29b0a5.png" group-title="Algeria الجزائر",DZ: Algérie ENTV 1
 http://dreamtv22.info:25461/live/297999775422/907314655446/52747.ts
 #EXTINF:-1 tvg-name="DZ: Algérie Canal TV 2" tvg-logo="http://myserveriptv.com:2082/images/096e17572ab9b25a7efeca28bc254b40.png" group-title="Algeria الجزائر",DZ: Algérie Canal TV 2
