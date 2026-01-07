@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA FRANCE
+https://raid35.github.io/docs/kyng360.html
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
 http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/146116.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
