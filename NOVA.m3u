@@ -1,36 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=146116&extension=ts&play_token=ajQeYNwxmc
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/146116.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=149773&extension=ts&play_token=7Af1VuUfYg
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/149773.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250663&extension=ts&play_token=Hf2ZLiaxi1
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250663.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/BvYkKrZl_uxzyt_12sk2Qw1MfDhGlo4ZM2fpsl61yH3Lowij0DE1Jl4Dh--_56w7xAxWEwFWfjyFFztlehmuxg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 HD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 HD
-https://live4x4x.blogspot.com/p/best2.html
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/229.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265920.ts
-#EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 HD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265919.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/230.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265918.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/231.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 7 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265917.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/232.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 8 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265916.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/233.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 9 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265915.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/6582.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 10 HD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/265914.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/6583.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=256123&extension=ts&play_token=HrVOAvjvZJ
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/256123.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://xxip9.top:8080/live/r7GVVH/729540/160306.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/256628.ts
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
 http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274847&extension=ts&play_token=rLPtYusxc9
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250679&extension=ts&play_token=MFgyyp8nWM
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250679.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=1833125&extension=ts&play_token=FXOc78eWUS
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
@@ -42,29 +38,29 @@ http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194764.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://i511hq.xyz/live/F1A4DF1D0245D51/vcE5571wTz/194763.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148474&extension=ts&play_token=3SZMmplLdl
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148474.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148475&extension=ts&play_token=Cuc8nAjsrh
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148475.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://web2021.biz:8080/live/344496181013062596/4732824427075684/15286.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274712&extension=ts&play_token=UU3Rs1Yfoo
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250640.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=326682&extension=ts&play_token=w3SZIwMl4Y
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/326682.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32771&extension=ts&play_token=Weg5CqO0LN
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32771.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203425&extension=ts&play_token=q25NIbE3FC
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/203425.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203423&extension=ts&play_token=3LV0bu240O
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/203423.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250678&extension=ts&play_token=Oo9LWNRief
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250678.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250677&extension=ts&play_token=LbsNPsweiC
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250677.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32750&extension=ts&play_token=HC949Drho5
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32750.ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32800&extension=ts&play_token=uYjqcsTn3O
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32800.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
 http://xxip9.top:8080/live/r7GVVH/729540/160297.ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
@@ -74,44 +70,42 @@ http://xxip9.top:8080/live/r7GVVH/729540/160299.ts
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
 http://xxip9.top:8080/live/r7GVVH/729540/160300.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32756&extension=ts&play_token=Ltapl07Ozl
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32756.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32758&extension=ts&play_token=CRpxMCDN8y
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32758.ts
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32798&extension=ts&play_token=Hce2P1mcHA
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32798.ts
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32799&extension=ts&play_token=CfFSF5h6uA
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32799.ts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32796&extension=ts&play_token=9eWmPXpABA
-#EXTINF:-1 tvg-id="Studio_Comedy.fr" tvg-name="FR:Canal.Docs.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/canal-plus-docs-fr.png" group-title="FRANCE HD",FR:Canal.Docs.HD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274705&extension=ts&play_token=rLn2SgiKks
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32796.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32824&extension=ts&play_token=eJFp9dbQAX
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32824.ts
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=203430&extension=ts&play_token=ruI32E7NTH
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/203430.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=335&extension=ts&play_token=8kNibwXw0b
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148487.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32823&extension=ts&play_token=fa2wcQC1Wf
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32823.ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32819&extension=ts&play_token=INvAWgImrS
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32819.ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://iptvch.com:2082/live/Hananet/JUJT9zt2bR5P/254687.ts
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32825.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148480&extension=ts&play_token=PyhvXaL5Ej
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148480.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=252293&extension=ts&play_token=xGvuTVADqb
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/252293.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148482&extension=ts&play_token=uMavELZCdu
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148482.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32815&extension=ts&play_token=VczXCZPkKv
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148489.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32814&extension=ts&play_token=z1cZ2DRGMa
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32814.ts
 #EXTINF:-1 tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=148479&extension=ts&play_token=Rwk0dYHfCd
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/148479.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250651&extension=ts&play_token=G7kATiJbi6
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32807.ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=250650&extension=ts&play_token=PrXb3WJB2Z
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250650.ts
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=32820&extension=ts&play_token=FMss4kRXYH
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32820.ts
