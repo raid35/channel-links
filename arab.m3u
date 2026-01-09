@@ -1,26 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://vibertv.online:8080/live/2020/2020/234.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 2
-http://vibertv.online:8080/live/2020/2020/229.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://vibertv.online:8080/live/2020/2020/230.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://vibertv.online:8080/live/2020/2020/231.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://vibertv.online:8080/live/2020/2020/232.ts
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://vibertv.online:8080/live/2020/2020/233.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485632.ts
+http://tayaar.xyz:80/live/23952227842/112233ahmed/485632.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485633.ts
+http://tayaar.xyz:80/live/23952227842/852215668548/485633.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485634.ts
+http://tayaar.xyz:80/live/23952227842/852215668548/485634.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485635.ts
+http://tayaar.xyz:80/live/23952227842/852215668548/485635.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485636.ts
+http://tayaar.xyz:80/live/23952227842/852215668548/485636.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://tayaar.xyz:80/live/ahmed112233/112233ahmed/485637.ts
+http://tayaar.xyz:80/live/23952227842/852215668548/485637.ts
 
