@@ -78,7 +78,7 @@ http://r665.io:80/live/madescas/pxJWcTK/7015.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
 http://r665.io:80/live/madescas/pxJWcTK/1844.m3u8
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/19667.m3u8
+http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78278.ts
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
 http://r665.io:80/live/madescas/pxJWcTK/3952.m3u8
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
