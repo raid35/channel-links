@@ -1,10 +1,6 @@
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-name="|AR| BEIN SPORTS HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS HD (50 FPS)
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://tayaar.xyz:80/live/23952227842/852215668548/485635.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/85866.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
+#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="ALWAN SPORTS",CUP Can 1 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/85870.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/1833124.ts
