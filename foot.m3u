@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AR: beIN SPOORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 1 4K
-http://vibertv.online:8080/live/2020/2020/19.ts
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="",bein_1
 http://vibertv.online:8080/live/2020/2020/20.ts
 #EXTINF:-1 tvg-name="AR: beIN SPOORTS 2  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sports 4K",AR: beIN SPOORTS 2  4K
@@ -51,6 +51,7 @@ http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605097.ts
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605098.ts
 #EXTINF:-1 tvg-name="alrabiaa_sport_1" tvg-logo="https://www2.0zz0.com/2025/12/22/00/465852388.png",Thmanyah 3
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/605099.ts
+
 
 
 
