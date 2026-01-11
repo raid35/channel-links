@@ -25,6 +25,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
 
