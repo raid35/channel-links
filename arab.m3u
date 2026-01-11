@@ -1,36 +1,74 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://r665.io:80/live/madescas/pxJWcTK/89259.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5359.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5348.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5360.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5349.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5361.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5350.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5363.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5351.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5364.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5352.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5365.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5353.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5366.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5354.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5367.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5355.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5368.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5356.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120808.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120808.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120809.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120809.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120810.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120810.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120811.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120811.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120812.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120812.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120813.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120813.m3u8
 #EXTINF:-1 tvg-name="AR: SHASHA SPORT 1 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-01-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 1 HD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120805.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120805.m3u8
 #EXTINF:-1 tvg-name="AR: SHASHA SPORT 2 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-02-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 2 HD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120806.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120806.m3u8
 #EXTINF:-1 tvg-name="AR: SHASHA SPORT 3 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-03-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 3 HD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120807.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120807.m3u8
 #EXTINF:-1 tvg-name="AR: Shahid Sport 1" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 1
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120536.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120536.m3u8
 #EXTINF:-1 tvg-name="AR: Shahid Sport 2" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 2
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120535.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120535.m3u8
 #EXTINF:-1 tvg-name="AR: Shahid Sport 3" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 3
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120534.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120534.m3u8
 #EXTINF:-1 tvg-name="AR: Shahid Sport 4" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 4
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120533.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120533.m3u8
 #EXTINF:-1 tvg-name="AR: Thamanya 1 FHD" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="ARABIC SPORTS",AR: Thamanya 1 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120801.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120801.m3u8
 #EXTINF:-1 tvg-name="AR: Thamanya 2 FHD" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="ARABIC SPORTS",AR: Thamanya 2 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120803.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120803.m3u8
 #EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f15%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 1 HD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77527.ts
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77527.m3u8
 #EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 2 HD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77528.ts
 
