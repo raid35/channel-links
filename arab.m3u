@@ -37,6 +37,24 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5355.m3u8
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5368.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5356.m3u8
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 1 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661030.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 2 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661031.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 3 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661032.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 4 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661033.m3u8
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 5 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661034.m3u8
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 6 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661035.m3u8
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 7 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661036.m3u8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 8 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661037.m3u8
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 9 HD SS
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/661038.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120808.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
@@ -49,6 +67,42 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120811.m3u8
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120812.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120813.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORT",Alwan Sport 1 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852915.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 SD" group-title="ALWAN SPORT",Alwan Sport 1 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852916.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 1 4K" group-title="ALWAN SPORT",Alwan Sport 1 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852917.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852918.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 SD" group-title="ALWAN SPORT",Alwan Sport 2 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852919.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 4K" group-title="ALWAN SPORT",Alwan Sport 2 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852920.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852921.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 SD" group-title="ALWAN SPORT",Alwan Sport 3 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852922.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 4K" group-title="ALWAN SPORT",Alwan Sport 3 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852923.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852924.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 SD" group-title="ALWAN SPORT",Alwan Sport 4 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852925.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 4K" group-title="ALWAN SPORT",Alwan Sport 4 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852926.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852927.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 SD" group-title="ALWAN SPORT",Alwan Sport 5 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852928.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 4K" group-title="ALWAN SPORT",Alwan Sport 5 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852929.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 6 HD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852930.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 SD" group-title="ALWAN SPORT",Alwan Sport 6 SD
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852931.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 4K" group-title="ALWAN SPORT",Alwan Sport 6 4K
+http://071024.com:88/live/88223/pAvmtsSlqtrxPA5/852932.m3u8
 #EXTINF:-1 tvg-name="AR: SHASHA SPORT 1 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-01-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 1 HD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120805.m3u8
 #EXTINF:-1 tvg-name="AR: SHASHA SPORT 2 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-02-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 2 HD
