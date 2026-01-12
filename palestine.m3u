@@ -1,12 +1,15 @@
-#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
+#EXTM3U
+#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/ECV-FbR-T42Vu-w7pMUksGntMbeRiQc71hqI3C9FUDJtS6wfKGPuYZZXKQlLqwpV8oWNZPZzUpPcGsAjxm0VTg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="General",Fajer TV 2
+#EXTINF:-1 tvg-name="AL-FAJER TV 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1739356304191.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 FHD
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=1&server=1&.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
 http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/60521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 3
+#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
 http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/60522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 4
+#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
 http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/60523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
+#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
 http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/60524.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
