@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD MS
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD LO
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/ECV-FbR-T42Vu-w7pMUksGntMbeRiQc71hqI3C9FUDJtS6wfKGPuYZZXKQlLqwpV8oWNZPZzUpPcGsAjxm0VTg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD SS
 http://r665.io:80/live/madescas/pxJWcTK/89259.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5359.m3u8
