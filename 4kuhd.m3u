@@ -3,7 +3,7 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTK
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="ALWAN SPORTS",CUP Can 1 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/85870.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/1833124.ts
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uZkvpfCPHz32CAdGQsd8_ahPxw9bqW5KPRJfiMs5WqexNppmFl-DrvXeDRYxvIU3BkYgUha5UQwoKdrDLL399g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
 https://live20.bozztv.com/akamaissh101/ssh101/moudapp/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/101x76/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180101/canal-ouah/CHN43FN/CANALCAN_640x480AFRIQUE-mF7q",canalplus CAN
