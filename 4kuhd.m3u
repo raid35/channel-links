@@ -1,23 +1,38 @@
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="|AR| BEIN SPORTS HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS HD (50 FPS)
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="ALWAN SPORTS",CUP Can 1 FHD
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/85870.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uZkvpfCPHz32CAdGQsd8_ahPxw9bqW5KPRJfiMs5WqexNppmFl-DrvXeDRYxvIU3BkYgUha5UQwoKdrDLL399g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
-https://live20.bozztv.com/akamaissh101/ssh101/moudapp/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/101x76/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180101/canal-ouah/CHN43FN/CANALCAN_640x480AFRIQUE-mF7q",canalplus CAN
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652348.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4k SA
-http://netfilx.online/live/siptvteam/siptvteam/477418.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4k SA
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652395.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4K NX
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652399.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4K NX
-http://dhoomtv.xyz/live/Suryaaa/SURYAAAA/652395.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4k SA
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 4K MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4K MS
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140900.ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846576.ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140901.ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846575.ts
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140902.ts
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846574.ts
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140903.ts
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846573.ts
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140904.ts
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846572.ts
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140905.ts
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846571.ts
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140906.ts
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846570.ts
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846569.ts
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846578.ts
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
+http://r665.io:80/PacoSico/sbTD8SJ/42086
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
+http://r665.io:80/PacoSico/sbTD8SJ/4418
+#EXTINF:-1 tvg-name="|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)
+http://r665.io:80/PacoSico/sbTD8SJ/112160
