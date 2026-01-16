@@ -1,59 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 1 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222912.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 1 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222922.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 1 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222912.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 2 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222913.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 2 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222923.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 3 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222914.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 3 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222924.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 4 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222915.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 4 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222925.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 5 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222916.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 5 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 6 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 6 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 6 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222927.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 7 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222918.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 7 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222929.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 8 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 8 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222930.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 9 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222920.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORm3u8 9 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/223018.m3u8
-########### beIN SPORTS 4K ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-https://py.dencreak.com/bn_s_4k1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-https://py.dencreak.com/bn_g_4k1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-https://py.dencreak.com/bn_s_4k2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-https://py.dencreak.com/bn_g_4k2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-https://py.dencreak.com/bn_s_4k3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-https://py.dencreak.com/bn_g_4k3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-https://py.dencreak.com/bn_s_4k4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-https://py.dencreak.com/bn_g_4k4.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/222913.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 3 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222914.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 4 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222915.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 5 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222916.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 6 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222917.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 7 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222918.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 8 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222919.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORm3u8 FHD",beIN SPORTS 9 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/222920.ts
+
 
 
 
