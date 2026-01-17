@@ -1,24 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA FRANCE
-https://raid35.github.io/docs/canal.html
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://r665.io/live/PacoSico/sbTD8SJ/183892.ts
+http://u.goldeniptv.com:2052/live/Emile/11223344/265450.ts
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/1286.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265451.ts
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/1285.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265452.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
 http://sansatplus.net:88/live/02065673008870/2812685622/127000.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2475.png" group-title="Français ",FR | RMC SPORT 2
 http://sansatplus.net:88/live/02065673008870/2812685622/127001.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1184.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265268.ts
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
-http://r665.io:80/live/madescas/pxJWcTK/331.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265269.ts
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1187.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265396.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://i.imgur.com/iJba5HM.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT FHD
-http://r665.io:80/live/madescas/pxJWcTK/959.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265443.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://r665.io:80/live/madescas/pxJWcTK/95353.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -34,77 +32,77 @@ http://tgrpro25.xyz:8080/live/Hasipsah/yTYZx8mBb2/100924.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
 http://r665.io:80/live/madescas/pxJWcTK/1185.m3u8
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1186.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265347.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/12786.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265267.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
-http://r665.io:80/live/madescas/pxJWcTK/37725.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265345.ts
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1911.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265349.ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1910.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265350.ts
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1913.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265352.ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1912.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265351.ts
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://r665.io:80/live/madescas/pxJWcTK/1920.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265354.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1149.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265270.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
-http://r665.io:80/live/madescas/pxJWcTK/1224.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265278.ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
-http://r665.io:80/live/madescas/pxJWcTK/1636.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265277.ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://i.imgur.com/q5BDioj.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
-http://r665.io:80/live/madescas/pxJWcTK/1639.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265280.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://i.imgur.com/TmsIL5C.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1150.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265271.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://r665.io:80/live/madescas/pxJWcTK/112613.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265272.ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1151.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265273.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/lvhTu1V.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1152.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265274.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/dPD2onW.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1153.m3u8#
+http://u.goldeniptv.com:2052/live/Emile/11223344/265275.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/byGAKKs.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77849.ts
+http://u.goldeniptv.com:2052/live/Emile/11223344/265276.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
 http://r665.io:80/live/madescas/pxJWcTK/1950.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
-http://r665.io:80/live/madescas/pxJWcTK/1128.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265279.ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
 http://r665.io:80/live/madescas/pxJWcTK/7015.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
-http://r665.io:80/live/madescas/pxJWcTK/1844.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265396.ts
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/78278.ts
+http://u.goldeniptv.com:2052/live/Emile/11223344/265397.ts
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
-http://r665.io:80/live/madescas/pxJWcTK/3952.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265398.ts
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
-http://r665.io:80/live/madescas/pxJWcTK/1840.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265416.ts
 #EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
-http://r665.io:80/live/madescas/pxJWcTK/2026.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265756.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://r665.io/live/madescas/pxJWcTK/1708.ts
+http://u.goldeniptv.com:2052/live/Emile/11223344/265407.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://148.251.133.153:8181/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
 http://sansatplus.net:88/live/02065673008870/2812685622/127084.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
-http://r665.io:80/live/madescas/pxJWcTK/1841.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265408.ts
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/19712.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265395.ts
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
-http://r665.io:80/live/madescas/pxJWcTK/19709.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265394.ts
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
-http://r665.io:80/live/madescas/pxJWcTK/1160.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265385.ts
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
-http://r665.io:80/live/madescas/pxJWcTK/1159.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265386.ts
 #EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
-http://r665.io:80/live/madescas/pxJWcTK/20.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265387.ts
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
-http://r665.io:80/live/madescas/pxJWcTK/1904.m3u8
+http://u.goldeniptv.com:2052/live/Emile/11223344/265401.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://io.t-v.io:80/play/l5SF5QI0zEOqVbczrod3V8lcD_yy836FgtBCSJdwhjLLAF5KGFbwWEgw8g-oixvxzjgWTHND135v7sYoWgh8FEDL3IvJWVrPYu-BDPPL7gsH53u5OrKTyNJAkWkwsa7J
+http://u.goldeniptv.com:2052/live/Emile/11223344/265453.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61715.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
