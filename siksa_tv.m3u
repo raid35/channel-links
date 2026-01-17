@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SHASHA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
