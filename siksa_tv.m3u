@@ -87,6 +87,10 @@ https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/Netflix.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://fasselhd.com/page/image/series.jpg", 
+https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
+
                    
 
 
