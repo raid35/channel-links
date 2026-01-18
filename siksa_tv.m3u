@@ -19,8 +19,14 @@ https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SHASHA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://up6.cc//2025//04//174519833320451.jpg" group-title="ALWAN",
+https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="YACINE TV" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
@@ -28,16 +34,13 @@ https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
+#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://up6.cc//2025//04//174519833320451.jpg" group-title="ALWAN",
-https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN.m3u
-
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://suptvshop.me/wp-content/uploads/2021/11/bdab498178bf7c6f56fca0a916362196.jpeg" group-title="DOC", 
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png",
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
@@ -45,9 +48,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="YACINE TV" tvg-logo="https://th.bing.com/th/id/OIP.LP6ZrG0vG8x93PZM8kfw8AHaHY?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
-https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/AD.m3u8
