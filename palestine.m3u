@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=1&server=1&.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136397.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=2&server=1&.m3u8
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136396.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=3&server=1&.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136395.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136394.ts
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=4&server=1&.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
+https://foxtv7.com/X-FILES/cast/script.php?cat=alfajer-mejarserver&channel=5&server=1&.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
