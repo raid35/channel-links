@@ -1,30 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2" group-title="Français ",FR | XPOLA FRANCE
-https://raid35.github.io/docs/kyng360.html
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/146116.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15401.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/149773.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15400.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/250663.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15400.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/229.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15386.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/230.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15385.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 FHD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/231.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15384.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 7 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/232.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15383.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 8 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/233.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15382.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 9 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/6582.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/20016.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 10 HD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/6583.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/20015.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://u.goldeniptv.com:2052/live/abcd1234/abcd1234/265445.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/15394.m3u8
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/256628.ts
+http://tv.startseven.tn:2052/live/alain67/eyJYVjMpbAB8/141054.m3u8
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
 http://nour.homes:80/play/live.php?mac=00:1A:79:CC:44:9F&stream=274847&extension=ts&play_token=rLPtYusxc9
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
