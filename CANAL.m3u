@@ -18,13 +18,13 @@ http://u.goldeniptv.com:2052/live/Emile/11223344/265396.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://i.imgur.com/iJba5HM.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT FHD
 http://u.goldeniptv.com:2052/live/Emile/11223344/265443.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://r665.io:80/live/madescas/pxJWcTK/95353.m3u8
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=356180&extension=ts&play_token=YbEjbTAC90
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://r665.io:80/live/madescas/pxJWcTK/95352.m3u8
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=356182&extension=ts&play_token=WPUR9PbK8L
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://r665.io:80/live/madescas/pxJWcTK/95351.m3u8
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=356181&extension=ts&play_token=3ysnWJi5pc
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://r665.io:80/live/madescas/pxJWcTK/95350.m3u8
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=356180&extension=ts&play_token=YbEjbTAC90
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
 http://r665.io:80/live/madescas/pxJWcTK/95349.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
