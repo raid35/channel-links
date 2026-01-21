@@ -19,6 +19,6 @@ http://tgrpro25.xyz:8080/live/armance35/07280728/226885.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4176.png" group-title="Poland",PL | Polsat Sport Premium PPV 3
 http://tgrpro25.xyz:8080/live/armance35/07280728/226883.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4177.png" group-title="Poland",PL | Polsat Sport Premium PPV 4
-https://ak-live-play-dash.jacocdn.com/sport/538563574549722286_c1_1080P/main.mpd?biz=0&cip=156.223.212.158&key=1768497550-6928389377cd63ae7bd802950f1e2648&oid=1&play_proto=dash&src=1&uid=3021651415&vdr=0&sign=dfbb3196518ced63c51675d4463bdd30
+https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Ffjr_1_1080p%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D83a0c8b144482d713577e308aa43f2d0474c0294-87416eaa98ff49a6c18f8ab104ad1cc9-1769040673-1769033443%26remote%3Dno_check_ip
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
-https://ak-live-play-dash.jacocdn.com/sport/538563574549722286_c1_480P/main.mpd?biz=0&cip=156.223.212.158&key=1768497787-a85ff3522861909169a6ca3c04552c48&oid=1&play_proto=dash&src=1&uid=3021651415&vdr=0&sign=d2568d4f5a93be6876f0c600ff820377
+https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Fpost3%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D9d6a55c87c5acc7383384ef46c88fde8338b6478-4e944e362517988643db27057c897f75-1769041419-1769034189%26remote%3Dno_check_ip
