@@ -84,7 +84,7 @@ http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=941658&exten
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
 http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=941673&extension=ts&play_token=A9RQS7Y5Ld
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=941670&extension=ts&play_token=wl2ttAetwh
+http://hydra.st/live/0501213093/S147852369A/565184.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
 http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=941676&extension=ts&play_token=ZJFAvHvSLE
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
