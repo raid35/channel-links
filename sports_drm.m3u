@@ -5,34 +5,24 @@ https://raid35.github.io/docs/freeiptv.html
 #EXTINF:-1 tvg-name="AR: Shahid Sport 1" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 1
 https://raid35.github.io/docs/player.html?id=shahid-sports-1
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png", AD SPORTS PREMIUM 1
-https://raid35.github.io/docs/player.html?id=ADSP1
+https://raid35.github.io/docs/player.html?id=sps1
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
-https://raid35.github.io/docs/player.html?id=ADSP2
+https://raid35.github.io/docs/player.html?id=sps2
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-connect-malaysia.png"", Bein Sports 2
 https://raid35.github.io/docs/player.html?id=BEIN2
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-connect-malaysia.png"", Bein Sports 3
-https://raid35.github.io/docs/player.html?id=Bein3
+https://raid35.github.io/docs/player.html?id=BEIN3
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
+https://raid35.github.io/docs/player.html?id=La_Une
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 https://raid35.github.io/docs/player.html?id=LA_LIGÁ
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._VeKRxMQ1Uzp2Ozz57Vi7gHaA9?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3", sky football
-https://raid35.github.io/docs/player.html?id=sky_football
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 1
-https://raid35.github.io/docs/player.html?id=ziggo1
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport2" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 2
-https://raid35.github.io/docs/player.html?id=ziggo2
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport3" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 3
-https://raid35.github.io/docs/player.html?id=ziggo3
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 4
-https://raid35.github.io/docs/player.html?id=ziggo4
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport5" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 5
-https://raid35.github.io/docs/player.html?id=ziggo5
-#EXTINF:-1 tvg-id="" tvg-name="ziggosport6" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png", ZIGGO SPORTS 6
-https://siksa40.blogspot.com/2025/07/ziggo6.html
 #EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
-https://raid35.github.io/docs/player.html?id=Match!_Futbol1
+https://raid35.github.io/docs/player.html?id=Матч!_1
 #EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
-https://raid35.github.io/docs/player.html?id=Match!_Futbol2
+https://raid35.github.io/docs/player.html?id=Матч!_2
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
-https://raid35.github.io/docs/player.html?id=Match!_Futbol3
-#EXTINF:-1 tvg-name="AR: Shahid Sport 1" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 1
-https://raid35.github.io/docs/ssc3.html
+https://raid35.github.io/docs/player.html?id=Матч!_3
+#EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://7sport.sk/wp-content/uploads/2023/02/sport1-300x150.png", Sport 1 SK
+https://raid35.github.io/docs/player.html?id=Sport_1SK
+#EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://7sport.sk/wp-content/uploads/2023/02/sport2-300x150.png", Sport 2 SK
+https://raid35.github.io/docs/player.html?id=Sport_2SK
