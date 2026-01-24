@@ -26,7 +26,7 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
-https%3A%2F%2Fhtvmada.mada.ps%3A4443%2Fraya%2Ftracks-v1a1%2Fmono.m3u8
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/iWLVtcCwBbQ-CAgQpYHr2APShmEFlgojHZh4miwEGrWu42W4wiBfoFNVlEuJWIOYvKjAxCganV2kAgQiI6niKw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
