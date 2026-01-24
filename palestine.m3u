@@ -26,24 +26,11 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
-http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/60527.ts
+https%3A%2F%2Fhtvmada.mada.ps%3A4443%2Fraya%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1780642816.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
-#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Ffjr_1_1080p%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D162c2397609a5249d94c27ffcba61a22f73d40a0-8e524a112d121f7e865b061eed6b1a2d-1769043277-1769036047%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Fnm2hevc%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D1c7f573bdc48e33f6f38e5b8e2864467771ef09b-59525cd50129793b400e524853d72fa5-1769042913-1769035683%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Ffjr_3_1080p%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D66376662b203527c9dc2375331fe70eb4fa9b4ee-a035e3a9530ab29fbe1afd6370e4fcc4-1769043205-1769035975%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Ffjr_5_1080p%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Dfce263bf3a8e5787f6c4e3d5eac345155ad7cbe1-473ec154a52e12700a444ec1ede4e44d-1769043098-1769035868%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Fpost2%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D7954ff2947076880465e7c00a031f28b3d706dad-4c11a6c17596c8468c2b2c3bb183c870-1769043015-1769035785%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Fpost2%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Dd5923a535984c636ba1ebaebb052f1e5932e8eac-2798c5643a941028cd87b3ff337d1e6e-1769043377-1769036147%26remote%3Dno_check_ip
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fcdn9-mejarhosting.cfd%2Fpost3%2F2026%2F01%2F21%2F22%2F53%2F02-06006.js%3Ftoken%3D1f520b7e86adec455da08a31d739ec0ad6c5bb1f-73e3247bdea176eae3f4f6fdfb29cf52-1769043161-1769035931%26remote%3Dno_check_ip
+
