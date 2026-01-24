@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Poland",PL | Eleven Sports 1 HD
-https://tv-trt1-dash.medya.trt.com.tr/master.mpd
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689695&extension=ts&play_token=6coFoNY1Cs
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 2 FHD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Poland",PL | Eleven Sports 2 FHD
 http://hydra.st/movie/0501213093/S147852369A/669312.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Poland",PL | Eleven Sports 3 HD
@@ -9,16 +9,16 @@ http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77850.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 FHD" tvg-logo="https://i.imgur.com/6mSSfZ5.png" group-title="POLAND",CANAL+ 360 FHD
 http://tgrpro25.xyz:8080/live/armance35/07280728/226871.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4165.png" group-title="Poland",PL | Canal+ Sport 1 FHD
-http://tgrpro25.xyz:8080/live/armance35/07280728/226872.ts
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689691&extension=ts&play_token=ROzx3uJ3PO
 #EXTINF:-1 tvg-id="" tvg-name="PL | Canal+ Sport 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4166.png" group-title="Poland",PL | Canal+ Sport 2 FHD
-http://tgrpro25.xyz:8080/live/armance35/07280728/226870.ts
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689692&extension=ts&play_token=xi8tda8x8h
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4174.png" group-title="Poland",PL | Polsat Sport Premium 1 FHD
-https://dev-a-live.pantheonsite.io/matches.php
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689685&extension=ts&play_token=hdrIBpUk1Q
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4175.png" group-title="Poland",PL | Polsat Sport Premium 2 FHD
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fcast-x.com%2Ftoken.php%3Fid%3Dnm2hevc%26type%3Dhls%26h%3Dhttps%253A%252F%252Fmejarhosting.cfd%26ts%3D1769033467%26sig%3Dfa0a89be9c6b608c2e2ffef6edf93d697085b49aaa94454e036cb29340c7fa3e
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689686&extension=ts&play_token=gAh442M1FX
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4176.png" group-title="Poland",PL | Polsat Sport Premium PPV 3
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fcast-x.com%2Ftoken.php%3Fid%3Dfjr_3_720p%26type%3Dhls%26h%3Dhttps%253A%252F%252Fmejarhosting.cfd%26ts%3D1769033467%26sig%3Da2aa15791dc44cc7b6d2c1ad5f91653e3b6232a6f686f12575e66c2e862cd2a5
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689687&extension=ts&play_token=sz8kAqZthC
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4177.png" group-title="Poland",PL | Polsat Sport Premium PPV 4
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Ffjr_1_1080p%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D83a0c8b144482d713577e308aa43f2d0474c0294-87416eaa98ff49a6c18f8ab104ad1cc9-1769040673-1769033443%26remote%3Dno_check_ip
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689688&extension=ts&play_token=f3iplcTF8S
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
-https://dev-a-live.pantheonsite.io/matches.php?action=stream&url=https%3A%2F%2Fmejarhosting.cfd%2Fpost3%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D9d6a55c87c5acc7383384ef46c88fde8338b6478-4e944e362517988643db27057c897f75-1769041419-1769034189%26remote%3Dno_check_ip
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689689&extension=ts&play_token=ewjmRTJwK7
