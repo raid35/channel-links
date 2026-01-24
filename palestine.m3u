@@ -30,7 +30,7 @@ https%3A%2F%2Fhtvmada.mada.ps%3A4443%2Fraya%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1780642816.m3u8
+https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
 
