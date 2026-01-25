@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126935.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/15466.ts
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126981.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/27000.ts
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126982.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/4208.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126810.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/260329.ts
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126832.ts
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
@@ -24,25 +24,25 @@ http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=356180&exte
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
 http://r665.io:80/live/madescas/pxJWcTK/95349.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://tgrpro25.xyz:8080/live/Hasipsah/yTYZx8mBb2/100924.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/6446.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/169175.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/57.ts
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126815.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/82637.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/861326.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/205112.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/224456.ts
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127220.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/55.ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127217.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/4371.ts
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://u.goldeniptv.com:2052/live/Emile/11223344/265352.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/58.ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127216.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/56.ts
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127239.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/4643.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127296.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
@@ -96,16 +96,16 @@ http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127080.ts
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127089.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126938.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20021.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126939.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20020.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126940.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20019.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126941.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20018.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126941.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20017.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126943.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20016.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126944.ts
+http://tv.startseven.tn:2052/live/GbardVPL/h5u46cGR2/20015.ts
