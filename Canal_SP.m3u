@@ -98,8 +98,8 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png", CBC Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=937f2af157c2bcc8631364d7bbb58198:a2d8a370b13c2e57aed02254b584ca91
-https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._VeKRxMQ1Uzp2Ozz57Vi7gHaA9?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3", sky football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
@@ -210,7 +210,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-id="mewatch1.sg" tvg-name="MeWatch 1 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 tvg-id="mewatch1.sg" tvg-name="MeWatch 1 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 1
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd?|drmScheme=clearkey&drmLicense=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 #EXTINF:-1 tvg-id="mewatch2.sg" tvg-name="MeWatch 2 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 tvg-id="mewatch3.sg" tvg-name="MeWatch 3 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 3
