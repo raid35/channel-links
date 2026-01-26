@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://arox.cc/live/1100817324546248/1100817324546248/664.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690269.ts
 #EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://u.goldeniptv.com:2052/live/Emile/11223344/221409.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690270.ts
 #EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://tv.startseven.tn:2052/live/boniface/11072013/12998.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690272.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://tv.startseven.tn:2052/live/boniface/11072013/5226.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690273.ts
 #EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://tv.startseven.tn:2052/live/boniface/11072013/8644.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690274.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://tv.startseven.tn:2052/live/boniface/11072013/10019.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690275.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://tv.startseven.tn:2052/live/boniface/11072013/8707.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690276.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://tv.startseven.tn:2052/live/boniface/11072013/13010.ts
+http://161.123.116.21:8080/live/Shelley1/Shelley1/1690277.ts
 #EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
 http://tv.startseven.tn:2052/live/boniface/11072013/99.ts
 #EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
