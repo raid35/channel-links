@@ -18,8 +18,20 @@ https://siksa40.blogspot.com/2026/01/bein3.html
 https://siksa40.blogspot.com/2026/01/laune.html
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 https://siksa40.blogspot.com/2026/01/laliga.html
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg" group-title="GitTv",premier Sports 1
+https://siksa40.blogspot.com/2026/01/premier-sports-1.html
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg" group-title="GitTv",premier Sports 2
+https://siksa40.blogspot.com/2026/01/premier-sports-2.html
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._VeKRxMQ1Uzp2Ozz57Vi7gHaA9?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3", sky football
+https://siksa40.blogspot.com/2026/01/skyfootball.html
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" group-title="Sports",TNT 1
 https://siksa40.blogspot.com/2025/07/tnt1.html
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" group-title="Sports",TNT 2
+https://siksa40.blogspot.com/2025/07/tnt2.html
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" group-title="Sports",TNT 3
+https://siksa40.blogspot.com/2025/07/tnt3.html
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" group-title="Sports",TNT 4
+https://siksa40.blogspot.com/2025/07/tnt4.html
 #EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
 https://siksa40.blogspot.com/2025/08/matchfutbol-1.html
 #EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
