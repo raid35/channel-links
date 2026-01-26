@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://flowcastapp.com/wp-content/uploads/2025/03/cropped-IMG_20250304_234220_711-2048x504-1-1-180x180.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/sports_drm.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg", 
+https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SHASHA.m3u
 
@@ -81,9 +84,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/Netflix.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://fasselhd.com/page/image/series.jpg", 
-https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
 
                    
 
