@@ -30,7 +30,7 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/iWLVtcCwBbQ-CAgQp
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+http://ar.packetcdn.me:9596/8be1228d28529858b7bfbf3a21d26b145a68bd7b97230d52307b0af002bbcfbe7449d5fa3819/index.m3u8?token=9bed94a15fa0bb5414dcedc1dbf6f5dd11b0cac3edaf8eea27fd9f7c71767683063afded7e39bea945a2cc41b30b1b83edcbb334fd1efc498c9925544253a17c1bfb81a3218274-7e90e482c0d60c0ee348833d79591e8e
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
 
