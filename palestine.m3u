@@ -28,9 +28,9 @@ https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/iWLVtcCwBbQ-CAgQpYHr2APShmEFlgojHZh4miwEGrWu42W4wiBfoFNVlEuJWIOYvKjAxCganV2kAgQiI6niKw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
 
