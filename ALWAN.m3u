@@ -1,40 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://hydra.st/live/0501213093/S147852369A/661237.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1341000&extension=.m3u8&play_token=WIRSo815A5
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
-http://hydra.st/live/0501213093/S147852369A/661236.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340999&extension=ts&play_token=3N5SZRKVjh
-#EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://hydra.st/live/0501213093/S147852369A/661235.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 3 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340998&extension=ts&play_token=ZHCGdVH8cL
-#EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://hydra.st/live/0501213093/S147852369A/661234.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 4 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340997&extension=ts&play_token=V6U0t47Fg7
-#EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://hydra.st/live/0501213093/S147852369A/661233.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 5 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340996&extension=ts&play_token=zaqnrF2h3J
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://hydra.st/live/0501213093/S147852369A/661232.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340995&extension=ts&play_token=pEc0sgro64
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 1 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 1 FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56761.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 2 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 2 FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56762.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Alwathaeqye FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Alwathaeqye FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56763.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Atfal FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Atfal FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56764.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56765.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Turkey FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Turkey FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56766.m3u8
+#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136397.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136396.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136395.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136394.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
+http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
 https://sdmax111.provegooott.com/41_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
@@ -99,49 +73,44 @@ https://sdmax111.provegooott.com/39_.m3u8
 https://sdmax111.provegooott.com/30_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 8 
 https://sdmax111.provegooott.com/16_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
+#EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 9
 https://sdmax111.provegooott.com/49_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9
 https://sdmax111.provegooott.com/40_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN SPORT",BEIN SPORTS 9
+#EXTINF:-1 tvg-name="BEIN SPORTS 9" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN SPORT",BEIN SPORTS 9
 https://sdmax111.provegooott.com/31_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN SPORT",BEIN SPORTS 9 
+#EXTINF:-1 tvg-name="BEIN SPORTS 9" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN SPORT",BEIN SPORTS 9 
 https://sdmax111.provegooott.com/17_.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 1" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 1
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56553.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 2" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 2
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56554.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 3" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 3
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56555.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 4" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 4
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56556.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 5" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 5
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56557.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 6" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 6
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56558.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 7" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 7
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56559.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 8" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 8
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56560.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 9" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 9
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56561.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 10" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 10
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56562.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 11" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 11
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56563.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 12" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 12
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56564.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 13" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 13
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56565.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 14" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 14
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56566.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 15" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 15
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56567.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 16" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 16
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56568.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 17" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 17
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56569.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 18" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 18
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56570.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 19" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 19
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56571.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222934.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222935.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222936.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222937.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222938.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222939.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222940.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222941.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
+http://u.goldeniptv.com:2052/live/Emile/11223344/222942.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641605.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641606.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641607.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641608.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641609.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641610.ts
+#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641611.ts
+
