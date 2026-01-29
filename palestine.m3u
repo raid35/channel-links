@@ -30,7 +30,7 @@ https://watch.eighty-eight.watch:8070/free/free/8-get-next-cached@watch1.eighty-
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7h3FeJSiQk25i_GM_5XN0x42yHm3ANKGDgRD9srz0JCNOljzkKGYmTP9VLHw9zaZlFv0eUDzAH6AjqJ72Fib4Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7h3FeJSiQk25i_GM_5XN0x42yHm3ANKGDgRD9srz0JCNOljzkKGYmTP9VLHw9zaZlFv0eUDzAH6AjqJ72Fib4Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
 
