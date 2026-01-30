@@ -88,6 +88,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/update_json
+
+#EXTINF:-1 tvg-id="" tvg-name="https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png", 
+https://raw.githubusercontent.com/raid35/channel-links/main/tv.json
                    
 
 
