@@ -202,7 +202,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=
 #EXTINF:-1 tvg-id="mewatch1.sg" tvg-name="MeWatch 1 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 tvg-id="mewatch1.sg" tvg-name="MeWatch 1 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd?|drmScheme=clearkey&drmLicense=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd?|drmScheme=clearkey&drmLicense=8acf0b726ddd41512e928bd5662adf21:3497432160600000
 #EXTINF:-1 tvg-id="mewatch2.sg" tvg-name="MeWatch 2 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 tvg-id="mewatch3.sg" tvg-name="MeWatch 3 ðŸ‡¸ðŸ‡¬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSh2pMjHyq7YqjA6UsGzUUOXvzbPt4JG9dn7XVJhRtVJIzOAeLiGwysj&s=10" group-title="MeWatch SG",MeWatch 3
