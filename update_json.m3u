@@ -1,11 +1,32 @@
 {
   "channels": [
     {
-      "name": "BeiNsports2_HD",
-      "url": "aHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEmdHlwZS8zLm0zdTg=",
-      "logo": "",
+      "name": "BeiNsports1_HD",
+      "url": "aHR0cDovL2V4YW1wbGUuY29tL2xpdmUvYmVpbjEvbGl2ZS5tM3U4",
+      "logo": "https://example.com/logos/bein1.png",
       "drmLicense": "",
       "group": "Sports"
+    },
+    {
+      "name": "BeiNsports2_HD",
+      "url": "aHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEmdHlwZS8zLm0zdTg=",
+      "logo": "https://example.com/logos/bein2.png",
+      "drmLicense": "",
+      "group": "Sports"
+    },
+    {
+      "name": "National_Geo",
+      "url": "aHR0cDovL2V4YW1wbGUuY29tL2xpdmUvbmF0Z2VvL2luZGV4Lm0zdTg=",
+      "logo": "https://example.com/logos/natgeo.png",
+      "drmLicense": "",
+      "group": "Documentary"
+    },
+    {
+      "name": "MBC_1",
+      "url": "aHR0cDovL2V4YW1wbGUuY29tL2xpdmUvbWJjMS9pbmRleC5tM3U4",
+      "logo": "https://example.com/logos/mbc1.png",
+      "drmLicense": "",
+      "group": "Entertainment"
     }
   ]
 }
