@@ -1,7 +1,23 @@
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png" group-title="BEIN FHD",BEIN 4k
 http://sbix.pro:80/ziP800/85704502/420862.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png" group-title="BEIN FHD",BEIN 4k
-http://hydra.st/live/0501213093/S147852369A/327327.ts
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport1.png" group-title="PREMIUM SPORT",Canalsport1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport2.png" group-title="PREMIUM SPORT",Canalsport2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport2.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport3.png" group-title="PREMIUM SPORT",Canalsport3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport3.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport4.png" group-title="PREMIUM SPORT",Canalsport4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
 https://sdmax111.provegooott.com/41_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
@@ -74,41 +90,3 @@ https://sdmax111.provegooott.com/40_.m3u8
 https://sdmax111.provegooott.com/31_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN SPORT",BEIN SPORTS 9 
 https://sdmax111.provegooott.com/17_.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 1" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 1
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56553.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 2" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 2
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56554.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 3" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 3
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56555.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 4" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 4
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56556.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 5" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 5
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56557.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 6" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 6
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56558.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 7" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 7
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56559.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 8" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 8
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56560.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 9" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 9
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56561.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 10" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 10
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56562.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 11" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 11
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56563.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 12" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 12
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56564.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 13" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 13
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56565.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 14" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 14
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56566.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 15" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 15
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56567.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 16" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 16
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56568.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 17" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 17
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56569.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 18" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 18
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56570.m3u8
-#EXTINF:-1 tvg-name="FR : CANAL+ LIVE 19" group-title="SFR + BEIN Sport France",FR : CANAL+ LIVE 19
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56571.m3u8
