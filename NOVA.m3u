@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 HD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/78236.ts
+http://sbix.pro:80/ziP800/85704502/647747.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77883.ts
+http://sbix.pro:80/ziP800/85704502/472074.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 HD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77899.ts
+http://sbix.pro:80/ziP800/85704502/472077.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77911.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
