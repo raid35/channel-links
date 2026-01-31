@@ -13,6 +13,8 @@ http://tv.startseven.tn:2052/live/09746171/15445345/171.ts
 http://tv.startseven.tn:2052/live/09746171/15445345/467.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
 http://tv.startseven.tn:2052/live/09746171/15445345/468.ts
+#EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
 http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1079359&extension=ts&play_token=8f0aKALbx7
 #EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
@@ -37,6 +39,8 @@ http://tv.startseven.tn:2052/live/09746171/15445345/493.ts
 http://tv.startseven.tn:2052/live/09746171/15445345/506.ts
 #EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
 http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=656033&extension=ts&play_token=UGuKr1Ki2c
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
 http://r665.io/live/PacoSico/sbTD8SJ/171.ts
 #EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
