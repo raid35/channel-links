@@ -50,6 +50,12 @@ https://siksa40.blogspot.com/2025/08/sport2sk.html
 https://siksa40.blogspot.com/2026/01/novasport1.html
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gymhfv1649341436.png",Nova Sport 2
 https://siksa40.blogspot.com/2026/01/novasport2.html
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTINF:-1 tvg-id="ZIGGO" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 
 https://raid35.github.io/docs/player.html?id=ZIGGO_1
 #EXTINF:-1 tvg-id="ZIGGO 2" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 2
@@ -62,5 +68,13 @@ https://siksa40.blogspot.com/2025/07/ziggo4.html
 https://siksa40.blogspot.com/2025/07/ziggo5.html
 #EXTINF:-1 tvg-id="ZIGGO 6" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 6
 https://siksa40.blogspot.com/2025/07/ziggo6.html
-#EXTINF:-1 tvg-id="ZIGGO 6" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 6
-https://xpola.yoo7.com/h14-page/?id=YUhSMGNITTZMeTl5WVhjdVoybDBhSFZpZFhObGNtTnZiblJsYm5RdVkyOXRMMEpsY21sMFlWTmxiR0YwWVc0dlFXaGhMM0psWm5NdmFHVmhaSE12YldGcGJpOUJiR2hoU1hCMGRqWTRmSEJzWVhsbGNpMTBlWEJsUFcwemRRPT0=
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORT VIP",Hub Premier 1 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORT VIP",Hub Premier 2 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORT VIP",Hub Premier 3 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="SPORT VIP",Hub Premier 4 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="SPORT VIP",Hub Premier 5 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
