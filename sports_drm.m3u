@@ -24,6 +24,8 @@ https://siksa40.blogspot.com/2026/01/laliga.html
 https://siksa40.blogspot.com/2026/01/premier-sports-1.html
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg" group-title="GitTv",premier Sports 2
 https://siksa40.blogspot.com/2026/01/premier-sports-2.html
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Premier League
+https://raid35.github.io/docs/player.html?id=Premier_League
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 2
 https://raid35.github.io/docs/player.html?id=Fubo_Sports_2
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._VeKRxMQ1Uzp2Ozz57Vi7gHaA9?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3", sky football
@@ -75,11 +77,11 @@ https://siksa40.blogspot.com/2025/07/ziggo5.html
 #EXTINF:-1 tvg-id="ZIGGO 6" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 6
 https://siksa40.blogspot.com/2025/07/ziggo6.html
 #EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl.jpg",ASTRO PL1 nd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8 
 #EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl5.m3u8
 #EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl6.m3u8
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORT VIP",Hub Premier 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORT VIP",Hub Premier 2 FHD
