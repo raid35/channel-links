@@ -1,15 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://hydra.st/live/0501213093/S147852369A/336106.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://hydra.st/live/0501213093/S147852369A/336104.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://hydra.st/live/0501213093/S147852369A/336102.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://hydra.st/live/0501213093/S147852369A/336100.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-http://hydra.st/live/0501213093/S147852369A/336098.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136397.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
 http://u.goldeniptv.com:2052/live/Emile/11223344/136396.ts
@@ -21,16 +11,12 @@ http://u.goldeniptv.com:2052/live/Emile/11223344/136394.ts
 http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
-https://watch.eighty-eight.watch:8070/free/free/8-get-next-cached@watch1.eighty-eight.watch@qagjhq-1769646747.seg
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Undefined",HalaRamallah
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nVrKBIzGqNg8cMwrzvifXiCYCIlzgTKrPl--YjLq9SSazOVVWu7yhebd8Vwv24nH_4dFx2_ZY-t4VZ9gFnjL7w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+http://u.goldeniptv.com:2052/live/Emile/11223344/187642.ts
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 3
+http://u.goldeniptv.com:2052/live/Emile/11223344/187643.ts
 #EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
 https://htvint.mada.ps/kolalnas/index.m3u8
 
