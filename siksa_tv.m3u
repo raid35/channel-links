@@ -46,6 +46,12 @@ https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://assets.bein.com/mena/sites/4/2023/02/beinondemand.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
@@ -57,9 +63,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTKMIY6jU-T6ZtQWNRvii_9dgdL0LdqqnfQ&s", 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/custom.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
@@ -82,14 +85,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 #EXTINF:-1 tvg-id="Netflix" tvg-name="https://a.top4top.io/p_3682ba9le1.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="https://a.top4top.io/p_3682ba9le1.jpg", 
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein_7.m3u8
 
-#EXTINF:-1 tvg-id="Netflix" tvg-name="https://a.top4top.io/p_3682ba9le1.jpg", 
-https://raw.githubusercontent.com/raid35/channel-links/main/update_json
-
-#EXTINF:-1 tvg-id="Netflix" tvg-name="https://a.top4top.io/p_3682ba9le1.jpg", 
-https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
 
 
                    
