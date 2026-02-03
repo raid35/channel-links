@@ -56,6 +56,12 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947",Prima Sport 4
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl.jpg",ASTRO PL1 nd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8 
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL3 hd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
 #EXTINF:-1 tvg-id="ZIGGO" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 
 https://raid35.github.io/docs/player.html?id=ZIGGO_1
 #EXTINF:-1 tvg-id="ZIGGO 2" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 2
@@ -68,6 +74,12 @@ https://siksa40.blogspot.com/2025/07/ziggo4.html
 https://siksa40.blogspot.com/2025/07/ziggo5.html
 #EXTINF:-1 tvg-id="ZIGGO 6" tvg-logo="https://c.top4top.io/p_3676d5s7c1.png", ZIGGO 6
 https://siksa40.blogspot.com/2025/07/ziggo6.html
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl.jpg",ASTRO PL1 nd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8 
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORT VIP",Hub Premier 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORT VIP",Hub Premier 2 FHD
