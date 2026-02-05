@@ -1,39 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
-http://iptv-premium-ott.com/live/KAMY5959/LKANM2023/402389.ts
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708978.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
 http://sbix.pro:80/ziP800/85704502/656813.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
-http://iptv-premium-ott.com/live/KAMY5959/LKANM2023/402385.ts
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708979.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
 http://sbix.pro:80/ziP800/85704502/656815.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://iptv-premium-ott.com/live/KAMY5959/LKANM2023/402383.ts
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708980.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 3 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 HD
 http://sbix.pro:80/ziP800/85704502/656819.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://sbix.pro:80/ziP800/85704502/656819.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708981.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 4 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 HD
 http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340997&extension=ts&play_token=V6U0t47Fg7
 #EXTINF:-1 tvg-name="ALWAN SPORTS 5 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 HD
-http://tv.startseven.tn:2052/live/boniface/11072013/293538.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708982.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://sbix.pro:80/ziP800/85704502/656822.m3u8
+http://tv.startseven.tn:2052/live/boniface/11072013/293538.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 6 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 HD
-http://tv.startseven.tn:2052/live/boniface/11072013/293539.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/708983.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://sbix.pro:80/ziP800/85704502/656825.m3u8
+http://tv.startseven.tn:2052/live/boniface/11072013/293539.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 1 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 1 FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56761.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709000.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 2 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 2 FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56762.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 3 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 3 FHD VIP Arb
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 4 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 4 FHD VIP Arb
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709003.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Alwathaeqye FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Alwathaeqye FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56763.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709009.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Atfal FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Atfal FHD VIP Arb
-https://xpola.yoo7.com/h14-page/?id=YUhSMGNITTZMeTkzZDNjdVkyRnlZVzU1ZEhZdWMyaHZjQzlLWVVkUFlVNXdaV1ZNWW05emEzVXZRMEZTUVU1WlUxQlBVbFJUTG5Cb2NIeHdiR0Y1WlhJdGRIbHdaVDF0TTNVPQ==
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709010.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56765.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709008.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alwan Turkey FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Turkey FHD VIP Arb
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56766.m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl.jpg",ASTRO PL1 nd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709005.ts
