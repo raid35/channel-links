@@ -5,12 +5,12 @@ http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712639&ext
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="EU | NO",NO| viasat-ultra-hd
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712634&extension=ts&play_token=pgzFhYpKDb
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="EU | GERMANY HD",DE| DAZN 1 BAR HD
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=1149329&extension=ts&play_token=5ZxRSbHLdb
+http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/698216.ts
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE| DAZN 2 BAR HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="EU | GERMANY HD",DE| DAZN 2 BAR HD
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=1149330&extension=ts&play_token=FX6iz9D86p
+http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/698220.ts
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=1149507&extension=ts&play_token=sL0XnxVdBa
+http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/131439.ts
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="https://go4.pw/germany/SKY-SPORT-MIX.png" group-title="EU | GERMANY HD",DE| SKY SPORT MIX HD
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=760957&extension=ts&play_token=RsSAF8gDPp
+http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/245378.ts
 #EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="https://go4.pw/germany/SKY_SPORT_PL.png" group-title="EU | GERMANY HD",DE| SKY SPORT PREMIER LEAGUE HD
-http://aquablue.boats:80/play/live.php?mac=00:1B:79:4A:0E:0C&stream=760956&extension=ts&play_token=wnsJAatIsl
+http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/245380.ts
