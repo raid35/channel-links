@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="https://mbc-1.catsbengal.com/mbc1250x100.png", 
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
