@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg/768px-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg.png?20210521122235" group-title="ARABIC SPORTS",
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg/768px-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_%D9%84%D9%88%D8%BA%D9%88_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_-_logo_quran.svg.png?20210521122235",
 https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" ,
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTKMIY6jU-T6ZtQWNRvii_9dgdL0LdqqnfQ&s", 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTKMIY6jU-T6ZtQWNRvii_9dgdL0LdqqnfQ&s",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/custom.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
@@ -82,7 +82,7 @@ https://github.com/raid35/channel-links/raw/main/polosh.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://fasselhd.com/page/image/series.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 
-#EXTINF:-1 tvg-id="Netflix" tvg-name="https://a.top4top.io/p_3682ba9le1.jpg", 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://a.top4top.io/p_3682ba9le1.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
 
