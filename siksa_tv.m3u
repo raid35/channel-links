@@ -79,6 +79,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://www.pngall.com/wp-content/uploads/2016/05/Poland-Flag-PNG.png", 
 https://github.com/raid35/channel-links/raw/main/polosh.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/Netflix.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://c.top4top.io/p_3688wt0351.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFILX_MOVIES.m3u
 
