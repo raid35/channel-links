@@ -7,12 +7,12 @@
     
     {
       "name": "National Geographic",
-      "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0f94dbfbf9e6e45c9567a7b50eb612c}"
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpdd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9}"
     },
 
     {
       "name": "mbc action",
-      "url": "https://live-event-1.akamaized.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cc668b04c6f99b3afb2188a5fd6a7f97}"
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281}"
     },
     
     {
