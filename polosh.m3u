@@ -23,8 +23,6 @@ http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689688&exte
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
 http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:70:C0:77&stream=689689&extension=ts&play_token=ewjmRTJwK7
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd|drm-info=clearkey|ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
 https://flax-media.com/api/api.php?encrypt=aHR0cHM6Ly9leGFtcGxlLmNvbS92aWRlby5tM3U4fHBhc3M9MTIzNDV8bmFtZT1IRCBWaWRlb3xwbGF5ZXItdHlwZT1leG98cmVmZXJlcj1odHRwczovL2V4YW1wbGUuY29tLw==
