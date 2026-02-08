@@ -228,6 +228,48 @@ http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699964.m3u8
 http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699960.m3u8
 #EXTINF:-1 tvg-name="OSN History" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN History
 http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699962.m3u8
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-name="MBC DRAMA" tvg-logo="https://i.ibb.co/WNTgbyQH/mbc-drama.png" group-title="MBC",MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-name="MBC+ DRAMA" tvg-logo="https://i.ibb.co/ksc4ZS9j/mbc-plus-drama.png" group-title="MBC",MBC+ DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-name="MBC MASR DRAMA" tvg-logo="https://i.ibb.co/JWBzpr7B/mbc-maser-drama.png" group-title="MBC",MBC MASR DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC MASR.sa" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/CKSVtS4H/mbc-maser.png" group-title="MBC",MBC MASR
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/4qHDJDR/mbc-iraq.png" group-title="MBC",MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/RT3DcsRB/mbc-4.png" group-title="MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.ibb.co/KzSkvg6d/mbc-5.png" group-title="MBC",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC+ MOVIES" tvg-logo="https://i.ibb.co/YF99GqBG/MBC-MOVIES.png" group-title="MBC",MBC Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
+#EXTINF:-1 tvg-name="MBC+ eLIFE" tvg-logo="https://i.ibb.co/cHnj7hW/mbc-elife.png" group-title="MBC",MBC+ eLIFE
+http://u.goldeniptv.com:2052/live/Emile/11223344/221329.ts
+#EXTINF:-1 tvg-id="MBC VARIETY.sa" tvg-name="MBC+ VARIETY" tvg-logo="https://i.ibb.co/W4yF85VT/mbc-variety.png" group-title="MBC",MBC+ VARIETY
+http://u.goldeniptv.com:2052/live/Emile/11223344/221302.ts
+#EXTINF:-1 tvg-name="MBC+ PREMIUM" tvg-logo="https://i.ibb.co/bRD81j3B/MBC-PREMIUM.png" group-title="MBC",MOVIES Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-name="MBC+ MOVIES" tvg-logo="https://i.ibb.co/YF99GqBG/MBC-MOVIES.png" group-title="MBC",MOVIES Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-name="MBC 2" tvg-logo="https://i.ibb.co/21NF6mxV/mbc-2.png" group-title="MBC",MBC 2
+http://u.goldeniptv.com:2052/live/Emile/11223344/221284.ts
+#EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-name="MBC MAX" tvg-logo="https://i.ibb.co/k6qLrSDy/mbc-max.png" group-title="MBC",MBC MAX
+http://u.goldeniptv.com:2052/live/Emile/11223344/221293.ts
+#EXTINF:-1 tvg-name="AR: Shahid Sport " tvg-logo="https://i.ibb.co/zTNHVLg4/mbc-action.png", mbc-action
+https://raid35.github.io/docs/player.html?id=mbc-action
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/m_i_x.jpg" ,MixTV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-name="Canal+ HD" group-title="CANAL+",Canal+ HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=316&t=live&f=ts
 #EXTINF:-1 tvg-name="TF1 HD" group-title="CANAL+",TF1 HD
