@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/4209.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=158&extension=ts&play_token=cb7VP2uNrU
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/4207.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=159&extension=ts&play_token=pIwHVExqv4
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/15471.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=1219&extension=ts&play_token=iQp7VkVxI4
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260329.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=46845&extension=ts&play_token=G7WgQP9gMq
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
 http://tv.startseven.tn:2052/live/boniface/11072013/15343.ts
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/19979.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=909&extension=ts&play_token=Jf2wMX2DMc
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://i.imgur.com/iJba5HM.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/15463.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=157&extension=ts&play_token=RUoLiCdHY8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://tv.startseven.tn:2052/live/boniface/11072013/264297.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -26,71 +26,71 @@ http://tv.startseven.tn:2052/live/boniface/11072013/264301.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://tv.startseven.tn:2052/live/09746171/15445345/6446.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260330.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=63141&extension=ts&play_token=dznPFU6vqw
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
 http://tv.startseven.tn:2052/live/boniface/11072013/260331.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/260332.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=117792&extension=ts&play_token=7CxwP8MPPj
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
 http://tv.startseven.tn:2052/live/09746171/15445345/57.ts
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260341.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=910&extension=ts&play_token=Q4riiv8CeM
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260340.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=911&extension=ts&play_token=9sfHC6X0oe
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260339.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=6410&extension=ts&play_token=kqMlqReNhM
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260338.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=912&extension=ts&play_token=SQd6AdO6Rv
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/live/boniface/11072013/260342.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=7478&extension=ts&play_token=v1I2Y4kvNz
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260367.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=151&extension=ts&play_token=tW7Lvwa63M
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260369.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=143124&extension=ts&play_token=lvjH9ybhwB
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260412.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=1421&extension=ts&play_token=hsAXUrtTgl
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://i.imgur.com/q5BDioj.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
-http://tv.startseven.tn:2052/live/09746171/15445345/20072.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=153&extension=ts&play_token=uxPzo6Hpj1
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260370.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=147&extension=ts&play_token=p8rcTX02Kn
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260371.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=148&extension=ts&play_token=gsN8nbJTVT
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/lvhTu1V.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260413.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=149&extension=ts&play_token=x2zL5fO6rb
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/dPD2onW.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260414.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=180606&extension=ts&play_token=bL7bCncjHI
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/byGAKKs.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260366.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=303&extension=ts&play_token=1U2yWQgvmI
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
-http://tv.startseven.tn:2052/live/09746171/15445345/324.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=906&extension=ts&play_token=PTH9Ypk7TY
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260368.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=441&extension=ts&play_token=CcvriNrnMu
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
 http://tv.startseven.tn:2052/live/boniface/11072013/260420.ts
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260346.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=1431&extension=ts&play_token=bQm0LRpT7P
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/260347.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=7484&extension=ts&play_token=LQtRKKnq4f
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260410.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=1430&extension=ts&play_token=i51Ok4Jm50
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260351.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=1432&extension=ts&play_token=wNntSVKnTy
 #EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
 http://tv.startseven.tn:2052/live/boniface/11072013/260356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://tv.startseven.tn:2052/live/boniface/11072013/260352.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=7415&extension=ts&play_token=tcjatVUWb6
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
 http://tv.startseven.tn:2052/live/09746171/15445345/13548.ts
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/260350.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=7497&extension=ts&play_token=q3dqRQaDi0
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/live/boniface/11072013/260349.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=6406&extension=ts&play_token=dECINvOP3G
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260348.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=6404&extension=ts&play_token=JviuLbUPgV
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260406.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=7483&extension=ts&play_token=Jjzxdp5I87
 #EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
-http://tv.startseven.tn:2052/live/boniface/11072013/260405.ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=6405&extension=ts&play_token=darKvf6MoJ
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
 http://tv.startseven.tn:2052/live/boniface/11072013/260408.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
