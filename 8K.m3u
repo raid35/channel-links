@@ -53,3 +53,5 @@ http://u.goldeniptv.com:2052/live/rashad1/rashad1/222930.ts
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/223018.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1880.m3u8
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
+https://raid35.github.io/docs/APL.html
