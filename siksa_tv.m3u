@@ -58,6 +58,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www2.0zz0.com/2026/02/08/00/603084317.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/CANAL_PLAY.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 
