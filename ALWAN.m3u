@@ -260,16 +260,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 http://u.goldeniptv.com:2052/live/Emile/11223344/221284.ts
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-name="MBC MAX" tvg-logo="https://i.ibb.co/k6qLrSDy/mbc-max.png" group-title="MBC",MBC MAX
 http://u.goldeniptv.com:2052/live/Emile/11223344/221293.ts
-#EXTINF:-1 tvg-name="AR: Shahid Sport " tvg-logo="https://i.ibb.co/zTNHVLg4/mbc-action.png", mbc-action
-https://raid35.github.io/docs/player.html?id=mbc-action
-#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/m_i_x.jpg" ,MixTV
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR - CANAL+ FOOT FHD " tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL+FOOT.png" group-title="CANAL + SPORTS",FR - CANAL+ FOOT FHD
 http://goldenpro.xyz/bilal2709/26F60C94D9C7410/853546
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR - CANAL+ 360 FHD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/360_SD.png" group-title="CANAL + SPORTS",FR - CANAL+ 360 FHD ◉
