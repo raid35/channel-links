@@ -19,19 +19,19 @@ http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467145.ts
 http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467144.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 10 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 10 4K
 http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 1 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 1 FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467127.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 2 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 2 FHD VIP Arb
-http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/709001.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 3 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 3 FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 4 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 4 FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Alwathaeqye FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Alwathaeqye FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467116.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Turkey FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Turkey FHD VIP Arb
-http://nasaiptv.com:2095/live/sarahsultan/sarahsultanca159/467120.ts
+#EXTINF:-1 tvg-name="Alwan Aflam 1" tvg-logo="http://tv.asc.vg/alwan.aflam1.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 1
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467127
+#EXTINF:-1 tvg-name="Alwan Aflam 2" tvg-logo="http://tv.asc.vg/alwan.aflam2.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 2
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467126
+#EXTINF:-1 tvg-name="Alwan Aflam 3" tvg-logo="http://tv.asc.vg/alwan.aflam3.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 3
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467125
+#EXTINF:-1 tvg-name="Alwan Aflam 4" tvg-logo="http://tv.asc.vg/alwan.aflam4.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 4
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467124
+#EXTINF:-1 tvg-name="Alwan Al-wathaeqye" tvg-logo="http://tv.asc.vg/alwan.alwathaeqye.sport.png" group-title="Alwan ⚽ Sports",Alwan Al-wathaeqye
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467123
+#EXTINF:-1 tvg-name="Alwan Mosalsalat" tvg-logo="http://tv.asc.vg/alwan.mosalsalat.sport.png" group-title="Alwan ⚽ Sports",Alwan Mosalsalat
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467121
+#EXTINF:-1 tvg-name="Alwan Mosalsalat+" tvg-logo="http://tv.asc.vg/alwan.mosalsalatplus.sport.png" group-title="Alwan ⚽ Sports",Alwan Mosalsalat+
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467116
+#EXTINF:-1 tvg-name="Alwan Turkey" tvg-logo="http://tv.asc.vg/alwan.turkey.sport.png" group-title="Alwan ⚽ Sports",Alwan Turkey
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/467120
