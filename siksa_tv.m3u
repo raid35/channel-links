@@ -46,6 +46,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="http://tv.asc.vg/stc.family.stc.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/stc.family.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
 
