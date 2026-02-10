@@ -1,30 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 1 4K" tvg-logo="http://familylocals.top:80/images/9b8d246715c7a8e5955ccea1d2c7b473.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 1 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455296.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 2 4K" tvg-logo="http://familylocals.top:80/images/19ad9f8ba9abb281346a6ae73751db16.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 2 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455297.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 3 4K" tvg-logo="http://familylocals.top:80/images/05d79405b1565722b35e1d989f6f3f46.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 3 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455298.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 4 4K" tvg-logo="http://familylocals.top:80/images/10bd87ef4b86c86629ae205028495046.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 4 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455299.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 5 4K" tvg-logo="http://familylocals.top:80/images/fe8fcc14acb9fa84e07270ce1ba626db.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 5 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455300.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 6 4K" tvg-logo="http://familylocals.top:80/images/604e261709c648a0da4697cdf64afcd5.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 6 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455301.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 7 4K" tvg-logo="http://familylocals.top:80/images/1484574561c65215b92d5585515ed5e7.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 7 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455302.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 8 4K" tvg-logo="http://familylocals.top:80/images/d9f45e3658cadff58fcfa620f71843e4.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 8 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455303.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN SPORTS 9 4K" tvg-logo="http://familylocals.top:80/images/3901859e14b322626d96c0c5b44a8b26.png" group-title="BEIN SPORTS 4K | NM",beIN SPORTS 9 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455304.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="Bein Xtra 1 4K" group-title="BEIN SPORTS 4K | NM",Bein Xtra 1 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455305.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="Bein Xtra 2 4K" group-title="BEIN SPORTS 4K | NM",Bein Xtra 2 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455306.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN Xtra 3 4K" group-title="BEIN SPORTS 4K | NM",beIN Xtra 3 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455307.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN Sport French 1 4K" group-title="BEIN SPORTS 4K | NM",beIN Sport French 1 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455310.m3u8
-#EXTINF:-1 tvg-ott="{ID}" tvg-name="beIN Sport French 2 4K" group-title="BEIN SPORTS 4K | NM",beIN Sport French 2 4K
-http://4k.ahmadtv.live:80/live/khaled123/khaled123/455311.m3u8
-
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 1 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/716.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 2 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/717.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 3 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5143.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 4 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5144.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 5 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5145.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 6 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/8535.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 7 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13790.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 8 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/565.m3u
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 9 FHD
+http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13791.m3u
