@@ -97,6 +97,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/TOD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://a.top4top.io/p_3682ba9le1.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/Netflix.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://a.top4top.io/p_3682ba9le1.jpg", 
+http://revenpro.cc:25461/get.php?username=EC-rjm31&password=tTTZP6xEwq&type=m3u_plus
+
 
 
 
