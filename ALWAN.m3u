@@ -250,44 +250,39 @@ http://goldenpro.xyz/bilal2709/26F60C94D9C7410/853546
 http://goldenpro.xyz/bilal2709/26F60C94D9C7410/311208
 #EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR - CANAL + SPORT FHD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORT_HEVC.png" group-title="CANAL + SPORTS",FR - CANAL + SPORT FHD ◉
 http://goldenpro.xyz/bilal2709/26F60C94D9C7410/56533
-#EXTINF:-1 tvg-name="PLANETE+" group-title="CANAL+",PLANETE+
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=234&t=live&f=ts
-#EXTINF:-1 tvg-name="PLANETE +AVENTURE" group-title="CANAL+",PLANETE +AVENTURE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=235&t=live&f=ts
-#EXTINF:-1 tvg-name="PLANETE+CRIME" group-title="CANAL+",PLANETE+CRIME
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=236&t=live&f=ts
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="CANAL+",Discovery Channel
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=237&t=live&f=ts
-#EXTINF:-1 tvg-name="Discovery Science" group-title="CANAL+",Discovery Science
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=238&t=live&f=ts
-#EXTINF:-1 tvg-name="Discovery ID HD" group-title="CANAL+",Discovery ID HD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=335&t=live&f=ts
-#EXTINF:-1 tvg-name="NATIONAL GEO" group-title="CANAL+",NATIONAL GEO
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=240&t=live&f=ts
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="MOVISTAR+",NAT GEO WILD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=997&u=AHHbwNeU43&s=196511199971&id=371&t=live&f=ts
-#EXTINF:-1 tvg-name="USHUAIA TV" group-title="CANAL+",USHUAIA TV
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=233&t=live&f=ts
-#EXTINF:-1 tvg-name="E ! HD" group-title="CANAL+",E ! HD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=336&t=live&f=ts
-#EXTINF:-1 tvg-name="Museum HD" group-title="CANAL+",Museum HD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=276&t=live&f=ts
-#EXTINF:-1 tvg-name="HISTOIRE" group-title="CANAL+",HISTOIRE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=224&t=live&f=ts
-#EXTINF:-1 tvg-name="Toute L Histoire" group-title="CANAL+",Toute L Histoire
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=87374&t=live&f=ts
-#EXTINF:-1 tvg-name="ANIMAUX" group-title="CANAL+",ANIMAUX
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=223&t=live&f=ts
-#EXTINF:-1 tvg-name="CHASSE ET PECHE" group-title="CANAL+",CHASSE ET PECHE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=232&t=live&f=ts
-#EXTINF:-1 tvg-name="SEASONS" group-title="CANAL+",SEASONS
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=230&t=live&f=ts
-#EXTINF:-1 tvg-name="Science et Vie TV" group-title="CANAL+",Science et Vie TV
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=226&t=live&f=ts
-#EXTINF:-1 tvg-name="TREK" group-title="CANAL+",TREK
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=228&t=live&f=ts
-#EXTINF:-1 tvg-name="Crime District" group-title="CANAL+",Crime District
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=82361&t=live&f=ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="ᴴᴰ USHUAIA TV (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ USHUAIA TV (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/307
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ᴴᴰ ANIMAUX (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/1280px-Logo-Animaux-2017.svg.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ ANIMAUX (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/368
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="ᴴᴰ CHASSE & PECHE (FR)" tvg-logo="https://i.pinimg.com/originals/77/2a/cc/772accd68ee9f46d3144280705382c2c.jpg" group-title="FRANCE DÉCOUVERTE",ᴴᴰ CHASSE & PECHE (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/356
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="ᴴᴰ SEASONS (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/640px-Seasons_logo.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ SEASONS (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/6081
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="ᴴᴰ⁺ NATIONAL GEOGRAPHIC (FR)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/national-geographic-symbol.jpg" group-title="FRANCE DÉCOUVERTE",ᴴᴰ⁺ NATIONAL GEOGRAPHIC (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/4582
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="ᴴᴰ⁺ NATIONAL GEOGRAPHIC WILD (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ⁺ NATIONAL GEOGRAPHIC WILD (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/328
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="ᴴᴰ⁺ DISCOVERY CHANNEL (FR)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/discovery-channel-de.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ⁺ DISCOVERY CHANNEL (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/10616
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="ᴴᴰ DISCOVERY CHANNEL (C+) FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/discovery-channel-de.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ DISCOVERY CHANNEL (C+) FR
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/184484
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="ᴴᴰ INVESTIGATION DISCOVERY (C+) FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/investigation-discovery-uk.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ INVESTIGATION DISCOVERY (C+) FR
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/184485
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="ᴴᴰ PLANÈTE+ (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ PLANÈTE+ (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/2971
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="ᴴᴰ PLANÈTE+ AVENTUR (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/Planeteplusaventure.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ PLANÈTE+ AVENTUR (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/319
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="ᴴᴰ PLANÈTE+ CRIME (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Planetepluscrime.png/800px-Planetepluscrime.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ PLANÈTE+ CRIME (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/320
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="ᴴᴰ SCIENCE ET VIE TV (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/42/Science_et_Vie.jpg" group-title="FRANCE DÉCOUVERTE",ᴴᴰ SCIENCE ET VIE TV (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/317
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="ᴴᴰ TREK (FR)" tvg-logo="https://logowik.com/content/uploads/images/trek-bicycle-corporation2920.jpg" group-title="FRANCE DÉCOUVERTE",ᴴᴰ TREK (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/7316
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="ᴴᴰ HISTOIRE (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Histoire_TV_logo_2019.svg/langfr-250px-Histoire_TV_logo_2019.svg.png" group-title="FRANCE DÉCOUVERTE",ᴴᴰ HISTOIRE (FR)
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/7897
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Toute_L%27Histoire.svg/1280px-Toute_L%27Histoire.svg.png" group-title="FRANCE DÉCOUVERTE",FR: TOUTE L HISTOIRE
+http://revenpro.cc:80/EC-rjm31/tTTZP6xEwq/71419
+
 
 
 
