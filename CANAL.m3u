@@ -1,109 +1,109 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/09746171/15445345/329
+http://tv.startseven.tn:2052/live/omar10/10omar/15466.m3u8
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/09746171/15445345/334
+http://tv.startseven.tn:2052/live/omar10/10omar/27000.m3u8
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/09746171/15445345/335
+http://tv.startseven.tn:2052/live/omar10/10omar/4208.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/289
+http://tv.startseven.tn:2052/live/omar10/10omar/13100.m3u8
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
-http://u.goldeniptv.com:2052/Emile/11223344/265445
+http://tv.startseven.tn:2052/live/omar10/10omar/15394.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
-http://tv.startseven.tn:2052/09746171/15445345/293
+http://tv.startseven.tn:2052/live/omar10/10omar/141054.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://i.imgur.com/iJba5HM.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT FHD
-http://tv.startseven.tn:2052/09746171/15445345/291
+http://tv.startseven.tn:2052/live/omar10/10omar/27006.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://tv.startseven.tn:2052/live/09746171/15445345/264297.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/264297.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://tv.startseven.tn:2052/live/09746171/15445345/264298.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/264298.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://tv.startseven.tn:2052/live/09746171/15445345/264299.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/264299.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://tv.startseven.tn:2052/live/09746171/15445345/264300.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/264300.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://tv.startseven.tn:2052/live/09746171/15445345/264301.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/264301.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://tv.startseven.tn:2052/live/09746171/15445345/6446.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/6446.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/290
+http://tv.startseven.tn:2052/live/omar10/10omar/57.m3u8
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/294
+http://tv.startseven.tn:2052/live/omar10/10omar/82637.m3u8
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/326682.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/205112.m3u8
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
-http://tv.startseven.tn:2052/live/09746171/15445345/57.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/296522.m3u8
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/305
+http://tv.startseven.tn:2052/live/omar10/10omar/19959.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/303
+http://tv.startseven.tn:2052/live/omar10/10omar/4371.m3u8
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/306
+http://tv.startseven.tn:2052/live/omar10/10omar/58.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://tv.startseven.tn:2052/09746171/15445345/304
+http://tv.startseven.tn:2052/live/omar10/10omar/56.m3u8
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/250677.ts
+http://tv.startseven.tn:2052/live/omar10/10omar/4643.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
-http://tv.startseven.tn:2052/09746171/15445345/276
+http://tv.startseven.tn:2052/live/omar10/10omar/20071.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
 http://tv.startseven.tn:2052/09746171/15445345/6068
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
-http://tv.startseven.tn:2052/09746171/15445345/283
+http://tv.startseven.tn:2052/live/omar10/10omar/15396.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://i.imgur.com/q5BDioj.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
-http://tv.startseven.tn:2052/09746171/15445345/284
+http://tv.startseven.tn:2052/live/omar10/10omar/20072.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://tv.startseven.tn:2052/09746171/15445345/278
+http://tv.startseven.tn:2052/live/omar10/10omar/20061.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
-http://tv.startseven.tn:2052/09746171/15445345/279
+http://tv.startseven.tn:2052/live/omar10/10omar/20058.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/lvhTu1V.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:8F:A5:78&stream=149&extension=ts&play_token=x2zL5fO6rb
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/dPD2onW.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
-http://tv.startseven.tn:2052/09746171/15445345/281
+http://tv.startseven.tn:2052/live/omar10/10omar/20055.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/byGAKKs.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
-http://tv.startseven.tn:2052/09746171/15445345/277
+http://tv.startseven.tn:2052/live/omar10/10omar/20069.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
-http://tv.startseven.tn:2052/09746171/15445345/282
+http://tv.startseven.tn:2052/live/omar10/10omar/324.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
-http://tv.startseven.tn:2052/09746171/15445345/6069
+http://tv.startseven.tn:2052/live/omar10/10omar/5090.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
-http://u.goldeniptv.com:2052/Emile/11223344/265375
+http://tv.startseven.tn:2052/live/omar10/10omar/82638.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
-http://tv.startseven.tn:2052/09746171/15445345/376
+http://tv.startseven.tn:2052/live/omar10/10omar/218.m3u8
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/09746171/15445345/388
+http://tv.startseven.tn:2052/live/omar10/10omar/19866.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
-http://tv.startseven.tn:2052/09746171/15445345/377
+http://tv.startseven.tn:2052/live/omar10/10omar/6459.m3u8
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
-http://tv.startseven.tn:2052/09746171/15445345/387
+http://tv.startseven.tn:2052/live/omar10/10omar/15318.m3u8
 #EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
-http://tv.startseven.tn:2052/09746171/15445345/389
+http://tv.startseven.tn:2052/live/omar10/10omar/4212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://tv.startseven.tn:2052/09746171/15445345/378
+http://tv.startseven.tn:2052/live/omar10/10omar/19883.m3u8
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
-http://tv.startseven.tn:2052/09746171/15445345/381
+http://tv.startseven.tn:2052/live/omar10/10omar/13548.m3u8
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
-http://u.goldeniptv.com:2052/Emile/11223344/265412
+http://tv.startseven.tn:2052/live/omar10/10omar/6445.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
-http://tv.startseven.tn:2052/09746171/15445345/382
+http://tv.startseven.tn:2052/live/omar10/10omar/210.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
-http://tv.startseven.tn:2052/09746171/15445345/384
+http://tv.startseven.tn:2052/live/omar10/10omar/19860.m3u8
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
-http://tv.startseven.tn:2052/09746171/15445345/385
+http://tv.startseven.tn:2052/live/omar10/10omar/19865.m3u8
 #EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
-http://tv.startseven.tn:2052/09746171/15445345/386
+http://tv.startseven.tn:2052/live/omar10/10omar/19863.m3u8
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
-http://u.goldeniptv.com:2052/Emile/11223344/265401
+http://tv.startseven.tn:2052/live/omar10/10omar/19868.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://tv.startseven.tn:2052/09746171/15445345/336
+http://tv.startseven.tn:2052/live/omar10/10omar/20021.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://tv.startseven.tn:2052/09746171/15445345/337
+http://tv.startseven.tn:2052/live/omar10/10omar/20020.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://tv.startseven.tn:2052/09746171/15445345/338
+http://tv.startseven.tn:2052/live/omar10/10omar/20019.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://tv.startseven.tn:2052/09746171/15445345/339
+http://tv.startseven.tn:2052/live/omar10/10omar/20018.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://tv.startseven.tn:2052/09746171/15445345/340
+http://tv.startseven.tn:2052/live/omar10/10omar/20017.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://tv.startseven.tn:2052/09746171/15445345/341
+http://tv.startseven.tn:2052/live/omar10/10omar/20016.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://tv.startseven.tn:2052/09746171/15445345/342
+http://tv.startseven.tn:2052/live/omar10/10omar/20015.m3u8
