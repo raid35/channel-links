@@ -1,42 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016929&extension=m3u8&play_token=q7FTpPNt4Q
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016929&extension=ts
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112484
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016930&extension=m3u8&play_token=jhUByURH9c
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016930&extension=ts
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112423
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016931&extension=m3u8&play_token=32gteQ2r1u
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016931&extension=ts
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112292
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016932&extension=m3u8&play_token=Y2cDz3LIwh
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016932&extension=ts
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112471
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016933&extension=m3u8&play_token=tQt3OefhiX
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016933&extension=ts
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112323
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016934&extension=m3u8&play_token=4tqIFXnIBz
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016934&extension=ts
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112148
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016926&extension=m3u8&play_token=BpMsQLnm6i
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016926&extension=ts
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/112089
 #EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016927&extension=m3u8&play_token=ZMISg7hrKm
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016927&extension=ts
 #EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/45545
 #EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016928&extension=m3u8&play_token=YWFQzXcyGt
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1016928&extension=ts
 #EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
 http://r665.io/live/EGESIPE/bzAsZNr/2086.ts
 #EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
 http://r365mail.bz:80/NvD6rrAehZ/Louise2014/22393
+
 
 
 
