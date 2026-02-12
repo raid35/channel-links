@@ -6,6 +6,8 @@ https://raid35.github.io/docs/freeiptv.html
 https://raid35.github.io/docs/player.html?id=shahid-sports-1
 #EXTINF:-1 tvg-name="AR: Shahid Sport " tvg-logo="https://i.ibb.co/zTNHVLg4/mbc-action.png", mbc-action
 https://raid35.github.io/docs/player.html?id=mbc-action
+#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
+https://raid35.github.io/docs/player.html?id=mbc-masr-2
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png", AD SPORTS PREMIUM 1
 https://siksa40.blogspot.com/2026/01/sps1.html
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
