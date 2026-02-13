@@ -32,6 +32,6 @@ http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1540585&exten
 #EXTINF:-1 tvg-name="Alwan Mosalsalat" tvg-logo="http://tv.asc.vg/alwan.mosalsalat.sport.png" group-title="Alwan ⚽ Sports",Alwan Mosalsalat
 http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249838&extension=ts&play_token=Jucvj0ZFIM
 #EXTINF:-1 tvg-name="Alwan Mosalsalat+" tvg-logo="http://tv.asc.vg/alwan.mosalsalatplus.sport.png" group-title="Alwan ⚽ Sports",Alwan Mosalsalat+
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1540590&extension=ts&play_token=RXxdfXrwz0
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249838&extension=m3u8
 #EXTINF:-1 tvg-name="Alwan Turkey" tvg-logo="http://tv.asc.vg/alwan.turkey.sport.png" group-title="Alwan ⚽ Sports",Alwan Turkey
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1540589&extension=ts&play_token=5gkaddXsyq
