@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1120411&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1156631&extension=ts
+http://sky-glass.live/live/735692/296537/929781.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1120410&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1156630&extension=ts
+http://sky-glass.live/live/735692/296537/929773.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:B5:29:A6&stream=1120409&extension=ts&play_token=cT6gNKVJFE
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
