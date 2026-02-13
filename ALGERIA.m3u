@@ -134,7 +134,7 @@ http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42075.m3u8
 #EXTINF:-1 tvg-name="|DZ| BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE JEUNESSE (EXCLUS)
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/374.m3u8
 #EXTINF:-1 tvg-name="|DZ| BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR FM TV (EXCLU)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/4279.m3u8
+https://on-tv.site/api/MN2.php?action=stream&id=116901&cat=4524
 #EXTINF:-1 tvg-name="La Bataille d" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU7gKwB4qzylKs4uYEEhDXzO56N.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",La Bataille d'Alger (VOST FR) FHD 1966
 http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/184010.mkv
 #EXTINF:-1 tvg-name="Abou Leila (VOST FR) FHD 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8viAg1w9ZbbgEfcRtD5zmwXzWrP.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Abou Leila (VOST FR) FHD 2019
