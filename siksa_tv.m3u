@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/HULU.m3u8
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
 
