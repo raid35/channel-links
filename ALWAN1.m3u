@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
-http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641605&extension=ts&play_token=CDbfPuVPS3
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1341000&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 2 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 4K
-http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641606&extension=ts&play_token=MZCVvcG82w
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340999&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 3 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 4K
-http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641620&extension=ts&play_token=ivC0YSXDeu
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340998&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 4 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 4K
-http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641621&extension=ts&play_token=wodOodlYEL
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340997&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 5 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 4K
-http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641622&extension=ts&play_token=zi1lIa1eAz
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340996&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 6 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 4K
-http://k-lobs.xyz:8080/live/2171855479556216/6019132685779108/418126.ts
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1340995&extension=m3u8
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 7 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 7 4K
 http://k-lobs.xyz:8080/live/2171855479556216/6019132685779108/433739.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 8 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 8 4K
