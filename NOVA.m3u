@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 1 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/387939
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361637
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 2 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/387941
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361642
 #EXTINF:-1 tvg-name="FR : beIN SPORTS 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS 3 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126937.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361647
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 4 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/387942
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361679
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 5 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126939.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361680
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 6 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126940.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361681
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 7 FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126941.ts
 #EXTINF:-1 tvg-name="FR : beIN SPORTS MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORTS",FR : beIN SPORTS MAX 8 FHD
@@ -26,7 +26,7 @@ http://mbrok.xyz:8080/1865973036882453/3250438317687417/361617
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/387955
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126959.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361625
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151081.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
@@ -38,11 +38,11 @@ http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151084.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151085.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126810.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361579
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126820.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361582
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/126815.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361585
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/224456.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
@@ -50,33 +50,33 @@ http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=81632&
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/265347.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127216.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361589
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127217.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361597
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=6969&t=live&f=ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361591
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127219.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127296.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361507
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127308.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127297.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361498
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127298.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361499
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=1202&t=live&f=ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361501
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127301.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127303.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361511
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127304.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361514
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127305.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361515
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127307.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361530
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127311.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
@@ -86,24 +86,24 @@ http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127051.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361544
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127052.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361578
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127048.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361553
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127047.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361539
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127040.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361612
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127042.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361613
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127039.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127038.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361611
 #EXTINF:-1 tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127035.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361554
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127037.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361541
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127036.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361540
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127045.ts
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/361524
