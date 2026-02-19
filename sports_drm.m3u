@@ -27,9 +27,9 @@ https://raid35.github.io/docs/AD_S.html?id=La_Une
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 https://raid35.github.io/docs/AD_S.html?id=LA_LIGÁ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg" group-title="GitTv",premier Sports 1
-https://siksa40.blogspot.com/2026/01/premier-sports-1.html
+https://raid35.github.io/docs/Sport.html?id=premier_1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg" group-title="GitTv",premier Sports 2
-https://siksa40.blogspot.com/2026/02/premier-sports-2.html
+https://raid35.github.io/docs/Sport.html?id=premier_2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Premier League
 https://raid35.github.io/docs/player.html?id=Premier_League
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 2
@@ -45,19 +45,19 @@ https://siksa40.blogspot.com/2025/07/tnt3.html
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" group-title="Sports",TNT 4
 https://siksa40.blogspot.com/2025/07/tnt4.html
 #EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
-https://siksa40.blogspot.com/2025/08/matchfutbol-1.html
+https://raid35.github.io/docs/Sport.html?id=Матч_1
 #EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
-https://siksa40.blogspot.com/2025/08/matchfutbol-2.html
+https://raid35.github.io/docs/Sport.html?id=Матч_2
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
-https://siksa40.blogspot.com/2025/08/matchfutbol-3.html
+https://raid35.github.io/docs/Sport.html?id=Матч_3
 #EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://7sport.sk/wp-content/uploads/2023/02/sport1-300x150.png", Sport 1 SK
-https://siksa40.blogspot.com/2025/08/sport1sk.html
+https://raid35.github.io/docs/Sport.html?id=Sport_1
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://7sport.sk/wp-content/uploads/2023/02/sport2-300x150.png", Sport 2 SK
-https://siksa40.blogspot.com/2025/08/sport2sk.html
+https://raid35.github.io/docs/Sport.html?id=Sport_2
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sport 1
-https://siksa40.blogspot.com/2026/01/novasport1.html
+https://raid35.github.io/docs/Sport.html?id=Nova_1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gymhfv1649341436.png",Nova Sport 2
-https://siksa40.blogspot.com/2026/01/novasport2.html
+https://raid35.github.io/docs/Sport.html?id=Nova_2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",Prima Sport 2
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
