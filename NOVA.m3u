@@ -28,25 +28,25 @@ http://mbrok.xyz:8080/1865973036882453/3250438317687417/387955
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361625
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151081.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958695&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151082.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958694&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151083.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958693&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151084.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958692&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/151085.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958691&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361579
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936869&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361582
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936874&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361585
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/224456.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936880&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=81632&t=live&f=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936872&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/265347.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
@@ -58,52 +58,52 @@ http://mbrok.xyz:8080/1865973036882453/3250438317687417/361591
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127219.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361507
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936753&extension=ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127308.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936779&extension=ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361498
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936756&extension=ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361499
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936759&extension=ts
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361501
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127301.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936765&extension=ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361511
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936775&extension=ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361514
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936772&extension=ts
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361515
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936799&extension=ts
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361530
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936782&extension=ts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127311.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936791&extension=ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127044.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941658&extension=ts
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127051.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941673&extension=ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://line.iptvbut.com/live/72f6ff3516/94bdab00608d/1972505.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941670&extension=ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361578
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941676&extension=ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361553
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941664&extension=ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361539
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941661&extension=ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361612
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941633&extension=ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361613
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941636&extension=ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127039.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941641&extension=ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361611
-#EXTINF:-1 tvg-name="FR | PLANETE+" tvg-logo="http://148.251.133.153:8181/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://line.iptvbut.com/live/72f6ff3516/94bdab00608d/1972515.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941638&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361541
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941650&extension=ts
+#EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941655&extension=ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361540
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941653&extension=ts
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361524
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941644&extension=ts
