@@ -28,33 +28,33 @@ http://tv.startseven.tn:2052/live/diatou931/diatou139/27006.ts
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORTS FR",FR:AutoMoto.HD
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361625
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958695&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/264297.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958694&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/264298.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958693&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/264299.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958692&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/264300.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=958691&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/264301.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936869&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/13100.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936874&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/19990.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/361585
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936880&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/19800.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936872&extension=ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/205112.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265347.ts
+http://tv.startseven.tn:2052/live/diatou931/diatou139/141021.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361589
+http://tv.startseven.tn:2052/live/diatou931/diatou139/56.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361597
+http://tv.startseven.tn:2052/live/diatou931/diatou139/15458.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/361591
+http://tv.startseven.tn:2052/live/diatou931/diatou139/47474.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/127219.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
