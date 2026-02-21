@@ -7,6 +7,12 @@ https://raw.githubusercontent.com/raid35/channel-links/main/channels.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://d.top4top.io/p_3704u4m261.jpg",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://a.top4top.io/p_3704sfi1x1.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
 
