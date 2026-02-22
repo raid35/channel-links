@@ -102,6 +102,9 @@ https://github.com/raid35/channel-links/raw/main/polosh.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
 https://github.com/raid35/channel-links/raw/main/movies.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
+https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
+
 
 
 
