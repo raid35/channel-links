@@ -52,9 +52,9 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1783.m3u8
 #EXTINF:-1 tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
-http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/907213&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97659&extension=ts
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE
-http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97647&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97653&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 HD
 http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97648&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 4
