@@ -52,23 +52,17 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1783.m3u8
 #EXTINF:-1 tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/171.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/907213&extension=ts
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/173.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE FHD" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2825.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97647&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/225.m3u8
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 3 FHD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1410.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97648&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 4
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/226.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97649&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 5 HD" tvg-logo="http://i.imgur.com/TXyy8t7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 5 HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/227.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97661&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 6 HD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 6 HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42087.m3u8
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 6 FHD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 6 FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/229.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/907213&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 7 EL MAARIFA" tvg-logo="https://i.imgur.com/GVfSdP1.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 7 EL MAARIFA
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/45716.m3u8
 #EXTINF:-1 tvg-name="|DZ| ALGERIE 8 EL DAKIRA" tvg-logo="https://i.imgur.com/6dGGebB.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 8 EL DAKIRA
@@ -78,33 +72,21 @@ http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/104965.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| SAMIRA TV" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/176.m3u8
 #EXTINF:-1 tvg-name="|DZ| SAMIRA TV HD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/3151.m3u8
-#EXTINF:-1 tvg-name="|DZ| SAMIRA TV FHD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/22398.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97668&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ZAHRA TV" tvg-logo="https://i.imgur.com/K9BnK4p.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ZAHRA TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/41988.m3u8
-#EXTINF:-1 tvg-name="|DZ| ALGERIA 4 KIDS" tvg-logo="https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIA 4 KIDS
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/228.m3u8
-#EXTINF:-1 tvg-name="|DZ| BEUR TV HD" tvg-logo="http://i.imgur.com/GvMXf3K.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR TV HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2805.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97663&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ONE TV FHD" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ONE TV FHD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/22395.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ECHOROUK TV" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/175.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ECHOROUK TV FHD" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK TV FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1559.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97656&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ECHOROUK NEWS" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK NEWS
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/230.m3u8
-#EXTINF:-1 tvg-name="|DZ| ECHOROUK NEWS HD" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK NEWS HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1560.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97658&extension=ts
 #EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-name="|DZ| EL BILAD TV" tvg-logo="http://i.imgur.com/lESg64o.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL BILAD TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/231.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97652&extension=ts
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| EL HEDDAF TV FHD" tvg-logo="http://i.imgur.com/mgPHvo8.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HEDDAF TV FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/233.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97655&extension=ts
 #EXTINF:-1 tvg-name="|DZ| ENNAHAR TV" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENNAHAR TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/172.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="|DZ| ENNAHAR TV SD" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENNAHAR TV SD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2806.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97654&extension=ts
 #EXTINF:-1 tvg-name="|DZ| AMOU YAZID TOFOLA HD" tvg-logo="https://i.imgur.com/jrfdlWq.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AMOU YAZID TOFOLA HD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/6974.m3u8
 #EXTINF:-1 tvg-name="|DZ| EL IKTISSADIA OULA" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL IKTISSADIA OULA
@@ -116,11 +98,11 @@ http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/236.m3u8
 #EXTINF:-1 tvg-name="|DZ| AL MAGHARIBIA HD" tvg-logo="http://i.imgur.com/iMC45iQ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL MAGHARIBIA HD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2810.m3u8
 #EXTINF:-1 tvg-name="|DZ| BAHIA TV" tvg-logo="http://i.imgur.com/3ExRISi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BAHIA TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1112.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97651&extension=ts
 #EXTINF:-1 tvg-name="|DZ| EL ANIS TV" tvg-logo="https://i.imgur.com/2CNfkrr.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL ANIS TV
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1113.m3u8
 #EXTINF:-1 tvg-name="|DZ| EL HAYAT TV FHD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HAYAT TV FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2260.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/97657&extension=ts
 #EXTINF:-1 tvg-name="|DZ| AL24 NEWS FHD" tvg-logo="https://i.imgur.com/sHq6ktu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL24 NEWS FHD
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/3601.m3u8
 #EXTINF:-1 tvg-name="|DZ| SALAM TV" tvg-logo="https://i.imgur.com/YKJQLtf.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SALAM TV
@@ -128,7 +110,7 @@ http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42041.m3u8
 #EXTINF:-1 tvg-name="|DZ| EL DJAZAIR N1" tvg-logo="https://i.imgur.com/Cpt7Lri.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL DJAZAIR N1
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/6183.m3u8
 #EXTINF:-1 tvg-name="|DZ| BERBERE TV" tvg-logo="http://i.imgur.com/98gjMeV.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/949.m3u8
+http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/98017&extension=ts
 #EXTINF:-1 tvg-name="|DZ| BERBERE MUSIC (EXCLUS)" tvg-logo="https://i.imgur.com/AmekoXo.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE MUSIC (EXCLUS)
 http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42075.m3u8
 #EXTINF:-1 tvg-name="|DZ| BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE JEUNESSE (EXCLUS)
