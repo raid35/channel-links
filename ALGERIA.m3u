@@ -49,97 +49,53 @@ http://arox.cc/live/24232292395865/24232292395865/670.ts
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=679&t=live&f=ts
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1783.m3u8
-#EXTINF:-1 tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249834&extension=ts&play_token=y2ylWo4NAo
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249835&extension=ts&play_token=K9z2fH6os0
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249841&extension=ts&play_token=fVJZVX8do2
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 4
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249839&extension=ts&play_token=cUKlQ2DAoO
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 5 HD" tvg-logo="http://i.imgur.com/TXyy8t7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 5 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249847&extension=ts&play_token=eqZ2vGuv0D
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 6 HD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 6 HD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249838&extension=ts&play_token=P1gcQxXPjm
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 7 EL MAARIFA" tvg-logo="https://i.imgur.com/GVfSdP1.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 7 EL MAARIFA
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=556869&extension=ts&play_token=edUeM3pYK1
-#EXTINF:-1 tvg-name="|DZ| ALGERIE 8 EL DAKIRA" tvg-logo="https://i.imgur.com/6dGGebB.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 8 EL DAKIRA
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=648876&extension=ts&play_token=elEXTiZvQG
-#EXTINF:-1 tvg-name="|DZ| EL BARLAMANYA FHD" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL BARLAMANYA FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/104965.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| SAMIRA TV" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249848&extension=ts&play_token=iWnAVv5TSY
-#EXTINF:-1 tvg-name="|DZ| ZAHRA TV" tvg-logo="https://i.imgur.com/K9BnK4p.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ZAHRA TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=656033&extension=ts&play_token=VhFU8OekZ0
-#EXTINF:-1 tvg-name="|DZ| ONE TV FHD" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ONE TV FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/22395.m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ECHOROUK TV" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249843&extension=ts&play_token=xQGMGnH6hU
-#EXTINF:-1 tvg-name="|DZ| ECHOROUK NEWS" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK NEWS
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249844&extension=ts&play_token=jx6k2UjEqD
-#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-name="|DZ| EL BILAD TV" tvg-logo="http://i.imgur.com/lESg64o.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL BILAD TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249857&extension=ts&play_token=e5daYBtxHS
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| EL HEDDAF TV FHD" tvg-logo="http://i.imgur.com/mgPHvo8.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HEDDAF TV FHD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=457168&extension=ts&play_token=psvsyMJnaq
-#EXTINF:-1 tvg-name="|DZ| ENNAHAR TV" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENNAHAR TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249845&extension=ts&play_token=hPk6NYyVZ0
-#EXTINF:-1 tvg-name="|DZ| AMOU YAZID TOFOLA HD" tvg-logo="https://i.imgur.com/jrfdlWq.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AMOU YAZID TOFOLA HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/6974.m3u8
-#EXTINF:-1 tvg-name="|DZ| EL IKTISSADIA OULA" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL IKTISSADIA OULA
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42108.m3u8
-#EXTINF:-1 tvg-name="|DZ| EL WATANIA TV" tvg-logo="https://i.imgur.com/VUdIe25.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL WATANIA TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42074.m3u8
-#EXTINF:-1 tvg-name="|DZ| EL FADJR TV" tvg-logo="https://i.imgur.com/W1x47Ar.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL FADJR TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/236.m3u8
-#EXTINF:-1 tvg-name="|DZ| AL MAGHARIBIA HD" tvg-logo="http://i.imgur.com/iMC45iQ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL MAGHARIBIA HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2810.m3u8
-#EXTINF:-1 tvg-name="|DZ| BAHIA TV" tvg-logo="http://i.imgur.com/3ExRISi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BAHIA TV
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249855&extension=ts&play_token=QwJAEFCYxr
-#EXTINF:-1 tvg-name="|DZ| EL ANIS TV" tvg-logo="https://i.imgur.com/2CNfkrr.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL ANIS TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1113.m3u8
-#EXTINF:-1 tvg-name="|DZ| EL HAYAT TV FHD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HAYAT TV FHD
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=249860&extension=ts&play_token=rrDVFtK6Wg
-#EXTINF:-1 tvg-name="|DZ| AL24 NEWS FHD" tvg-logo="https://i.imgur.com/sHq6ktu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL24 NEWS FHD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/3601.m3u8
-#EXTINF:-1 tvg-name="|DZ| SALAM TV" tvg-logo="https://i.imgur.com/YKJQLtf.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SALAM TV
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42041.m3u8
-#EXTINF:-1 tvg-name="|DZ| EL DJAZAIR N1" tvg-logo="https://i.imgur.com/Cpt7Lri.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL DJAZAIR N1
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/6183.m3u8
-#EXTINF:-1 tvg-name="|DZ| BERBERE TV" tvg-logo="http://i.imgur.com/98gjMeV.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE TV
-http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/98017&extension=ts
-#EXTINF:-1 tvg-name="|DZ| BERBERE MUSIC (EXCLUS)" tvg-logo="https://i.imgur.com/AmekoXo.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE MUSIC (EXCLUS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/42075.m3u8
-#EXTINF:-1 tvg-name="|DZ| BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE JEUNESSE (EXCLUS)
-https://on-tv.site/api/MN2.php?action=stream&id=116903&cat=4524
-#EXTINF:-1 tvg-name="|DZ| BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR FM TV (EXCLU)
-https://on-tv.site/api/MN2.php?action=stream&id=116901&cat=4524
-#EXTINF:-1 tvg-name="La Bataille d" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU7gKwB4qzylKs4uYEEhDXzO56N.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",La Bataille d'Alger (VOST FR) FHD 1966
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/184010.mkv
-#EXTINF:-1 tvg-name="Abou Leila (VOST FR) FHD 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8viAg1w9ZbbgEfcRtD5zmwXzWrP.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Abou Leila (VOST FR) FHD 2019
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/182523.mkv
-#EXTINF:-1 tvg-name="السطح (TN) FHD 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3p7bJN2Z5c949Qt0vtcWSI5KbL.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",السطح (TN) FHD 2022
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/194008.mkv
-#EXTINF:-1 tvg-name="La dernière reine (VOST FR) FHD 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diBZIKur99ThfE3dHpdAPzAmLxn.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",La dernière reine (VOST FR) FHD 2023
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/116539.mkv
-#EXTINF:-1 tvg-name="Héliopolis (FR) HD 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1RbEUhofJTHVYZUijYUi4BZpAH.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Héliopolis (FR) HD 2021
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/108211.mkv
-#EXTINF:-1 tvg-name="Redeyef 54 (TN) 1999" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Redeyef 54 (TN) 1999
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/193999.mp4
-#EXTINF:-1 tvg-name="عصفور السطح (TN) FHD 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jh9fEn9OqS4RKPOZbWYKLfFGvB.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",عصفور السطح (TN) FHD 1990
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/182257.mkv
-#EXTINF:-1 tvg-name="Le voyage de chouiter رحلة شويطر (DZ) HD 1970" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKd0OVrRzFOqrtTBL7whatziJyP.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Le voyage de chouiter رحلة شويطر (DZ) HD 1970
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/182736.mkv
-#EXTINF:-1 tvg-name="كرنفال في دشرة (DZ) 1994 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQeX3qJySIjzrkUVJX65qIOmhwf.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",كرنفال في دشرة (DZ) 1994 HD
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/79950.mkv
-#EXTINF:-1 tvg-name="عمتي فاطنة (MA) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",عمتي فاطنة (MA) HD
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/87470.mkv
-#EXTINF:-1 tvg-name="(DZ) عطلة المفتش الطاهر" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",(DZ) عطلة المفتش الطاهر
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/79948.mkv
-#EXTINF:-1 tvg-name="L" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nudr0l2G7yhcac7fws57bXgFw19.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",L'inspecteur Tahar marque le but المفتش الطاهر يسجل الهدف (DZ) 1975
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/79949.mkv
-#EXTINF:-1 tvg-name="Colonel Lotfi العقيد لطفي (DZ)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Colonel Lotfi العقيد لطفي (DZ)
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/79951.mkv
-#EXTINF:-1 tvg-name="Le Clandestin (DZ) HD 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vavdTgIoj2DeUBUdnxNoy44o46v.jpg" group-title="FILMS MAGHRÈBINS (DZ/MA/TN)",Le Clandestin (DZ) HD 1989
-http://r365mail.bz:80/movie/NvD6rrAehZ/Louise2014/79952.mkv
+#EXTINF:-1 tvg-name="AR | REALX ALGERIA 4K" group-title="EU || RELAX TV 8K",AR | REALX ALGERIA 4K
+http://sbix.pro:80/ziP800/85704502/577533.m3u8
+#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
+http://lion20.top:8080/229815636887/192402289369/14878
+#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
+http://arox.cc/live/24232292395865/24232292395865/665.ts
+#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
+http://lion20.top:8080/229815636887/192402289369/14783
+#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
+http://lion20.top:8080/229815636887/192402289369/14784
+#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
+http://lion20.top:8080/229815636887/192402289369/14785
+#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
+http://lion20.top:8080/229815636887/192402289369/43605
+#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
+http://lion20.top:8080/229815636887/192402289369/43601
+#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
+http://lion20.top:8080/229815636887/192402289369/43599
+#EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
+http://lion20.top:8080/229815636887/192402289369/21218
+#EXTINF:-1 tvg-name="Dz: One TV HD" tvg-logo="http://tv.asc.vg/one.dz.png" group-title="Algeria ⭐",Dz: One TV HD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/344039
+#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
+http://lion20.top:8080/229815636887/192402289369/21219
+#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
+http://lion20.top:8080/229815636887/192402289369/21220
+#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
+http://lion20.top:8080/229815636887/192402289369/14912
+#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
+http://lion20.top:8080/229815636887/192402289369/43603
+#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
+http://lion20.top:8080/229815636887/192402289369/14821
+#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/112626
+#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
+http://lion20.top:8080/229815636887/192402289369/14876
+#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
+http://lion20.top:8080/229815636887/192402289369/14913
+#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
+http://lion20.top:8080/229815636887/192402289369/14915
+#EXTINF:-1 tvg-name="Algerian: BAHIA" group-title="ALGERIE",Algerian: BAHIA
+http://lion20.top:8080/229815636887/192402289369/14914
+#EXTINF:-1 tvg-name="Algerian:ALANIS TV" group-title="ALGERIE",Algerian:ALANIS TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=679&t=live&f=ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
