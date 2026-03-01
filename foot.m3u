@@ -1,46 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583958.ts
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/89259.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583959.ts
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/89263.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583960.ts
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/89265.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583961.ts
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/89264.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583962.ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/112157.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583963.ts
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/112158.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583964.ts
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/112159.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583965.ts
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/112154.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/1583966.ts
-#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/117761.ts
-#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/117762.ts
-#EXTINF:-1 tvg-id="BeinSportsExtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/14710.ts
-#EXTINF:-1 tvg-id="BeinSportsExtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 HD (50 FPS)
-http://sansatplus.net:88/live/02090854101271/02090854101271/14710.ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158867.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158900.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 3 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158901.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 4 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158902.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 5 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158903.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 6 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158904.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 7 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158905.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 8 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158906.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 9 HD
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158907.m3u8
+
 
 
 
