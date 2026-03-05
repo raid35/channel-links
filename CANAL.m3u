@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/15466.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/15466.ts
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/27000.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/27000.ts
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/4208.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/4208.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/13100.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/13100.ts
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/15394.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/15394.ts
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/141054.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/141054.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://i.imgur.com/iJba5HM.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/260333.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/27006.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://s1.iptv-chal.net:2052/live/diatou931/diatou139/264297.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -26,84 +26,84 @@ http://s1.iptv-chal.net:2052/live/diatou931/diatou139/264301.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://s1.iptv-chal.net:2052/live/diatou931/diatou139/6446.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/57.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/57.ts
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/82637.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/82637.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/205112.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/205112.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
 http://s1.iptv-chal.net:2052/live/diatou931/diatou139/296522.ts
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19959.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/55.ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/4371.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/4371.ts
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/58.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/58.ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/56.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/56.ts
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/4643.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/4643.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20071.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20071.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19919.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19919.ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/15396.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/15396.ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://i.imgur.com/q5BDioj.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20072.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20072.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20061.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20061.ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20058.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20058.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/lvhTu1V.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20057.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20057.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/dPD2onW.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20055.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20055.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/byGAKKs.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20069.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20069.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/324.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/324.ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/5090.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/5090.ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/82638.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/82638.ts
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/260346.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19874.ts
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19866.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19866.ts
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/260410.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/260410.ts
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
-http://tv.startseven.tn:2052/live/omar10/10omar/15318.m3u8
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/260354.ts
 #EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/260356.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/260356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/15476.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/15476.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/13548.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/13548.ts
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19876.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19876.ts
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
 http://s1.iptv-chal.net:2052/live/diatou931/diatou139/210.ts
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19860.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19860.ts
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19865.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/260406.ts
 #EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/260405.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19865.ts
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
 http://s1.iptv-chal.net:2052/live/diatou931/diatou139/19868.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20021.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20021.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20020.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20020.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20019.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20019.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20018.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20018.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20017.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20017.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20016.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/20016.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://s1.iptv-chal.net:2052/live/diatou931/diatou139/20015.ts
+http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/19868.ts
