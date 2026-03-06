@@ -26,3 +26,9 @@ http://lion20.top:8080/229815636887/192402289369/440940
 https://xpola.yoo7.com/h14-page/?id=YUhSMGNITTZMeTl5WVhjdVoybDBhSFZpZFhObGNtTnZiblJsYm5RdVkyOXRMM051YVRJd01EY3ZjMjVwTWpBd055OXRZV2x1TDBaeVpXVjJhV1YzZkhCc1lYbGxjaTEwZVhCbFBXMHpkUT09
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
 https://raid35.github.io/docs/APL.html
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Zee_Bioskop_%282025%29.svg/revision/latest/scale-to-width-down/300?cb=20250608070019" group-title="FirstMediaX",Zee Bioskop
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
