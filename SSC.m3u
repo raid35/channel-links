@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 1 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94960.ts
+https://stb.blc2cdn.fyi/live/60070_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 2 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94964.ts
+https://stb.blc2cdn.fyi/live/60071_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 3 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94968.ts
+https://stb.blc2cdn.fyi/live/60072_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 4 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94972.ts
+https://stb.blc2cdn.fyi/live/60073_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 5 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94976.ts
+https://stb.blc2cdn.fyi/live/60074_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 6 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94980.ts
+https://stb.blc2cdn.fyi/live/60075_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 7 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94984.ts
+https://stb.blc2cdn.fyi/live/60076_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 8 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94988.ts
+https://stb.blc2cdn.fyi/live/60077_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="⚽ BEIN SPORTS FHD بي ان سبورت",BEIN SPORTS 9 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94992.ts
+https://stb.blc2cdn.fyi/live/60078_.m3u8
