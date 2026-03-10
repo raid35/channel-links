@@ -43,11 +43,11 @@ https://raid35.github.io/docs/SP_ARAB.html
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
