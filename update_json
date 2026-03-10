@@ -2,14 +2,14 @@
   "channels": [
     {
       "name": "BeiNsports1_HD",
-      "url": "aHR0cHM6Ly9zZG1heDExMS5wcm92ZWdvb290dC5jb20vMjNfLm0zdTg=",
+      "url": "aHR0cDovL2xpb24yMC50b3A6ODA4MC82Njc1NTQ0MzI4OC8xOTAyMDkwNDc4MTE5My8zMTgxOTc=",
       "logo": "https://example.com/logos/bein1.png",
       "drmLicense": "",
       "group": "Sports"
     },
     {
       "name": "BeiNsports2_HD",
-      "url": "aHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEmdHlwZS8zLm0zdTg=",
+      "url": "http://lion20.top:8080/66755443288/19020904781193/318198",
       "logo": "https://example.com/logos/bein2.png",
       "drmLicense": "",
       "group": "Sports"
