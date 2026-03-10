@@ -17,14 +17,14 @@
     {
       "name": "shahid-sports-1",
       "url": "aHR0cHM6Ly9zaGFoaWQtc3BvcnRzLTEtZW5jLmVkZ2VuZXh0Y2RuLm5ldC9vdXQvdjEvMDE2OWNmYTI4MjYxNGViZTk3ZWYwMjAxZGE4N2JiMDQvaW5kZXgubXBkfHBsYXllci10eXBlPWpzb258ZHJtLWluZm89Y2xlYXJrZXl8YWIwODFhNzA0YWFkNDE4MjliMTEyM2IwOWI2ZWNhZmQ6ZGQ1MTYwOTA5MmZmZjE1ZTY4YjkxZGViZjVkNTkxZjk=",
-      "logo": "https://example.com/logos/natgeo.png",
+      "logo": "http://tv.asc.vg/shahid.sport.png",
       "drmLicense": "",
       "group": "Documentary"
     },
     {
       "name": "shahid-sports-2",
       "url": "aHR0cHM6Ly9zaGFoaWQtc3BvcnRzLTItZW5jLmVkZ2VuZXh0Y2RuLm5ldC9vdXQvdjEvNTg5YWE2YjE2Y2U5NDIzODg2OTViNWIyMTRmNGFlOTMvaW5kZXgubXBkfGRybS1pbmZvPWNsZWFya2V5fDUwYTdmM2FmYzAwYTQwYjM4ZmFjZTRkYjYzOWQwZTRjOmFkNzAwMDY5MTMyNjA2NDcwNjI4MWE3MDBiN2Q2NzE0",
-      "logo": "https://example.com/logos/mbc1.png",
+      "logo": "http://tv.asc.vg/shahid.sport.png",
       "drmLicense": "",
       "group": "Entertainment"
     }
