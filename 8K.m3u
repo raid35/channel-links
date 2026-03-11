@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://u.goldeniptv.com:2052/live/ahmad/123456/222934.ts
+http://arox.cc/live/24335738729223/24335738729223/251868.ts
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://u.goldeniptv.com:2052/live/ahmad/123456/222935.ts
+http://arox.cc/live/24335738729223/24335738729223/251871.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://u.goldeniptv.com:2052/live/ahmad/123456/222936.ts
+http://arox.cc/live/24335738729223/24335738729223/251874.ts
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
-http://u.goldeniptv.com:2052/live/ahmad/123456/222937.ts
+http://arox.cc/live/24335738729223/24335738729223/251877.ts
 #EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
-http://u.goldeniptv.com:2052/live/ahmad/123456/222938.ts
+http://arox.cc/live/24335738729223/24335738729223/251880.ts
 #EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
-http://u.goldeniptv.com:2052/live/ahmad/123456/222939.ts
+http://arox.cc/live/24335738729223/24335738729223/251883.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
 http://u.goldeniptv.com:2052/live/ahmad/123456/222940.ts
 #EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
