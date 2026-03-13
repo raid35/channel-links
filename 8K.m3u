@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://arox.cc/live/24335738729223/24335738729223/251868.ts
+http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://arox.cc/live/24335738729223/24335738729223/251871.ts
+http://xmrcars.org:8080/bn24k/mono.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://arox.cc/live/24335738729223/24335738729223/251874.ts
+http://xmrcars.org:8080/bn34k/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
-http://arox.cc/live/24335738729223/24335738729223/251877.ts
+http://xmrcars.org:8080/bn44k/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
-http://arox.cc/live/24335738729223/24335738729223/251880.ts
+http://xmrcars.org:8080/bn54k/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
-http://arox.cc/live/24335738729223/24335738729223/251883.ts
+http://xmrcars.org:8080/bn64k/mono.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
-http://u.goldeniptv.com:2052/live/ahmad/123456/222940.ts
+http://xmrcars.org:8080/bn74k/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
-http://u.goldeniptv.com:2052/live/ahmad/123456/222941.ts
+http://xmrcars.org:8080/bn84k/mono.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
-http://u.goldeniptv.com:2052/live/ahmad/123456/222942.ts
+http://xmrcars.org:8080/bn94k/mono.m3u8
 
 
