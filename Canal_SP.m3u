@@ -135,10 +135,6 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
-#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="ðŸ‡²ðŸ‡¾ SPORTS (ASTRO GO)",SPOTV Hd
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd?|drmScheme=clearkey&drmLicense=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="ðŸ‡²ðŸ‡¾ SPORTS (ASTRO GO)" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2 
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
