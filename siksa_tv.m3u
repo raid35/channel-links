@@ -115,6 +115,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/update_json
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
+https://raid35.github.io/docs/NBC.html
+
 
 
 
