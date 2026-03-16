@@ -88,6 +88,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTKMIY6jU-T6ZtQWNRvii_9dgdL0LdqqnfQ&s",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/custom.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
+https://raid35.github.io/docs/NBC.html
+
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://www.tvarenasport.com/files/img/logo.png ",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u
 
@@ -116,4 +119,4 @@ https://raw.githubusercontent.com/raid35/channel-links/main/update_json
 https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
-https://raid35.github.io/docs/NBC.html
+https://raw.githubusercontent.com/raid35/channel-links/main/BLG.m3u
