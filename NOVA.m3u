@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPOR 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 1 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/399.ts
+http://arox.cc/live/24232292395865/24232292395865/257854.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 2 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/396.ts
+http://arox.cc/live/24232292395865/24232292395865/257855.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 3 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/393.ts
+http://arox.cc/live/24232292395865/24232292395865/257856.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPORm MAX 4 FHD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187747.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 5 FHD
@@ -22,15 +22,15 @@ http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187741.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2751.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/53857.ts
+http://arox.cc/live/24232292395865/24232292395865/257787.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/168.ts
+http://arox.cc/live/24232292395865/24232292395865/257790.ts
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORm3u8 FR",FR:AutoMoto.HD
 http://arox.cc/live/24335738729223/24335738729223/257605.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/516163.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/516162.ts
+http://arox.cc/live/24232292395865/24232292395865/186247.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/516161.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
@@ -38,70 +38,70 @@ http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/516160.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/516159.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://arox.cc/live/24335738729223/24335738729223/257531.ts
+http://arox.cc/live/24232292395865/24232292395865/257785.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187544.ts
+http://arox.cc/live/24232292395865/24232292395865/257786.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://arox.cc/live/24335738729223/24335738729223/257534.ts
+http://arox.cc/live/24232292395865/24232292395865/257788.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://arox.cc/live/24335738729223/24335738729223/257537.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
 http://arox.cc/live/24335738729223/24335738729223/257532.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://arox.cc/live/24335738729223/24335738729223/257577.ts
+http://arox.cc/live/24232292395865/24232292395865/257793.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://arox.cc/live/24335738729223/24335738729223/257575.ts
+http://arox.cc/live/24232292395865/24232292395865/257794.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://arox.cc/live/24335738729223/24335738729223/257576.ts
+http://arox.cc/live/24232292395865/24232292395865/257792.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://arox.cc/live/24335738729223/24335738729223/257574.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156584.ts
+http://arox.cc/live/24232292395865/24232292395865/257778.ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156585.ts
+http://arox.cc/live/24232292395865/24232292395865/257821.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156587.ts
+http://arox.cc/live/24232292395865/24232292395865/257779.ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156588.ts
+http://arox.cc/live/24232292395865/24232292395865/257780.ts
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156589.ts
+http://arox.cc/live/24232292395865/24232292395865/257781.ts
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156590.ts
+http://arox.cc/live/24232292395865/24232292395865/257782.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156591.ts
+http://arox.cc/live/24232292395865/24232292395865/257783.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/1930.ts
+http://arox.cc/live/24232292395865/24232292395865/257822.ts
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156593.ts
+http://arox.cc/live/24232292395865/24232292395865/257817.ts
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/156586.ts
+http://arox.cc/live/24232292395865/24232292395865/257819.ts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2717.ts
+http://arox.cc/live/24232292395865/24232292395865/257818.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2745.ts
+http://arox.cc/live/24232292395865/24232292395865/257974.ts
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/1172.ts
+http://arox.cc/live/24232292395865/24232292395865/257912.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2746.ts
+http://arox.cc/live/24232292395865/24232292395865/257917.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2739.ts
+http://arox.cc/live/24232292395865/24232292395865/258014.ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://arox.cc/live/24335738729223/24335738729223/257585.ts
+http://arox.cc/live/24232292395865/24232292395865/257919.ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://arox.cc/live/24335738729223/24335738729223/257584.ts
+http://arox.cc/live/24232292395865/24232292395865/257918.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2741.ts
+http://arox.cc/live/24232292395865/24232292395865/257915.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/218561.ts
+http://arox.cc/live/24232292395865/24232292395865/257914.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/852.ts
+http://arox.cc/live/24232292395865/24232292395865/257830.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/851.ts
+http://arox.cc/live/24232292395865/24232292395865/257829.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/849.ts
+http://arox.cc/live/24232292395865/24232292395865/257826.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/850.ts
+http://arox.cc/live/24232292395865/24232292395865/257827.ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/848.ts
+http://arox.cc/live/24232292395865/24232292395865/257828.ts
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/11563.ts
+http://arox.cc/live/24232292395865/24232292395865/257923.ts
