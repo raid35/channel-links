@@ -1,50 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR | REALX ALGERIA 4K" group-title="EU || RELAX TV 8K",AR | REALX ALGERIA 4K
-http://sbix.pro:80/ziP800/85704502/577533.m3u8
 #EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://ksauae.xyz:8080/98653226884/17441864105955/14878
+http://arox.cc/live/24335738729223/24335738729223/664.ts
 #EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/23662.ts
+http://arox.cc/live/24335738729223/24335738729223/665.ts
 #EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://ksauae.xyz:8080/98653226884/17441864105955/14783
+http://arox.cc/live/24335738729223/24335738729223/666.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://ksauae.xyz:8080/98653226884/17441864105955/14784
+http://arox.cc/live/24335738729223/24335738729223/667.ts
 #EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://ksauae.xyz:8080/98653226884/17441864105955/14785
+http://arox.cc/live/24335738729223/24335738729223/668.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://ksauae.xyz:8080/98653226884/17441864105955/43605
+http://arox.cc/live/24335738729223/24335738729223/58953.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://ksauae.xyz:8080/98653226884/17441864105955/43601
+http://arox.cc/live/24335738729223/24335738729223/152007.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://ksauae.xyz:8080/98653226884/17441864105955/43599
+http://arox.cc/live/24335738729223/24335738729223/152008.ts
 #EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1153.ts
+http://arox.cc/live/24335738729223/24335738729223/672.ts
 #EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://ksauae.xyz:8080/98653226884/17441864105955/21218
+http://arox.cc/live/24335738729223/24335738729223/677.ts
 #EXTINF:-1 tvg-name="Dz: One TV HD" tvg-logo="http://tv.asc.vg/one.dz.png" group-title="Algeria ⭐",Dz: One TV HD
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/344039
 #EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://ksauae.xyz:8080/98653226884/17441864105955/21219
+http://arox.cc/live/24335738729223/24335738729223/672.ts
 #EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://ksauae.xyz:8080/98653226884/17441864105955/21220
+http://arox.cc/live/24335738729223/24335738729223/674.ts
 #EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://ksauae.xyz:8080/98653226884/17441864105955/14912
+http://arox.cc/live/24335738729223/24335738729223/678.ts
 #EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://ksauae.xyz:8080/98653226884/17441864105955/43603
+http://arox.cc/live/24335738729223/24335738729223/684.ts
 #EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://ksauae.xyz:8080/98653226884/17441864105955/14821
+http://arox.cc/live/24335738729223/24335738729223/675.ts
 #EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/112626
 #EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://ksauae.xyz:8080/98653226884/17441864105955/14876
+http://arox.cc/live/24335738729223/24335738729223/682.ts
 #EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://ksauae.xyz:8080/98653226884/17441864105955/14913
+http://arox.cc/live/24335738729223/24335738729223/680.ts
 #EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
 http://ksauae.xyz:8080/98653226884/17441864105955/14915
 #EXTINF:-1 tvg-name="Algerian: BAHIA" group-title="ALGERIE",Algerian: BAHIA
-http://ksauae.xyz:8080/98653226884/17441864105955/14914
+http://arox.cc/live/24335738729223/24335738729223/670.ts
 #EXTINF:-1 tvg-name="Algerian:ALANIS TV" group-title="ALGERIE",Algerian:ALANIS TV
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=679&t=live&f=ts
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
