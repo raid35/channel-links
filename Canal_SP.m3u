@@ -43,7 +43,7 @@ https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", STC SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC MASR 2
