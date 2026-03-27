@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 https://raw.githubusercontent.com/raid35/docs/main/Bein_CONACT.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://e.top4top.io/p_37208edb01.png", 
-https://raid35.github.io/docs/SPORT_UROP.html
+https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://b.top4top.io/p_3696h7vs51.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
@@ -112,11 +112,3 @@ https://github.com/raid35/channel-links/raw/main/movies.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 http://pro.netmos.ovh:7355/player_api.php?username=PR2979850206918&password=7770470406308
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/update_json
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/update_json
