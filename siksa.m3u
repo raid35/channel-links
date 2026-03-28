@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",
 https://raid35.github.io/docs/siksa_match.html
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2 ",
 https://raid35.github.io/docs/FAT.html
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
@@ -117,4 +117,7 @@ http://pro.netmos.ovh:7355/player_api.php?username=PR2979850206918&password=7770
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ziggo.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",
+https://raid35.github.io/docs/FAT.html
 
