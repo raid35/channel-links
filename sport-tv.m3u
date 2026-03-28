@@ -1,24 +1,26 @@
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
-http://ksauae.xyz:80/462738737337/352672622626/43594
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://lo1.in/por/sptv2.png" group-title="Portugal",PT | SPORT TV 2
-http://ksauae.xyz:80/462738737337/352672622626/43595
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="https://lo1.in/por/sptv3.png" group-title="Portugal",PT | SPORT TV 3
-http://ksauae.xyz:80/462738737337/352672622626/43596
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="https://lo1.in/por/sptv4.png" group-title="Portugal",PT | SPORT TV 4
-http://ksauae.xyz:80/462738737337/352672622626/4122
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="https://lo1.in/por/spotv5.png" group-title="Portugal",PT | SPORT TV 5
-http://ksauae.xyz:80/462738737337/352672622626/4185
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://lo1.in/por/spotv6.png" group-title="Portugal",PT | Sport TV 6
-http://ksauae.xyz:80/462738737337/352672622626/4757
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://lo1.in/por/spotv6.png" group-title="Portugal",PT | Sport TV 6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70",PT | DAZN 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000",PT | DAZN 4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 5" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000&quality=70",PT | DAZN 5
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 6" tvg-logo="" group-title="Portugal",PT | DAZN 6
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev6.m3u8
