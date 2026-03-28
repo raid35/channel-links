@@ -46,25 +46,25 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="",Vogue Europe
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Vogue Europe
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
-#EXTINF:-1 tvg-id="",Wasabi la chaîne anime
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="XilamTV.fr",XilamTV (1080p)
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",XilamTV (1080p)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Zee One
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Zee One
 https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
-#EXTINF:-1 tvg-id="",Zylo Ciné Nanar
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Zylo Ciné Western
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Zylo Ciné Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="",Zylo Emotion' L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="",Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="",Zylo Into Crime (1080p)
+#EXTINF:-1 tvg-id="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png",Zylo Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bein Sport 1
 https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_3.json%3Ftoken%3D7eb8004674623d7be46f059e8a451a58e0477916293c7b4b26c6d6062091432c%26expires%3D1771075942|userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36|referer=https://www.hilal1.sbs/
