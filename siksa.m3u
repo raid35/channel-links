@@ -16,6 +16,12 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://a.top4top.io/p_3704sfi1x1.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="http://picons.cmshulk.com/picons/netflix.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFILX_MOVIES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_3741dyr051.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 
@@ -63,12 +69,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="Ssc" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="http://tv.asc.vg/stc.family.stc.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/stc.family.m3u
