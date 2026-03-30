@@ -112,8 +112,7 @@ https://github.com/raid35/channel-links/raw/main/polosh.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
 https://github.com/raid35/channel-links/raw/main/movies.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://www.pngall.com/wp-content/uploads/2016/05/Poland-Flag-PNG.png", 
-https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/master/netplus.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein_max1.m3u
 
 
