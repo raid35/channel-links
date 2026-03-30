@@ -8,8 +8,6 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-shift="3" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="قنوات ترفيهية",Al Resalah HD
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Resalah_HD/DASH/Al_Resalah_HD.mpd
-#EXTINF:-1 tvg-id="QuranTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" ,القرآن الكريم
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=11111111
 #EXTINF:-1 tvg-id="SunnaTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" ,السنة النبوية
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg" , الشارقة القرآن الكريم
