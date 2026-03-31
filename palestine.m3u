@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=153539&extension=ts
+http://shoof.pro:8080/live/raoufxr/k97343546/298139.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=153540&extension=ts
+http://shoof.pro:8080/live/raoufxr/k97343546/298138.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=153541&extension=ts
+http://shoof.pro:8080/live/raoufxr/k97343546/298137.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=153542&extension=ts
+http://shoof.pro:8080/live/raoufxr/k97343546/298136.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
 http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=153543&extension=ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
