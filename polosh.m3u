@@ -22,4 +22,30 @@ http://ksauae.xyz:80/462738737337/352672622626/440938
 http://ksauae.xyz:80/462738737337/352672622626/440939
 #EXTINF:-1 tvg-id="" tvg-name="PL | Polsat Sport Premium PPV 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4178.png" group-title="Poland",PL | Polsat Sport Premium PPV 5
 http://ksauae.xyz:80/462738737337/352672622626/440940
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3742f2lpg1.jpg" ,DiemaSport
+http://87.246.54.249:8080/DiemaSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3742neliq1.jpg" ,DiemaSport2
+http://87.246.54.249:8080/DiemaSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3742neliq1.jpg" ,DiemaSport3
+http://87.246.54.249:8080/DiemaSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1536x274.png" ,MaxSport1
+http://87.246.54.249:8080/MaxSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1536x274.png" ,MaxSport2
+http://87.246.54.249:8080/MaxSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1536x274.png" ,MaxSport3
+http://87.246.54.249:8080/MaxSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1536x274.png" ,MaxSport4
+http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-1-2659.png" ,ArtSport1
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-2-2659.png" ,ArtSport2
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-3-2661.png" ,ArtSport3
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-4-2662.png" ,ArtSport4
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" ,ArtSport5
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" ,ArtSport6
+http://169.150.223.25/ArtSport6/index.m3u8
 
