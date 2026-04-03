@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://xmrcars.org:8080/bn14k/mono.m3u8
+http://ip365.cx/live/5411787920/2904029076/5064.ts
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://xmrcars.org:8080/bn24k/mono.m3u8
+http://ip365.cx/live/5411787920/2904029076/5063.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://xmrcars.org:8080/bn34k/mono.m3u8
+http://ip365.cx/live/5411787920/2904029076/5062.ts
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
 http://ip365.cx/live/5411787920/2904029076/5061.ts
 #EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
