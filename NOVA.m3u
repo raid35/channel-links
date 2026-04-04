@@ -79,6 +79,12 @@ http://arox.cc/live/24232292395865/24232292395865/257819.ts
 http://arox.cc/live/24232292395865/24232292395865/257818.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
 http://arox.cc/live/24232292395865/24232292395865/257974.ts
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
+https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Français ",FR | naturetimeemea
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
 http://arox.cc/live/24232292395865/24232292395865/257912.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
