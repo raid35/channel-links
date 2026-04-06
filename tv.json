@@ -1,26 +1,26 @@
 {
   "Documentary": [
     {
-      "name": "National Geographic",
-      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
-      "key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_logo.svg/1200px-National_Geographic_logo.svg.png",
+      "name": "La_Une",
+      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd",
+      "key": "cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
       "name": "Animal Planet",
-      "url": "https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd",
-      "key": "807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png",
+      "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd",
+      "key": "{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}",
+      "logo": "https://i.ibb.co/s9yfNbx/beinmax5.png",
       "user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; TV Box Build/RP1A.200720.011)"
     }
   ],
   "Entertainment": [
     {
       "name": "MBC 1 HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd",
-      "key": "bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MBC1_Logo_2012.svg/1200px-MBC1_Logo_2012.svg.png",
+      "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+      "key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+      "logo": "https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg",
       "user_agent": "Mozilla/5.0"
     }
   ],
