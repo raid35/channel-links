@@ -1,29 +1,13 @@
   [
     {
-      "name": "MBC Althkafea HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBT/MBT.isml/manifest.mpd",
-      "key": null
-    },
-    
+  "Documentary": [
     {
       "name": "National Geographic",
-      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpdd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9}"
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9}"
     },
-
     {
       "name": "mbc action",
       "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281}"
-    },
-    
-    {
-      "name": "National Geographic WILD",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-      "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-    },
-    {
-      "name": "National Geographic Abu Dhabi",
-      "url": "http://maveniptv.net/live/aosman/0M@1115082222/284609.ts",
-      "key": "b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5"
     },
     {
       "name": "Animal Planet",
@@ -34,62 +18,13 @@
       "name": "Discovery HD",
       "url": "https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd",
       "key": "1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2"
-    },
-    {
-      "name": "Discovery Family HD",
-      "url": "https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd",
-      "key": "bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32"
-    },
-    {
-      "name": "Investigation Discovery (ID)",
-      "url": "https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd",
-      "key": "2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188"
-    },
-    {
-      "name": "Alsharq Alawthaekeya",
-      "url": "https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd",
-      "key": "be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3"
-    },
-    {
-      "name": "Alsharq Discovery",
-      "url": "https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd",
-      "key": "2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb"
     }
   ],
-    {
-      "name": "KSA 1",
-      "url": "https://uselector.cdn.intigral-ott.net/KSA1/KSA1.isml/manifest.mpd",
-      "key": "74206a6415616eaa383754ac4a7e4e0c:4efdc868ec53656d4f3ec8e09b814402"
-    },
-    {
-      "name": "SBC",
-      "url": "https://uselector.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd",
-      "key": "dbeadd802d38db99384d36b08344d303:f67885a1e6a52f11eb133dc422144434"
-    },
+  "Entertainment": [
     {
       "name": "MBC 1 HD",
       "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd",
       "key": "bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a"
-    },
-    {
-      "name": "STC TV Drama",
-      "url": "https://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd",
-      "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
-    },
-    {
-      "name": "STC TV Family",
-      "url": "https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd",
-      "key": "5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4"
-    },
-    {
-      "name": "STC TV Anime",
-      "url": "https://uselector.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd",
-      "key": "f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe"
-    },
-    {
-      "name": "Bedaya HD",
-      "url": "https://uselector.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd",
-      "key": "5538be626e317ebae98df64d42bd3c16:348d5dc475576d0089d44682822cef2c"
     },
     {
       "name": "Rotana Khalejia HD",
@@ -97,145 +32,16 @@
       "key": "ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50"
     },
     {
-      "name": "Rotana + HD",
-      "url": "https://uselector.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd",
-      "key": "a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615"
-    },
-    {
-      "name": "MBC Drama + HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd",
-      "key": "d047b20a11fff140d4691ad839f997da:522f1af7009bc125fe0e40e143532052"
-    },
-    {
-      "name": "MBC Masr HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd",
-      "key": "8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9"
-    },
-    {
-      "name": "MBC Masr 2 HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd",
-      "key": "4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97"
-    },
-    {
-      "name": "MBC Drama HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd",
-      "key": "91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3"
-    },
-    {
-      "name": "Dubai",
-      "url": "https://uselector.cdn.intigral-ott.net/DBT/DBT.isml/manifest.mpd",
-      "key": "cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e"
-    },
-    {
-      "name": "Abu Dhabi TV",
-      "url": "https://uselector.cdn.intigral-ott.net/ADO/ADO.isml/manifest.mpd",
-      "key": "5b997b6eda03520a572ab527499859ca:0a35a1a66db970a5b7e4bb6d469737cd"
-    },
-    {
-      "name": "Al Emarat TV",
-      "url": "https://uselector.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd",
-      "key": "93e6d7023b51dee949dfca57bcadf8e4:634c0e0f8412e165f94b79fefbd47371"
-    },
-    {
-      "name": "Al Bahrain",
-      "url": "https://uselector.cdn.intigral-ott.net/BHT/BHT.isml/manifest.mpd",
-      "key": "430da64eea5e02531aece95173c2f4e0:0df6402f77dc8df58975671af77dc9e2"
-    },
-    {
-      "name": "Al Kuwait",
-      "url": "https://uselector.cdn.intigral-ott.net/KWT/KWT.isml/manifest.mpd",
-      "key": "236613eccd8a9a648630daab80f8bd6e:f1d1c2e231e622cd8125d39f251df0b6"
-    },
-    {
-      "name": "Rotana Drama HD",
-      "url": "https://uselector.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd",
-      "key": "9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19"
-    },
-    {
-      "name": "MBC 4 HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd",
-      "key": "c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47"
-    },
-    {
-      "name": "MBC GAMING HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd",
-      "key": "5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1"
-    },
-    {
-      "name": "MBC Varifty + HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd",
-      "key": "e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c"
-    },
-    {
-      "name": "STAR World",
-      "url": "https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd",
-      "key": "19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce"
-    },
-    {
-      "name": "food network",
-      "url": "https://uselector.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd",
-      "key": "781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923"
-    },
-    {
-      "name": "STAR Life",
-      "url": "https://uselector.cdn.intigral-ott.net/FXL/FXL.isml/manifest.mpd",
-      "key": "6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd"
-    },
-    {
       "name": "MBC Bollywood",
       "url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
       "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-    },
-    {
-      "name": "Zekrayat",
-      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd",
-      "key": "cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986"
-    },
-    {
-      "name": "Sama Dubai",
-      "url": "https://uselector.cdn.intigral-ott.net/DBSM/DBSM.isml/manifest.mpd",
-      "key": "38f201523e9e04edccfda8ceff5dae8c:86fda252f9f2990c5de7f4d8af26b99e"
-    },
-    {
-      "name": "Al Mamlaka",
-      "url": "https://uselector.cdn.intigral-ott.net/MAM/MAM.isml/manifest.mpd",
-      "key": "f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43"
     }
   ],
-    {
-      "name": "Alquran Alkarim",
-      "url": "https://uselector.cdn.intigral-ott.net/KSQ/KSQ.isml/manifest.mpd",
-      "key": "a477def67bb504fb3acf9350e3074501:1ae6a15786914df32103ae155f26ac73"
-    },
-    {
-      "name": "Alsuna Alnabawia",
-      "url": "https://uselector.cdn.intigral-ott.net/KSU/KSU.isml/manifest.mpd",
-      "key": "4b468eb6cfd65b8c96ea07f9c866d3f8:14858555f26296bf66d6eb27c75b9639"
-    },
-    {
-      "name": "Alresala Eatedal",
-      "url": "https://uselector.cdn.intigral-ott.net/ARH/ARH.isml/manifest.mpd",
-      "key": "cfa79dd00db0005b77e18515e3adbdd7:9556d6db1074b82ade91f66f43a6c05b"
-    },
-    {
-      "name": "Eqra Qawy Eamank",
-      "url": "https://uselector.cdn.intigral-ott.net/IQR/IQR.isml/manifest.mpd",
-      "key": "ccf98430187295319c820656cdddd32b:74b41384a387b7350d253bb159f9c9e2"
-    },
+  "Kids": [
     {
       "name": "Disney Channel",
       "url": "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd",
       "key": "72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195"
-    },
-    {
-      "name": "Disney JR",
-      "url": "https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd",
-      "key": "f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0"
-    },
-    {
-      "name": "Cartoon Network HD",
-      "url": "https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd",
-      "key": "8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c"
     },
     {
       "name": "Cartoon Network Arabia",
@@ -243,50 +49,16 @@
       "key": "ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313"
     },
     {
-      "name": "Cartoonito",
-      "url": "https://uselector.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd",
-      "key": "2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe"
-    },
-    {
-      "name": "Rotana Kids",
-      "url": "https://uselector.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd",
-      "key": "2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d"
-    },
-    {
-      "name": "MBC 3 HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd",
-      "key": "ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372"
-    },
-    {
-      "name": "Majid Kids TV",
-      "url": "https://uselector.cdn.intigral-ott.net/MAJ/MAJ.isml/manifest.mpd",
-      "key": "64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b"
-    },
-    {
       "name": "SpaceToon",
       "url": "https://uselector.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd",
       "key": "2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045"
     }
   ],
-    {
-      "name": "STC TV Cinema",
-      "url": "https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd",
-      "key": "27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613"
-    },
+  "Movies": [
     {
       "name": "MBC 2 HD",
       "url": "https://uselector.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd",
       "key": "baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685"
-    },
-    {
-      "name": "MBC MAX HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd",
-      "key": "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212"
-    },
-    {
-      "name": "STAR Action",
-      "url": "https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd",
-      "key": "230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2"
     },
     {
       "name": "STAR Movies",
