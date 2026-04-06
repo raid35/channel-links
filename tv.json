@@ -10,7 +10,7 @@
     {
       "name": "Animal Planet",
       "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd",
-      "key": "{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}",
+      "key": "{\"kty\":\"oct\",\"kid\":\"sEeP0mQk6I+h5keO411/CA\",\"k\":\"9QRCQtjSJMrkCH/Y72VAIw\"},{\"kty\":\"oct\",\"kid\":\"InUSnyhWdxReNOuL4kmuSg\",\"k\":\"dQVcYFHWUMUpYnseYm9TCg\"}",
       "logo": "https://i.ibb.co/s9yfNbx/beinmax5.png",
       "user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; TV Box Build/RP1A.200720.011)"
     }
