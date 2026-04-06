@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/100
+http://77.137.40.221:8000/play/a01e
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/101
+http://77.137.40.221:8000/play/a01g
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/102
+http://77.137.40.221:8000/play/a01h
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/103
+http://77.137.40.221:8000/play/a01i
 #EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/104
+http://77.137.40.221:8000/play/a01j
 #EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/105
+http://77.137.40.221:8000/play/a01k
 #EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/106
 #EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
