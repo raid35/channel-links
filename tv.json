@@ -56,7 +56,6 @@
       "key": "2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb"
     }
   ],
-  "Entertainment": [
     {
       "name": "KSA 1",
       "url": "https://uselector.cdn.intigral-ott.net/KSA1/KSA1.isml/manifest.mpd",
@@ -203,7 +202,6 @@
       "key": "f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43"
     }
   ],
-"Islamic": [
     {
       "name": "Alquran Alkarim",
       "url": "https://uselector.cdn.intigral-ott.net/KSQ/KSQ.isml/manifest.mpd",
@@ -223,9 +221,7 @@
       "name": "Eqra Qawy Eamank",
       "url": "https://uselector.cdn.intigral-ott.net/IQR/IQR.isml/manifest.mpd",
       "key": "ccf98430187295319c820656cdddd32b:74b41384a387b7350d253bb159f9c9e2"
-    }
-  ],
-  "Kids": [
+    },
     {
       "name": "Disney Channel",
       "url": "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd",
@@ -272,7 +268,6 @@
       "key": "2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045"
     }
   ],
-  "Movies": [
     {
       "name": "STC TV Cinema",
       "url": "https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd",
