@@ -184,13 +184,13 @@
     },
     {
       "name": "MBC Bollywood",
-      "url": "https://uselector.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd",
-      "key": "ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c"
+      "url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
     },
     {
       "name": "Zekrayat",
-      "url": "https://uselector.cdn.intigral-ott.net/ZKT/ZKT.isml/manifest.mpd",
-      "key": "f824aaf0377e1f7c85752333892db821:87050d42b010dd0ee503af7a02ade95b"
+      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd",
+      "key": "cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986"
     },
     {
       "name": "Sama Dubai",
