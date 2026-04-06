@@ -1,26 +1,27 @@
 {
   "Documentary": [
     {
-      "name": "La_Une",
-      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd",
-      "key": "cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png",
+      "name": "ps1",
+      "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+      "key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "logo": "https://go4.pw/ARABE/AD_SPORTS_1_PREMIUM.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
-      "name": "Animal Planet",
-      "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd",
-      "key": "b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224ca396279de626f530a",
-      "logo": "https://i.ibb.co/s9yfNbx/beinmax5.png",
+      "name": "ZIGGO SPORT 🇳🇱",
+      "url": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,",
+      "key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+      "logo": "https://i.ibb.co.com/HV2c1Cc/ziggosport.png",
       "user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; TV Box Build/RP1A.200720.011)"
     }
   ],
   "Entertainment": [
     {
-      "name": "MBC 1 HD",
+      "name": "ZIGGO SPORT 2 🇳🇱",
       "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-      "key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-      "logo": "https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg",
+      "key": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+      "logo": "https://i.ibb.co.com/HV2c1Cc/ziggosport.png",
       "user_agent": "Mozilla/5.0"
     }
   ],
