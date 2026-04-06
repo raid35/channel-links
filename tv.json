@@ -2,67 +2,44 @@
   "Documentary": [
     {
       "name": "National Geographic",
-      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9}"
-    },
-    {
-      "name": "mbc action",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281}"
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+      "key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_logo.svg/1200px-National_Geographic_logo.svg.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
       "name": "Animal Planet",
       "url": "https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd",
-      "key": "807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c"
-    },
-    {
-      "name": "Discovery HD",
-      "url": "https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd",
-      "key": "1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2"
+      "key": "807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; TV Box Build/RP1A.200720.011)"
     }
   ],
   "Entertainment": [
     {
       "name": "MBC 1 HD",
       "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd",
-      "key": "bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a"
-    },
-    {
-      "name": "Rotana Khalejia HD",
-      "url": "https://uselector.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd",
-      "key": "ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50"
-    },
-    {
-      "name": "MBC Bollywood",
-      "url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-      "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+      "key": "bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MBC1_Logo_2012.svg/1200px-MBC1_Logo_2012.svg.png",
+      "user_agent": "Mozilla/5.0"
     }
   ],
   "Kids": [
     {
-      "name": "Disney Channel",
-      "url": "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd",
-      "key": "72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195"
-    },
-    {
-      "name": "Cartoon Network Arabia",
-      "url": "https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd",
-      "key": "ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313"
-    },
-    {
       "name": "SpaceToon",
       "url": "https://uselector.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd",
-      "key": "2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045"
+      "key": "2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/9/90/Spacetoon_Logo.svg/1200px-Spacetoon_Logo.svg.png",
+      "user_agent": "Mozilla/5.0"
     }
   ],
   "Movies": [
     {
-      "name": "MBC 2 HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd",
-      "key": "baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685"
-    },
-    {
       "name": "STAR Movies",
       "url": "https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd",
-      "key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4"
+      "key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Star_Movies_logo.svg/1200px-Star_Movies_logo.svg.png",
+      "user_agent": "Mozilla/5.0"
     }
   ]
 }
