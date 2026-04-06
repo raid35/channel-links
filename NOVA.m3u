@@ -25,6 +25,10 @@ http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2751.ts
 http://arox.cc/live/24232292395865/24232292395865/257787.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://arox.cc/live/24232292395865/24232292395865/257790.ts
+#EXTINF:-1, INFOSPORT 🇫🇷 
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1, L`Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORm3u8 FR",FR:AutoMoto.HD
 http://arox.cc/live/24335738729223/24335738729223/257605.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
