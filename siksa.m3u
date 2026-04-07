@@ -10,6 +10,15 @@ https://raid35.github.io/docs/FAT.html
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" 
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://h.top4top.io/p_37494dcdl1.png", 
+https://raw.githubusercontent.com/raid35/docs/main/Bein_CONACT.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", 
+https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://d.top4top.io/p_3704u4m261.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
 
@@ -25,17 +34,8 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://f.top4top.io/p_3741zwn5d1.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/Cartoon.m3u
 
-#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" 
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://j.top4top.io/p_3720aduw31.png", 
-https://raw.githubusercontent.com/raid35/docs/main/Bein_CONACT.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", 
-https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://b.top4top.io/p_3696h7vs51.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
