@@ -6,9 +6,9 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPOR 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 3 FHD
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPORm MAX 4 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187747.ts
+http://xytve.com:8080/live/44366034539938/21003228523322/410401.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 5 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/8566.ts
+http://xytve.com:8080/live/44366034539938/21003228523322/410405.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 6 FHD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/8567.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 7 FHD
@@ -20,9 +20,9 @@ http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73484.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 10 FHD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187741.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77874.ts
+http://xytve.com:8080/live/44366034539938/21003228523322/410182.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://arox.cc/live/24232292395865/24232292395865/257787.ts
+http://xytve.com:8080/live/44366034539938/21003228523322/410371.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://arox.cc/live/24232292395865/24232292395865/257790.ts
 #EXTINF:-1, INFOSPORT 🇫🇷 
@@ -108,7 +108,7 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77723.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77722.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://arox.cc/live/24232292395865/24232292395865/257826.ts
+http://xytve.com:8080/live/44366034539938/21003228523322/410300.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
 http://arox.cc/live/24232292395865/24232292395865/257827.ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
