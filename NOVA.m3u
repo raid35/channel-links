@@ -20,7 +20,7 @@ http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73484.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 10 FHD
 http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187741.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/2751.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77874.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://arox.cc/live/24232292395865/24232292395865/257787.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
@@ -42,47 +42,47 @@ http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151084&extension=
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
 http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151085&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://arox.cc/live/24232292395865/24232292395865/257785.ts
+http://145.239.5.177/322/mpegts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://arox.cc/live/24232292395865/24232292395865/257786.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77315.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://arox.cc/live/24232292395865/24232292395865/257788.ts
+http://145.239.5.177/319/mpegts
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://arox.cc/live/24335738729223/24335738729223/257537.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77879.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
 http://arox.cc/live/24335738729223/24335738729223/257532.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://99.27.51.147:8080/CineFrisson/index.m3u8
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92185.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://arox.cc/live/24232292395865/24232292395865/257794.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92186.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://99.27.51.147:8080/CineFamiz/index.m3u8
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92187.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://arox.cc/live/24335738729223/24335738729223/257574.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92190.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
-http://arox.cc/live/24232292395865/24232292395865/257778.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77850.ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
-http://arox.cc/live/24232292395865/24232292395865/257821.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77867.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77855.ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://arox.cc/live/24232292395865/24232292395865/257780.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77860.ts
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://arox.cc/live/24232292395865/24232292395865/257781.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77862.ts
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77861.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
-http://arox.cc/live/24232292395865/24232292395865/257783.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77856.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
-http://arox.cc/live/24232292395865/24232292395865/257822.ts
+http://145.239.5.177/314/mpegts
 #EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
-http://arox.cc/live/24232292395865/24232292395865/257817.ts
+http://145.239.5.177/331/mpegts
 #EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://arox.cc/live/24232292395865/24232292395865/257819.ts
+http://145.239.5.177/315/mpegts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://arox.cc/live/24232292395865/24232292395865/257818.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77854.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://arox.cc/live/24232292395865/24232292395865/257974.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77733.ts
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
 https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Français ",FR | naturetimeemea
@@ -90,23 +90,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://arox.cc/live/24232292395865/24232292395865/257912.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77729.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://arox.cc/live/24232292395865/24232292395865/257917.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77724.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://arox.cc/live/24232292395865/24232292395865/258014.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77730.ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://arox.cc/live/24232292395865/24232292395865/257919.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77732.ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
 http://arox.cc/live/24232292395865/24232292395865/257918.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://arox.cc/live/24232292395865/24232292395865/257915.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77719.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://arox.cc/live/24232292395865/24232292395865/257914.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77721.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://arox.cc/live/24232292395865/24232292395865/257830.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77723.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://arox.cc/live/24232292395865/24232292395865/257829.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77722.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
 http://arox.cc/live/24232292395865/24232292395865/257826.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
@@ -114,4 +114,4 @@ http://arox.cc/live/24232292395865/24232292395865/257827.ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
 http://arox.cc/live/24232292395865/24232292395865/257828.ts
 #EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://arox.cc/live/24232292395865/24232292395865/257923.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77727.ts
