@@ -81,6 +81,16 @@ http://145.239.5.177/331/mpegts
 http://145.239.5.177/315/mpegts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77854.ts
+#EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur de la TV Realite (1080p)
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Anges (1080p)
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
+https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77733.ts
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
@@ -89,6 +99,12 @@ https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="",Homicide la chaîne du fait divers (1080p)
+https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77729.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
