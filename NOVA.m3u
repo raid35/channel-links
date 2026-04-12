@@ -1,26 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPOR 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 1 FHD
-http://izdpneyw.icelil.com:80/MAGRVJFSLF/OImWCkQqCH/56655
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32797.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR 2 FHD" tvg-logo="http://tayaara.store/live/france/max2.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 2 FHD
-http://izdpneyw.icelil.com:80/MAGRVJFSLF/OImWCkQqCH/56654
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32796.ts
 #EXTINF:-1 tvg-name="FR : beIN SPOR 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR 3 FHD
-http://izdpneyw.icelil.com:80/MAGRVJFSLF/OImWCkQqCH/56653
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPORm MAX 4 FHD
-http://xytve.com:8080/live/44366034539938/21003228523322/410401.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 5 FHD
-http://xytve.com:8080/live/44366034539938/21003228523322/410405.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 6 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/8567.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 7 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73482.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 8 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73483.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 9 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73484.ts
-#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 10 FHD
-http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187741.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32795.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://izdpneyw.icelil.com:80/MAGRVJFSLF/OImWCkQqCH/311116
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32735.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://xytve.com:8080/live/44366034539938/21003228523322/410371.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
@@ -44,7 +30,7 @@ http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151085&extension=
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
 http://145.239.5.177/322/mpegts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77315.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32777.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://145.239.5.177/319/mpegts
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
@@ -52,11 +38,11 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77879.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
 http://arox.cc/live/24335738729223/24335738729223/257532.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92185.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/4875.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92186.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/4876.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92187.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/4872.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/92190.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
@@ -66,11 +52,11 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77867.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77855.ts
 #EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77860.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32733.ts
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77862.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32732.ts
 #EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77861.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/8443.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77856.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="FRANCE HD",FR:6Ter.HD
@@ -106,28 +92,40 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-name="FR | ANIMAUX" tvg-logo="http://148.251.133.153:8181/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77729.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/8490.ts
 #EXTINF:-1 tvg-name="FR | USHUAIA TV" tvg-logo="http://148.251.133.153:8181/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77724.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32616.ts
 #EXTINF:-1 tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://148.251.133.153:8181/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77730.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32768.ts
 #EXTINF:-1 tvg-name="FR | SCIENCES & VIE" tvg-logo="http://148.251.133.153:8181/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77732.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32648.ts
 #EXTINF:-1 tvg-name="FR | SEASONS" tvg-logo="http://148.251.133.153:8181/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://arox.cc/live/24232292395865/24232292395865/257918.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32647.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77719.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32754.ts
 #EXTINF:-1 tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://148.251.133.153:8181/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77721.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32752.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77723.ts
 #EXTINF:-1 tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://148.251.133.153:8181/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77722.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://xytve.com:8080/live/44366034539938/21003228523322/410300.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32665.ts
 #EXTINF:-1 tvg-name="FR | PLANETE CI" tvg-logo="http://148.251.133.153:8181/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
 http://arox.cc/live/24232292395865/24232292395865/257827.ts
 #EXTINF:-1 tvg-name="FR | PLANETE A&E" tvg-logo="http://148.251.133.153:8181/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://arox.cc/live/24232292395865/24232292395865/257828.ts
-#EXTINF:-1 tvg-name="FR | HISTOIRE" tvg-logo="http://148.251.133.153:8181/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-https://nu.123tokyo.xyz/get.php/b/e8/OHpEUS5DNwc.mp3?n=جديد Ibra Ray 2026 🔥 أقوى منوعات راي خيالية في بث مباشر %28Live%29 لا يفوتكم_&h=vu0teP95nEaHZuThIRDSxw&s=1775868022&cid2=MTA1LjEwNC40NS4yMjF8RFp8UkkxQQ%3D%3D&uT=X
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/32667.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 4 FHD" tvg-logo="http://tayaara.store/live/france/max4.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPORm MAX 4 FHD
+http://xytve.com:8080/live/44366034539938/21003228523322/410401.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 5 FHD" tvg-logo="http://tayaara.store/live/france/max5.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 5 FHD
+http://xytve.com:8080/live/44366034539938/21003228523322/410405.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 6 FHD" tvg-logo="http://tayaara.store/live/france/max6.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 6 FHD
+http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/8567.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 7 FHD
+http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73482.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 8 FHD
+http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73483.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 9 FHD
+http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/73484.ts
+#EXTINF:-1 tvg-name="FR : beIN SPOR MAX 10 HD" tvg-logo="http://tayaara.store/live/france/max10.jpg" group-title="FRANCE SPORm3u8",FR : beIN SPOR MAX 10 FHD
+http://ip.king-cobra.eu:8080/live/Ev2kiBQfLN/gM15AXDeUv/187741.ts
