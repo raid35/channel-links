@@ -18,15 +18,15 @@ https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR:AutoMoto.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/automoto-la-chaine-fr.png" group-title="SPORm3u8 FR",FR:AutoMoto.HD
 http://arox.cc/live/24335738729223/24335738729223/257605.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 1 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151081&extension=ts
+http://ip.efetv.de:8080/live/Bi3hdknmvh/al7745dNlM/516163.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 2 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151082&extension=ts
+http://ip.efetv.de:8080/live/Bi3hdknmvh/al7745dNlM/516162.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 3 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151083&extension=ts
+http://ip.efetv.de:8080/live/Bi3hdknmvh/al7745dNlM/516161.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 4 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151084&extension=ts
+http://ip.efetv.de:8080/live/Bi3hdknmvh/al7745dNlM/516160.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORm3u8 (France)",|FR| CANAL+ SPORT 5 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=151085&extension=ts
+http://ip.efetv.de:8080/live/Bi3hdknmvh/al7745dNlM/516159.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
 http://145.239.5.177/322/mpegts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
