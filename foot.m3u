@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
-http://ksauae.xyz:8080/live/2551810583569940/2025565766597215/418111.ts
+http://178.162.237.173:8080/live/86321000461/6731909777/485632.m3u8?token=VERRMW9od2I4U0duNndP
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
 http://ksauae.xyz:8080/live/2551810583569940/2025565766597215/418114.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 3 HD
