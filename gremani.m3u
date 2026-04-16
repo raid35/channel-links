@@ -1,16 +1,8 @@
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://www.allatvkanaler.se/assets/61/logo-sm/v-sport-premium-tabla_sm.webp" group-title="EU | NO",NO| v-sport-premium
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712642&extension=ts&play_token=iOkxXgtyBD
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/145?cb=20220701201704" group-title="EU | NO",NO| v-sport-premier-league
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712639&extension=ts&play_token=2cDUSzk8o6
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="NO| v-sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="EU | NO",NO| viasat-ultra-hd
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B7:46:50&stream=1712634&extension=ts&play_token=pgzFhYpKDb
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR HD" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="EU | GERMANY HD",DE| DAZN 1 BAR HD
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/698216.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE| DAZN 2 BAR HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="EU | GERMANY HD",DE| DAZN 2 BAR HD
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/698220.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE| DAZN 1 BAR SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="EU | GERMANY HD",DE| SPORT DIGITAL
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/131439.ts
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="https://go4.pw/germany/SKY-SPORT-MIX.png" group-title="EU | GERMANY HD",DE| SKY SPORT MIX HD
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/245378.ts
-#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="https://go4.pw/germany/SKY_SPORT_PL.png" group-title="EU | GERMANY HD",DE| SKY SPORT PREMIER LEAGUE HD
-http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/245380.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIER Y LA LIGA", 3SAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="Universal CINE 🎦", Universal Premiere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
