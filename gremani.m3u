@@ -4,6 +4,8 @@ http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8
 http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Start-logo.png",NOVA SPORTS START GR
 http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png",Cosmote Sport Highlights GR
+http://cdn.tv-rds.workers.dev/CosmoteSportHG.m3u8
 #EXTINF:-1 tvg-id="476569" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png",Cosmote Sport 1 GR
 http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8
 #EXTINF:-1 tvg-id="476571" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png",Cosmote Sport 2 GR
@@ -22,16 +24,28 @@ http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8
 http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8
 #EXTINF:-1 tvg-id="476562" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png",Cosmote Sport 9 GR
 http://cdn.tv-rds.workers.dev/CosmoteSport9.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png",Cosmote Sport Highlights GR
-http://cdn.tv-rds.workers.dev/CosmoteSportHG.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png",ELEVEN SPORTS 1 PL
+http://cdn.tv-rds.workers.dev/ElevenSports1PL.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png",ELEVEN SPORTS 2 PL
 http://cdn.tv-rds.workers.dev/ElevenSports2PL.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 PL
+http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
+http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Ziggo Sport 4K
 http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",Ziggo Sport NL
 http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
 #EXTINF:-1 tvg-id="406813" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",Ziggo Sport 2 NL
 http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
+#EXTINF:-1 tvg-id="406807" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",Ziggo Sport 3 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
+#EXTINF:-1 tvg-id="406820" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",Ziggo Sport 4 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
+#EXTINF:-1 tvg-id="406816" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",Ziggo Sport 5 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
+#EXTINF:-1 tvg-id="406811" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",Ziggo Sport 6 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1 🇧🇦
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 🇧🇦
@@ -104,21 +118,3 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-id="406807" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",Ziggo Sport 3 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
-#EXTINF:-1 tvg-id="406820" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",Ziggo Sport 4 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
-#EXTINF:-1 tvg-id="406816" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",Ziggo Sport 5 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
-#EXTINF:-1 tvg-id="406811" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",Ziggo Sport 6 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eleven Sports 3 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105527
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 PL
-http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eleven Sports 4 HD
-http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eleven Sports 4 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
-http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
