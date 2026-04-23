@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 FHD+ (Resolution Exclusive)
-http://arox.cc/live/1100817324546248/1100817324546248/909.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/152063.m3u8
 #EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/s9aNNau.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 2 FHD+ (Resolution Exclusive)
-http://arox.cc/live/1100817324546248/1100817324546248/907.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/152064.m3u8
 #EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/V43ChWk.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 3 FHD+ (Resolution Exclusive)
-http://arox.cc/live/1100817324546248/1100817324546248/908.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/152065.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257531.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158635.m3u8
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://i.imgur.com/B5Acfgi.png" group-title="FR SPORTS (France)",|FR| CANAL+ FOOT FHD
 http://cdn.tv-rds.workers.dev/FootPlusFR.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://i.imgur.com/U5Ci5j8.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 360 FHD
@@ -26,73 +26,73 @@ http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/291178
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2755.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/6QNm17G.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257536.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158638.m3u8
 #EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://arox.cc/live/1100817324546248/1100817324546248/257532.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/221674.m3u8
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257537.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158636.m3u8
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257573.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158647.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257575.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158642.m3u8
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257576.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158643.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257577.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158644.m3u8
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
-http://arox.cc/live/1100817324546248/1100817324546248/257574.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158646.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257512.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136875.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257515.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136876.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257528.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136877.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://i.imgur.com/q5BDioj.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257529.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136878.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://arox.cc/live/1100817324546248/1100817324546248/257516.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136862.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257517.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136863.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/lvhTu1V.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257518.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/189459.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/dPD2onW.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257519.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136865.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/byGAKKs.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257521.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136871.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257524.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136854.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257527.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/136879.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257533.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158640.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257583.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158616.m3u8
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
-http://185.160.192.64/live/mangin15/85784/13692.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158612.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257597.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158619.m3u8
 #EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257585.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158615.m3u8
 #EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
 http://arox.cc/live/1100817324546248/1100817324546248/257584.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://arox.cc/live/1100817324546248/1100817324546248/257595.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158620.m3u8
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
-http://ksauae.xyz:8080/live/2551810583569940/2025565766597215/361613.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158623.m3u8
 #EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
 http://arox.cc/live/1100817324546248/1100817324546248/257581.ts
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
-http://arox.cc/live/1100817324546248/1100817324546248/257580.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158609.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257588.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158605.m3u8
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257589.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158607.m3u8
 #EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257587.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158606.m3u8
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
-http://arox.cc/live/1100817324546248/1100817324546248/257591.ts
+http://ibo.lynxiptv.com/live/140266828544/8MN1uVa5rF/158613.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/363.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
