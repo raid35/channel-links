@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
+http://cdn.tv-rds.workers.dev/DAZN1DE.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
+http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Premier-League-logo.png",NOVA SPORTS PREMIER LEAGUE GR
 http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Prime-logo.png",NOVA SPORTS PRIME GR
@@ -58,6 +62,16 @@ https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
 http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png", ARENA SPORT 6 🇧🇦
 https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
 https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://lo1.in/por/sptv2.png" group-title="Portugal",PT | SPORT TV 2
