@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="LaLigaTV.es@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ilay5Jr.png",LaLiga TV (eng5) (English) (Sports)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
 http://cdn.tv-rds.workers.dev/DAZN1DE.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
