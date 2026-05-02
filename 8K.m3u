@@ -1,23 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:C4:2E&stream=fr.tv/ch/59306&extension=ts&play_token=Ot1ID07sqn
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/27669.ts
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551242.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/27668.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551243.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/27667.ts
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551244.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101895.ts
 #EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551245.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101894.ts
 #EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551246.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101893.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551247.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101892.ts
 #EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551248.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/27662.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/551249.ts
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101890.ts
 
 
