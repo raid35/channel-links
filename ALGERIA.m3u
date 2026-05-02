@@ -1,47 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="https://k.top4top.io/p_3755b2i841.jpg" group-title="Algérie",Dz | ALGERIA 4K
-https://4up4.com/uploads/riyad/file_2026-04-14_034918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DZ: Programme National" tvg-logo="http://www.vod-logo.net/photos/08d8ec4c34c5cb57907f3ca13e7cb389.png" group-title="ALGERIE",DZ: Programme National
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/154451.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV2 ALGERIE" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.2.HD.png" group-title="ALGERIE",DZ: TV2 ALGERIE
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/23662.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV3 News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.3.HD.png" group-title="ALGERIE",DZ: TV3 News
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1169.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV4 Amazigh" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.4.HD.png" group-title="ALGERIE",DZ: TV4 Amazigh
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1168.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV5 Coran" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.5.HD.png" group-title="ALGERIE",DZ: TV5 Coran
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1167.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV6 Jeunes" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.6.HD.png" group-title="ALGERIE",DZ: TV6 Jeunes
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/25116.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV7 ELMAARIFA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV.7.HD.png" group-title="ALGERIE",DZ: TV7 ELMAARIFA
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1145.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: TV8 EDHAKIRA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.TV8.EDHAKIRA.png" group-title="ALGERIE",DZ: TV8 EDHAKIRA
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/26222.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: One TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCwSS0XESNZosWu_iEETBYRbt9XiBjlKk5g&s" group-title="ALGERIE",DZ: One TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/162673.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: EL HEDDAF TV" tvg-logo="http://pro.netmos.ovh:6051/img/El-Heddaf.png" group-title="ALGERIE",DZ: EL HEDDAF TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1151.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: ENNAHAR TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ennahar.news.png" group-title="ALGERIE",DZ: ENNAHAR TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1150.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: ECHOROUK TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.echourouk.TV.png" group-title="ALGERIE",DZ: ECHOROUK TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1156.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: ECHOROUK NEWS" tvg-logo="http://pro.netmos.ovh:6051/img/ECHOUROUK-NEWS.png" group-title="ALGERIE",DZ: ECHOROUK NEWS
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1157.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: EL BILAD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.el.bilad.png" group-title="ALGERIE",DZ: EL BILAD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1155.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: EL HAYAT TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ELHAYAT.TV.png" group-title="ALGERIE",DZ: EL HAYAT TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/27433.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: ZAHRA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWRGEvbg58fRyzrMwJqULWpELaY-pMAtvfw&s" group-title="ALGERIE",DZ: ZAHRA TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/147748.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: Elwatania TV" tvg-logo="https://algerianmediagateway.dz/tv/lugo/1741" group-title="ALGERIE",DZ: Elwatania TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/147747.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: SAMIRA TV -6 HOURS" tvg-logo="http://pro.netmos.ovh:6051/img/dz.png" group-title="ALGERIE",DZ: SAMIRA TV 
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1142.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: BAHIA TV" tvg-logo="http://pro.netmos.ovh:6051/img/bahia.png" group-title="ALGERIE",DZ: BAHIA TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1162.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: EL FADJR TV" tvg-logo="http://pro.netmos.ovh:6051/img/fadjr.png" group-title="ALGERIE",DZ: EL FADJR TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1152.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: BERBERE TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.Berbere.tv.png" group-title="ALGERIE",DZ: BERBERE TV
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1143.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ: El Djazair N1" tvg-logo="https://yt3.googleusercontent.com/fgl0SPCJtBWh_lLHVytxaU-eBvIlixLrCwuW1SLYC7xY-iZhB_2xUX799xdSK2MNa7t0N1uJRq8=s900-c-k-c0x00ffffff-no-rj" group-title="ALGERIE",DZ: El Djazair N1
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/147746.ts
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
+http://instv.top:80/942984057964814/1593574628/191
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/CANALALGERIE.png" group-title="ALGERIA",DZ | CANAL ALGERIE
+http://instv.top:80/942984057964814/1593574628/182
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER3.png" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
+http://instv.top:80/942984057964814/1593574628/176
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
+http://instv.top:80/942984057964814/1593574628/197
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER5.png" group-title="ALGERIA",DZ | TV5 QURAN
+http://instv.top:80/942984057964814/1593574628/198
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
+http://instv.top:80/942984057964814/1593574628/30611
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV7 AL MAARIFA
+http://instv.top:80/942984057964814/1593574628/59597
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV8 AL DHAKIRA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV8 AL DHAKIRA
+http://instv.top:80/942984057964814/1593574628/59843
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV9 AL BARLAMANIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV9 AL BARLAMANIA
+http://instv.top:80/942984057964814/1593574628/99369
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS
+http://instv.top:80/942984057964814/1593574628/81039
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="ALGERIA",DZ | AL HEDDAF TV
+http://instv.top:80/942984057964814/1593574628/174
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ONE TV" tvg-logo="https://aptvpix.net/pubs/2022/wahd.png" group-title="ALGERIA",DZ | ONE TV
+http://instv.top:80/942984057964814/1593574628/96236
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENNAHARTV.png" group-title="ALGERIA",DZ | ENNAHAR TV
+http://instv.top:80/942984057964814/1593574628/190
+#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKTV.png" group-title="ALGERIA",DZ | ECHOROUK TV HD
+http://instv.top:80/942984057964814/1593574628/62342
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKNEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
+http://instv.top:80/942984057964814/1593574628/24037
+#EXTINF:-1 tvg-id="" tvg-name="DZ | EL BILAD" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/bilad.png" group-title="ALGERIA",DZ | EL BILAD
+http://instv.top:80/942984057964814/1593574628/188
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALHAYAT.png" group-title="ALGERIA",DZ | AL HAYAT TV
+http://instv.top:80/942984057964814/1593574628/24441
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="http://picons.atlaspro.to/pubs/december2020/30-10-21/zahratv.png" group-title="ALGERIA",DZ | ZAHRA TV
+http://instv.top:80/942984057964814/1593574628/88593
+#EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/watanya.png" group-title="ALGERIA",DZ | EL WATANIYA TV
+http://instv.top:80/942984057964814/1593574628/70941
+#EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="http://aptvpix.net/pubs/2022/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
+http://instv.top:80/942984057964814/1593574628/196
+#EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/BAHIATV.png" group-title="ALGERIA",DZ | BAHIA TV
+http://instv.top:80/942984057964814/1593574628/177
+#EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/FADJRTV.png" group-title="ALGERIA",DZ | EL FADJR
+http://instv.top:80/942984057964814/1593574628/4702
+#EXTINF:-1 tvg-id="" tvg-name="DZ | EL DJAZAIR N1" tvg-logo="http://aptvpix.net/picons/n14pitcon.png" group-title="ALGERIA",DZ | EL DJAZAIR N1
+http://instv.top:80/942984057964814/1593574628/184
+#EXTINF:-1 tvg-id="" tvg-name="DZ | SALAM TV" tvg-logo="https://picons.atlaspro.to/pubs/december2020/31-03-2022/salam1.png" group-title="ALGERIA",DZ | SALAM TV
+http://instv.top:80/942984057964814/1593574628/88594
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL ANIS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALANIS.png" group-title="ALGERIA",DZ | AL ANIS
+http://instv.top:80/942984057964814/1593574628/9778
+#EXTINF:-1 tvg-id="EreTV.fr" tvg-name="DZ | ÈRE TV" tvg-logo="https://picons.atlaspro.to/pubs/december2020/31-03-2022/eretv1.png" group-title="ALGERIA",DZ | ÈRE TV
+http://instv.top:80/942984057964814/1593574628/91281
