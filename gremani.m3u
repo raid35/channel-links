@@ -49,17 +49,17 @@ http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 #EXTINF:-1 tvg-id="406811" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",Ziggo Sport 6 NL
 http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1 🇧🇦
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a1.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 1
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 🇧🇦
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a2.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 2
 https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/18LnFNg/a3.png", ARENA SPORT 3 🇧🇦
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a3.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 3
 http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/K99CqgQ/a4.png", ARENA SPORT 4 🇧🇦
-https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png", ARENA SPORT 5 🇧🇦
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="EX-YU | [RS] ARENA SPORT 4 " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a4.png" group-title="EX-YU",EX-YU | [RS] ARENA SPORT 4
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="EX-YU | [RS] ARENA SPORT 5 " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a5.png" group-title="EX-YU",EX-YU | [RS] ARENA SPORT 5
 http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png", ARENA SPORT 6 🇧🇦
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 6" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a6.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 6
 https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-1-logo.png",SportKlub 1 RS
 http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8
