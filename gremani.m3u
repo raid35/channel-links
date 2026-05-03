@@ -90,31 +90,29 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png", SUPER SPORT 3
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 #EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg" ,diemasport
-http://87.246.54.249:8080/DiemaSport/index.m3u8
+http://92.247.25.42:11170/
 #EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131829_ds_2_web.jpg" ,diemasport2
-http://87.246.54.249:8080/DiemaSport2/index.m3u8
+http://92.247.25.42:11172/
 #EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625056324_thumbnaild3.jpg" ,diemasport3
-http://87.246.54.249:8080/DiemaSport3/index.m3u8
+http://92.247.25.42:11171/
 #EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1536x274.png" ,MaxSport1
-http://87.246.54.249:8080/MaxSport1/index.m3u8
+http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1536x274.png" ,MaxSport2
-http://87.246.54.249:8080/MaxSport2/index.m3u8
+http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
-http://87.246.54.249:8080/MaxSport3/index.m3u8
+http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1536x274.png" ,MaxSport4
-http://87.246.54.249:8080/MaxSport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.gledaitv.live/assets/images/channels/9Ndnova_sport.png" ,NovaSport
-http://87.246.54.249:8080/NovaSport/index.m3u8
+http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-1-2659.png" ,ArtSport1
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-2-2659.png" ,ArtSport2
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
+http://169.150.223.25/ArtSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-3-2661.png" ,ArtSport3
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
+http://169.150.223.25/ArtSport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-4-2662.png" ,ArtSport4
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
+http://169.150.223.25/ArtSport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" ,ArtSport5
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
+http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" ,ArtSport6
 http://169.150.223.25/ArtSport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://yootv.online/images/logo-channel/setanta-sports-1-tv.png" ,setanta 1
