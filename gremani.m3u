@@ -49,6 +49,12 @@ http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 #EXTINF:-1 tvg-id="406811" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",Ziggo Sport 6 NL
 http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" group-title="LIGA CHAMPION🏆",Arena Premium 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png" group-title="LIGA CHAMPION🏆",Arena Premium 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png" group-title="LIGA CHAMPION🏆",Arena Premium 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19013
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a1.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 1
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a2.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 2
@@ -61,6 +67,26 @@ http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
 http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 6" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a6.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 6
 https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS PREMIUM",Prima Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="SPORTS PREMIUM",Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="SPORTS PREMIUM",Prima Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="SPORTS PREMIUM",Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="LIGA CHAMPION🏆",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-1-logo.png",SportKlub 1 RS
 http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-2-logo.png",SportKlub 2 RS
