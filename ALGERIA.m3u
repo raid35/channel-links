@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
+http://bossposs.xyz:8080/live/254217135819/207042479466/43602.ts
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/154451.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/CANALALGERIE.png" group-title="ALGERIA",DZ | CANAL ALGERIE
 http://tv.startseven.tn:2052/live/havezSMV/876YH876T/13012.ts
