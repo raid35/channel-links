@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
@@ -13,13 +12,13 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 6 HD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 7 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 7 4K
-http://xxip.me:8080/live/98:06:3c:75:c0:72/443367897666trytfg/433739.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/433739.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 8 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 8 4K
-http://xxip.me:8080/live/98:06:3c:75:c0:72/443367897666trytfg/433740.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/433740.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 9 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 9 4K
-http://xxip.me:8080/live/98:06:3c:75:c0:72/443367897666trytfg/433741.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/433741.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 10 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 10 4K
-http://xxip.me:8080/live/98:06:3c:75:c0:72/443367897666trytfg/433742.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/433742.ts
 #EXTINF:-1 tvg-name="Alwan Aflam 1" tvg-logo="http://tv.asc.vg/alwan.aflam1.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181678.ts
 #EXTINF:-1 tvg-name="Alwan Aflam 2" tvg-logo="http://tv.asc.vg/alwan.aflam2.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 2
