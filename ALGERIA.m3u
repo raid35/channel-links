@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
-http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/14876.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94062.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/CANALALGERIE.png" group-title="ALGERIA",DZ | CANAL ALGERIE
-http://worldcam.linkpc.net/live/932427775526/004456726654/282389.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94070.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER3.png" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
 http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/43604.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
-http://worldcam.linkpc.net/live/932427775526/004456726654/282393.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94071.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER5.png" group-title="ALGERIA",DZ | TV5 QURAN
 http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/14785.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
