@@ -12,9 +12,9 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=22251&extension=
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=22247&extension=ts&play_token=Mk3TxJ60Mp
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV7 AL MAARIFA
-http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/43601.ts
+http://arox.cc/live/24232292395865/24232292395865/152007.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV8 AL DHAKIRA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV8 AL DHAKIRA
-http://worldcam.linkpc.net/live/932427775526/004456726654/282401.ts
+http://arox.cc/live/24232292395865/24232292395865/152008.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV9 AL BARLAMANIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV9 AL BARLAMANIA
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS
@@ -30,7 +30,7 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=22235&extension=
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKNEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=22234&extension=ts&play_token=fIUPT30Spt
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL BILAD" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/bilad.png" group-title="ALGERIA",DZ | EL BILAD
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=34024&extension=ts&play_token=x86656V8U8
+http://arox.cc/live/24232292395865/24232292395865/675.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALHAYAT.png" group-title="ALGERIA",DZ | AL HAYAT TV
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=78472&extension=ts&play_token=pgIh8hzE5Q
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="http://picons.atlaspro.to/pubs/december2020/30-10-21/zahratv.png" group-title="ALGERIA",DZ | ZAHRA TV
@@ -38,7 +38,7 @@ http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/14819.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/watanya.png" group-title="ALGERIA",DZ | EL WATANIYA TV
 http://worldcam.linkpc.net/live/932427775526/004456726654/282417.ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="http://aptvpix.net/pubs/2022/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
-http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/14913.ts
+http://arox.cc/live/24232292395865/24232292395865/680.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/BAHIATV.png" group-title="ALGERIA",DZ | BAHIA TV
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:A2:D6:A2&stream=22239&extension=ts&play_token=rEDSgAYDKv
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/FADJRTV.png" group-title="ALGERIA",DZ | EL FADJR
