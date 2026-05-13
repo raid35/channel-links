@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://aktv.shop/wp-content/uploads/2025/06/lion-tv-iptv-panel-.png", المباشر
+https://raid35.github.io/docs/xtream_live.html
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://aktv.shop/wp-content/uploads/2025/06/lion-tv-iptv-panel-.png", الافلام
+https://raid35.github.io/docs/lion-mov.html
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://aktv.shop/wp-content/uploads/2025/06/lion-tv-iptv-panel-.png", مسالسلات
+https://raid35.github.io/docs/lion_SEIR.html
+
