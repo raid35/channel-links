@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 FHD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/15466.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77885.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 FHD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/4207.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77883.ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 FHD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/15400.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77899.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ HD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77875.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/15394.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77874.ts
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/260425.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77878.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77882.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
@@ -44,7 +44,7 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77557.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefestival.png" group-title="FRANCE HD",CINE+ FESTIVAL HD
 http://tv.startseven.tn:2052/live/32145BN/FRdin123/4643.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
-http://1.selecttv.biz:2052/live/Vwagosmv2/gXZg9Q6jB2aF/4643.ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77987.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77867.ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
