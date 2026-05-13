@@ -10,6 +10,9 @@ https://raid35.github.io/docs/FAT.html
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://aktv.shop/wp-content/uploads/2025/06/lion-tv-iptv-panel-.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/lion.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_3755dmaui1.jpg",
 https://raw.githubusercontent.com/raid35/docs/main/cha3biDz.m3u
 
