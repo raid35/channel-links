@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/418112.ts
+http://supaapp.xyz:8080/live/68:fc:ca:55:0c:33/217578005705/418112.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 3 HD
@@ -8,15 +8,15 @@ https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 4 HD
 https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 5 HD
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/418124.ts
+http://supaapp.xyz:8080/live/68:fc:ca:55:0c:33/217578005705/418124.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 6 HD
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/418127.ts
+http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/217578005705/418127.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 7 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 7 4K
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/433739.ts
+http://supaapp.xyz:8080/live/68:fc:ca:55:0c:33/217578005705/433739.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 8 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 8 4K
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/433740.ts
+http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/217578005705/433740.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 9 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 9 4K
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/433741.ts
+http://supaapp.xyz:8080/live/68:fc:ca:55:0c:33/217578005705/433741.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 10 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 10 4K
 http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/433742.ts
 #EXTINF:-1 tvg-name="Alwan Aflam 1" tvg-logo="http://tv.asc.vg/alwan.aflam1.sport.png" group-title="Alwan ⚽ Sports",Alwan Aflam 1
