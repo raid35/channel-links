@@ -20,7 +20,7 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1153.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="ALGERIA",DZ | AL HEDDAF TV
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/21218.ts
+ http://116.202.165.211:8888/android/live?action=link&id=6596&hash=48014d07460f53530351194502014c0201465644481a4d014107
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ONE TV" tvg-logo="https://aptvpix.net/pubs/2022/wahd.png" group-title="ALGERIA",DZ | ONE TV
 http://worldcam.linkpc.net/live/932427775526/004456726654/282415.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENNAHARTV.png" group-title="ALGERIA",DZ | ENNAHAR TV
