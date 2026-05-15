@@ -18,7 +18,7 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6547
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV9 AL BARLAMANIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV9 AL BARLAMANIA
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1153.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6553.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="ALGERIA",DZ | AL HEDDAF TV
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6596
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ONE TV" tvg-logo="https://aptvpix.net/pubs/2022/wahd.png" group-title="ALGERIA",DZ | ONE TV
@@ -34,15 +34,15 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6536
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALHAYAT.png" group-title="ALGERIA",DZ | AL HAYAT TV
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6550
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="http://picons.atlaspro.to/pubs/december2020/30-10-21/zahratv.png" group-title="ALGERIA",DZ | ZAHRA TV
-http://supaapp.xyz:8080/live/f0:70:4f:d6:38:c5/336800342049/14819.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6559.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/watanya.png" group-title="ALGERIA",DZ | EL WATANIYA TV
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/112627.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6555.ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="http://aptvpix.net/pubs/2022/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6534
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/BAHIATV.png" group-title="ALGERIA",DZ | BAHIA TV
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6539
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/FADJRTV.png" group-title="ALGERIA",DZ | EL FADJR
-http://supaapp.xyz:8080/live/bc:7e:8b:01:ae:d1/E8nSi2tCA3bgR3jM/14876.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6554.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL DJAZAIR N1" tvg-logo="http://aptvpix.net/picons/n14pitcon.png" group-title="ALGERIA",DZ | EL DJAZAIR N1
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6537
 #EXTINF:-1 tvg-id="" tvg-name="DZ | SALAM TV" tvg-logo="https://picons.atlaspro.to/pubs/december2020/31-03-2022/salam1.png" group-title="ALGERIA",DZ | SALAM TV
