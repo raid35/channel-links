@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 FHD
-http://116.202.165.211:8888/android/live?action=link&id=5114&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=5114&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 FHD
-http://116.202.165.211:8888/android/live?action=link&id=5115&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=5115&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 FHD
-http://116.202.165.211:8888/android/live?action=link&id=5116&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=5116&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ HD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
 http://116.202.165.211:8888/android/live?action=link&id=3706&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
- http://116.202.165.211:8888/android/live?action=link&id=2453&hash=4b014c03420256550555194502014c02014050414c1a4d014107
+ http://116.202.165.211:8888/android/live?action=link&id=2453&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/168.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
