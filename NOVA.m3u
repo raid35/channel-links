@@ -27,15 +27,15 @@ http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/264299.ts
 http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/264300.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
 http://tv.startseven.tn:2052/live/JelaudeVPL/JH9DHccvWR/264301.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://148.251.133.153:8181/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
+#EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://116.202.165.211:2021/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
 http://worldcam.linkpc.net/live/932427775526/004456726654/291630.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
 http://worldcam.linkpc.net/live/932427775526/004456726654/291603.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://148.251.133.153:8181/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
+#EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://116.202.165.211:2021/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
 http://worldcam.linkpc.net/live/932427775526/004456726654/291632.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://148.251.133.153:8181/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
+#EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://116.202.165.211:2021/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
 http://tv.startseven.tn:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/296522.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://116.202.165.211:2021/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
 http://worldcam.linkpc.net/live/932427775526/004456726654/89446.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
 http://worldcam.linkpc.net/live/932427775526/004456726654/291609.ts
