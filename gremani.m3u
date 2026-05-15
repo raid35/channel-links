@@ -72,21 +72,13 @@ https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS PREMIUM",Prima Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+http://116.202.165.211:8888/android/live?action=link&id=6260&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="SPORTS PREMIUM",Prima Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+http://116.202.165.211:8888/android/live?action=link&id=6261&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="SPORTS PREMIUM",Prima Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+http://116.202.165.211:8888/android/live?action=link&id=6262&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="SPORTS PREMIUM",Prima Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+http://116.202.165.211:8888/android/live?action=link&id=6263&hash=4b0548054d0556500557194502014c020140564a4b1a4d014107
 #EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="LIGA CHAMPION🏆",DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
