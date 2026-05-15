@@ -72,13 +72,13 @@ https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS PREMIUM",Prima Sport 2
-http://116.202.165.211:8888/android/live?action=link&id=6260&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=6260&hash=4b024b0241035f570054194502014c0d00435f44481a4d014107
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="SPORTS PREMIUM",Prima Sport 3
-http://116.202.165.211:8888/android/live?action=link&id=6261&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=6261&hash=4b024b0241035f570054194502014c0d00435f44481a4d014107
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="SPORTS PREMIUM",Prima Sport 4
-http://116.202.165.211:8888/android/live?action=link&id=6262&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=6262&hash=4b024b0241035f570054194502014c0d00435f44481a4d014107
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="SPORTS PREMIUM",Prima Sport 5
-http://116.202.165.211:8888/android/live?action=link&id=6263&hash=4b044f05440e565f0651194502014c02014251424d1a4d014107
+http://116.202.165.211:8888/android/live?action=link&id=6263&hash=4b024b0241035f570054194502014c0d00435f44481a4d014107
 #EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="LIGA CHAMPION🏆",DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
