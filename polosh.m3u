@@ -1,359 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS" tvg-logo="http://116.202.165.211:2021/logo/cat/177.png" group-title="BeIn Sports",BeIN SPORTS
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2401.png" group-title="BeIn Sports",FR | BEIN SPORTS 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5114.png" group-title="BeIn Sports",FR | BEIN SPORTS 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2402.png" group-title="BeIn Sports",FR | BEIN SPORTS 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5115.png" group-title="BeIn Sports",FR | BEIN SPORTS 2 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2448.png" group-title="BeIn Sports",FR | BEIN SPORTS 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5116.png" group-title="BeIn Sports",FR | BEIN SPORTS 3 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2468.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2468.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2469.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2469.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 6" tvg-logo="http://116.202.165.211:2021/logo/chn/2470.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2470.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 7" tvg-logo="http://116.202.165.211:2021/logo/chn/2471.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 7
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2471.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 8" tvg-logo="http://116.202.165.211:2021/logo/chn/2472.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 8
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2472.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 9" tvg-logo="http://116.202.165.211:2021/logo/chn/2473.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 9
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2473.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 10" tvg-logo="http://116.202.165.211:2021/logo/chn/2467.png" group-title="BeIn Sports",FR | BEIN SPORTS MAX 10
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2467.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5079.png" group-title="BeIn Sports",AR | BEIN SPORTS 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5079.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5080.png" group-title="BeIn Sports",AR | BEIN SPORTS 2 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5080.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5081.png" group-title="BeIn Sports",AR | BEIN SPORTS 3 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5081.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5082.png" group-title="BeIn Sports",AR | BEIN SPORTS 4 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5082.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5083.png" group-title="BeIn Sports",AR | BEIN SPORTS 5 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5083.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5084.png" group-title="BeIn Sports",AR | BEIN SPORTS 6 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5084.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5085.png" group-title="BeIn Sports",AR | BEIN SPORTS 7 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5085.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5086.png" group-title="BeIn Sports",AR | BEIN SPORTS 8 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5086.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2198" group-title="BeIn Sports",AR | BEIN SPORTS 9 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6528.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3404.png" group-title="BeIn Sports",AR | BEIN SPORTS 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3404.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3405.png" group-title="BeIn Sports",AR | BEIN SPORTS 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3405.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3406.png" group-title="BeIn Sports",AR | BEIN SPORTS 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3406.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3407.png" group-title="BeIn Sports",AR | BEIN SPORTS 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3407.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2458.png" group-title="BeIn Sports",AR | BEIN SPORTS 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2458.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3408.png" group-title="BeIn Sports",AR | BEIN SPORTS 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3408.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3409.png" group-title="BeIn Sports",AR | BEIN SPORTS 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3409.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3410.png" group-title="BeIn Sports",AR | BEIN SPORTS 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3410.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5095.png" group-title="BeIn Sports",AR | BEIN SPORTS 1 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5095.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5096.png" group-title="BeIn Sports",AR | BEIN SPORTS 2 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5096.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5097.png" group-title="BeIn Sports",AR | BEIN SPORTS 3 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5097.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5098.png" group-title="BeIn Sports",AR | BEIN SPORTS 4 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5098.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5099.png" group-title="BeIn Sports",AR | BEIN SPORTS 5 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5099.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5100.png" group-title="BeIn Sports",AR | BEIN SPORTS 6 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5100.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5101.png" group-title="BeIn Sports",AR | BEIN SPORTS 7 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5101.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5102.png" group-title="BeIn Sports",AR | BEIN SPORTS 8 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5102.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS" tvg-logo="http://116.202.165.211:2021/logo/cat/176.png" group-title="Sports",SPORTS
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | INFOSPORT" tvg-logo="http://116.202.165.211:2021/logo/chn/2405.png" group-title="Sports",FR | INFOSPORT
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2405.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://116.202.165.211:2021/logo/chn/2406.png" group-title="Sports",FR | L'EQUIPE 21
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5067.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2361.png" group-title="Français ",FR | FRANCE 2
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2361.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6563.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2362.png" group-title="Français ",FR | FRANCE 3
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2362.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6564.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2679.png" group-title="Français ",FR | FRANCE 4
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2679.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français ",FR | France 4 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6565.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2363.png" group-title="Français ",FR | FRANCE 5
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2363.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 5 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1653" group-title="Français ",FR | France 5 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6566.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | M6" tvg-logo="http://116.202.165.211:2021/logo/chn/2364.png" group-title="Français ",FR | M6
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français ",FR | M6 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4920.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | W9" tvg-logo="http://116.202.165.211:2021/logo/chn/2365.png" group-title="Français ",FR | W9
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2365.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5066.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX" tvg-logo="http://116.202.165.211:2021/logo/chn/2367.png" group-title="Français ",FR | TFX
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5068.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://116.202.165.211:2021/logo/chn/2371.png" group-title="Français ",FR | TMC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TCM CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2382.png" group-title="Français ",FR | TCM CINEMA
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2382.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://116.202.165.211:2021/logo/chn/2386.png" group-title="Français ",FR | CANAL+
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://116.202.165.211:2021/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2387.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5064.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://116.202.165.211:2021/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2513.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://116.202.165.211:2021/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2388.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://116.202.165.211:2021/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4783.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://116.202.165.211:2021/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2484.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2394.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://116.202.165.211:2021/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2391.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://116.202.165.211:2021/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2396.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://116.202.165.211:2021/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://116.202.165.211:2021/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2395.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://116.202.165.211:2021/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6883.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://116.202.165.211:2021/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2380.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2489.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2488.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6882.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6881.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | RTL9" tvg-logo="http://116.202.165.211:2021/logo/chn/2374.png" group-title="Français ",FR | RTL9
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2374.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://116.202.165.211:2021/logo/chn/2383.png" group-title="Français ",FR | ACTION
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2383.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://116.202.165.211:2021/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2418.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | 6TER" tvg-logo="http://116.202.165.211:2021/logo/chn/2366.png" group-title="Français ",FR | 6TER
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2366.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1507" group-title="Français ",FR | 6TER FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5065.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://116.202.165.211:2021/logo/chn/2421.png" group-title="Français ",FR | TREK
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2421.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://116.202.165.211:2021/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://116.202.165.211:2021/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2419.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://116.202.165.211:2021/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2493.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://116.202.165.211:2021/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2422.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://116.202.165.211:2021/logo/chn/2424.png" group-title="Français ",FR | SEASONS
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2424.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://116.202.165.211:2021/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2410.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://116.202.165.211:2021/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2411.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://116.202.165.211:2021/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2449.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://116.202.165.211:2021/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2413.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2412.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://116.202.165.211:2021/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2415.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://116.202.165.211:2021/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2417.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE A&E" tvg-logo="http://116.202.165.211:2021/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3537.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC STORY" tvg-logo="http://116.202.165.211:2021/logo/chn/2370.png" group-title="Français ",FR | RMC STORY
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2370.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC DECOUVERTE" tvg-logo="http://116.202.165.211:2021/logo/chn/2420.png" group-title="Français ",FR | RMC DECOUVERTE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2420.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CRIME DISTRICT" tvg-logo="http://116.202.165.211:2021/logo/chn/2423.png" group-title="Français ",FR | CRIME DISTRICT
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2423.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | E! ENTERTAINMENT" tvg-logo="http://116.202.165.211:2021/logo/chn/2379.png" group-title="Français ",FR | E! ENTERTAINMENT
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2691.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2695.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2696.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2697.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2698.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2699.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2685.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2686.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2688.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2689.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3311.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3312.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3313.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3314.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2690.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://116.202.165.211:2021/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2406.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1" tvg-logo="http://116.202.165.211:2021/logo/chn/6526.png" group-title="Sports",FR | DAZN 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6526.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5123.png" group-title="Sports",FR | DAZN 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5123.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DAZN 2" tvg-logo="http://116.202.165.211:2021/logo/chn/6527.png" group-title="Sports",FR | DAZN 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6527.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT" tvg-logo="http://116.202.165.211:2021/logo/chn/3706.png" group-title="Sports",FR | CANAL+ FOOT
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT" tvg-logo="http://116.202.165.211:2021/logo/chn/3706.png" group-title="Français ",FR | CANAL+ FOOT
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3706.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Sports",FR | CANAL+ FOOT FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6561.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="http://116.202.165.211:2021/logo/chn/2390.png" group-title="Sports",FR | CANAL+ SPORT
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="http://116.202.165.211:2021/logo/chn/2390.png" group-title="Français ",FR | CANAL+ SPORT
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2390.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Sports",FR | CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6562.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://116.202.165.211:2021/logo/chn/2453.png" group-title="Sports",FR | CANAL+ SPORT 360
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://116.202.165.211:2021/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ PREMIERE LEAGUE" tvg-logo="http://116.202.165.211:2021/logo/chn/3428.png" group-title="Sports",FR | CANAL+ PREMIERE LEAGUE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3428.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2401.png" group-title="Sports",FR | BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5114.png" group-title="Sports",FR | BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2402.png" group-title="Sports",FR | BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5115.png" group-title="Sports",FR | BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2448.png" group-title="Sports",FR | BEIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5116.png" group-title="Sports",FR | BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2468.png" group-title="Sports",FR | BEIN SPORTS MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2468.png" group-title="Français ",FR | BEIN SPORTS MAX 4
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2468.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2469.png" group-title="Sports",FR | BEIN SPORTS MAX 5
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2469.png" group-title="Français ",FR | BEIN SPORTS MAX 5
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2469.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 6" tvg-logo="http://116.202.165.211:2021/logo/chn/2470.png" group-title="Sports",FR | BEIN SPORTS MAX 6
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 6" tvg-logo="http://116.202.165.211:2021/logo/chn/2470.png" group-title="Français ",FR | BEIN SPORTS MAX 6
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2470.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 7" tvg-logo="http://116.202.165.211:2021/logo/chn/2471.png" group-title="Sports",FR | BEIN SPORTS MAX 7
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 7" tvg-logo="http://116.202.165.211:2021/logo/chn/2471.png" group-title="Français ",FR | BEIN SPORTS MAX 7
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2471.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 8" tvg-logo="http://116.202.165.211:2021/logo/chn/2472.png" group-title="Sports",FR | BEIN SPORTS MAX 8
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 8" tvg-logo="http://116.202.165.211:2021/logo/chn/2472.png" group-title="Français ",FR | BEIN SPORTS MAX 8
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2472.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 9" tvg-logo="http://116.202.165.211:2021/logo/chn/2473.png" group-title="Sports",FR | BEIN SPORTS MAX 9
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 9" tvg-logo="http://116.202.165.211:2021/logo/chn/2473.png" group-title="Français ",FR | BEIN SPORTS MAX 9
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2473.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 10" tvg-logo="http://116.202.165.211:2021/logo/chn/2467.png" group-title="Sports",FR | BEIN SPORTS MAX 10
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 10" tvg-logo="http://116.202.165.211:2021/logo/chn/2467.png" group-title="Français ",FR | BEIN SPORTS MAX 10
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2467.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | Canal+ Live 1" tvg-logo="" group-title="Sports",FR | Canal+ Live 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6958.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | Canal+ Live 2" tvg-logo="" group-title="Sports",FR | Canal+ Live 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6959.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | Canal+ Live 3" tvg-logo="" group-title="Sports",FR | Canal+ Live 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6960.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | Canal+ Live 4" tvg-logo="" group-title="Sports",FR | Canal+ Live 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6961.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | Canal+ Live 5" tvg-logo="" group-title="Sports",FR | Canal+ Live 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6962.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | EUROSPORT 1 FR" tvg-logo="http://116.202.165.211:2021/logo/chn/2403.png" group-title="Sports",FR | EUROSPORT 1 FR
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2403.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | EUROSPORT  2 FR" tvg-logo="http://116.202.165.211:2021/logo/chn/2404.png" group-title="Sports",FR | EUROSPORT  2 FR
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2404.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2474.png" group-title="Sports",FR | RMC SPORT 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2474.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2475.png" group-title="Sports",FR | RMC SPORT 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2475.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2476.png" group-title="Sports",FR | RMC SPORT 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2476.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2477.png" group-title="Sports",FR | RMC SPORT 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2477.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2478.png" group-title="Sports",FR | RMC SPORT 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2478.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 6" tvg-logo="http://116.202.165.211:2021/logo/chn/2479.png" group-title="Sports",FR | RMC SPORT 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2479.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 7" tvg-logo="http://116.202.165.211:2021/logo/chn/2480.png" group-title="Sports",FR | RMC SPORT 7
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2480.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 8" tvg-logo="http://116.202.165.211:2021/logo/chn/2481.png" group-title="Sports",FR | RMC SPORT 8
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2481.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 9" tvg-logo="http://116.202.165.211:2021/logo/chn/2482.png" group-title="Sports",FR | RMC SPORT 9
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2482.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | AMAZON PRIME 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2993.png" group-title="Sports",FR | AMAZON PRIME 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2993.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | AD SPORTS PREMIUM 1 4K" tvg-logo="http://116.202.165.211:2021/logo/chn/4805.png" group-title="Sports",AR | AD SPORTS PREMIUM 1 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4805.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | AD SPORTS PREMIUM 2 4K" tvg-logo="http://116.202.165.211:2021/logo/chn/4810.png" group-title="Sports",AR | AD SPORTS PREMIUM 2 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4810.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 4K" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1746" group-title="Sports",AR | BEIN SPORTS 1 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6944.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5079.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3404.png" group-title="Sports",AR | BEIN SPORTS 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3404.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5095.png" group-title="Sports",AR | BEIN SPORTS 1 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5095.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 2 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6945.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5080.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3405.png" group-title="Sports",AR | BEIN SPORTS 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3405.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5096.png" group-title="Sports",AR | BEIN SPORTS 2 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5096.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 3 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6946.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5081.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3406.png" group-title="Sports",AR | BEIN SPORTS 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3406.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5097.png" group-title="Sports",AR | BEIN SPORTS 3 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5097.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 4K" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1748" group-title="Sports",AR | BEIN SPORTS 4 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6947.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5082.png" group-title="Sports",AR | BEIN SPORTS 4 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5082.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3407.png" group-title="Sports",AR | BEIN SPORTS 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3407.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5098.png" group-title="Sports",AR | BEIN SPORTS 4 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5098.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 5 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6948.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5083.png" group-title="Sports",AR | BEIN SPORTS 5 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5083.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2458.png" group-title="Sports",AR | BEIN SPORTS 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2458.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5099.png" group-title="Sports",AR | BEIN SPORTS 5 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5099.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 6 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6949.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5084.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3408.png" group-title="Sports",AR | BEIN SPORTS 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3408.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5100.png" group-title="Sports",AR | BEIN SPORTS 6 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5100.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 7 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6950.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5085.png" group-title="Sports",AR | BEIN SPORTS 7 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5085.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3409.png" group-title="Sports",AR | BEIN SPORTS 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3409.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5101.png" group-title="Sports",AR | BEIN SPORTS 7 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5101.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 8 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6951.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5086.png" group-title="Sports",AR | BEIN SPORTS 8 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5086.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3410.png" group-title="Sports",AR | BEIN SPORTS 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3410.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 SD" tvg-logo="http://116.202.165.211:2021/logo/chn/5102.png" group-title="Sports",AR | BEIN SPORTS 8 SD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5102.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 4K" tvg-logo="" group-title="Sports",AR | BEIN SPORTS 9 4K
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6952.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2198" group-title="Sports",AR | BEIN SPORTS 9 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6528.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BeIN Alkass 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3679.png" group-title="Sports",AR | BeIN Alkass 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3679.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BeIN Alkass 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3680.png" group-title="Sports",AR | BeIN Alkass 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3680.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BeIN Alkass 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3681.png" group-title="Sports",AR | BeIN Alkass 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3681.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BeIN Alkass 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3682.png" group-title="Sports",AR | BeIN Alkass 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3682.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2507.png" group-title="Sports",AF | CANAL+ SPORT 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2507.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2508.png" group-title="Sports",AF | CANAL+ SPORT 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2508.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2509.png" group-title="Sports",AF | CANAL+ SPORT 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2509.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF | CANAL+ SPORT 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2510.png" group-title="Sports",AF | CANAL+ SPORT 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2510.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2668.png" group-title="Sports",DE | Sky Sport 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2668.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Austria" tvg-logo="http://116.202.165.211:2021/logo/chn/2666.png" group-title="Sports",DE | Sky Sport Austria
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2666.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport F1" tvg-logo="http://116.202.165.211:2021/logo/chn/2655.png" group-title="Sports",DE | Sky Sport F1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2655.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Mix" tvg-logo="http://116.202.165.211:2021/logo/chn/2654.png" group-title="Sports",DE | Sky Sport Mix
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2654.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Premier League FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/2657.png" group-title="Sports",DE | Sky Sport Premier League FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2657.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Tennis" tvg-logo="http://116.202.165.211:2021/logo/chn/2656.png" group-title="Sports",DE | Sky Sport Tennis
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2656.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Top Event" tvg-logo="http://116.202.165.211:2021/logo/chn/2667.png" group-title="Sports",DE | Sky Sport Top Event
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2667.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | SPORT DIGITAL" tvg-logo="" group-title="Sports",DE | SPORT DIGITAL
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3739.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://116.202.165.211:2021/logo/chn/3350.png" group-title="Sports",ES | DAZN 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3350.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3351.png" group-title="Sports",ES | DAZN 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3351.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="http://116.202.165.211:2021/logo/chn/3352.png" group-title="Sports",ES | DAZN 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3352.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4" tvg-logo="http://116.202.165.211:2021/logo/chn/3722.png" group-title="Sports",ES | DAZN 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3722.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1" tvg-logo="http://116.202.165.211:2021/logo/chn/3462.png" group-title="Sports",ES | DAZN F1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3462.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://116.202.165.211:2021/logo/chn/3354.png" group-title="Sports",ES | DAZN LaLiga
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3354.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 1" tvg-logo="http://116.202.165.211:2021/logo/chn/3348.png" group-title="Sports",ES | EUROSPORT 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3348.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3463.png" group-title="Sports",ES | EUROSPORT 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3463.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES" tvg-logo="http://116.202.165.211:2021/logo/chn/3356.png" group-title="Sports",ES | M+ DEPORTES
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3356.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3357.png" group-title="Sports",ES | M+ DEPORTES 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3357.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 3" tvg-logo="http://116.202.165.211:2021/logo/chn/3358.png" group-title="Sports",ES | M+ DEPORTES 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3358.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 4" tvg-logo="http://116.202.165.211:2021/logo/chn/3359.png" group-title="Sports",ES | M+ DEPORTES 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3359.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 5" tvg-logo="http://116.202.165.211:2021/logo/chn/3360.png" group-title="Sports",ES | M+ DEPORTES 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3360.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 6" tvg-logo="http://116.202.165.211:2021/logo/chn/3361.png" group-title="Sports",ES | M+ DEPORTES 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3361.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ DEPORTES 7" tvg-logo="http://116.202.165.211:2021/logo/chn/3362.png" group-title="Sports",ES | M+ DEPORTES 7
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3362.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="" group-title="Sports",ES | M+ LA LIGÁ HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3431.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ 2 HD" tvg-logo="" group-title="Sports",ES | M+ LA LIGÁ 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3432.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 1" tvg-logo="http://116.202.165.211:2021/logo/chn/3363.png" group-title="Sports",ES | M+ LALIGA 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3363.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3364.png" group-title="Sports",ES | M+ LALIGA 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3364.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 3" tvg-logo="http://116.202.165.211:2021/logo/chn/3365.png" group-title="Sports",ES | M+ LALIGA 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3365.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 4" tvg-logo="http://116.202.165.211:2021/logo/chn/3366.png" group-title="Sports",ES | M+ LALIGA 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3366.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 5" tvg-logo="http://116.202.165.211:2021/logo/chn/3367.png" group-title="Sports",ES | M+ LALIGA 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3367.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA 6" tvg-logo="" group-title="Sports",ES | M+ LALIGA 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3368.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA HYPERMOTION" tvg-logo="http://116.202.165.211:2021/logo/chn/3369.png" group-title="Sports",ES | M+ LALIGA HYPERMOTION
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3369.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LALIGA TV BAR" tvg-logo="http://116.202.165.211:2021/logo/chn/3370.png" group-title="Sports",ES | M+ LALIGA TV BAR
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3370.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES" tvg-logo="http://116.202.165.211:2021/logo/chn/3372.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3372.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3373.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3373.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 3" tvg-logo="http://116.202.165.211:2021/logo/chn/3374.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3374.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 4" tvg-logo="http://116.202.165.211:2021/logo/chn/3375.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3375.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 5" tvg-logo="http://116.202.165.211:2021/logo/chn/3376.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3376.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 6" tvg-logo="http://116.202.165.211:2021/logo/chn/3377.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3377.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 7" tvg-logo="http://116.202.165.211:2021/logo/chn/3378.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 7
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3378.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 8" tvg-logo="http://116.202.165.211:2021/logo/chn/3379.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 8
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3379.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LIGA DE CAMPEONES 9" tvg-logo="http://116.202.165.211:2021/logo/chn/3380.png" group-title="Sports",ES | M+ LIGA DE CAMPEONES 9
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3380.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT ARENA" tvg-logo="http://116.202.165.211:2021/logo/chn/3519.png" group-title="Sports",iT | SKY SPORT ARENA
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3519.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT CALCIO" tvg-logo="http://116.202.165.211:2021/logo/chn/3520.png" group-title="Sports",iT | SKY SPORT CALCIO
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3520.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT FOOTBALL [Live During Events Only]" tvg-logo="http://116.202.165.211:2021/logo/chn/3521.png" group-title="Sports",iT | SKY SPORT FOOTBALL [Live During Events Only]
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3521.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT GOLF" tvg-logo="http://116.202.165.211:2021/logo/chn/3522.png" group-title="Sports",iT | SKY SPORT GOLF
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3522.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT MOTO GP" tvg-logo="http://116.202.165.211:2021/logo/chn/3471.png" group-title="Sports",iT | SKY SPORT MOTO GP
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3471.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT TENNIS" tvg-logo="http://116.202.165.211:2021/logo/chn/3523.png" group-title="Sports",iT | SKY SPORT TENNIS
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3523.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORT UNO" tvg-logo="http://116.202.165.211:2021/logo/chn/3524.png" group-title="Sports",iT | SKY SPORT UNO
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3524.ts
-#EXTINF:-1 tvg-id="" tvg-name="iT | SKY SPORTS F1" tvg-logo="http://116.202.165.211:2021/logo/chn/3472.png" group-title="Sports",iT | SKY SPORTS F1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3472.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/3287.png" group-title="Sports",UK | TNT SPORTS 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3287.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/3288.png" group-title="Sports",UK | TNT SPORTS 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3288.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/3289.jpg" group-title="Sports",UK | TNT SPORTS 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3289.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 4" tvg-logo="http://116.202.165.211:2021/logo/chn/3290.png" group-title="Sports",UK | TNT SPORTS 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3290.ts
