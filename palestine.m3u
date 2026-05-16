@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://ibo1.3446807.xyz/live/2798995785/9134618783/660922.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6728.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://ibo1.3446807.xyz/live/2798995785/9134618783/660921.ts
+http://ibo1.3446807.xyz/live/2798995785/9134618783/660915.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://ibo1.3446807.xyz/live/2798995785/9134618783/660920.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6729.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://ibo1.3446807.xyz/live/2798995785/9134618783/660919.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6730.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-http://ibo1.3446807.xyz/live/2798995785/9134618783/660918.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6731.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 
