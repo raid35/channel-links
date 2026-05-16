@@ -103,9 +103,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/dazn-es.m3u
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://stock.wikimini.org/w/images/thumb/0/0c/Drapeau-Portugal.png/320px-Drapeau-Portugal.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
 
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://www.pngall.com/wp-content/uploads/2016/05/Poland-Flag-PNG.png", 
-https://github.com/raid35/channel-links/raw/main/polosh.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
 https://github.com/raid35/channel-links/raw/main/movies.m3u
 
