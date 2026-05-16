@@ -1,8 +1,68 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://116.202.165.211:2021/logo/chn/2414.png" group-title="Documentaies",FR | ANIMAUX
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT" tvg-logo="http://116.202.165.211:2021/logo/chn/3706.png" group-title="Français ",FR | CANAL+ FOOT
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3706.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6561.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="http://116.202.165.211:2021/logo/chn/2390.png" group-title="Français ",FR | CANAL+ SPORT
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2390.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://116.202.165.211:2021/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://116.202.165.211:2021/logo/chn/2386.png" group-title="Français ",FR | CANAL+
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://116.202.165.211:2021/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2387.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5064.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://116.202.165.211:2021/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2388.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://116.202.165.211:2021/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4783.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://116.202.165.211:2021/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2484.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2394.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://116.202.165.211:2021/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2391.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://116.202.165.211:2021/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2396.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://116.202.165.211:2021/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://116.202.165.211:2021/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2395.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2489.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6881.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5067.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX" tvg-logo="http://116.202.165.211:2021/logo/chn/2367.png" group-title="Français ",FR | TFX
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5068.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://116.202.165.211:2021/logo/chn/2371.png" group-title="Français ",FR | TMC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TCM CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2382.png" group-title="Français ",FR | TCM CINEMA
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2382.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2361.png" group-title="Français ",FR | FRANCE 2
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2361.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français ",FR | France 2 FHD
@@ -27,166 +87,38 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4920.ts
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2365.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français ",FR | W9 FHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5066.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TFX" tvg-logo="http://116.202.165.211:2021/logo/chn/2367.png" group-title="Français ",FR | TFX
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français ",FR | TFX FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5068.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TMC" tvg-logo="http://116.202.165.211:2021/logo/chn/2371.png" group-title="Français ",FR | TMC
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TCM CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2382.png" group-title="Français ",FR | TCM CINEMA
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2382.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+" tvg-logo="http://116.202.165.211:2021/logo/chn/2386.png" group-title="Français ",FR | CANAL+
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2386.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1502" group-title="Français ",FR | CANAL+ FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://116.202.165.211:2021/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2387.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5064.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://116.202.165.211:2021/logo/chn/2513.png" group-title="Français ",FR | CANAL+ DOCS
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ DOCS" tvg-logo="http://116.202.165.211:2021/logo/chn/2513.png" group-title="Documentaies",FR | CANAL+ DOCS
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2513.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ KIDS" tvg-logo="http://116.202.165.211:2021/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2388.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://116.202.165.211:2021/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4783.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://116.202.165.211:2021/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2484.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ CLASSIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2394.png" group-title="Français ",FR | CINE+ CLASSIC
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2394.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ EMOTION" tvg-logo="http://116.202.165.211:2021/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2391.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FAMILY" tvg-logo="http://116.202.165.211:2021/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2396.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FRISSON" tvg-logo="http://116.202.165.211:2021/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2392.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://116.202.165.211:2021/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2395.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CINE WESTERN" tvg-logo="http://116.202.165.211:2021/logo/chn/6883.png" group-title="Français ",FR | CINE WESTERN
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6883.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | 13EME RUE" tvg-logo="http://116.202.165.211:2021/logo/chn/2380.png" group-title="Français ",FR | 13EME RUE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2380.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2489.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARIS PREMIERE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2488.png" group-title="Français ",FR | PARIS PREMIERE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2488.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6882.png" group-title="Français ",FR| PARAMOUNT CHANNEL HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6882.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6881.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RTL9" tvg-logo="http://116.202.165.211:2021/logo/chn/2374.png" group-title="Français ",FR | RTL9
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2374.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | ACTION" tvg-logo="http://116.202.165.211:2021/logo/chn/2383.png" group-title="Français ",FR | ACTION
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2383.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | HISTOIRE" tvg-logo="http://116.202.165.211:2021/logo/chn/2418.png" group-title="Français ",FR | HISTOIRE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2418.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | 6TER" tvg-logo="http://116.202.165.211:2021/logo/chn/2366.png" group-title="Français ",FR | 6TER
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2366.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | 6TER FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1507" group-title="Français ",FR | 6TER FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5065.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://116.202.165.211:2021/logo/chn/2421.png" group-title="Français ",FR | TREK
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2421.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | ANIMAUX" tvg-logo="http://116.202.165.211:2021/logo/chn/2414.png" group-title="Français ",FR | ANIMAUX
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://116.202.165.211:2021/logo/chn/2419.png" group-title="Français ",FR | USHUAIA TV
+#EXTINF:-1 tvg-id="" tvg-name="FR | AUTOMOTO LA CHAINE" tvg-logo="http://116.202.165.211:2021/logo/chn/2514.png" group-title="Français ",FR | AUTOMOTO LA CHAINE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2514.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | USHUAIA TV" tvg-logo="http://116.202.165.211:2021/logo/chn/2419.png" group-title="Documentaies",FR | USHUAIA TV
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2419.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://116.202.165.211:2021/logo/chn/2493.png" group-title="Français ",FR | CHASSE & PÊCHE
+#EXTINF:-1 tvg-id="" tvg-name="FR | CHASSE & PÊCHE" tvg-logo="http://116.202.165.211:2021/logo/chn/2493.png" group-title="Documentaies",FR | CHASSE & PÊCHE
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2493.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://116.202.165.211:2021/logo/chn/2422.png" group-title="Français ",FR | SCIENCES & VIE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2422.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://116.202.165.211:2021/logo/chn/2424.png" group-title="Français ",FR | SEASONS
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2424.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://116.202.165.211:2021/logo/chn/2410.png" group-title="Français ",FR | DISCOVERY
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2410.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="http://116.202.165.211:2021/logo/chn/2411.png" group-title="Français ",FR | DISCOVERY SCIENCE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2411.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://116.202.165.211:2021/logo/chn/2449.png" group-title="Français ",FR | DISCOVERY INVESTIGATION
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2449.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://116.202.165.211:2021/logo/chn/2413.png" group-title="Français ",FR | NATIONAL GEO WILD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2413.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2412.png" group-title="Français ",FR | NATIONAL GEOGRAPHIC
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2412.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://116.202.165.211:2021/logo/chn/2415.png" group-title="Français ",FR | PLANETE+
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2415.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://116.202.165.211:2021/logo/chn/2417.png" group-title="Français ",FR | PLANETE CI
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2417.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE A&E" tvg-logo="http://116.202.165.211:2021/logo/chn/2416.png" group-title="Français ",FR | PLANETE A&E
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2416.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE AE HD" tvg-logo="" group-title="Français ",FR | PLANETE AE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3537.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC STORY" tvg-logo="http://116.202.165.211:2021/logo/chn/2370.png" group-title="Français ",FR | RMC STORY
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2370.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC DECOUVERTE" tvg-logo="http://116.202.165.211:2021/logo/chn/2420.png" group-title="Français ",FR | RMC DECOUVERTE
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2420.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CRIME DISTRICT" tvg-logo="http://116.202.165.211:2021/logo/chn/2423.png" group-title="Français ",FR | CRIME DISTRICT
+#EXTINF:-1 tvg-id="" tvg-name="FR | CRIME DISTRICT" tvg-logo="http://116.202.165.211:2021/logo/chn/2423.png" group-title="Documentaies",FR | CRIME DISTRICT
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2423.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | E! ENTERTAINMENT" tvg-logo="http://116.202.165.211:2021/logo/chn/2379.png" group-title="Français ",FR | E! ENTERTAINMENT
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2379.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2691.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2692.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2693.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2694.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2695.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2696.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2697.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2698.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2699.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2700.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2685.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2686.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2687.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2688.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2689.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3311.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3312.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3313.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3314.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2690.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://116.202.165.211:2021/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2406.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT" tvg-logo="http://116.202.165.211:2021/logo/chn/3706.png" group-title="Français ",FR | CANAL+ FOOT
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3706.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6561.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT" tvg-logo="http://116.202.165.211:2021/logo/chn/2390.png" group-title="Français ",FR | CANAL+ SPORT
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2390.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="Français ",FR | CANAL+ SPORT FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6562.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://116.202.165.211:2021/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1" tvg-logo="http://116.202.165.211:2021/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORTS 1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5114.png" group-title="Français ",FR | BEIN SPORTS 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2" tvg-logo="http://116.202.165.211:2021/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORTS 2
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5115.png" group-title="Français ",FR | BEIN SPORTS 2 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3" tvg-logo="http://116.202.165.211:2021/logo/chn/2448.png" group-title="Français ",FR | BEIN SPORTS 3
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="http://116.202.165.211:2021/logo/chn/5116.png" group-title="Français ",FR | BEIN SPORTS 3 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SEASONS" tvg-logo="http://116.202.165.211:2021/logo/chn/2424.png" group-title="Documentaies",FR | SEASONS
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2424.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY" tvg-logo="http://116.202.165.211:2021/logo/chn/2410.png" group-title="Documentaies",FR | DISCOVERY
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2410.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | DISCOVERY INVESTIGATION" tvg-logo="http://116.202.165.211:2021/logo/chn/2449.png" group-title="Documentaies",FR | DISCOVERY INVESTIGATION
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2449.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEO WILD" tvg-logo="http://116.202.165.211:2021/logo/chn/2413.png" group-title="Documentaies",FR | NATIONAL GEO WILD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2413.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | NATIONAL GEOGRAPHIC" tvg-logo="http://116.202.165.211:2021/logo/chn/2412.png" group-title="Documentaies",FR | NATIONAL GEOGRAPHIC
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2412.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE+" tvg-logo="http://116.202.165.211:2021/logo/chn/2415.png" group-title="Documentaies",FR | PLANETE+
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2415.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE CI" tvg-logo="http://116.202.165.211:2021/logo/chn/2417.png" group-title="Documentaies",FR | PLANETE CI
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2417.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PLANETE A&E" tvg-logo="http://116.202.165.211:2021/logo/chn/2416.png" group-title="Documentaies",FR | PLANETE A&E
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC DECOUVERTE" tvg-logo="http://116.202.165.211:2021/logo/chn/2420.png" group-title="Documentaies",FR | RMC DECOUVERTE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2420.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SCIENCES & VIE" tvg-logo="http://116.202.165.211:2021/logo/chn/2422.png" group-title="Documentaies",FR | SCIENCES & VIE
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2422.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | TREK" tvg-logo="http://116.202.165.211:2021/logo/chn/2421.png" group-title="Documentaies",FR | TREK
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2421.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 4" tvg-logo="http://116.202.165.211:2021/logo/chn/2468.png" group-title="Français ",FR | BEIN SPORTS MAX 4
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2468.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS MAX 5" tvg-logo="http://116.202.165.211:2021/logo/chn/2469.png" group-title="Français ",FR | BEIN SPORTS MAX 5
