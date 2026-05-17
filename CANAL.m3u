@@ -22,15 +22,15 @@ http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/168.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194767.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356183&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194766.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356182&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194765.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356181&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194764.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356180&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194763.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356179&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2755.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
