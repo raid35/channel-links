@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/659439.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/659440.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/659441.ts
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ HD
@@ -73,11 +79,48 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4920.ts
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1930.ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5066.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2691.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2695.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2696.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2697.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2698.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2699.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2685.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2686.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2688.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2689.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3311.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3312.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3313.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/3314.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2690.ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2513.ts
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="EchappÃ©es Belles" tvg-logo="" group-title="FRANCE HD",EchappÃ©es Belles
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg3MTM4MDlkLTY4NWMtNGE5OC1hYzdhLTQ1MTVkN2JlYTFkOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmZTg3OTA2NC01MGQ2LTExZjEtOWY0OS04MjQ3YTdmZmZjMmEiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL1BhcmlzIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiZmxhdHRlbkJhc2VVcmwiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJmd1ZjSUQyQ29wcGEiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4M2JhN2RiLTFlZjEtNDdiYi04YjJlLTA2Y2EzM2NmZjBkNiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTQsMTAwMTYsMTAwMjMsMTAwMTMsMTAwMTUsMTAwMjAsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3Nzg5MDE5NzQ4NzEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpOamd6WW1FM1pHSXRNV1ZtTVMwME4ySmlMVGhpTW1VdE1EWmpZVE16WTJabU1HUTIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc4OTg4Mzc0LCJpYXQiOjE3Nzg5MDE5NzQsImp0aSI6ImJkMWE1MzBmLWIwNDMtNDU2My1iM2NlLTUwNjRkNmUwNzQ1NSJ9.jhw7jGGPwZSkwzWOjNVQNBNhxEehI5clBpHwQghCIt8&amp;masterJWTPassthrough=true
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="Voyages Saveurs " tvg-logo="" group-title="FRANCE HD",Voyages Saveurs
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/680291e38e1ff89c2427aefd/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg3MTM4MDlkLTY4NWMtNGE5OC1hYzdhLTQ1MTVkN2JlYTFkOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmZTg3OTA2NC01MGQ2LTExZjEtOWY0OS04MjQ3YTdmZmZjMmEiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL1BhcmlzIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiZmxhdHRlbkJhc2VVcmwiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJmd1ZjSUQyQ29wcGEiOiI2ODNiYTdkYi0xZWYxLTQ3YmItOGIyZS0wNmNhMzNjZmYwZDYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4M2JhN2RiLTFlZjEtNDdiYi04YjJlLTA2Y2EzM2NmZjBkNiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTQsMTAwMTYsMTAwMjMsMTAwMTMsMTAwMTUsMTAwMjAsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3Nzg5MDE5NzQ4NzEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpOamd6WW1FM1pHSXRNV1ZtTVMwME4ySmlMVGhpTW1VdE1EWmpZVE16WTJabU1HUTIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc4OTg4Mzc0LCJpYXQiOjE3Nzg5MDE5NzQsImp0aSI6ImJkMWE1MzBmLWIwNDMtNDU2My1iM2NlLTUwNjRkNmUwNzQ1NSJ9.jhw7jGGPwZSkwzWOjNVQNBNhxEehI5clBpHwQghCIt8&amp;masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
