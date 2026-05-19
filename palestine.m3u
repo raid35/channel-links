@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://8k.lol/live/11185442363472/36345007902112/386683.ts
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1806744&extension=ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://8k.lol/live/11185442363472/36345007902112/386685.ts
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1806743&extension=ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://8k.lol/live/11185442363472/36345007902112/386687.ts
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1806742&extension=ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://8k.lol/live/11185442363472/36345007902112/386689.ts
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1806741&extension=ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-http://8k.lol/live/11185442363472/36345007902112/386691.ts
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1806740&extension=ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 
