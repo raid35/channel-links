@@ -1,26 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2401.ts
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5114.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/329.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
-#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5115.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/334.ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2448.ts
-#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5116.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/335.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/289.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3706
+http://81637.org:2052/live/mohsentv1/mabrouk/292.ts
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453
+http://81637.org:2052/live/mohsentv1/mabrouk/293.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/168.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/291.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356183&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
@@ -34,131 +26,88 @@ http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356179&exte
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2755.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2387.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5064.ts
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2387.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/290.ts
 #EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://aptvpix.net/pubs/2022/canalkids.png" group-title="FRANCE HD",CANAL+ KIDS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2388.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/294.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4783.ts
+http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/60010.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://aptvpix.net/pubs/2022/canalgrandecran.png" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2484.ts
+http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/53852.ts
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineclassic.png" group-title="FRANCE HD",CINE+ CLASSIC  HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2394.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/307.ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineemotion.png" group-title="FRANCE HD",CINE+ EMOTION HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2391.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/303.ts
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefamily.png" group-title="FRANCE HD",CINE+ FAMILY HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2396.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/306.ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinedrisson.png" group-title="FRANCE HD",CINE+ FRISSON HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2392.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/304.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefestival.png" group-title="FRANCE HD",CINE+ FESTIVAL HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2395.ts
+http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/3480.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2489.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/358.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6881.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/372.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/276.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5067.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/357.ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/284.ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/283.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6563.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/278.ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6564.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/279.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6565.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/280.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6566.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/281.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4920.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/277.ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://aptvpix.net/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5065.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/282.ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5066.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2691.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2692.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2693.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2694.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2695.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2696.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2697.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2698.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2699.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2700.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2685.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2686.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2687.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2688.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2689.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3311.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3312.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3313.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3314.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2690.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/285.ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2513.ts
+http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/3115.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/376.ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/ushuaia1.png" group-title="FRANCE HD",USHUAÏA TV HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2419.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/388.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/chasse.png" group-title="FRANCE HD",CHASSE & PECHE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2493.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/377.ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2422.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/387.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/seasons.png" group-title="FRANCE HD",SEASONS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2424.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/389.ts
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="FRANCE HD",DISCOVERY HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2410.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/378.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2449.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/381.ts
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2413.ts
+http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/852.ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://aptvpix.net/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2412.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/382.ts
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/planeteplus.png" group-title="FRANCE HD",PLANETE+ HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2415.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/384.ts
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE HD",PLANETE+ AVENTURE HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2416.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/385.ts
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE HD",PLANETE+ CRIME HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2417.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/386.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE HD",HISTOIRE TV HD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/11563.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/393.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2468.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/336.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2469.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/337.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2470.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/338.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2471.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/339.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2472.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/340.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2473.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/341.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2467.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/342.ts
