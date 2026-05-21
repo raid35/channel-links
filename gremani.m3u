@@ -28,9 +28,9 @@ http://cdn.tv-rds.workers.dev/CosmoteSport9.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png",ELEVEN SPORTS 1 PL
 http://192.168.100.9:8001/1:0:19:1:1:0:DCA2DA0:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png",ELEVEN SPORTS 2 PL
-http://116.202.165.211:8888/android/live?action=link&id=4172&hash=4b034c0c460654560e55194502014d070f4653424e1a4d014107
+http://192.168.100.9:8001/1:0:19:2:1:0:DCA2DA0:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 PL
-http://116.202.165.211:8888/android/live?action=link&id=4173&hash=4b034c0c460654560e55194502014d070f4653424e1a4d014107
+http://192.168.100.9:8001/1:0:1:7EC:11:6E:DCA0000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
 http://116.202.165.211:8888/android/live?action=link&id=4174&hash=4b034c0c460654560e55194502014d070f4653424e1a4d014107
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Ziggo Sport 4K
