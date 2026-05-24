@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941417&extension=ts&play_token=tbFEhWtjql
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941417&extension=ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941420&extension=ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
