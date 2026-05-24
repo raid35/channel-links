@@ -1,102 +1,102 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/329.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941417&extension=ts&play_token=tbFEhWtjql
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/334.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941420&extension=ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/335.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941423&extension=ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
-http://81637.org:2052/live/mohsentv1/mabrouk/289.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958745&extension=ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
-http://81637.org:2052/live/mohsentv1/mabrouk/292.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941405&extension=ts
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
-http://81637.org:2052/live/mohsentv1/mabrouk/293.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941411&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
-http://81637.org:2052/live/mohsentv1/mabrouk/291.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941408&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356183&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958695&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356182&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958694&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356181&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958693&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356180&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958692&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356179&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958691&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2755.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941593&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
-http://81637.org:2052/live/mohsentv1/mabrouk/290.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936874&extension=ts
 #EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://aptvpix.net/pubs/2022/canalkids.png" group-title="FRANCE HD",CANAL+ KIDS HD
-http://81637.org:2052/live/mohsentv1/mabrouk/294.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958750&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/60010.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936872&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://aptvpix.net/pubs/2022/canalgrandecran.png" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/53852.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936880&extension=ts
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineclassic.png" group-title="FRANCE HD",CINE+ CLASSIC  HD
-http://81637.org:2052/live/mohsentv1/mabrouk/307.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=958751&extension=ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineemotion.png" group-title="FRANCE HD",CINE+ EMOTION HD
-http://81637.org:2052/live/mohsentv1/mabrouk/303.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936888&extension=ts
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefamily.png" group-title="FRANCE HD",CINE+ FAMILY HD
-http://81637.org:2052/live/mohsentv1/mabrouk/306.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936887&extension=ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinedrisson.png" group-title="FRANCE HD",CINE+ FRISSON HD
-http://81637.org:2052/live/mohsentv1/mabrouk/304.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936889&extension=ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefestival.png" group-title="FRANCE HD",CINE+ FESTIVAL HD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/3480.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936886&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
-http://81637.org:2052/live/mohsentv1/mabrouk/358.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936902&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://81637.org:2052/live/mohsentv1/mabrouk/372.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936892&extension=ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/276.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936753&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
-http://81637.org:2052/live/mohsentv1/mabrouk/357.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936779&extension=ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
-http://81637.org:2052/live/mohsentv1/mabrouk/284.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936791&extension=ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
-http://81637.org:2052/live/mohsentv1/mabrouk/283.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936782&extension=ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/278.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936756&extension=ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/279.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936759&extension=ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/280.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936762&extension=ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/281.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936765&extension=ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/277.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936775&extension=ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://aptvpix.net/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
-http://81637.org:2052/live/mohsentv1/mabrouk/282.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936772&extension=ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
-http://81637.org:2052/live/mohsentv1/mabrouk/285.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936799&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/3115.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941630&extension=ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
-http://81637.org:2052/live/mohsentv1/mabrouk/376.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941673&extension=ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/ushuaia1.png" group-title="FRANCE HD",USHUAÏA TV HD
-http://81637.org:2052/live/mohsentv1/mabrouk/388.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941670&extension=ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/chasse.png" group-title="FRANCE HD",CHASSE & PECHE HD
-http://81637.org:2052/live/mohsentv1/mabrouk/377.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941676&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
-http://81637.org:2052/live/mohsentv1/mabrouk/387.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941664&extension=ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/seasons.png" group-title="FRANCE HD",SEASONS HD
-http://81637.org:2052/live/mohsentv1/mabrouk/389.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941661&extension=ts
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="FRANCE HD",DISCOVERY HD
-http://81637.org:2052/live/mohsentv1/mabrouk/378.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941633&extension=ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
-http://81637.org:2052/live/mohsentv1/mabrouk/381.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941636&extension=ts
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
-http://pro.netmos.ovh:7355/live/Spro98SDGIU3528/IUDF69KLXSO@Y/852.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941641&extension=ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://aptvpix.net/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
-http://81637.org:2052/live/mohsentv1/mabrouk/382.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941638&extension=ts
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/planeteplus.png" group-title="FRANCE HD",PLANETE+ HD
-http://81637.org:2052/live/mohsentv1/mabrouk/384.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941650&extension=ts
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE HD",PLANETE+ AVENTURE HD
-http://81637.org:2052/live/mohsentv1/mabrouk/385.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941653&extension=ts
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE HD",PLANETE+ CRIME HD
-http://81637.org:2052/live/mohsentv1/mabrouk/386.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941655&extension=ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE HD",HISTOIRE TV HD
-http://81637.org:2052/live/mohsentv1/mabrouk/393.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941644&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
 http://81637.org:2052/live/mohsentv1/mabrouk/336.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
