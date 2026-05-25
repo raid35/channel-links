@@ -1,50 +1,50 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368773&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94062.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/CANALALGERIE.png" group-title="ALGERIA",DZ | CANAL ALGERIE
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368772&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94070.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER3.png" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368771&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94063.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368770&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94071.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER5.png" group-title="ALGERIA",DZ | TV5 QURAN
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368769&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94072.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368768&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94073.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV7 AL MAARIFA
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368767&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94074.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV8 AL DHAKIRA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV8 AL DHAKIRA
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368766&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94075.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV9 AL BARLAMANIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV9 AL BARLAMANIA
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368758&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="http://aptvpix.net/pubs/2022/hadaf.png" group-title="ALGERIA",DZ | AL HEDDAF TV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=671562&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94079.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ONE TV" tvg-logo="https://aptvpix.net/pubs/2022/wahd.png" group-title="ALGERIA",DZ | ONE TV
 http://worldcam.linkpc.net/live/932427775526/004456726654/282415.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENNAHARTV.png" group-title="ALGERIA",DZ | ENNAHAR TV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368761&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94066.ts
 #EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKTV.png" group-title="ALGERIA",DZ | ECHOROUK TV HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368763&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94065.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKNEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368762&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94064.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL BILAD" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/bilad.png" group-title="ALGERIA",DZ | EL BILAD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368751&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94080.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALHAYAT.png" group-title="ALGERIA",DZ | AL HAYAT TV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368760&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94078.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="http://picons.atlaspro.to/pubs/december2020/30-10-21/zahratv.png" group-title="ALGERIA",DZ | ZAHRA TV
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368747&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/watanya.png" group-title="ALGERIA",DZ | EL WATANIYA TV
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368749&extension=ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="http://aptvpix.net/pubs/2022/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368757&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94068.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/BAHIATV.png" group-title="ALGERIA",DZ | BAHIA TV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368752&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94067.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/FADJRTV.png" group-title="ALGERIA",DZ | EL FADJR
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368746&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94069.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL DJAZAIR N1" tvg-logo="http://aptvpix.net/picons/n14pitcon.png" group-title="ALGERIA",DZ | EL DJAZAIR N1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368765&extension=ts
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94081.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | SALAM TV" tvg-logo="https://picons.atlaspro.to/pubs/december2020/31-03-2022/salam1.png" group-title="ALGERIA",DZ | SALAM TV
 http://instv.top:80/942984057964814/1593574628/88594
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL ANIS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALANIS.png" group-title="ALGERIA",DZ | AL ANIS
