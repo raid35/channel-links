@@ -27,25 +27,27 @@ http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=142148
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
 http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421490&extension=ts
 #EXTINF:-1 tvg-name="FR | CANAL+ 4K UHD" tvg-logo="http://116.202.165.211:2021/logo/chn/6880.png" group-title="Français ",FR | CANAL+ 4K UHD
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/289.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/290.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/847.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ KIDS" tvg-logo="http://116.202.165.211:2021/logo/chn/2388.png" group-title="Français ",FR | CANAL+ KIDS
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/294.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1056.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ GRAND ECRAN" tvg-logo="http://116.202.165.211:2021/logo/chn/2484.png" group-title="Français ",FR | CANAL+ GRAND ECRAN
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1972488&extension=ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/53852.ts
 #EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://116.202.165.211:2021/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1972487&extension=ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1057.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FRISSON" tvg-logo="http://148.251.133.153:8181/logo/chn/2392.png" group-title="Français ",FR | CINE+ FRISSON
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/304.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1060.ts
 #EXTINF:-1 tvg-name="FR | CINE+ EMOTION" tvg-logo="http://148.251.133.153:8181/logo/chn/2391.png" group-title="Français ",FR | CINE+ EMOTION
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/303.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1061.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/2396.png" group-title="Français ",FR | CINE+ FAMILY
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/306.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1059.ts
 #EXTINF:-1 tvg-name="FR | CINE+ FESTIVAL" tvg-logo="http://148.251.133.153:8181/logo/chn/2395.png" group-title="Français ",FR | CINE+ FESTIVAL
-http://81637.org:2052/live/ibPVHswWxA/ABWNt8DFby/422.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/3480.ts
 #EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="Selection Sport",Paris Premiere HD (FHD)
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français ",FR | TF1 FHD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/156584.ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français ",FR | TF1 SERIES-FILMS FHD
@@ -68,8 +70,46 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/156593.ts
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/156586.ts
 #EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français ",FR | TMC
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2717.ts
-#EXTINF:-1 group-title="Selection Sport",Paris Premiere HD (FHD)
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2691.png" group-title="Français ",FR | A La Carte 1 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1204.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2692.png" group-title="Français ",FR | A La Carte 2 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1203.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2693.png" group-title="Français ",FR | A La Carte 3 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2694.png" group-title="Français ",FR | A La Carte 4 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1201.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2695.png" group-title="Français ",FR | A La Carte 5 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1200.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2696.png" group-title="Français ",FR | A La Carte 6 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1199.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2697.png" group-title="Français ",FR | A La Carte 7 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1198.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2698.png" group-title="Français ",FR | A La Carte 8 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2699.png" group-title="Français ",FR | A La Carte 9 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/58725.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | A La Carte 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2700.png" group-title="Français ",FR | A La Carte 10 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/188390.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 1 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2685.png" group-title="Français ",FR | CanalPlay 1 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55894.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 2 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2686.png" group-title="Français ",FR | CanalPlay 2 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55895.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 3 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2687.png" group-title="Français ",FR | CanalPlay 3 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55896.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 4 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2688.png" group-title="Français ",FR | CanalPlay 4 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55897.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 5 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2689.png" group-title="Français ",FR | CanalPlay 5 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55898.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 6 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3311.png" group-title="Français ",FR | CanalPlay 6 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55899.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 7 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3312.png" group-title="Français ",FR | CanalPlay 7 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55900.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 8 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3313.png" group-title="Français ",FR | CanalPlay 8 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55901.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 9 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/3314.png" group-title="Français ",FR | CanalPlay 9 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55903.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CanalPlay 10 HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2690.png" group-title="Français ",FR | CanalPlay 10 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/55904.ts
 #EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
