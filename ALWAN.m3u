@@ -338,7 +338,6 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94371.ts
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94368.ts
 #EXTINF:-1 tvg-name="beIN Gourmet 4K" group-title="beIN MOVIES 4K",beIN Gourmet 4K
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94367.ts
-#EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
 http://81637.org:2052/live/fateh91240/999888777/15466.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
