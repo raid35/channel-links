@@ -6,9 +6,9 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/23662.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER3.png" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
 http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14783.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14784.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1168.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER5.png" group-title="ALGERIA",DZ | TV5 QURAN
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14785.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1167.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
 http://akar13.xyz:8080/live/1457983443440351/2513640789622561/43605.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV7 AL MAARIFA
@@ -45,3 +45,5 @@ http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14876.ts
 http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14785.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL ANIS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALANIS.png" group-title="ALGERIA",DZ | AL ANIS
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368748&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
+http://akar13.xyz:8080/live/1457983443440351/2513640789622561/14784.ts
