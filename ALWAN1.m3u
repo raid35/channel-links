@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+http://185.191.126.127:8080/4750034742512197/3177932697568638/418112
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 3 HD
