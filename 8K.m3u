@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 FHD
-http://185.191.126.127:8080/live/4750034742512197/3177932697568638/460837.ts
+http://185.191.126.127:8080/live/N2252734512/580502154198/460837.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 HD
-http://185.191.126.127:8080/4750034742512197/3177932697568638/318197
+http://185.191.126.127:8080/N2252734512/580502154198/318197
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", BEIN SPORTS 2 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242267&extension=ts
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png?ver=12-01-2025", BEIN SPORTS 2 HD
-http://185.191.126.127:8080/4750034742512197/3177932697568638/318198
+http://185.191.126.127:8080/N2252734512/580502154198/318198
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242266&extension=ts
 #EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 HD
-http://185.191.126.127:8080/4750034742512197/3177932697568638/318199
+http://185.191.126.127:8080/N2252734512/580502154198/318199
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242265&extension=ts
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 HD
