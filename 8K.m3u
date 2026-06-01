@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 FHD
-http://185.191.126.127:8080/live/N2252734512/580502154198/460837.ts
+https://deviantart.lovetier.bz/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODAzMjUxODQ=.be4c0792db78537f910c1de2b6d619207a7a6ed3a13ca5a4326b3c3ea3754a86
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 HD
-http://185.191.126.127:8080/N2252734512/580502154198/318197
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78378.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", BEIN SPORTS 2 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242267&extension=ts
+https://deviantart.lovetier.bz/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzgwMzI0NDcz.5ce7385b488df4e037ff63adf3604a54b85025389395b38a79b3637273c9436f
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png?ver=12-01-2025", BEIN SPORTS 2 HD
-http://185.191.126.127:8080/N2252734512/580502154198/318198
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242266&extension=ts
+https://deviantart.lovetier.bz/beINAR3/index.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzgwMzI1Njk2.23eec3a05756feddc80ec5b6ad56980d75bf5c5334edbb8016fb80fa37e7ecdd
 #EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 HD
-http://185.191.126.127:8080/N2252734512/580502154198/318199
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242265&extension=ts
+https://deviantart.lovetier.bz/beINAR4/index.m3u8?token=YmVJTkFSNHxub19jaGVja19pcHwxNzgwMzI1MzYz.878f257d88f4edacbf67d78354943b8e4974f0375fc7d3e7d44bda7af46539d5
 #EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985130&extension=ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242264&extension=ts
+https://deviantart.lovetier.bz/beINAR5/index.m3u8?token=YmVJTkFSNXxub19jaGVja19pcHwxNzgwMzI1NDg3.b3dcaee1c2c60ec1865aa74517044b1360c54e8ed8b4aeac852258527073d308
 #EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985131&extension=ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",BEIN SPORTS 6 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242263&extension=ts
+https://deviantart.lovetier.bz/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzgwMzI1NTQx.01363dc08ec8ca61ddca51b30eff597f8dc5cfcddbd29cd35c535c50bed3e1f3
 #EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="Bein Sports 6" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png" , BEIN SPORTS 6 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&extension=ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png", BEIN SPORTS 7 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242262&extension=ts
+https://deviantart.lovetier.bz/beINAR7/index.m3u8?token=YmVJTkFSN3xub19jaGVja19pcHwxNzgwMzI1NTY2.ec90e747ca0608f0dc32a29867ce9205b3f0e7035b75bd51aec06dceee05e0ff
 #EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
+https://deviantart.lovetier.bz/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzgwMzI1NTg5.af3d896103cbe03b349e55e5a25651ab716d5fe317d88fa3b28ea2193b880f71
 #EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" , BEIN SPORTS 8 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242260&extension=ts
+https://deviantart.lovetier.bz/beINAR9/index.m3u8?token=YmVJTkFSOXxub19jaGVja19pcHwxNzgwMzI1NjEy.2a8366dfe38438655b2a7b44deb31d705434c34612dcc911b3d091cdca3bc59d
