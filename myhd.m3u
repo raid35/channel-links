@@ -13,8 +13,272 @@ http://h42.reelpush.online/live/610303030/index.m3u8
 http://h42.reelpush.online/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-name="BEIN Sports 7 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 7 1080P
 http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1 tvg-name="BEIN Sports 8 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 8 1080P
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
-#EXTINF:-1 tvg-name="BEIN Sports 9 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 9 1080P
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein9
+#EXTINF:-1 tvg-ID="1424" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=UgetP5JG-OsmO0YXqRHYsw&e=1780855519|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1425" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/69854211/index.m3u8?t=vOGoGHvl6RpMflJxRyPg8Q&e=1780855519|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1426" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=E_xGZZATtlKJIHvvCfyEMQ&e=1780855520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1427" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=y_6NEVpHX3n5yQbBNGqSjA&e=1780855520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1428" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=Bmkv2S3XCRr5otqwij38Qw&e=1780855520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1429" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=UCgLARSDSx7g5U8oOB1ppA&e=1780855520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1430" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/33523510/index.m3u8?t=hKG-mD63We8P6rqyiKqjuQ&e=1780855521|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1431" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bs8-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1432" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/34114434/index.m3u8?t=raXLjJ3URb57v02AzursKw&e=1780855521|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1421" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bx1-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1421" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/996251000/index.m3u8?t=HeNXXMdSgXQhf6D5UA2PHA&e=1780855522|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1422" tvg-name="beIN XTRA 2" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN XTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/33523510/index.m3u8?t=Zb0W10olX-1l53-jgsRYCg&e=1780855522|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1423" tvg-name="beIN XTRA 3" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN XTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/61512788878/index.m3u8?t=sxFKzIKamWzlluCXfLNPGA&e=1780855522|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1435" tvg-name="beIN France 3" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://twitter.com/i/broadcasts/1RDGlaNRdbOJL$$m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1435" tvg-name="beIN France 3" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://twitter.com/i/broadcasts/1RDGlaNRdbOJL$$m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1436" tvg-name="beIN News" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/674534/index.m3u8?t=_3dFYtyd5LIEPyJo08yhhw&e=1780855523|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1437" tvg-name="beIN SPORTS" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bs-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1437" tvg-name="beIN SPORTS" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/5756345/index.m3u8?t=9aY0ylSVNJAALqblvRgiHw&e=1780855523|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1483" tvg-name="beIN English 3" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN English 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://sp.rmbl.ws/s8/2/Q/x/v/y/Qxeyg.caa.mp4$$get_video|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="4" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=DEtSsctSjXP7eRNWzL5b6Q&e=1780855524|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="5" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/69854211/index.m3u8?t=PdfGEyu32i9RXFlAOjGYhw&e=1780855525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="6" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=_q0XrrdHGIhadlkOaqnRPA&e=1780855525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="7" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=TUY65lKe1_L_qSSOlwRHYQ&e=1780855525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="8" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=jWnIapjxehOWE9GeFQNHuQ&e=1780855525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="9" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=krXEaCOLtJSosIQa7PHmdg&e=1780855526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="10" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/33523510/index.m3u8?t=q61J3Zfo7OZTexI3jBdF6A&e=1780855526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="11" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/996251000/index.m3u8?t=sx5plNg80ItQ0KFJlxpNyQ&e=1780855526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="12" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/34114434/index.m3u8?t=_uYSOMg4kMfFy_CQQx-W5g&e=1780855527|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (720P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bx1-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (720P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/996251000/index.m3u8?t=IvKiBRRj3ilXe_EezzYGHQ&e=1780855527|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="2" tvg-name="beIN XTRA 2" tvg-logo="" group-title="beIN SPORTS (720P)",beIN XTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/33523510/index.m3u8?t=ovKLvCjCVn_dNSgAANUCEA&e=1780855527|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="3" tvg-name="beIN XTRA 3" tvg-logo="" group-title="beIN SPORTS (720P)",beIN XTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/61512788878/index.m3u8?t=C9LljbC8J_TDkjArCxMjRQ&e=1780855527|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="16" tvg-name="beIN News" tvg-logo="" group-title="beIN SPORTS (720P)",beIN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/674534/index.m3u8?t=A3iK1KMNphHyJTpOSF07oQ&e=1780855534|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="17" tvg-name="beIN SPORTS" tvg-logo="" group-title="beIN SPORTS (720P)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/33523510/index.m3u8?t=VCExvbno5ga0AJjhLSFapA&e=1780855535|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="20" tvg-name="beIN English 3" tvg-logo="" group-title="beIN SPORTS (720P)",beIN English 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://sp.rmbl.ws/s8/2/Q/x/e/y/Qxeyg.gaa.mp4?u=1k6g2k&b=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="24" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/978480008877005/index.m3u8?t=oEDMVwb1yZzC_QG_NYGJKQ&e=1780855539|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="25" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/10011244/index.m3u8?t=K32X5oQZK7pknxHbMqhw0g&e=1780855540|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="26" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/161988840/index.m3u8?t=rWD2dvpX4h3Tz3G7COVQPw&e=1780855540|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="27" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/0103088447/index.m3u8?t=PS8SRZ9LJFM32b_ufioBqA&e=1780855540|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="28" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/115451004/index.m3u8?t=UtPCiDfYPVoFhQnazbrVKA&e=1780855541|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="29" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/788550011/index.m3u8?t=QTdcv8TgWatjAzX25uWF7A&e=1780855541|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="30" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/14066007/index.m3u8?t=chJbVcWyR4iP0Q_AYprb5w&e=1780855541|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="31" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/500021000/index.m3u8?t=Z7tu8Z9kmGstzbdELuFy7A&e=1780855542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="32" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/34114434/index.m3u8?t=-sj2BiXPCAkf24MAc1pN2w&e=1780855542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="21" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (360P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bx1-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="21" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (360P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/500021000/index.m3u8?t=Z7tu8Z9kmGstzbdELuFy7A&e=1780855542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="22" tvg-name="beIN XTRA 2" tvg-logo="" group-title="beIN SPORTS (360P)",beIN XTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/515141000/index.m3u8?t=FcUv4_hsowYH1OvkAXFmyw&e=1780855543|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="23" tvg-name="beIN XTRA 3" tvg-logo="" group-title="beIN SPORTS (360P)",beIN XTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/179885588/index.m3u8?t=pyEu9OQZOO8vKy9RKErHFQ&e=1780855543|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="36" tvg-name="beIN News" tvg-logo="" group-title="beIN SPORTS (360P)",beIN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/674534/index.m3u8?t=IchocWUsolOFg-f0QYOMkA&e=1780855544|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="37" tvg-name="beIN SPORTS" tvg-logo="" group-title="beIN SPORTS (360P)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/14066007/index.m3u8?t=SfmrSEw47ogIP5pRtmPp0Q&e=1780855544|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="40" tvg-name="beIN English 3" tvg-logo="" group-title="beIN SPORTS (360P)",beIN English 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://sp.rmbl.ws/s8/2/Q/x/v/y/Qxeyg.caa.mp4$$get_video|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="44" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/31009988005/index.m3u8?t=bJwYLiZW3v3Aev7Cch5lKw&e=1780855549|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="45" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/4798998070/index.m3u8?t=gvgXQy1dzNNoHXSTPSWyoQ&e=1780855550|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="46" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/551818447/index.m3u8?t=ujeCgKlh08QYiFoBODiXkg&e=1780855550|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="47" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/131326625/index.m3u8?t=yeTLOxJrnwjJ3DDj6TL1gA&e=1780855551|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="48" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/181818444/index.m3u8?t=_ubx23udMWIDh41wMC7Tcw&e=1780855552|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="49" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/9883322/index.m3u8?t=mKrj3K6nUfjo8eoQseR7Gg&e=1780855552|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="50" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/79247621/index.m3u8?t=0SvT51u7k88NSQYYVeuWhA&e=1780855553|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="51" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/770001000/index.m3u8?t=QyqUGLWIMCgSYvhyQJ_d0A&e=1780855554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="52" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="beIN SPORTS (244P)",beIN SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/34114434/index.m3u8?t=Fgl4cITIgFL0STJLhKv79g&e=1780855554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="41" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (244P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://het4444.ycn-redirect.com/live/lb2/bx1-multi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="41" tvg-name="beIN XTRA 1" tvg-logo="" group-title="beIN SPORTS (244P)",beIN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/770001000/index.m3u8?t=neE4PfykDSXNfQduJCIsgw&e=1780855557|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="42" tvg-name="beIN XTRA 2" tvg-logo="" group-title="beIN SPORTS (244P)",beIN XTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/99821000/index.m3u8?t=EjPwnNXfHavqRONHrRY8YQ&e=1780855557|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="43" tvg-name="beIN XTRA 3" tvg-logo="" group-title="beIN SPORTS (244P)",beIN XTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/8197978778/index.m3u8?t=r4ShDdJJjzHCdglkejOXNg&e=1780855558|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="55" tvg-name="beIN France 3" tvg-logo="" group-title="beIN SPORTS (244P)",beIN France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://twitter.com/i/broadcasts/1RDGlaNRdbOJL$$m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="55" tvg-name="beIN France 3" tvg-logo="" group-title="beIN SPORTS (244P)",beIN France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+https://twitter.com/i/broadcasts/1RDGlaNRdbOJL$$m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="56" tvg-name="beIN News" tvg-logo="" group-title="beIN SPORTS (244P)",beIN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/674534/index.m3u8?t=REqO4m_dfp_SH8eOnCuNpA&e=1780855561|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
 
