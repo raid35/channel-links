@@ -4,16 +4,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RQ64beAIQ6MXG6uHCPhFJYgIb_IY8KBTyQ&s",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-max.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",
-https://raid35.github.io/docs/siksa_match.html
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://flax-media.com/assets/images/logo2.png?v=2 ",
-https://raid35.github.io/docs/FAT.html
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RQ64beAIQ6MXG6uHCPhFJYgIb_IY8KBTyQ&s",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-max.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_37958uw6q1.png ",
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_37958uw6q1.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_3755dmaui1.jpg",
@@ -21,6 +12,9 @@ https://raw.githubusercontent.com/raid35/docs/main/cha3biDz.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://g.top4top.io/p_3758l9aw31.png",
 https://raw.githubusercontent.com/raid35/docs/main/Ray_dz.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://j.top4top.io/p_3741nas731.jpg",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
 
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
@@ -37,44 +31,32 @@ https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
 https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://d.top4top.io/p_3704u4m261.jpg",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://a.top4top.io/p_3704sfi1x1.png",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_3741dyr051.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://j.top4top.io/p_3741nas731.jpg",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://f.top4top.io/p_3741zwn5d1.jpg",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/Cartoon.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/palestine.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://b.top4top.io/p_3696h7vs51.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg", 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-bein.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein8k.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
-
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png"
-https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
-
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
-https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="YACINE TV" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
@@ -83,33 +65,20 @@ https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/stc.family.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-Bein-Mov.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
-https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/nov-osn.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler_2.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www.boxofficepro.fr/app/uploads/2019/01/logo-2.svg",
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/CANAL_PLAY.m3u
+#EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTKMIY6jU-T6ZtQWNRvii_9dgdL0LdqqnfQ&s",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/custom.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
 https://github.com/raid35/channel-links/raw/main/movies.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
-https://raw.githubusercontent.com/Love4vn/Live-Schedue/1/live_schedule_check.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
-https://raw.githubusercontent.com/BuddyChewChew/buddylive/main/buddylive_v1.m3u
-
 
