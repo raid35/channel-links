@@ -69,6 +69,8 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 http://8857.dgpls.net:2082/live/D0D0033DE4B8/v8574qz4n6/117040.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="https://elheddaftv.com/wp-content/uploads/2022/12/logo2.png" group-title="ALGERIA",DZ | AL HEDDAF TV
 http://desyra.co/live/dipak_25/429502/319326.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | Onetv" tvg-logo="https://scontent.faae2-2.fna.fbcdn.net/v/t39.30808-6/375223465_611659811156595_7738523528894870331_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SreZqJJBUhIQ7kNvwH0KE_7&_nc_oc=AdoMWOgU3yENgK_Y2KRejGfdTUPHXqsGuARCF2aQ3lg-WuwqryndlEZf5rBqySbY-xs&_nc_zt=23&_nc_ht=scontent.faae2-2.fna&_nc_gid=ILV9PaVbo97GHthmNJwCgQ&_nc_ss=7a2a8&oh=00_Af_RdETqgS-icBHAUIXzoedTCDTnLNX8uJZ0PH5Ycncp2g&oe=6A32011E" ,DZ | Onetv TV
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/250315.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="https://scontent.faae2-3.fna.fbcdn.net/v/t39.30808-1/658199240_1509217450574931_984348922600091243_n.jpg?stp=dst-jpg_tt6&cstp=mx802x810&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=HmAja3EGw9sQ7kNvwH3Darx&_nc_oc=AdoneasS_M3sDyZ4pLRCHTEnT5tzNsW7H7yT1H6A8_CTCWOxiKzSeICK_qiby8OiG7U&_nc_zt=24&_nc_ht=scontent.faae2-3.fna&_nc_gid=_ZBAMnmjT9d7DssBwSDdHg&_nc_ss=7a2a8&oh=00_Af_eWcNQTk_PJfyjabBYDSoX2YuwuWq8I5c3f6kEgkJLxg&oe=6A2FFA72" group-title="ALGERIA",DZ | ENNAHAR TV
 http://desyra.co/live/dipak_25/429502/319333.ts
 #EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" group-title="ALGERIA",DZ | ECHOROUK TV HD
@@ -82,7 +84,7 @@ http://desyra.co/live/dipak_25/429502/319342.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png" group-title="ALGERIA",DZ | ZAHRA TV
 http://desyra.co/live/dipak_25/429502/319343.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="https://cdn.elwataniatv.dz/wp-content/uploads/2026/01/al-watania.png" group-title="ALGERIA",DZ | EL WATANIYA TV
-http://desyra.co/live/dipak_25/429502/319340.ts
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/249964.ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="https://www.samiratv.tv/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
 http://desyra.co/live/dipak_25/429502/319325.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="https://www.algerianmediagateway.dz/tv/lugo/1736" group-title="ALGERIA",DZ | BAHIA TV
