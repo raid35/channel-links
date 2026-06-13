@@ -89,11 +89,11 @@ http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8
 http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-4-logo.png",SportKlub 4 RS
 http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-1.webp", SUPER SPORT 1
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png", SUPER SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-2.webp", SUPER SPORT 2
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png", SUPER SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-3.webp", SUPER SPORT 3
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 #EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg" ,diemasport
 http://92.247.25.42:11170/
