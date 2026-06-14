@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="ALGERIA",DZ | RELAX
+http://tv.business-cdn-8k.com/live/77c1245c17bd/49bf327067/1008543.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY" group-title="ALGERIA",DZ | ENTV HD
 http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/12999.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA",DZ | CANAL ALGERIE
