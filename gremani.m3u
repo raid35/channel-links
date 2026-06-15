@@ -54,7 +54,7 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png" group-title="LIGA CHAMPION🏆",Arena Premium 3
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19013
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a1.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 1
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/D3fiy101OVwH1EbjDt8OJZdqrcbYFXFxEhHACLXwOk-1-gDBTZaBiYU1BKAd1stedkh4gSNYknt4KEsj2ad50w/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a2.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 2
 https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a3.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 3
