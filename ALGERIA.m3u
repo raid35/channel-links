@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="ALGERIA",DZ | RELAX
-http://tv.business-cdn-8k.com/live/77c1245c17bd/49bf327067/1008543.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY" group-title="ALGERIA",DZ | ENTV HD
-http://81637.org:2052/live/ElectricChris/021223/12999.ts
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/69280.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA",DZ | CANAL ALGERIE
-http://81637.org:2052/live/ElectricChris/021223/7400.ts
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/69281.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
 http://asmrasmr.live:8080/live/39495727290/01928238338/1002902.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="ALGERIA",DZ | TV4 TAMAZIGH
@@ -22,7 +20,7 @@ http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94076.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="https://i5.satexpat.com/cha/dz/AL24-News-95x62.gif" group-title="ALGERIA",DZ | AL24 NEWS
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1153.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="https://elheddaftv.com/wp-content/uploads/2022/12/logo2.png" group-title="ALGERIA",DZ | AL HEDDAF TV
-http://asmrasmr.live:8080/live/39495727290/01928238338/1002896.ts
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/119532.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | Onetv" tvg-logo="https://scontent.faae2-2.fna.fbcdn.net/v/t39.30808-6/375223465_611659811156595_7738523528894870331_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SreZqJJBUhIQ7kNvwH0KE_7&_nc_oc=AdoMWOgU3yENgK_Y2KRejGfdTUPHXqsGuARCF2aQ3lg-WuwqryndlEZf5rBqySbY-xs&_nc_zt=23&_nc_ht=scontent.faae2-2.fna&_nc_gid=ILV9PaVbo97GHthmNJwCgQ&_nc_ss=7a2a8&oh=00_Af_RdETqgS-icBHAUIXzoedTCDTnLNX8uJZ0PH5Ycncp2g&oe=6A32011E" ,DZ | Onetv TV
 http://asmrasmr.live:8080/live/39495727290/01928238338/1002918.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="https://scontent.faae2-3.fna.fbcdn.net/v/t39.30808-1/658199240_1509217450574931_984348922600091243_n.jpg?stp=dst-jpg_tt6&cstp=mx802x810&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=HmAja3EGw9sQ7kNvwH3Darx&_nc_oc=AdoneasS_M3sDyZ4pLRCHTEnT5tzNsW7H7yT1H6A8_CTCWOxiKzSeICK_qiby8OiG7U&_nc_zt=24&_nc_ht=scontent.faae2-3.fna&_nc_gid=_ZBAMnmjT9d7DssBwSDdHg&_nc_ss=7a2a8&oh=00_Af_eWcNQTk_PJfyjabBYDSoX2YuwuWq8I5c3f6kEgkJLxg&oe=6A2FFA72" group-title="ALGERIA",DZ | ENNAHAR TV
@@ -36,7 +34,7 @@ http://asmrasmr.live:8080/live/39495727290/01928238338/1002917.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="https://cdn.elhayat.dz/wp-content/uploads/2024/08/LOGO-ELHAYAT-.DZ_00000.png" group-title="ALGERIA",DZ | AL HAYAT TV
 http://asmrasmr.live:8080/live/39495727290/01928238338/1002919.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png" group-title="ALGERIA",DZ | ZAHRA TV
-http://asmrasmr.live:8080/live/39495727290/01928238338/1002924.ts
+http://iptvch.com:2082/live/mahmoudabd/greatlive2141/159771.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="https://cdn.elwataniatv.dz/wp-content/uploads/2026/01/al-watania.png" group-title="ALGERIA",DZ | EL WATANIYA TV
 http://asmrasmr.live:8080/live/39495727290/01928238338/1002920.ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="https://www.samiratv.tv/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
