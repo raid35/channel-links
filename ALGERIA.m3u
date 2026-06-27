@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY" group-title="ALGERIA",DZ | ENTV HD
 http://apk.ch-arabic.buzz:80/live/016/index.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA",DZ | CANAL ALGERIE
-http://apk.ch-arabic.buzz:80/live/010/index.m3u8
+http://tv.maghann.fr/live/4473173766/bayecheikh13oct/1840251.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
 http://apk.ch-arabic.buzz:80/live/002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="ALGERIA",DZ | TV4 TAMAZIGH
@@ -10,7 +10,7 @@ http://apk.ch-arabic.buzz:80/live/003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4" group-title="ALGERIA",DZ | TV5 QURAN
 http://apk.ch-arabic.buzz:80/live/004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW" group-title="ALGERIA",DZ | TV6 HD
-http://apk.ch-arabic.buzz:80/live/005/index.m3u8
+http://tv.maghann.fr/live/4473173766/bayecheikh13oct/1840227.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI" group-title="ALGERIA",DZ | TV7 AL MAARIFA
 http://apk.ch-arabic.buzz:80/live/069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV8 AL DHAKIRA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu" group-title="ALGERIA",DZ | TV8 AL DHAKIRA
@@ -38,7 +38,7 @@ http://live.mypythontv.com/live/amine012025/H7ATMKDN7N/282612.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL WATANIYA TV" tvg-logo="https://cdn.elwataniatv.dz/wp-content/uploads/2026/01/al-watania.png" group-title="ALGERIA",DZ | EL WATANIYA TV
 http://live.mypythontv.com/live/amine012025/H7ATMKDN7N/228718.ts
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="https://www.samiratv.tv/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
-http://ccgbstreambay4.xyz:2095/live/ylz7292/ylz0705yy/83968.ts
+http://tv.maghann.fr/live/4473173766/bayecheikh13oct/1840261.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="https://www.algerianmediagateway.dz/tv/lugo/1736" group-title="ALGERIA",DZ | BAHIA TV
 http://apk.ch-arabic.buzz:80/live/007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="https://alfadjr.dz/logo.png" group-title="ALGERIA",DZ | EL FADJR
