@@ -1,19 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016920&extension=ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016929&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178386&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016921&extension=ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016930&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178385&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016922&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178384&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016923&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178383&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016924&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178382&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016925&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178381&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016926&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178380&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016927&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178379&extension=ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016928&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1178378&extension=ts
