@@ -25,7 +25,7 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1151.ts
 http://81637.org:2052/live/YjKrS76cNP/UvgLAM0s0e/8619.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="https://scontent.faae2-3.fna.fbcdn.net/v/t39.30808-1/658199240_1509217450574931_984348922600091243_n.jpg?stp=dst-jpg_tt6&cstp=mx802x810&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=HmAja3EGw9sQ7kNvwH3Darx&_nc_oc=AdoneasS_M3sDyZ4pLRCHTEnT5tzNsW7H7yT1H6A8_CTCWOxiKzSeICK_qiby8OiG7U&_nc_zt=24&_nc_ht=scontent.faae2-3.fna&_nc_gid=_ZBAMnmjT9d7DssBwSDdHg&_nc_ss=7a2a8&oh=00_Af_eWcNQTk_PJfyjabBYDSoX2YuwuWq8I5c3f6kEgkJLxg&oe=6A2FFA72" group-title="ALGERIA",DZ | ENNAHAR TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1150.ts
-#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" group-title="ALGERIA",DZ | ECHOROUK TV HD
+#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.echourouk.TV.png" group-title="ALGERIA",DZ | ECHOROUK TV HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1156.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1157.ts
@@ -73,9 +73,9 @@ http://nexon-tv.org:80/live/ijsgiufsl4/er00rpptmb/130923.m3u8
 http://muvis.76777777.cyou/live/X0DF867654343/32362681236911/513283.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | Onetv" tvg-logo="https://scontent.faae2-2.fna.fbcdn.net/v/t39.30808-6/375223465_611659811156595_7738523528894870331_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SreZqJJBUhIQ7kNvwH0KE_7&_nc_oc=AdoMWOgU3yENgK_Y2KRejGfdTUPHXqsGuARCF2aQ3lg-WuwqryndlEZf5rBqySbY-xs&_nc_zt=23&_nc_ht=scontent.faae2-2.fna&_nc_gid=ILV9PaVbo97GHthmNJwCgQ&_nc_ss=7a2a8&oh=00_Af_RdETqgS-icBHAUIXzoedTCDTnLNX8uJZ0PH5Ycncp2g&oe=6A32011E" ,DZ | Onetv TV
 http://asmrasmr.live:8080/live/39495727290/01928238338/1002918.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="https://scontent.faae2-3.fna.fbcdn.net/v/t39.30808-1/658199240_1509217450574931_984348922600091243_n.jpg?stp=dst-jpg_tt6&cstp=mx802x810&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=HmAja3EGw9sQ7kNvwH3Darx&_nc_oc=AdoneasS_M3sDyZ4pLRCHTEnT5tzNsW7H7yT1H6A8_CTCWOxiKzSeICK_qiby8OiG7U&_nc_zt=24&_nc_ht=scontent.faae2-3.fna&_nc_gid=_ZBAMnmjT9d7DssBwSDdHg&_nc_ss=7a2a8&oh=00_Af_eWcNQTk_PJfyjabBYDSoX2YuwuWq8I5c3f6kEgkJLxg&oe=6A2FFA72" group-title="ALGERIA",DZ | ENNAHAR TV
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ennahar.news.png" group-title="ALGERIA",DZ | ENNAHAR TV
 http://muvis.76777777.cyou/live/X0DF867654343/32362681236911/513290.ts
-#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" group-title="ALGERIA",DZ | ECHOROUK TV HD
+#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.echourouk.TV.png" group-title="ALGERIA",DZ | ECHOROUK TV HD
 http://muvis.76777777.cyou/live/X0DF867654343/32362681236911/513296.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
 http://muvis.76777777.cyou/live/X0DF867654343/32362681236911/513295.ts
