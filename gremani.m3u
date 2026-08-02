@@ -1,127 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Premier-League-logo.png",NOVA SPORTS PREMIER LEAGUE GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/345981.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Prime-logo.png",NOVA SPORTS PRIME GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/262112.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Start-logo.png",NOVA SPORTS START GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/405081.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png",Cosmote Sport Highlights GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54946.ts
-#EXTINF:-1 tvg-id="476569" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png",Cosmote Sport 1 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54947.ts
-#EXTINF:-1 tvg-id="476571" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png",Cosmote Sport 2 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54945.ts
-#EXTINF:-1 tvg-id="476563" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png",Cosmote Sport 3 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54944.ts
-#EXTINF:-1 tvg-id="476565" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png",Cosmote Sport 4 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54943.ts
-#EXTINF:-1 tvg-id="476557" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png",Cosmote Sport 5 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54943.ts
-#EXTINF:-1 tvg-id="476555" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png",Cosmote Sport 6 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54942.ts
-#EXTINF:-1 tvg-id="476553" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png",Cosmote Sport 7 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54941.ts
-#EXTINF:-1 tvg-id="476559" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png",Cosmote Sport 8 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54940.ts
-#EXTINF:-1 tvg-id="476562" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png",Cosmote Sport 9 GR
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/54939.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png",ELEVEN SPORTS 1 PL
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/67795.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png",ELEVEN SPORTS 2 PL
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/67794.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 PL
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/67793.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/67792.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Ziggo Sport 4K
-http://86.87.15.10:8005/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",Ziggo Sport NL
-http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
-#EXTINF:-1 tvg-id="406813" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",Ziggo Sport 2 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
-#EXTINF:-1 tvg-id="406807" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",Ziggo Sport 3 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
-#EXTINF:-1 tvg-id="406820" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",Ziggo Sport 4 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
-#EXTINF:-1 tvg-id="406816" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",Ziggo Sport 5 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
-#EXTINF:-1 tvg-id="406811" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",Ziggo Sport 6 NL
-http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" group-title="LIGA CHAMPION🏆",Arena Premium 1
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/273118.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png" group-title="LIGA CHAMPION🏆",Arena Premium 2
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/273119.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png" group-title="LIGA CHAMPION🏆",Arena Premium 3
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/273120.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a1.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 1
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74893.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a2.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 2
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74894.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a3.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 3
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74895.ts
-#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="EX-YU | [RS] ARENA SPORT 4 " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a4.png" group-title="EX-YU",EX-YU | [RS] ARENA SPORT 4
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74896.ts
-#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="EX-YU | [RS] ARENA SPORT 5 " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a5.png" group-title="EX-YU",EX-YU | [RS] ARENA SPORT 5
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/267472.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 6" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a6.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 6
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/264022.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports",Prima Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS PREMIUM",Prima Sport 2
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6260
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="SPORTS PREMIUM",Prima Sport 3
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6261
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="SPORTS PREMIUM",Prima Sport 4
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6262
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="SPORTS PREMIUM",Prima Sport 5
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6263
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="LIGA CHAMPION🏆",DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-1-logo.png",SportKlub 1 RS
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74882.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-2-logo.png",SportKlub 2 RS
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74883.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-3-logo.png",SportKlub 3 RS
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74884.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/SportKlub-4-logo.png",SportKlub 4 RS
-http://bhnmkl.com/live/040323C244F1138/y4TQAcg6uf/74885.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-1.webp", SUPER SPORT 1
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-2.webp", SUPER SPORT 2
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-3.webp", SUPER SPORT 3
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
-#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg" ,diemasport
-http://92.247.25.42:11170/
-#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131829_ds_2_web.jpg" ,diemasport2
-http://92.247.25.42:11172/
-#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625056324_thumbnaild3.jpg" ,diemasport3
-http://92.247.25.42:11171/
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1536x274.png" ,MaxSport1
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1536x274.png" ,MaxSport2
-http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4296024/images/20487907?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" ,go3-sport 1
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10",
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10",
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10",
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn04.qazsporttv.kz/2025/10/09/1759985894_68e740e6b9337.jpg",qazsporttv
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sport-georgia.png" ,setanta-sport 
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/26909384-4bc8-43d6-86d0-d77eed1384db.png?width=70&height=40&quality=93" ,setanta 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/6a2b0c7e-40b4-461b-80b0-80ec88aba9d6.png?width=70&height=40&quality=93" ,setanta 2
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png" ,setanta 2
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-id="Матч! 2 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
+http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1536x274.png" ,MaxSport4
-http://77.46.130.252:99/maxsport4
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-1-2659.png" ,ArtSport1
-http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-2-2659.png" ,ArtSport2
-http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-3-2661.png" ,ArtSport3
-http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-4-2662.png" ,ArtSport4
-http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" ,ArtSport5
-http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" ,ArtSport6
-http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://yootv.online/images/logo-channel/setanta-sports-1-tv.png" ,setanta 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-logo="https://yootv.online/images/logo-channel/setanta-sports-2-tv.png" ,setanta 2
-http://94.43.1.138:8081/setanta2/index.m3u8
+
+
