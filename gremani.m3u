@@ -24,7 +24,15 @@ http://stream.mcquack.net/130/index.m3u8
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://stream.mcquack.net/185/index.m3u8
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
-http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 1
+http://46.151.196.223:14425
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 2
+http://46.151.196.223:14421
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 3
+http://46.151.196.223:14422
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 4
+http://46.151.196.223:14423
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 5
+http://46.151.196.223:14424
 
 
