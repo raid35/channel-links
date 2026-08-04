@@ -46,32 +46,5 @@ http://94.130.32.19:8080/sporttv4/index.m3u8
 http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" ,sport-tv-6
 http://94.130.32.19:8080/sporttv6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Sport_tv_7_logo.png" ,sport-tv-7
-http://94.130.32.19:8080/sporttv7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/arena-sport-1-premium-rs.png" ,arena-sport-1-premium
-http://178.253.194.79:10001
-#EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/arena-sport-1-premium-rs.png" ,arena-sport-2-premium
-http://178.253.194.79:10004
-#EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/arena-sport-1-premium-rs.png" ,arena-sport-3-premium
-http://178.253.194.79:10005
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" ,arena-sport-1
-http://178.253.194.79:10006
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" ,arena-sport-2
-http://178.253.194.79:10007
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena3_logo.png" ,arena-sport-3
-http://178.253.194.79:10008
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena4_logo.png" ,arena-sport-4
-http://178.253.194.79:10009
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena5_logo.png" ,arena-sport-5
-http://178.253.194.79:10010
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" ,arena-sport-6
-http://178.253.194.79:10011
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png" ,max-sport-1
-http://212.70.131.37:8000/play/a085
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" ,max-sport-2
-http://212.70.131.37:8000/play/a086
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1024x182.png" ,max-sport-3
-http://212.70.131.37:8000/play/a06h
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1024x182.png" ,max-sport-4
-http://212.70.131.37:8000/play/a07n
+
 
