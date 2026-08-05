@@ -48,13 +48,13 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/147746.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIAN 4KIDS" tvg-logo="" group-title="ALGERIE",ALGERIAN 4KIDS
 http://xlion.net:8080/15034094901029/18800196589372/14784
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
-http://xlion.net:8080/15034094901029/18800196589372/14878
+http://ar.ycncdn.online:80/live/008/index.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA",DZ | CANAL ALGERIE
-http://sm213.xyz/live/ce9Sw3EA/sOVkvhAGro/328224.ts
+http://ar.ycncdn.online:80/live/010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
 http://xlion.net:8080/15034094901029/18800196589372/43604
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="ALGERIA",DZ | TV4 TAMAZIGH
-http://xlion.net:8080/15034094901029/18800196589372/14784
+http://ar.ycncdn.online:80/live/003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4" group-title="ALGERIA",DZ | TV5 QURAN
 http://muvis.76777777.cyou/live/X0DF867654343/32362681236911/513277.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW" group-title="ALGERIA",DZ | TV6 HD
@@ -66,9 +66,9 @@ http://xlion.net:8080/15034094901029/18800196589372/43599
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV9 AL BARLAMANIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop" group-title="ALGERIA",DZ | TV9 AL BARLAMANIA
 http://nexon-tv.org:80/live/ijsgiufsl4/er00rpptmb/2379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI" group-title="ALGERIA",DZ | AL24 NEWS
-http://nexon-tv.org:80/live/ijsgiufsl4/er00rpptmb/130923.m3u8
+http://ar.ycncdn.online:80/live/091/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="https://elheddaftv.com/wp-content/uploads/2022/12/logo2.png" group-title="ALGERIA",DZ | AL HEDDAF TV
-http://xlion.net:8080/15034094901029/18800196589372/21218
+http://ar.ycncdn.online:80/live/022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | Onetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxTUy6hCjHYxxpyf_4QFoqojnqSdm11VmgBU-L6UoFg&s=10" ,DZ | Onetv TV
 http://96235-sand.tx-4kott.com/live/2493f21902/6b9f460f66/1472001.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ennahar.news.png" group-title="ALGERIA",DZ | ENNAHAR TV
@@ -78,7 +78,7 @@ http://xlion.net:8080/15034094901029/18800196589372/21219
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
 http://xlion.net:8080/15034094901029/18800196589372/21220
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL BILAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_Bilad_%28journal%29.png/250px-El_Bilad_%28journal%29.png" group-title="ALGERIA",DZ | EL BILAD
-http://xlion.net:8080/15034094901029/18800196589372/14821
+http://ar.ycncdn.online:80/live/009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HAYAT TV " tvg-logo="https://cdn.elhayat.dz/wp-content/uploads/2024/08/LOGO-ELHAYAT-.DZ_00000.png" group-title="ALGERIA",DZ | AL HAYAT TV
 http://xlion.net:8080/15034094901029/18800196589372/43603
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ZAHRA TV" tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png" group-title="ALGERIA",DZ | ZAHRA TV
@@ -88,8 +88,8 @@ http://xlion.net:8080/15034094901029/18800196589372/14811
 #EXTINF:-1 tvg-id="Shahid Samira TV" tvg-name="DZ | SAMIRA TV HD" tvg-logo="https://www.samiratv.tv/samiratv.png" group-title="ALGERIA",DZ | SAMIRA TV HD
 http://xlion.net:8080/15034094901029/18800196589372/14913
 #EXTINF:-1 tvg-id="" tvg-name="DZ | BAHIA TV " tvg-logo="https://www.algerianmediagateway.dz/tv/lugo/1736" group-title="ALGERIA",DZ | BAHIA TV
-http://xlion.net:8080/15034094901029/18800196589372/14914
+http://ar.ycncdn.online:80/live/007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL FADJR" tvg-logo="https://alfadjr.dz/logo.png" group-title="ALGERIA",DZ | EL FADJR
-http://xlion.net:8080/15034094901029/18800196589372/14876
+http://ar.ycncdn.online:80/live/018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DZ | EL DJAZAIR N1" tvg-logo="https://i5.satexpat.com/cha/dz/elDjazairN1-95x95.gif" group-title="ALGERIA",DZ | EL DJAZAIR N1
 http://xlion.net:8080/15034094901029/18800196589372/14777
