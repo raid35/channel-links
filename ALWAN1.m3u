@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
-http://pro.netmos.ovh:7355/live/31555871246941974/U09ZEDdu@6X!PeD/232601.ts
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1859098&extension=ts
 http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/232589.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 2 HD
 http://pro.netmos.ovh:7355/live/31555871246941974/U09ZEDdu@6X!PeD/232602.ts
