@@ -1,62 +1,62 @@
-#EXTINF:-1 tvg-id="",BBC Top Gear France (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",BBC Top Gear France 
 https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Bref Cinéma 100% Court Métrage
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Bref Cinéma 100% Court Métrage
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Alerte Cobra (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Alerte Cobra 
 https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Action 
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Comédie (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Comédie 
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Drames (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Drames 
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Famille (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Famille 
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Français (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Français 
 https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Romance (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Romance
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Thriller (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Films Thriller 
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Séries Crime (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Rakuten TV Séries Crime 
 https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk@UK",Zee One
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zee One
 https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
-#EXTINF:-1 tvg-id="CineNanar.fr@SD",Zylo Ciné Nanar (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo Ciné Nanar 
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr@SD",Zylo Ciné Western (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo Ciné Western 
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="EmotionL.fr@SD",Zylo Emotion' L (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo Emotion' L 
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD",Zylo Fréquence Novelas (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo Fréquence Novelas 
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="IntoCrime.fr@SD",Zylo Into Crime (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo Into Crime 
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ScreamIN.fr@SD",Zylo ScreamIN (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Zylo ScreamIN 
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Televisa Telenovela Channel
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Televisa Telenovela Channel
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",MyTime Movie Network France (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",MyTime Movie Network France 
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Les Z'Amours 
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",ITV Un Village Français (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",ITV Un Village Français 
 https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="",Generation Sitcoms (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Generation Sitcoms 
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
-#EXTINF:-1 tvg-id="",Grjngo Films de Western (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",Grjngo Films de Western 
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
-#EXTINF:-1 tvg-id="",FilmRise Binge Watch France (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise Binge Watch France 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 tvg-id="",FilmRise DeGrassi la nouvelle génération
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise DeGrassi la nouvelle génération
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:-1 tvg-id="",FilmRise Hot Ones (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise Hot Ones 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:-1 tvg-id="",FilmRise Les Routes du Paradis (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise Les Routes du Paradis 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 tvg-id="",FilmRise Séries France (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise Séries France 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 tvg-id="",FilmRise Z Nation France (720p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",FilmRise Z Nation France
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 tvg-id="",MyTime Movie Network France (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",MyTime Movie Network France 
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
