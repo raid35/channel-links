@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 1 4K
-http://xlion.net:8080/80986533788/5662111245/418111
+http://185.191.126.127:8080/live///80986533788/5662111245/418111.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 2 4K
-http://xlion.net:8080/80986533788/5662111245/418114
+http://185.191.126.127:8080/live///80986533788/5662111245/418114.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 3 4K
 http://xlion.net:8080/80986533788/5662111245/418117
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 4 4K
