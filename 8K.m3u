@@ -13,7 +13,7 @@ http://81637.org:2052/live/TeJBQDzE7uuX/VbJCBdv8tUrE/48222.ts
 http://81637.org:2052/live/TeJBQDzE7uuX/VbJCBdv8tUrE/48221.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png", BEIN SPORTS 7 FHD
 http://81637.org:2052/live/TeJBQDzE7uuX/VbJCBdv8tUrE/48220.ts
-#EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7 HD
+#EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS8_DIGITAL_Mono.png",BEIN SPORTS 8  FHD
 https://dev-a-live.pantheonsite.io/A/popcdn.php?id=beINAR8
-#EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" , BEIN SPORTS 8 FHD
+#EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" , BEIN SPORTS 8 FHD
 https://dev-a-live.pantheonsite.io/A/popcdn.php?id=beINAR9
