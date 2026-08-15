@@ -1,24 +1,13 @@
-=== Portal: http://dm.lion-ott.com:80/c/ ===
-[MAC] ✔️ 00:1A:79:70:C0:77  | expiry: 10/01/2027 — No VPN
-[MAC] ✔️ 00:1B:79:F9:35:6B  | expiry: 23/09/2026 — No VPN
-[MAC] ✔️ A0:BB:3E:04:A6:60  | expiry: 26/12/2026 
-=== Portal: http://aquablue.boats:80/c/ ===
-MAC] ✔️ 00:1A:79:78:F4:84  | expiry: 01/02/2026 — No VPN
-[MAC] ✔️ 00:1A:79:B4:DC:51  | expiry: 31/12/2026 — No VPN
-[MAC] ✔️ 00:1B:79:19:A4:DF  | expiry: 04/04/2026 — No VPN
-[MAC] ✔️ 00:1B:79:3A:0F:D7  | expiry: 23/03/2026 — No VPN
-[MAC] ✔️ 00:1B:79:3D:22:5E  | expiry: 23/04/2026 — No VPN
-[MAC] ✔️ 00:1B:79:44:08:67  | expiry: 27/08/2026 — No VPN
-[MAC] ✔️ 00:1B:79:45:1A:8C  | expiry: 13/01/2027 — No VPN
-[MAC] ✔️ 00:1B:79:48:09:F0  | expiry: 20/08/2026 — No VPN
-[MAC] ✔️ 00:1B:79:4A:0E:0C  | expiry: 11/08/2026 — No VPN
-[MAC] ✔️ 00:1B:79:4A:1D:57  | expiry: 08/02/2026 — No VPN
-[MAC] ✔️ 00:1B:79:4A:47:BD  | expiry: 19/12/2026 — No VPN
-[MAC] ✔️ 00:1B:79:F8:BE:57  | expiry: 10/03/2026
-
-تلفاز يعمل بالامر هذا C:\platform-tools\adb connect 192.168.100.2:5555
-
-C:\Users\KOUAT\my-release-key.jks
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 1
+http://46.151.196.223:14425
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 2
+http://46.151.196.223:14421
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 3
+http://46.151.196.223:14422
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 4
+http://46.151.196.223:14423
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 5
+http://46.151.196.223:14424
 
 siksa0805
 #EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport1.png" group-title="PREMIUM SPORT",Canalsport1
