@@ -25,15 +25,15 @@ http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 1
-http://46.151.196.223:14425
+http://94.130.32.19:8080/dazn1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 2
-http://46.151.196.223:14421
+http://94.130.32.19:8080/dazn2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 3
-http://46.151.196.223:14422
+http://94.130.32.19:8080/dazn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 4
-http://46.151.196.223:14423
+http://94.130.32.19:8080/dazn4/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIF.loIuHtn2DOycW8J3GH5VRg?r=0&pid=Api" ,DAZN 5
-http://46.151.196.223:14424
+http://94.130.32.19:8080/dazn5/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-1.png" ,sport-tv-1
 http://94.130.32.19:8080/sporttv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-2.png" ,sport-tv-2
@@ -46,5 +46,18 @@ http://94.130.32.19:8080/sporttv4/index.m3u8
 http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" ,sport-tv-6
 http://94.130.32.19:8080/sporttv6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport1.png" group-title="PREMIUM SPORT",Canalsport1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport2.png" group-title="PREMIUM SPORT",Canalsport2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport2.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport3.png" group-title="PREMIUM SPORT",Canalsport3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport3.m3u8
+#EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport4.png" group-title="PREMIUM SPORT",Canalsport4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport4.m3u8
 
 
