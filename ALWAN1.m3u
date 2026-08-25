@@ -1,35 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 1 4K
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 1 
 http://185.191.126.127:8080/live///80986533788/5662111245/418111.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 1 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232595.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 2 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212712.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 2 
 http://185.191.126.127:8080/live///80986533788/5662111245/418114.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 2 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232596.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 3 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212713.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 3 
 http://185.191.126.127:8080/live///80986533788/5662111245/418117.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 3 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232597.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 4 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212714.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 4 
 http://185.191.126.127:8080/live///80986533788/5662111245/418120.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 4 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232598.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 5 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212715.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 5 
 http://185.191.126.127:8080/live///80986533788/5662111245/418123.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 5 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232599.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 6 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212716.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 6 
 http://185.191.126.127:8080/live///80986533788/5662111245/418124.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ HD ",AR ALWAN SPORT 6 HD
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232600.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 7 4K
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212717.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 7 
 http://185.191.126.127:8080/live///80986533788/5662111245/418139.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 8 4K
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 8 
 http://185.191.126.127:8080/live///80986533788/5662111245/418140.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 9 4K
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 9 
 http://185.191.126.127:8080/live///80986533788/5662111245/418141.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 10 4K
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 10 
 http://185.191.126.127:8080/live///80986533788/5662111245/418142.ts
 #EXTINF:-1 tvg-name="Alwan Aflam 2" tvg-logo="http://tv.asc.vg/alwan.aflam2.sport.png" group-title="Alwan ⚽ Aflam",Alwan Aflam 1
 http://185.191.126.127:8080/live///80986533788/5662111245/418129.ts
