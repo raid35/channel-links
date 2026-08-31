@@ -1,49 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 1 
-http://185.191.126.127:8080/live///80986533788/5662111245/418111.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212712.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418111.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418112.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 2 
-http://185.191.126.127:8080/live///80986533788/5662111245/418114.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212713.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418114.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418115.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 3 
-http://185.191.126.127:8080/live///80986533788/5662111245/418117.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212714.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418117.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418118.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 4 
-http://185.191.126.127:8080/live///80986533788/5662111245/418120.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212715.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418120.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418121.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 5 
-http://185.191.126.127:8080/live///80986533788/5662111245/418123.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212716.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418123.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418124.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 6 
-http://185.191.126.127:8080/live///80986533788/5662111245/418124.ts
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/212717.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418124.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418127.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 7 
-http://185.191.126.127:8080/live///80986533788/5662111245/418139.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418139.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 8 
-http://185.191.126.127:8080/live///80986533788/5662111245/418140.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418140.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 9 
-http://185.191.126.127:8080/live///80986533788/5662111245/418141.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418141.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 10 
-http://185.191.126.127:8080/live///80986533788/5662111245/418142.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418142.m3u8
 #EXTINF:-1 tvg-name="Alwan Aflam 2" tvg-logo="http://tv.asc.vg/alwan.aflam2.sport.png" group-title="Alwan ⚽ Aflam",Alwan Aflam 1
-http://185.191.126.127:8080/live///80986533788/5662111245/418129.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/829089.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418129.m3u8
 #EXTINF:-1 tvg-name="Alwan Aflam 2" tvg-logo="http://tv.asc.vg/alwan.aflam2.sport.png" group-title="Alwan ⚽ Aflam",Alwan Aflam 2
-http://185.191.126.127:8080/live///80986533788/5662111245/418130.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/829090.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418130.m3u8
 #EXTINF:-1 tvg-name="Alwan Aflam 3" tvg-logo="http://tv.asc.vg/alwan.aflam3.sport.png" group-title="Alwan ⚽ Aflam",Alwan Aflam 3
-http://185.191.126.127:8080/live///80986533788/5662111245/418146.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/924623.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418146.m3u8
 #EXTINF:-1 tvg-name="Alwan Aflam 4" tvg-logo="http://tv.asc.vg/alwan.aflam4.sport.png" group-title="Alwan ⚽ Aflam",Alwan Aflam 4
-http://185.191.126.127:8080/live///80986533788/5662111245/418147.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418147.m3u8
 #EXTINF:-1 tvg-name="Alwan Al-wathaeqye" tvg-logo="http://tv.asc.vg/alwan.alwathaeqye.sport.png" group-title="Alwan ⚽ Aflam",Alwan Al-wathaeqye
-http://185.191.126.127:8080/live///80986533788/5662111245/418131.ts
+http://185.191.126.127:8080/live///80986533788/5662111245/418131.m3u8
 #EXTINF:-1 tvg-name="Alwan Mosalsalat" tvg-logo="http://tv.asc.vg/alwan.mosalsalat.sport.png" group-title="Alwan ⚽ Aflam",Alwan Mosalsalat
-http://185.191.126.127:8080/live///80986533788/5662111245/418133.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/829094.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418133.m3u8
 #EXTINF:-1 tvg-name="Alwan Mosalsalat+" tvg-logo="http://tv.asc.vg/alwan.mosalsalatplus.sport.png" group-title="Alwan ⚽ Aflam",Alwan Mosalsalat+
-http://185.191.126.127:8080/live///80986533788/5662111245/418148.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/924628.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418148.m3u8
 #EXTINF:-1 tvg-name="Alwan Turkey" tvg-logo="http://tv.asc.vg/alwan.turkey.sport.png" group-title="Alwan ⚽ Aflam",Alwan Turkey
-http://185.191.126.127:8080/live///80986533788/5662111245/418134.ts
-http://familyuae.net:8080/live/98:06:3c:5e:12:70/29385731643877/829091.m3u8
+http://185.191.126.127:8080/live///80986533788/5662111245/418134.m3u8
