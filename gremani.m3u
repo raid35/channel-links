@@ -19,25 +19,25 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png" ,setanta 2
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=163818053595_image-header_pRow_1679996050000&quality=70" ,DAZN 1
-http://94.130.32.19:8080/dazn1/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909932.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2ouwtae8ad7l1fxviow9bowpk_image-header_pEs_1661946414000" ,DAZN 2
-http://94.130.32.19:8080/dazn2/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909933.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000" ,DAZN 3
-http://94.130.32.19:8080/dazn3/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909936.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000" ,DAZN 4
-http://94.130.32.19:8080/dazn4/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909938.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.raPd0URPQyJAPAZjm9DeKwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" ,DAZN 5
-http://94.130.32.19:8080/dazn5/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909940.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-1.png" ,sport-tv-1
-http://94.130.32.19:8080/sporttv1/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909919.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-2.png" ,sport-tv-2
-http://94.130.32.19:8080/sporttv2/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909921.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-3.png" ,sport-tv-3
-http://94.130.32.19:8080/sporttv3/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909924.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-4.png" ,sport-tv-4
-http://94.130.32.19:8080/sporttv4/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909928.m3u8
 #EXTINF:-1 tvg-logo="https://www.stream2watch.me/imagenew/streams/sport-tv-5.png" ,sport-tv-5
-http://94.130.32.19:8080/sporttv5/index.m3u8
+http://oct.nexon.rocks/live/1bqdvpr9z8/gpsdhaqd2l/909929.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" ,sport-tv-6
 http://94.130.32.19:8080/sporttv6/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 1 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
