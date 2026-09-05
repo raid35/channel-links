@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 1 FHD
-http://nexon-tv.org/live/ijsgiufsl4/er00rpptmb/937932.ts
+http://oct.nexon.rocks:80/live/ijsgiufsl4/er00rpptmb/937932.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 2 FHD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463533.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 3 FHD
