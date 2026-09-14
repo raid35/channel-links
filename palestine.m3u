@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 1 FHD
-http://oct.nexon.rocks:80/live/ijsgiufsl4/er00rpptmb/937932.ts
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/81652.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 2 FHD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463533.ts
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/81653.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 3 FHD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463534.ts
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/81654.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 4 FHD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463535.ts
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/81655.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |A| ",AL-FAJER TV 5 FHD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463536.ts
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/81656.ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://arn.ps/assets/images/logo_23.svg" group-title="ALGERIA |A| ",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="https://tv.alfajertv.com/old/assets/images/logo.png" group-title="ALGERIA |B| ",AL-FAJER TV 1 FHD
