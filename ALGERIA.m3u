@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY" group-title="ALGERIA |A| ",DZ | ENTV HD
 http://kobatv.xyz/live/Home2027/6ZQ770K/1041.ts
+http://blue4k.net:8080/live/0016232653391/as2019/85946.ts
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA |A| ",DZ | CANAL ALGERIE
 http://kobatv.xyz/live/Home2027/6ZQ770K/1040.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X" group-title="ALGERIA |B| ",DZ | TV3 AL IKHBARIA
@@ -19,6 +20,7 @@ http://kobatv.xyz/live/Home2027/6ZQ770K/1088871.ts
 http://beno8k.live:8080/live/YlQrV3eMAE/t7hldb7f9w/1549.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL HEDDAF TV" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.IeU4V5br8fCJjp-aLqlBGgHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="ALGERIA |A| ",DZ | AL HEDDAF TV
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/52804.ts
+http://blue4k.net:8080/live/0016232653391/as2019/206532.ts
 #EXTINF:-1 tvg-id=" Sport Plus HD" tvg-name="DZ | Sport Plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-plus-hd-dz.png" group-title="ALGERIA |B| ",DZ |  Sport Plus HD
 http://beno8k.live:8080/live/YlQrV3eMAE/t7hldb7f9w/1529.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | Onetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxTUy6hCjHYxxpyf_4QFoqojnqSdm11VmgBU-L6UoFg&s=10" group-title="ALGERIA |A| ",DZ | Onetv TV
