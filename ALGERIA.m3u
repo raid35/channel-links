@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY" group-title="ALGERIA |A| ",DZ | ENTV HD
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/1255.ts
+http://live.lynxiptv.xyz:80/live/boxtv2025/6hvv5qkv19px/70316.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc" group-title="ALGERIA |A| ",DZ | CANAL ALGERIE
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/979.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X" group-title="ALGERIA |B| ",DZ | TV3 AL IKHBARIA
