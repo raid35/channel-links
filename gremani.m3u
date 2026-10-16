@@ -12,7 +12,7 @@ http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sport-georgia.png" ,setanta-sport 
 http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/26909384-4bc8-43d6-86d0-d77eed1384db.png?width=70&height=40&quality=93" ,setanta 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/6a2b0c7e-40b4-461b-80b0-80ec88aba9d6.png?width=70&height=40&quality=93" ,setanta 2
 http://stream.mcquack.net/235/index.m3u8
@@ -24,6 +24,68 @@ http://stream.mcquack.net/130/index.m3u8
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="Матч! 3 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 http://stream.mcquack.net/185/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2889" tvg-logo="[img]http://epg.one/img/2889.png[/img]" tvg-rec="3",TNT Sports 1 FHD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2505/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4575" tvg-logo="[img]http://epg.one/img/4575.png[/img]" tvg-rec="3",Sky Sports Racing HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9335/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4569" tvg-logo="[img]http://epg.one/img/4569.png[/img]" tvg-rec="3",Sky Sports Premier League HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9334/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="9051" tvg-logo="[img]http://epg.one/img/9051.png[/img]" tvg-rec="3",Sky Sports News HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9314/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4573" tvg-logo="[img]http://epg.one/img/4573.png[/img]" tvg-rec="3",Sky Sports Mix HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9310/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4571" tvg-logo="[img]http://epg.one/img/4571.png[/img]" tvg-rec="3",Sky Sports Main Event HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9308/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="[img]http://epg.one/img/4578.png[/img]" tvg-rec="3",Sky Sports Golf HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9293/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4570" tvg-logo="[img]http://epg.one/img/4570.png[/img]" tvg-rec="3",Sky Sports Football HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9289/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4576" tvg-logo="[img]http://epg.one/img/4576.png[/img]" tvg-rec="3",Sky Sports F1 HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9283/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4577" tvg-logo="[img]http://epg.one/img/4577.png[/img]" tvg-rec="3",Sky Sports Cricket HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9258/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4572" tvg-logo="[img]http://epg.one/img/4572.png[/img]" tvg-rec="3",Sky Sports+ HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9248/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4579" tvg-logo="[img]http://epg.one/img/4579.png[/img]" tvg-rec="3",Sky Sports Action HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9155/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3553" tvg-logo="[img]http://epg.one/img/3553.png[/img]" tvg-rec="3",Premier Sports 1 HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2160/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="9081" tvg-logo="[img]http://epg.one/img/9081.png[/img]" tvg-rec="0",Sky History HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/16037/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2890" tvg-logo="[img]http://epg.one/img/2890.png[/img]" tvg-rec="3",TNT Sports 2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2506/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3553" tvg-logo="[img]http://epg.one/img/3553.png[/img]" tvg-rec="3",Premier Sports 1 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6555/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3554" tvg-logo="[img]http://epg.one/img/3554.png[/img]" tvg-rec="3",Eurosport 2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6556/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3560" tvg-logo="[img]http://epg.one/img/3560.png[/img]" tvg-rec="3",TNT Sports 3 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6564/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2889" tvg-logo="[img]http://epg.one/img/2889.png[/img]" tvg-rec="3",TNT Sports 1 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6566/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4569" tvg-logo="[img]http://epg.one/img/4569.png[/img]" tvg-rec="0",Sky Sports Premier League HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7335/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4570" tvg-logo="[img]http://epg.one/img/4570.png[/img]" tvg-rec="0",Sky Sports Football HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7336/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4571" tvg-logo="[img]http://epg.one/img/4571.png[/img]" tvg-rec="0",Sky Sports Main Event HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7337/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4573" tvg-logo="[img]http://epg.one/img/4573.png[/img]" tvg-rec="0",Sky Sports Mix HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7339/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4579" tvg-logo="[img]http://epg.one/img/4579.png[/img]" tvg-rec="0",Sky Sports Action HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7340/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4575" tvg-logo="[img]http://epg.one/img/4575.png[/img]" tvg-rec="0",Sky Sports Racing HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7341/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4576" tvg-logo="[img]http://epg.one/img/4576.png[/img]" tvg-rec="0",Sky Sports F1 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7342/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4577" tvg-logo="[img]http://epg.one/img/4577.png[/img]" tvg-rec="0",Sky Sports Cricket HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7343/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="[img]http://epg.one/img/4578.png[/img]" tvg-rec="0",Sky Sports Golf HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/7344/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="6647" tvg-logo="[img]http://epg.one/img/6647.png[/img]" tvg-rec="0",ITV1 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/19185/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="6648" tvg-logo="[img]http://epg.one/img/6648.png[/img]" tvg-rec="0",ITV2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/19186/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="6650" tvg-logo="[img]http://epg.one/img/6650.png[/img]" tvg-rec="0",ITV4 +1 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/19188/index.m3u8
 
 
 
